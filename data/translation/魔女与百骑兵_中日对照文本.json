@@ -18646,7 +18646,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵",
-   "zh": "",
+   "zh": "百骑兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18668,7 +18668,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ワンダー・ナイト",
-   "zh": "",
+   "zh": "漫游骑士",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18690,7 +18690,7 @@
    "field": "c1",
    "type": "text",
    "jp": "パワー・フォートレス",
-   "zh": "",
+   "zh": "坚固要塞",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18712,7 +18712,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マージナル・ゲイズ",
-   "zh": "",
+   "zh": "边缘凝视",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18734,7 +18734,7 @@
    "field": "c1",
    "type": "text",
    "jp": "シノビ・ザ・アサシン",
-   "zh": "",
+   "zh": "忍者暗杀者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18756,7 +18756,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トリック・スクリーマー",
-   "zh": "",
+   "zh": "诡计呼啸者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18778,7 +18778,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ノーブル・ラプター",
-   "zh": "",
+   "zh": "高贵猛禽",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18800,7 +18800,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メタリカ",
-   "zh": "",
+   "zh": "梅塔莉卡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18822,7 +18822,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メタリカ",
-   "zh": "",
+   "zh": "梅塔莉卡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18844,7 +18844,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メタリカ",
-   "zh": "",
+   "zh": "梅塔莉卡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18866,7 +18866,7 @@
    "field": "c1",
    "type": "text",
    "jp": "デラキャタピオ",
-   "zh": "",
+   "zh": "黛拉毛毛虫",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18888,7 +18888,7 @@
    "field": "c1",
    "type": "text",
    "jp": "キャタピオ",
-   "zh": "",
+   "zh": "毛毛虫",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18910,7 +18910,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・キャタピオ",
-   "zh": "",
+   "zh": "大坝毛毛虫",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18932,7 +18932,7 @@
    "field": "c1",
    "type": "text",
    "jp": "古代芋虫",
-   "zh": "",
+   "zh": "古代芋虫",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18954,7 +18954,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・ドーガ",
-   "zh": "",
+   "zh": "大坝多加",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18976,7 +18976,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ナハブ",
-   "zh": "",
+   "zh": "纳哈布",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -18998,7 +18998,7 @@
    "field": "c1",
    "type": "text",
    "jp": "森海の魚人",
-   "zh": "",
+   "zh": "森海鱼人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19020,7 +19020,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砂魚人",
-   "zh": "",
+   "zh": "沙鱼人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19042,7 +19042,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・ストーカ",
-   "zh": "",
+   "zh": "大坝潜行者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19064,7 +19064,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クサ・カプリ",
-   "zh": "",
+   "zh": "草卡普里",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19086,7 +19086,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドン・カプリ",
-   "zh": "",
+   "zh": "堂卡普里",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19108,7 +19108,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マジョプキン",
-   "zh": "",
+   "zh": "魔女南瓜",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19130,7 +19130,7 @@
    "field": "c1",
    "type": "text",
    "jp": "イワ・カプリ",
-   "zh": "",
+   "zh": "岩卡普里",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19152,7 +19152,7 @@
    "field": "c1",
    "type": "text",
    "jp": "エッガー",
-   "zh": "",
+   "zh": "蛋怪",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19174,7 +19174,7 @@
    "field": "c1",
    "type": "text",
    "jp": "オニオナ",
-   "zh": "",
+   "zh": "洋葱怪",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19196,7 +19196,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マジョカッカ",
-   "zh": "",
+   "zh": "魔女红辣椒",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19218,7 +19218,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・プキン",
-   "zh": "",
+   "zh": "大坝南瓜",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19240,7 +19240,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ガリクソン",
-   "zh": "",
+   "zh": "大蒜怪",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19262,7 +19262,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・エッガー",
-   "zh": "",
+   "zh": "大坝蛋怪",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19284,7 +19284,7 @@
    "field": "c1",
    "type": "text",
    "jp": "パックヤード",
-   "zh": "",
+   "zh": "帕克亚德",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19306,7 +19306,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・パック",
-   "zh": "",
+   "zh": "大坝帕克",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19328,7 +19328,7 @@
    "field": "c1",
    "type": "text",
    "jp": "鬼顔蟲",
-   "zh": "",
+   "zh": "鬼面虫",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19350,7 +19350,7 @@
    "field": "c1",
    "type": "text",
    "jp": "闇の断片",
-   "zh": "",
+   "zh": "暗之碎片",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19372,7 +19372,7 @@
    "field": "c1",
    "type": "text",
    "jp": "小口虫",
-   "zh": "",
+   "zh": "小口虫",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19394,7 +19394,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ボッチャ",
-   "zh": "",
+   "zh": "波恰",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19416,7 +19416,7 @@
    "field": "c1",
    "type": "text",
    "jp": "花子法師",
-   "zh": "",
+   "zh": "花子法师",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19438,7 +19438,7 @@
    "field": "c1",
    "type": "text",
    "jp": "闇精霊",
-   "zh": "",
+   "zh": "暗精灵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19460,7 +19460,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・フラン",
-   "zh": "",
+   "zh": "达姆·弗兰",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19482,7 +19482,7 @@
    "field": "c1",
    "type": "text",
    "jp": "亡霊王",
-   "zh": "",
+   "zh": "亡灵王",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19504,7 +19504,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グリムリーパー",
-   "zh": "",
+   "zh": "死神",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19526,7 +19526,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドリー・ゲイズ",
-   "zh": "",
+   "zh": "多利凝视",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19548,7 +19548,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドリー・メイズ",
-   "zh": "",
+   "zh": "多利迷宫",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19570,7 +19570,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アニメーター",
-   "zh": "",
+   "zh": "操偶者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19592,7 +19592,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19614,7 +19614,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19636,7 +19636,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マトーチャー",
-   "zh": "",
+   "zh": "玛托恰",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19658,7 +19658,7 @@
    "field": "c1",
    "type": "text",
    "jp": "木製拷問人形",
-   "zh": "",
+   "zh": "木制拷问人偶",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19680,7 +19680,7 @@
    "field": "c1",
    "type": "text",
    "jp": "怨念拷問人形",
-   "zh": "",
+   "zh": "怨念拷问人偶",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19702,7 +19702,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女人形",
-   "zh": "",
+   "zh": "魔女人偶",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19724,7 +19724,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人戦闘斥候兵",
-   "zh": "",
+   "zh": "翼人战斗斥候兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19746,7 +19746,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人戦闘騎兵",
-   "zh": "",
+   "zh": "翼人战斗骑兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19768,7 +19768,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人戦闘兵",
-   "zh": "",
+   "zh": "翼人战斗兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19790,7 +19790,7 @@
    "field": "c1",
    "type": "text",
    "jp": "外道魔女キルケンビュート",
-   "zh": "",
+   "zh": "外道魔女基尔肯比尤特",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19812,7 +19812,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グルカ",
-   "zh": "",
+   "zh": "古尔卡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19834,7 +19834,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヘンネの翼人",
-   "zh": "",
+   "zh": "亨涅的翼人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19856,7 +19856,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サキュア",
-   "zh": "",
+   "zh": "萨库雅",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19878,7 +19878,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サキュロッカス",
-   "zh": "",
+   "zh": "萨库罗卡斯",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19900,7 +19900,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ローズサキュア",
-   "zh": "",
+   "zh": "玫瑰萨库雅",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19922,7 +19922,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サキュダリア",
-   "zh": "",
+   "zh": "萨库达莉亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19944,7 +19944,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ローズリディ",
-   "zh": "",
+   "zh": "玫瑰莉迪",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19966,7 +19966,7 @@
    "field": "c1",
    "type": "text",
    "jp": "リディ",
-   "zh": "",
+   "zh": "莉迪",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -19988,7 +19988,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レディリディ",
-   "zh": "",
+   "zh": "雷迪莉迪",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20010,7 +20010,7 @@
    "field": "c1",
    "type": "text",
    "jp": "獣箱",
-   "zh": "",
+   "zh": "兽箱",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20032,7 +20032,7 @@
    "field": "c1",
    "type": "text",
    "jp": "獣箱・特異",
-   "zh": "",
+   "zh": "兽箱·特异",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20054,7 +20054,7 @@
    "field": "c1",
    "type": "text",
    "jp": "オバケムカデ",
-   "zh": "",
+   "zh": "妖怪蜈蚣",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20076,7 +20076,7 @@
    "field": "c1",
    "type": "text",
    "jp": "外道魔女ベルダ",
-   "zh": "",
+   "zh": "外道魔女贝尔达",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20098,7 +20098,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦闘砂百足",
-   "zh": "",
+   "zh": "战斗砂百足",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20120,7 +20120,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百年百足",
-   "zh": "",
+   "zh": "百年百足",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20142,7 +20142,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マナプリン",
-   "zh": "",
+   "zh": "玛那布丁",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20164,7 +20164,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・プリン",
-   "zh": "",
+   "zh": "达姆·布丁",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20186,7 +20186,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ノラジェル",
-   "zh": "",
+   "zh": "野凝胶怪",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20208,7 +20208,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・ジェル",
-   "zh": "",
+   "zh": "大坝凝胶怪",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20230,7 +20230,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アロマニジェル",
-   "zh": "",
+   "zh": "芳香凝胶怪",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20252,7 +20252,7 @@
    "field": "c1",
    "type": "text",
    "jp": "呪い人形",
-   "zh": "",
+   "zh": "诅咒人偶",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20274,7 +20274,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダムドール",
-   "zh": "",
+   "zh": "大坝人偶",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20296,7 +20296,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王国戦闘兵",
-   "zh": "",
+   "zh": "王国战斗兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20318,7 +20318,7 @@
    "field": "c1",
    "type": "text",
    "jp": "暗殺兵",
-   "zh": "",
+   "zh": "暗杀兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20340,7 +20340,7 @@
    "field": "c1",
    "type": "text",
    "jp": "蘇りし者",
-   "zh": "",
+   "zh": "复苏者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20362,7 +20362,7 @@
    "field": "c1",
    "type": "text",
    "jp": "前衛鎧兵",
-   "zh": "",
+   "zh": "前卫铠兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20384,7 +20384,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不死なる者",
-   "zh": "",
+   "zh": "不死者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20406,7 +20406,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ド・ジンメンファ",
-   "zh": "",
+   "zh": "多·人面花",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20428,7 +20428,7 @@
    "field": "c1",
    "type": "text",
    "jp": "シ・ジンメンファ",
-   "zh": "",
+   "zh": "西·人面花",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20450,7 +20450,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ラ・ジンメンファ",
-   "zh": "",
+   "zh": "拉·人面花",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20472,7 +20472,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ティラミア",
-   "zh": "",
+   "zh": "提拉米亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20494,7 +20494,7 @@
    "field": "c1",
    "type": "text",
    "jp": "門衛のゴーラン",
-   "zh": "",
+   "zh": "守门巨像",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20516,7 +20516,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヘクセンビュップヘン",
-   "zh": "",
+   "zh": "魔女小玩偶",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20538,7 +20538,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ネアゴーラン",
-   "zh": "",
+   "zh": "尼普巨像",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20560,7 +20560,7 @@
    "field": "c1",
    "type": "text",
    "jp": "樹林のゴーラン",
-   "zh": "",
+   "zh": "树林巨像",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20582,7 +20582,7 @@
    "field": "c1",
    "type": "text",
    "jp": "門衛のゴーラン",
-   "zh": "",
+   "zh": "守门巨像",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20604,7 +20604,7 @@
    "field": "c1",
    "type": "text",
    "jp": "門衛のゴーラン",
-   "zh": "",
+   "zh": "守门巨像",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20626,7 +20626,7 @@
    "field": "c1",
    "type": "text",
    "jp": "門衛のゴーラン",
-   "zh": "",
+   "zh": "守门巨像",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20648,7 +20648,7 @@
    "field": "c1",
    "type": "text",
    "jp": "門衛のゴーラン",
-   "zh": "",
+   "zh": "守门巨像",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20670,7 +20670,7 @@
    "field": "c1",
    "type": "text",
    "jp": "門衛のゴーラン",
-   "zh": "",
+   "zh": "守门巨像",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20692,7 +20692,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クラーナ",
-   "zh": "",
+   "zh": "库拉纳",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20714,7 +20714,7 @@
    "field": "c1",
    "type": "text",
    "jp": "渓谷の主",
-   "zh": "",
+   "zh": "溪谷之主",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20736,7 +20736,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クラーナ・コズモ",
-   "zh": "",
+   "zh": "宇宙库拉纳",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20758,7 +20758,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マナ・クラーナ",
-   "zh": "",
+   "zh": "玛那库拉纳",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20780,7 +20780,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砂羊",
-   "zh": "",
+   "zh": "沙羊",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20802,7 +20802,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "柯利岗",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20824,7 +20824,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "柯利岗",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20846,7 +20846,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "柯利岗",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20868,7 +20868,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マイマイル",
-   "zh": "",
+   "zh": "麦麦尔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20890,7 +20890,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・マイマイル",
-   "zh": "",
+   "zh": "大坝麦麦尔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20912,7 +20912,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マイマイン",
-   "zh": "",
+   "zh": "麦麦恩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20934,7 +20934,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マナプリズン",
-   "zh": "",
+   "zh": "玛那牢狱",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20956,7 +20956,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スケアコッコ",
-   "zh": "",
+   "zh": "惊吓咕咕鸡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -20978,7 +20978,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チャリオモーブ",
-   "zh": "",
+   "zh": "紫轮战车鸟",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21000,7 +21000,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チャリオロベリ",
-   "zh": "",
+   "zh": "红轮战车鸟",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21022,7 +21022,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦車兵",
-   "zh": "",
+   "zh": "战车兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21044,7 +21044,7 @@
    "field": "c1",
    "type": "text",
    "jp": "偽王トトペペ",
-   "zh": "",
+   "zh": "伪王托托佩佩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21066,7 +21066,7 @@
    "field": "c1",
    "type": "text",
    "jp": "重戦車兵",
-   "zh": "",
+   "zh": "重战车兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21088,7 +21088,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砂食ム大口虫",
-   "zh": "",
+   "zh": "噬沙巨口虫",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21110,7 +21110,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・エリニア",
-   "zh": "",
+   "zh": "达姆·艾里尼亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21132,7 +21132,7 @@
    "field": "c1",
    "type": "text",
    "jp": "大山古武士",
-   "zh": "",
+   "zh": "大山古武士",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21154,7 +21154,7 @@
    "field": "c1",
    "type": "text",
    "jp": "絶対捕食者",
-   "zh": "",
+   "zh": "绝对捕食者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21176,7 +21176,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不浄の欠片",
-   "zh": "",
+   "zh": "不净碎片",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21198,7 +21198,7 @@
    "field": "c1",
    "type": "text",
    "jp": "夜光列車",
-   "zh": "",
+   "zh": "夜光列车",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21220,7 +21220,7 @@
    "field": "c1",
    "type": "text",
    "jp": "夜光列車",
-   "zh": "",
+   "zh": "夜光列车",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21242,7 +21242,7 @@
    "field": "c1",
    "type": "text",
    "jp": "外道魔女ファーレンハイト",
-   "zh": "",
+   "zh": "外道魔女法伦海特",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21264,7 +21264,7 @@
    "field": "c1",
    "type": "text",
    "jp": "黒糸蜘蛛",
-   "zh": "",
+   "zh": "黑丝蜘蛛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21286,7 +21286,7 @@
    "field": "c1",
    "type": "text",
    "jp": "背赤蜘蛛",
-   "zh": "",
+   "zh": "赤背蜘蛛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21308,7 +21308,7 @@
    "field": "c1",
    "type": "text",
    "jp": "紅土ぐも",
-   "zh": "",
+   "zh": "红土蜘蛛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21330,7 +21330,7 @@
    "field": "c1",
    "type": "text",
    "jp": "外道魔女アラマシラ",
-   "zh": "",
+   "zh": "外道魔女荒真砂",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21352,7 +21352,7 @@
    "field": "c1",
    "type": "text",
    "jp": "外道魔女アラマシラ",
-   "zh": "",
+   "zh": "外道魔女荒真砂",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21374,7 +21374,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女アグニ",
-   "zh": "",
+   "zh": "魔女阿耆尼",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21396,7 +21396,7 @@
    "field": "c1",
    "type": "text",
    "jp": "影の魔女ナジャ",
-   "zh": "",
+   "zh": "影之魔女娜迦",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21418,7 +21418,7 @@
    "field": "c1",
    "type": "text",
    "jp": "影の魔女ハーケン",
-   "zh": "",
+   "zh": "影之魔女哈肯",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21440,7 +21440,7 @@
    "field": "c1",
    "type": "text",
    "jp": "影の魔女ミラ",
-   "zh": "",
+   "zh": "影之魔女米拉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21462,7 +21462,7 @@
    "field": "c1",
    "type": "text",
    "jp": "影の魔女スピナ",
-   "zh": "",
+   "zh": "影之魔女斯皮娜",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21484,7 +21484,7 @@
    "field": "c1",
    "type": "text",
    "jp": "影の魔女ラヴュ",
-   "zh": "",
+   "zh": "影之魔女拉芙",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21506,7 +21506,7 @@
    "field": "c1",
    "type": "text",
    "jp": "影の魔女カカリマ",
-   "zh": "",
+   "zh": "影之魔女卡卡莉玛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21528,7 +21528,7 @@
    "field": "c1",
    "type": "text",
    "jp": "影の魔女ゾローク",
-   "zh": "",
+   "zh": "影之魔女佐洛克",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21550,7 +21550,7 @@
    "field": "c1",
    "type": "text",
    "jp": "影の魔女フラン",
-   "zh": "",
+   "zh": "影之魔女芙兰",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21572,7 +21572,7 @@
    "field": "c1",
    "type": "text",
    "jp": "影の魔女ナスカ",
-   "zh": "",
+   "zh": "影之魔女纳斯卡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21594,7 +21594,7 @@
    "field": "c1",
    "type": "text",
    "jp": "テレッサ",
-   "zh": "",
+   "zh": "特蕾莎",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21616,7 +21616,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ブロッケン魔女隊",
-   "zh": "",
+   "zh": "布罗肯魔女队",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21638,7 +21638,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マーリカ",
-   "zh": "",
+   "zh": "玛莉卡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21660,7 +21660,7 @@
    "field": "c1",
    "type": "text",
    "jp": "プレネール",
-   "zh": "",
+   "zh": "普利尼尔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21682,7 +21682,7 @@
    "field": "c1",
    "type": "text",
    "jp": "大百騎兵",
-   "zh": "",
+   "zh": "大百骑兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21704,7 +21704,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ未",
-   "zh": "",
+   "zh": "魔女兵多洛普未",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21726,7 +21726,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21748,7 +21748,7 @@
    "field": "c1",
    "type": "text",
    "jp": "編纂者",
-   "zh": "",
+   "zh": "编纂者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21770,7 +21770,7 @@
    "field": "c1",
    "type": "text",
    "jp": "寄生魔女兵",
-   "zh": "",
+   "zh": "寄生魔女兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21792,7 +21792,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ未",
-   "zh": "",
+   "zh": "魔女兵多洛普未",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21814,7 +21814,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ未",
-   "zh": "",
+   "zh": "魔女兵多洛普未",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21836,7 +21836,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ノビーニャ未",
-   "zh": "",
+   "zh": "魔女兵诺比尼亚未",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21858,7 +21858,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ノビーニャ",
-   "zh": "",
+   "zh": "魔女兵诺比尼亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21880,7 +21880,7 @@
    "field": "c1",
    "type": "text",
    "jp": "編纂者",
-   "zh": "",
+   "zh": "编纂者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21902,7 +21902,7 @@
    "field": "c1",
    "type": "text",
    "jp": "骸骨の襲撃者",
-   "zh": "",
+   "zh": "骸骨袭击者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21924,7 +21924,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ウォム未",
-   "zh": "",
+   "zh": "魔女兵沃姆未",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21946,7 +21946,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ウォム",
-   "zh": "",
+   "zh": "魔女兵沃姆",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21968,7 +21968,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ウォム",
-   "zh": "",
+   "zh": "魔女兵沃姆",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -21990,7 +21990,7 @@
    "field": "c1",
    "type": "text",
    "jp": "編纂者",
-   "zh": "",
+   "zh": "编纂者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22012,7 +22012,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ベルニート未",
-   "zh": "",
+   "zh": "魔女兵贝尔尼特未",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22034,7 +22034,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ベルニート",
-   "zh": "",
+   "zh": "魔女兵贝尔尼特",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22056,7 +22056,7 @@
    "field": "c1",
    "type": "text",
    "jp": "編纂者",
-   "zh": "",
+   "zh": "编纂者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22078,7 +22078,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ラグリマ未",
-   "zh": "",
+   "zh": "魔女兵拉格里玛未",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22100,7 +22100,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ラグリマ",
-   "zh": "",
+   "zh": "魔女兵拉格里玛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22122,7 +22122,7 @@
    "field": "c1",
    "type": "text",
    "jp": "編纂者",
-   "zh": "",
+   "zh": "编纂者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22144,7 +22144,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドゥルーケ未",
-   "zh": "",
+   "zh": "魔女兵德鲁克未",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22166,7 +22166,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドゥルーケ",
-   "zh": "",
+   "zh": "魔女兵德鲁克",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22188,7 +22188,7 @@
    "field": "c1",
    "type": "text",
    "jp": "編纂者",
-   "zh": "",
+   "zh": "编纂者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22210,7 +22210,7 @@
    "field": "c1",
    "type": "text",
    "jp": "襲撃者",
-   "zh": "",
+   "zh": "袭击者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22232,7 +22232,7 @@
    "field": "c1",
    "type": "text",
    "jp": "襲撃者",
-   "zh": "",
+   "zh": "袭击者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22254,7 +22254,7 @@
    "field": "c1",
    "type": "text",
    "jp": "襲撃者",
-   "zh": "",
+   "zh": "袭击者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22276,7 +22276,7 @@
    "field": "c1",
    "type": "text",
    "jp": "編纂者イニティム",
-   "zh": "",
+   "zh": "编纂者伊尼蒂姆",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22298,7 +22298,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ヴォルカン未",
-   "zh": "",
+   "zh": "魔女兵沃尔坎未",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22320,7 +22320,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ヴォルカン",
-   "zh": "",
+   "zh": "魔女兵沃尔坎",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22342,7 +22342,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ヴォルカン",
-   "zh": "",
+   "zh": "魔女兵沃尔坎",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22364,7 +22364,7 @@
    "field": "c1",
    "type": "text",
    "jp": "編纂者",
-   "zh": "",
+   "zh": "编纂者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22386,7 +22386,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・エッガーラ",
-   "zh": "",
+   "zh": "达姆·埃加拉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22408,7 +22408,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダム・プキング",
-   "zh": "",
+   "zh": "达姆·普金",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22430,7 +22430,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魂ヲ狩ル者",
-   "zh": "",
+   "zh": "狩魂者",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22452,7 +22452,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マイマルイ",
-   "zh": "",
+   "zh": "迈玛鲁伊",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22474,7 +22474,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22496,7 +22496,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22518,7 +22518,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22540,7 +22540,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22562,7 +22562,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22584,7 +22584,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22606,7 +22606,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22628,7 +22628,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22650,7 +22650,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22672,7 +22672,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22694,7 +22694,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22716,7 +22716,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22738,7 +22738,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピニャータ",
-   "zh": "",
+   "zh": "皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22760,7 +22760,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22782,7 +22782,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22804,7 +22804,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22826,7 +22826,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22848,7 +22848,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22870,7 +22870,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22892,7 +22892,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22914,7 +22914,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22936,7 +22936,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22958,7 +22958,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -22980,7 +22980,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23002,7 +23002,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23024,7 +23024,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レアピニャータ",
-   "zh": "",
+   "zh": "稀有皮纳塔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23046,7 +23046,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23068,7 +23068,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23090,7 +23090,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23112,7 +23112,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23134,7 +23134,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23156,7 +23156,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23178,7 +23178,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23200,7 +23200,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23222,7 +23222,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23244,7 +23244,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23266,7 +23266,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23288,7 +23288,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ノビーニャ",
-   "zh": "",
+   "zh": "魔女兵诺比尼亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23310,7 +23310,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ノビーニャ",
-   "zh": "",
+   "zh": "魔女兵诺比尼亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23332,7 +23332,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ノビーニャ",
-   "zh": "",
+   "zh": "魔女兵诺比尼亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23354,7 +23354,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ノビーニャ",
-   "zh": "",
+   "zh": "魔女兵诺比尼亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23376,7 +23376,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ノビーニャ",
-   "zh": "",
+   "zh": "魔女兵诺比尼亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23398,7 +23398,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ノビーニャ",
-   "zh": "",
+   "zh": "魔女兵诺比尼亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23420,7 +23420,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ノビーニャ",
-   "zh": "",
+   "zh": "魔女兵诺比尼亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23442,7 +23442,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ウォム",
-   "zh": "",
+   "zh": "魔女兵沃姆",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23464,7 +23464,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ウォム",
-   "zh": "",
+   "zh": "魔女兵沃姆",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23486,7 +23486,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ウォム",
-   "zh": "",
+   "zh": "魔女兵沃姆",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23508,7 +23508,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ウォム",
-   "zh": "",
+   "zh": "魔女兵沃姆",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23530,7 +23530,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ベルニート",
-   "zh": "",
+   "zh": "魔女兵贝尔尼特",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23552,7 +23552,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ベルニート",
-   "zh": "",
+   "zh": "魔女兵贝尔尼特",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23574,7 +23574,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ベルニート",
-   "zh": "",
+   "zh": "魔女兵贝尔尼特",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23596,7 +23596,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ベルニート",
-   "zh": "",
+   "zh": "魔女兵贝尔尼特",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23618,7 +23618,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ベルニート",
-   "zh": "",
+   "zh": "魔女兵贝尔尼特",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23640,7 +23640,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ベルニート",
-   "zh": "",
+   "zh": "魔女兵贝尔尼特",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23662,7 +23662,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ラグリマ",
-   "zh": "",
+   "zh": "魔女兵拉格莉玛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23684,7 +23684,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ラグリマ",
-   "zh": "",
+   "zh": "魔女兵拉格莉玛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23706,7 +23706,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ラグリマ",
-   "zh": "",
+   "zh": "魔女兵拉格莉玛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23728,7 +23728,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ラグリマ",
-   "zh": "",
+   "zh": "魔女兵拉格莉玛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23750,7 +23750,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ラグリマ",
-   "zh": "",
+   "zh": "魔女兵拉格莉玛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23772,7 +23772,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ラグリマ",
-   "zh": "",
+   "zh": "魔女兵拉格莉玛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23794,7 +23794,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ラグリマ",
-   "zh": "",
+   "zh": "魔女兵拉格莉玛",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23816,7 +23816,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドゥルーケ",
-   "zh": "",
+   "zh": "魔女兵德鲁克",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23838,7 +23838,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドゥルーケ",
-   "zh": "",
+   "zh": "魔女兵德鲁克",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23860,7 +23860,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドゥルーケ",
-   "zh": "",
+   "zh": "魔女兵德鲁克",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23882,7 +23882,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドゥルーケ",
-   "zh": "",
+   "zh": "魔女兵德鲁克",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23904,7 +23904,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ヴォルカン",
-   "zh": "",
+   "zh": "魔女兵沃尔肯",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23926,7 +23926,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ヴォルカン",
-   "zh": "",
+   "zh": "魔女兵沃尔肯",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23948,7 +23948,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニィ",
-   "zh": "",
+   "zh": "露琪妮",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23970,7 +23970,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニィ",
-   "zh": "",
+   "zh": "露琪妮",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -23992,7 +23992,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニィ",
-   "zh": "",
+   "zh": "露琪妮",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24014,7 +24014,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニィ",
-   "zh": "",
+   "zh": "露琪妮",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24036,7 +24036,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ビスコ",
-   "zh": "",
+   "zh": "比丝可",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24058,7 +24058,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ビスコ",
-   "zh": "",
+   "zh": "比丝可",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24080,7 +24080,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マナ・ビスコ",
-   "zh": "",
+   "zh": "玛娜・比丝可",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24102,7 +24102,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ビスコ",
-   "zh": "",
+   "zh": "比丝可",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24124,7 +24124,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アルレッキーノ",
-   "zh": "",
+   "zh": "阿尔雷奇诺",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24146,7 +24146,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アルレッキーノ",
-   "zh": "",
+   "zh": "阿尔雷奇诺",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24168,7 +24168,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アルレッキーノ",
-   "zh": "",
+   "zh": "阿尔雷奇诺",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24190,7 +24190,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アルレッキーノ",
-   "zh": "",
+   "zh": "阿尔雷奇诺",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24212,7 +24212,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ゴキブリ姫",
-   "zh": "",
+   "zh": "蟑螂公主",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24234,7 +24234,7 @@
    "field": "c1",
    "type": "text",
    "jp": "外道魔女ミトン",
-   "zh": "",
+   "zh": "外道魔女米顿",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24256,7 +24256,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ミトン",
-   "zh": "",
+   "zh": "米顿",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24278,7 +24278,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヴァレンティーヌ",
-   "zh": "",
+   "zh": "瓦伦蒂奴",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24300,7 +24300,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ジェラート",
-   "zh": "",
+   "zh": "杰拉托",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24322,7 +24322,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドルチェ",
-   "zh": "",
+   "zh": "多尔切",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24344,7 +24344,7 @@
    "field": "c1",
    "type": "text",
    "jp": "パープルピール",
-   "zh": "",
+   "zh": "紫皮",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24366,7 +24366,7 @@
    "field": "c1",
    "type": "text",
    "jp": "パープルピール",
-   "zh": "",
+   "zh": "紫皮",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24388,7 +24388,7 @@
    "field": "c1",
    "type": "text",
    "jp": "リューベンス",
-   "zh": "",
+   "zh": "琉宾斯",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24410,7 +24410,7 @@
    "field": "c1",
    "type": "text",
    "jp": "リリー",
-   "zh": "",
+   "zh": "莉莉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24432,7 +24432,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マーリカ",
-   "zh": "",
+   "zh": "玛莉卡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24454,7 +24454,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マーリカ",
-   "zh": "",
+   "zh": "玛莉卡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24476,7 +24476,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マーリカ",
-   "zh": "",
+   "zh": "玛莉卡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24498,7 +24498,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ネザリア",
-   "zh": "",
+   "zh": "涅扎莉亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24520,7 +24520,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウルカ",
-   "zh": "",
+   "zh": "乌露卡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24542,7 +24542,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ラヴィ",
-   "zh": "",
+   "zh": "拉薇",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24564,7 +24564,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ベルダ",
-   "zh": "",
+   "zh": "贝尔达",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24586,7 +24586,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トルーデ",
-   "zh": "",
+   "zh": "特露德",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24608,7 +24608,7 @@
    "field": "c1",
    "type": "text",
    "jp": "盲いた魔女",
-   "zh": "",
+   "zh": "盲眼魔女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24630,7 +24630,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クサ・カプリ",
-   "zh": "",
+   "zh": "草卡普里",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24652,7 +24652,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クサ・カプキング",
-   "zh": "",
+   "zh": "草卡普王",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24674,7 +24674,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マナプリン",
-   "zh": "",
+   "zh": "玛娜布丁",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24696,7 +24696,7 @@
    "field": "c1",
    "type": "text",
    "jp": "小口虫・幼生",
-   "zh": "",
+   "zh": "小口虫・幼体",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24718,7 +24718,7 @@
    "field": "c1",
    "type": "text",
    "jp": "闇の断片",
-   "zh": "",
+   "zh": "暗之碎片",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24740,7 +24740,7 @@
    "field": "c1",
    "type": "text",
    "jp": "パックヤード",
-   "zh": "",
+   "zh": "帕克亚德",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24762,7 +24762,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ティラミア",
-   "zh": "",
+   "zh": "提拉米亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24784,7 +24784,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ティラミア",
-   "zh": "",
+   "zh": "提拉米亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24806,7 +24806,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女兵ドロープ",
-   "zh": "",
+   "zh": "魔女兵多洛普",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24828,7 +24828,7 @@
    "field": "c1",
    "type": "text",
    "jp": "少女（本編）",
-   "zh": "",
+   "zh": "少女（主线）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24850,7 +24850,7 @@
    "field": "c1",
    "type": "text",
    "jp": "老婆（本編）",
-   "zh": "",
+   "zh": "老婆婆（主线）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24872,7 +24872,7 @@
    "field": "c1",
    "type": "text",
    "jp": "成人男１（本編）",
-   "zh": "",
+   "zh": "成年男子１（主线）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24894,7 +24894,7 @@
    "field": "c1",
    "type": "text",
    "jp": "成人男２（本編）",
-   "zh": "",
+   "zh": "成年男子２（主线）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24916,7 +24916,7 @@
    "field": "c1",
    "type": "text",
    "jp": "子供女（本編）",
-   "zh": "",
+   "zh": "女童（主线）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24938,7 +24938,7 @@
    "field": "c1",
    "type": "text",
    "jp": "成人女性１（本編）",
-   "zh": "",
+   "zh": "成年女性１（主线）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24960,7 +24960,7 @@
    "field": "c1",
    "type": "text",
    "jp": "成人女性２（本編）",
-   "zh": "",
+   "zh": "成年女性２（主线）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -24982,7 +24982,7 @@
    "field": "c1",
    "type": "text",
    "jp": "老人１（本編）",
-   "zh": "",
+   "zh": "老人１（主线）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25004,7 +25004,7 @@
    "field": "c1",
    "type": "text",
    "jp": "老人２（本編）",
-   "zh": "",
+   "zh": "老人２（主线）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25026,7 +25026,7 @@
    "field": "c1",
    "type": "text",
    "jp": "古き街灯樹",
-   "zh": "",
+   "zh": "古老街灯树",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25048,7 +25048,7 @@
    "field": "c1",
    "type": "text",
    "jp": "朽ちた街灯樹",
-   "zh": "",
+   "zh": "枯朽街灯树",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25070,7 +25070,7 @@
    "field": "c1",
    "type": "text",
    "jp": "立派な街灯樹",
-   "zh": "",
+   "zh": "雄伟街灯树",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25092,7 +25092,7 @@
    "field": "c1",
    "type": "text",
    "jp": "若い街灯樹",
-   "zh": "",
+   "zh": "年轻街灯树",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25114,7 +25114,7 @@
    "field": "c1",
    "type": "text",
    "jp": "瑞々しい街灯樹",
-   "zh": "",
+   "zh": "苍翠街灯树",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25136,7 +25136,7 @@
    "field": "c1",
    "type": "text",
    "jp": "綺麗な街灯樹",
-   "zh": "",
+   "zh": "美丽街灯树",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25158,7 +25158,7 @@
    "field": "c1",
    "type": "text",
    "jp": "幼き街灯樹",
-   "zh": "",
+   "zh": "幼小街灯树",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25180,7 +25180,7 @@
    "field": "c1",
    "type": "text",
    "jp": "可愛い子供",
-   "zh": "",
+   "zh": "可爱的小孩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25202,7 +25202,7 @@
    "field": "c1",
    "type": "text",
    "jp": "素直な少年",
-   "zh": "",
+   "zh": "率真的少年",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25224,7 +25224,7 @@
    "field": "c1",
    "type": "text",
    "jp": "疲れた顔の青年",
-   "zh": "",
+   "zh": "面带倦容的青年",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25246,7 +25246,7 @@
    "field": "c1",
    "type": "text",
    "jp": "おしゃれな男",
-   "zh": "",
+   "zh": "时髦的男人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25268,7 +25268,7 @@
    "field": "c1",
    "type": "text",
    "jp": "筋肉質の男",
-   "zh": "",
+   "zh": "健壮的男人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25290,7 +25290,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ブラブラしている男",
-   "zh": "",
+   "zh": "游手好闲的男人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25312,7 +25312,7 @@
    "field": "c1",
    "type": "text",
    "jp": "威厳のある老人",
-   "zh": "",
+   "zh": "威严的老人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25334,7 +25334,7 @@
    "field": "c1",
    "type": "text",
    "jp": "道草好きな老女",
-   "zh": "",
+   "zh": "爱溜达的老妇人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25356,7 +25356,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村長宅の家政婦",
-   "zh": "",
+   "zh": "村长家的管事妇人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25378,7 +25378,7 @@
    "field": "c1",
    "type": "text",
    "jp": "賭場の門番",
-   "zh": "",
+   "zh": "赌场的看门人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25400,7 +25400,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ツイてない男",
-   "zh": "",
+   "zh": "走霉运的男人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25422,7 +25422,7 @@
    "field": "c1",
    "type": "text",
    "jp": "賭場の胴元",
-   "zh": "",
+   "zh": "赌场的庄家",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25444,7 +25444,7 @@
    "field": "c1",
    "type": "text",
    "jp": "換金する男",
-   "zh": "",
+   "zh": "兑现筹码的男人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25466,7 +25466,7 @@
    "field": "c1",
    "type": "text",
    "jp": "大勝で喜ぶ男",
-   "zh": "",
+   "zh": "大胜狂喜的男人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25488,7 +25488,7 @@
    "field": "c1",
    "type": "text",
    "jp": "負けた男",
-   "zh": "",
+   "zh": "输光落魄的男人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25510,7 +25510,7 @@
    "field": "c1",
    "type": "text",
    "jp": "愚かな男",
-   "zh": "",
+   "zh": "愚蠢的男人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25532,7 +25532,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村の老人",
-   "zh": "",
+   "zh": "村里的老人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25554,7 +25554,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クサ・カプリ",
-   "zh": "",
+   "zh": "草卡普里",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25576,7 +25576,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人戦闘斥候兵",
-   "zh": "",
+   "zh": "翼人战斗斥候兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25598,7 +25598,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人戦闘斥候兵",
-   "zh": "",
+   "zh": "翼人战斗斥候兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25620,7 +25620,7 @@
    "field": "c1",
    "type": "text",
    "jp": "元気な子供",
-   "zh": "",
+   "zh": "精神充沛的小孩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25642,7 +25642,7 @@
    "field": "c1",
    "type": "text",
    "jp": "若い女",
-   "zh": "",
+   "zh": "年轻女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25664,7 +25664,7 @@
    "field": "c1",
    "type": "text",
    "jp": "針縫いの女",
-   "zh": "",
+   "zh": "缝纫女工",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25686,7 +25686,7 @@
    "field": "c1",
    "type": "text",
    "jp": "酒好きな男",
-   "zh": "",
+   "zh": "嗜酒的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25708,7 +25708,7 @@
    "field": "c1",
    "type": "text",
    "jp": "荒くれた男",
-   "zh": "",
+   "zh": "粗暴的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25730,7 +25730,7 @@
    "field": "c1",
    "type": "text",
    "jp": "元気な老人",
-   "zh": "",
+   "zh": "硬朗的老人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25752,7 +25752,7 @@
    "field": "c1",
    "type": "text",
    "jp": "腰の曲がった老人",
-   "zh": "",
+   "zh": "驼背的老人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25774,7 +25774,7 @@
    "field": "c1",
    "type": "text",
    "jp": "可愛い子供",
-   "zh": "",
+   "zh": "可爱的小孩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25796,7 +25796,7 @@
    "field": "c1",
    "type": "text",
    "jp": "素直な少年",
-   "zh": "",
+   "zh": "老实的少年",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25818,7 +25818,7 @@
    "field": "c1",
    "type": "text",
    "jp": "朗らかな顔の青年",
-   "zh": "",
+   "zh": "面容爽朗的青年",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25840,7 +25840,7 @@
    "field": "c1",
    "type": "text",
    "jp": "おしゃれな男",
-   "zh": "",
+   "zh": "时髦的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25862,7 +25862,7 @@
    "field": "c1",
    "type": "text",
    "jp": "筋肉質の男",
-   "zh": "",
+   "zh": "肌肉发达的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25884,7 +25884,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ブラブラしている男",
-   "zh": "",
+   "zh": "游手好闲的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25906,7 +25906,7 @@
    "field": "c1",
    "type": "text",
    "jp": "威厳のある老人",
-   "zh": "",
+   "zh": "威严的老人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25928,7 +25928,7 @@
    "field": "c1",
    "type": "text",
    "jp": "道草好きな老女",
-   "zh": "",
+   "zh": "爱溜达的老妇人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25950,7 +25950,7 @@
    "field": "c1",
    "type": "text",
    "jp": "背の曲がった老女",
-   "zh": "",
+   "zh": "驼背的老妇人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25972,7 +25972,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ツイてない男",
-   "zh": "",
+   "zh": "倒霉的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -25994,7 +25994,7 @@
    "field": "c1",
    "type": "text",
    "jp": "大勝で喜ぶ男",
-   "zh": "",
+   "zh": "大胜狂喜的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26016,7 +26016,7 @@
    "field": "c1",
    "type": "text",
    "jp": "愚かな若者",
-   "zh": "",
+   "zh": "愚蠢的年轻人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26038,7 +26038,7 @@
    "field": "c1",
    "type": "text",
    "jp": "夢見る女",
-   "zh": "",
+   "zh": "爱做梦的女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26060,7 +26060,7 @@
    "field": "c1",
    "type": "text",
    "jp": "賭場の胴元",
-   "zh": "",
+   "zh": "赌场的庄家",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26082,7 +26082,7 @@
    "field": "c1",
    "type": "text",
    "jp": "換金する男",
-   "zh": "",
+   "zh": "兑现的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26104,7 +26104,7 @@
    "field": "c1",
    "type": "text",
    "jp": "憧れる女の子",
-   "zh": "",
+   "zh": "心怀憧憬的女孩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26126,7 +26126,7 @@
    "field": "c1",
    "type": "text",
    "jp": "強がりたい子供",
-   "zh": "",
+   "zh": "爱逞强的小孩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26148,7 +26148,7 @@
    "field": "c1",
    "type": "text",
    "jp": "心酔する若者",
-   "zh": "",
+   "zh": "心悦诚服的年轻人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26170,7 +26170,7 @@
    "field": "c1",
    "type": "text",
    "jp": "妄想好きな男",
-   "zh": "",
+   "zh": "爱妄想的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26192,7 +26192,7 @@
    "field": "c1",
    "type": "text",
    "jp": "油を売る女",
-   "zh": "",
+   "zh": "偷懒闲晃的女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26214,7 +26214,7 @@
    "field": "c1",
    "type": "text",
    "jp": "精霊を恐れる男",
-   "zh": "",
+   "zh": "惧怕精灵的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26236,7 +26236,7 @@
    "field": "c1",
    "type": "text",
    "jp": "独身の老人",
-   "zh": "",
+   "zh": "单身的老人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26258,7 +26258,7 @@
    "field": "c1",
    "type": "text",
    "jp": "長生きし過ぎた老人",
-   "zh": "",
+   "zh": "活太久的老人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26280,7 +26280,7 @@
    "field": "c1",
    "type": "text",
    "jp": "噂好きな中年女",
-   "zh": "",
+   "zh": "爱八卦的中年妇女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26302,7 +26302,7 @@
    "field": "c1",
    "type": "text",
    "jp": "店番の元気な女",
-   "zh": "",
+   "zh": "看店的开朗女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26324,7 +26324,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科利贡",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26346,7 +26346,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26368,7 +26368,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26390,7 +26390,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26412,7 +26412,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26434,7 +26434,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26456,7 +26456,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26478,7 +26478,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26500,7 +26500,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26522,7 +26522,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26544,7 +26544,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26566,7 +26566,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26588,7 +26588,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26610,7 +26610,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26632,7 +26632,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26654,7 +26654,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26676,7 +26676,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26698,7 +26698,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26720,7 +26720,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26742,7 +26742,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26764,7 +26764,7 @@
    "field": "c1",
    "type": "text",
    "jp": "遊覧花",
-   "zh": "",
+   "zh": "游览花",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26786,7 +26786,7 @@
    "field": "c1",
    "type": "text",
    "jp": "遊覧花",
-   "zh": "",
+   "zh": "游览花",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26808,7 +26808,7 @@
    "field": "c1",
    "type": "text",
    "jp": "遊覧花",
-   "zh": "",
+   "zh": "游览花",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26830,7 +26830,7 @@
    "field": "c1",
    "type": "text",
    "jp": "遊覧花",
-   "zh": "",
+   "zh": "游览花",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26852,7 +26852,7 @@
    "field": "c1",
    "type": "text",
    "jp": "遊覧花",
-   "zh": "",
+   "zh": "游览花",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26874,7 +26874,7 @@
    "field": "c1",
    "type": "text",
    "jp": "機嫌の良い獣人",
-   "zh": "",
+   "zh": "心情愉悦的兽人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26896,7 +26896,7 @@
    "field": "c1",
    "type": "text",
    "jp": "何度も驚く獣人",
-   "zh": "",
+   "zh": "屡屡受惊的兽人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26918,7 +26918,7 @@
    "field": "c1",
    "type": "text",
    "jp": "年老いた獣人",
-   "zh": "",
+   "zh": "年迈的兽人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26940,7 +26940,7 @@
    "field": "c1",
    "type": "text",
    "jp": "しわくちゃの獣人",
-   "zh": "",
+   "zh": "满脸皱纹的兽人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26962,7 +26962,7 @@
    "field": "c1",
    "type": "text",
    "jp": "知性的な獣人",
-   "zh": "",
+   "zh": "聪慧理性的兽人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -26984,7 +26984,7 @@
    "field": "c1",
    "type": "text",
    "jp": "おしゃまな獣人",
-   "zh": "",
+   "zh": "早熟懂事的兽人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27006,7 +27006,7 @@
    "field": "c1",
    "type": "text",
    "jp": "星読みの獣人",
-   "zh": "",
+   "zh": "观星占卜的兽人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27028,7 +27028,7 @@
    "field": "c1",
    "type": "text",
    "jp": "学者の男",
-   "zh": "",
+   "zh": "学者男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27050,7 +27050,7 @@
    "field": "c1",
    "type": "text",
    "jp": "学者の女",
-   "zh": "",
+   "zh": "学者女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27072,7 +27072,7 @@
    "field": "c1",
    "type": "text",
    "jp": "むくつけき大男の兄",
-   "zh": "",
+   "zh": "粗野壮汉之兄",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27094,7 +27094,7 @@
    "field": "c1",
    "type": "text",
    "jp": "むくつけき大男の弟",
-   "zh": "",
+   "zh": "粗野壮汉之弟",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27116,7 +27116,7 @@
    "field": "c1",
    "type": "text",
    "jp": "むくつけき大男の嫁",
-   "zh": "",
+   "zh": "粗野大汉的妻子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27138,7 +27138,7 @@
    "field": "c1",
    "type": "text",
    "jp": "年老いた男",
-   "zh": "",
+   "zh": "年迈的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27160,7 +27160,7 @@
    "field": "c1",
    "type": "text",
    "jp": "陽気な魔女",
-   "zh": "",
+   "zh": "开朗的魔女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27182,7 +27182,7 @@
    "field": "c1",
    "type": "text",
    "jp": "かわいい魔女",
-   "zh": "",
+   "zh": "可爱的魔女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27204,7 +27204,7 @@
    "field": "c1",
    "type": "text",
    "jp": "奥様な魔女",
-   "zh": "",
+   "zh": "人妻魔女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27226,7 +27226,7 @@
    "field": "c1",
    "type": "text",
    "jp": "醜い魔女",
-   "zh": "",
+   "zh": "丑陋的魔女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27248,7 +27248,7 @@
    "field": "c1",
    "type": "text",
    "jp": "麗しい魔女",
-   "zh": "",
+   "zh": "艳丽的魔女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27270,7 +27270,7 @@
    "field": "c1",
    "type": "text",
    "jp": "老婆の魔女",
-   "zh": "",
+   "zh": "老婆婆魔女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27292,7 +27292,7 @@
    "field": "c1",
    "type": "text",
    "jp": "生意気な子供",
-   "zh": "",
+   "zh": "傲慢的小孩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27314,7 +27314,7 @@
    "field": "c1",
    "type": "text",
    "jp": "肝っ玉母ちゃん",
-   "zh": "",
+   "zh": "泼辣的大妈",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27336,7 +27336,7 @@
    "field": "c1",
    "type": "text",
    "jp": "賢い男",
-   "zh": "",
+   "zh": "精明的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27358,7 +27358,7 @@
    "field": "c1",
    "type": "text",
    "jp": "噂好きな女",
-   "zh": "",
+   "zh": "爱八卦的女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27380,7 +27380,7 @@
    "field": "c1",
    "type": "text",
    "jp": "目つきの悪い老人",
-   "zh": "",
+   "zh": "眼神凶恶的老人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27402,7 +27402,7 @@
    "field": "c1",
    "type": "text",
    "jp": "入り口に立つ男",
-   "zh": "",
+   "zh": "站在门口的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27424,7 +27424,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勧誘する青年",
-   "zh": "",
+   "zh": "拉客的青年",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27446,7 +27446,7 @@
    "field": "c1",
    "type": "text",
    "jp": "買い物途中の女",
-   "zh": "",
+   "zh": "采购途中的女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27468,7 +27468,7 @@
    "field": "c1",
    "type": "text",
    "jp": "筋骨隆々な男",
-   "zh": "",
+   "zh": "肌肉发达的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27490,7 +27490,7 @@
    "field": "c1",
    "type": "text",
    "jp": "いたずら小僧",
-   "zh": "",
+   "zh": "淘气小鬼",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27512,7 +27512,7 @@
    "field": "c1",
    "type": "text",
    "jp": "おっとりした女",
-   "zh": "",
+   "zh": "温吞沉静的女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27534,7 +27534,7 @@
    "field": "c1",
    "type": "text",
    "jp": "冗談好きなババ様",
-   "zh": "",
+   "zh": "爱开玩笑的老婆婆",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27556,7 +27556,7 @@
    "field": "c1",
    "type": "text",
    "jp": "家事見習いの女",
-   "zh": "",
+   "zh": "见习家政的女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27578,7 +27578,7 @@
    "field": "c1",
    "type": "text",
    "jp": "陰険な女",
-   "zh": "",
+   "zh": "阴险的女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27600,7 +27600,7 @@
    "field": "c1",
    "type": "text",
    "jp": "さわやかな青年",
-   "zh": "",
+   "zh": "清爽的青年",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27622,7 +27622,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ニケ教伝道師",
-   "zh": "",
+   "zh": "尼凯教传教士",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27644,7 +27644,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ニケ教信者",
-   "zh": "",
+   "zh": "尼凯教信徒",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27666,7 +27666,7 @@
    "field": "c1",
    "type": "text",
    "jp": "優しげな老婆",
-   "zh": "",
+   "zh": "慈祥的老婆婆",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27688,7 +27688,7 @@
    "field": "c1",
    "type": "text",
    "jp": "浮足立っている男性",
-   "zh": "",
+   "zh": "心浮气躁的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27710,7 +27710,7 @@
    "field": "c1",
    "type": "text",
    "jp": "しょんぼりした女性",
-   "zh": "",
+   "zh": "垂头丧气的女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27732,7 +27732,7 @@
    "field": "c1",
    "type": "text",
    "jp": "恋する乙女",
-   "zh": "",
+   "zh": "恋爱中的少女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27754,7 +27754,7 @@
    "field": "c1",
    "type": "text",
    "jp": "国士の大男",
-   "zh": "",
+   "zh": "忠义爱国的大汉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27776,7 +27776,7 @@
    "field": "c1",
    "type": "text",
    "jp": "お姫様ごっこの娘",
-   "zh": "",
+   "zh": "玩过家家公主的女孩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27798,7 +27798,7 @@
    "field": "c1",
    "type": "text",
    "jp": "見回り中の兵士",
-   "zh": "",
+   "zh": "巡逻中的士兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27820,7 +27820,7 @@
    "field": "c1",
    "type": "text",
    "jp": "門番の孫",
-   "zh": "",
+   "zh": "看门人的孙子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27842,7 +27842,7 @@
    "field": "c1",
    "type": "text",
    "jp": "パン屋の若大将",
-   "zh": "",
+   "zh": "面包店的年轻掌柜",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27864,7 +27864,7 @@
    "field": "c1",
    "type": "text",
    "jp": "夢見る女性",
-   "zh": "",
+   "zh": "爱做梦的女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27886,7 +27886,7 @@
    "field": "c1",
    "type": "text",
    "jp": "末裔ノ男",
-   "zh": "",
+   "zh": "遗民男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27908,7 +27908,7 @@
    "field": "c1",
    "type": "text",
    "jp": "盲イタ老人",
-   "zh": "",
+   "zh": "盲眼老人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27930,7 +27930,7 @@
    "field": "c1",
    "type": "text",
    "jp": "占イノ師",
-   "zh": "",
+   "zh": "占卜师",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27952,7 +27952,7 @@
    "field": "c1",
    "type": "text",
    "jp": "末裔ノ女",
-   "zh": "",
+   "zh": "遗民女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27974,7 +27974,7 @@
    "field": "c1",
    "type": "text",
    "jp": "祈ル男",
-   "zh": "",
+   "zh": "祈祷的男子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -27996,7 +27996,7 @@
    "field": "c1",
    "type": "text",
    "jp": "祈ル女",
-   "zh": "",
+   "zh": "祈祷的女子",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28018,7 +28018,7 @@
    "field": "c1",
    "type": "text",
    "jp": "祈ル童",
-   "zh": "",
+   "zh": "祈祷的孩童",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28040,7 +28040,7 @@
    "field": "c1",
    "type": "text",
    "jp": "幼キ少女",
-   "zh": "",
+   "zh": "幼小少女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28062,7 +28062,7 @@
    "field": "c1",
    "type": "text",
    "jp": "呪ウ老人",
-   "zh": "",
+   "zh": "诅咒的老人",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28084,7 +28084,7 @@
    "field": "c1",
    "type": "text",
    "jp": "賢キ母",
-   "zh": "",
+   "zh": "贤慧母亲",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28106,7 +28106,7 @@
    "field": "c1",
    "type": "text",
    "jp": "族ノ長",
-   "zh": "",
+   "zh": "族长",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28128,7 +28128,7 @@
    "field": "c1",
    "type": "text",
    "jp": "雪ノ婆",
-   "zh": "",
+   "zh": "雪之老婆婆",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28150,7 +28150,7 @@
    "field": "c1",
    "type": "text",
    "jp": "異端審問官",
-   "zh": "",
+   "zh": "异端审问官",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28172,7 +28172,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ハインツ",
-   "zh": "",
+   "zh": "海因茨",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28194,7 +28194,7 @@
    "field": "c1",
    "type": "text",
    "jp": "おっさん",
-   "zh": "",
+   "zh": "大叔",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28216,7 +28216,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ジャック",
-   "zh": "",
+   "zh": "杰克",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28238,7 +28238,7 @@
    "field": "c1",
    "type": "text",
    "jp": "異端審問官",
-   "zh": "",
+   "zh": "异端审问官",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28260,7 +28260,7 @@
    "field": "c1",
    "type": "text",
    "jp": "国王",
-   "zh": "",
+   "zh": "国王",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28282,7 +28282,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヒルダ姫",
-   "zh": "",
+   "zh": "希尔达公主",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28304,7 +28304,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トトペペ",
-   "zh": "",
+   "zh": "托托佩佩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28326,7 +28326,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サビーナ",
-   "zh": "",
+   "zh": "萨比娜",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28348,7 +28348,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ティト",
-   "zh": "",
+   "zh": "蒂托",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28370,7 +28370,7 @@
    "field": "c1",
    "type": "text",
    "jp": "盲いた魔女",
-   "zh": "",
+   "zh": "盲眼魔女",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28392,7 +28392,7 @@
    "field": "c1",
    "type": "text",
    "jp": "記録書の妖精",
-   "zh": "",
+   "zh": "记录书妖精",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28414,7 +28414,7 @@
    "field": "c1",
    "type": "text",
    "jp": "カカリマの街灯樹",
-   "zh": "",
+   "zh": "卡卡利玛的路灯树",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28436,7 +28436,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村人１",
-   "zh": "",
+   "zh": "村民1",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28458,7 +28458,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村人２",
-   "zh": "",
+   "zh": "村民2",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28480,7 +28480,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村人３",
-   "zh": "",
+   "zh": "村民3",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28502,7 +28502,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村人４",
-   "zh": "",
+   "zh": "村民4",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28524,7 +28524,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村人５",
-   "zh": "",
+   "zh": "村民5",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28546,7 +28546,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村人６",
-   "zh": "",
+   "zh": "村民6",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28568,7 +28568,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村人７",
-   "zh": "",
+   "zh": "村民7",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28590,7 +28590,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村人８",
-   "zh": "",
+   "zh": "村民8",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28612,7 +28612,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村人９",
-   "zh": "",
+   "zh": "村民9",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28634,7 +28634,7 @@
    "field": "c1",
    "type": "text",
    "jp": "村人１０",
-   "zh": "",
+   "zh": "村民10",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28656,7 +28656,7 @@
    "field": "c1",
    "type": "text",
    "jp": "禁の碑石",
-   "zh": "",
+   "zh": "禁忌碑石",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28678,7 +28678,7 @@
    "field": "c1",
    "type": "text",
    "jp": "禁の碑石",
-   "zh": "",
+   "zh": "禁忌碑石",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28700,7 +28700,7 @@
    "field": "c1",
    "type": "text",
    "jp": "禁の碑石",
-   "zh": "",
+   "zh": "禁忌碑石",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28722,7 +28722,7 @@
    "field": "c1",
    "type": "text",
    "jp": "禁の碑石",
-   "zh": "",
+   "zh": "禁忌碑石",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28744,7 +28744,7 @@
    "field": "c1",
    "type": "text",
    "jp": "禁の碑石",
-   "zh": "",
+   "zh": "禁忌碑石",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28766,7 +28766,7 @@
    "field": "c1",
    "type": "text",
    "jp": "結界",
-   "zh": "",
+   "zh": "结界",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28788,7 +28788,7 @@
    "field": "c1",
    "type": "text",
    "jp": "結界石",
-   "zh": "",
+   "zh": "结界石",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28810,7 +28810,7 @@
    "field": "c1",
    "type": "text",
    "jp": "結界石",
-   "zh": "",
+   "zh": "结界石",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28832,7 +28832,7 @@
    "field": "c1",
    "type": "text",
    "jp": "結界石",
-   "zh": "",
+   "zh": "结界石",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28854,7 +28854,7 @@
    "field": "c1",
    "type": "text",
    "jp": "防魔の大岩",
-   "zh": "",
+   "zh": "防魔巨岩",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28876,7 +28876,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピラー・オブ・フール",
-   "zh": "",
+   "zh": "愚者之柱",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28898,7 +28898,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔爆の罠香炉",
-   "zh": "",
+   "zh": "魔爆陷阱香炉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28920,7 +28920,7 @@
    "field": "c1",
    "type": "text",
    "jp": "毒の罠香炉",
-   "zh": "",
+   "zh": "毒素陷阱香炉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28942,7 +28942,7 @@
    "field": "c1",
    "type": "text",
    "jp": "猛毒の罠香炉",
-   "zh": "",
+   "zh": "猛毒陷阱香炉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28964,7 +28964,7 @@
    "field": "c1",
    "type": "text",
    "jp": "催眠の罠香炉",
-   "zh": "",
+   "zh": "催眠陷阱香炉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -28986,7 +28986,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スタンの罠香炉",
-   "zh": "",
+   "zh": "眩晕陷阱香炉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29008,7 +29008,7 @@
    "field": "c1",
    "type": "text",
    "jp": "回復の罠香炉",
-   "zh": "",
+   "zh": "恢复陷阱香炉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29030,7 +29030,7 @@
    "field": "c1",
    "type": "text",
    "jp": "大回復の罠香炉",
-   "zh": "",
+   "zh": "大恢复陷阱香炉",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29052,7 +29052,7 @@
    "field": "c1",
    "type": "text",
    "jp": "強制戦闘の罠",
-   "zh": "",
+   "zh": "强制战斗陷阱",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29074,7 +29074,7 @@
    "field": "c1",
    "type": "text",
    "jp": "持ち上げオブジェクト",
-   "zh": "",
+   "zh": "举起物件",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29096,7 +29096,7 @@
    "field": "c1",
    "type": "text",
    "jp": "持ち上げオブジェクト",
-   "zh": "",
+   "zh": "举起物件",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29118,7 +29118,7 @@
    "field": "c1",
    "type": "text",
    "jp": "持ち上げオブジェクト",
-   "zh": "",
+   "zh": "举起物件",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29140,7 +29140,7 @@
    "field": "c1",
    "type": "text",
    "jp": "持ち上げオブジェクト",
-   "zh": "",
+   "zh": "举起物件",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29162,7 +29162,7 @@
    "field": "c1",
    "type": "text",
    "jp": "持ち上げオブジェクト",
-   "zh": "",
+   "zh": "举起物件",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29184,7 +29184,7 @@
    "field": "c1",
    "type": "text",
    "jp": "持ち上げオブジェクト",
-   "zh": "",
+   "zh": "举起物件",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29206,7 +29206,7 @@
    "field": "c1",
    "type": "text",
    "jp": "持ち上げオブジェクト",
-   "zh": "",
+   "zh": "举起物件",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29228,7 +29228,7 @@
    "field": "c1",
    "type": "text",
    "jp": "黒ノ箱",
-   "zh": "",
+   "zh": "黑之箱",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29250,7 +29250,7 @@
    "field": "c1",
    "type": "text",
    "jp": "振り子（ハンマー）",
-   "zh": "",
+   "zh": "钟摆（巨锤）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29272,7 +29272,7 @@
    "field": "c1",
    "type": "text",
    "jp": "振り子（ギロチン）",
-   "zh": "",
+   "zh": "钟摆（断头台）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29294,7 +29294,7 @@
    "field": "c1",
    "type": "text",
    "jp": "振り子（電撃）",
-   "zh": "",
+   "zh": "钟摆（电击）",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29316,7 +29316,7 @@
    "field": "c1",
    "type": "text",
    "jp": "大逆のチビヘイ",
-   "zh": "",
+   "zh": "大逆的小骑兵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29338,7 +29338,7 @@
    "field": "c1",
    "type": "text",
    "jp": "デコイ",
-   "zh": "",
+   "zh": "诱饵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29360,7 +29360,7 @@
    "field": "c1",
    "type": "text",
    "jp": "キングデコイ",
-   "zh": "",
+   "zh": "诱饵王",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29382,7 +29382,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チクボム",
-   "zh": "",
+   "zh": "定时炸弹",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29404,7 +29404,7 @@
    "field": "c1",
    "type": "text",
    "jp": "爆弾虫",
-   "zh": "",
+   "zh": "炸弹虫",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29426,7 +29426,7 @@
    "field": "c1",
    "type": "text",
    "jp": "補助",
-   "zh": "",
+   "zh": "辅助",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29448,7 +29448,7 @@
    "field": "c1",
    "type": "text",
    "jp": "補助２",
-   "zh": "",
+   "zh": "辅助2",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29470,7 +29470,7 @@
    "field": "c1",
    "type": "text",
    "jp": "補助３",
-   "zh": "",
+   "zh": "辅助3",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29492,7 +29492,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砲台",
-   "zh": "",
+   "zh": "炮台",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29514,7 +29514,7 @@
    "field": "c1",
    "type": "text",
    "jp": "キャセリオ",
-   "zh": "",
+   "zh": "卡塞里奥",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29536,7 +29536,7 @@
    "field": "c1",
    "type": "text",
    "jp": "寄生ドロニア",
-   "zh": "",
+   "zh": "寄生多洛尼亚",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29558,7 +29558,7 @@
    "field": "c1",
    "type": "text",
    "jp": "バトルラージ",
-   "zh": "",
+   "zh": "大型战斗",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29580,7 +29580,7 @@
    "field": "c1",
    "type": "text",
    "jp": "バトルミドル",
-   "zh": "",
+   "zh": "中型战斗",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29602,7 +29602,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アロー",
-   "zh": "",
+   "zh": "箭矢",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29624,7 +29624,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ディアロー",
-   "zh": "",
+   "zh": "双重箭矢",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29646,7 +29646,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サークル",
-   "zh": "",
+   "zh": "环阵",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29668,7 +29668,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トラップ",
-   "zh": "",
+   "zh": "陷阱",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29690,7 +29690,7 @@
    "field": "c1",
    "type": "text",
    "jp": "偵察",
-   "zh": "",
+   "zh": "侦察",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29712,7 +29712,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ジャンプ台",
-   "zh": "",
+   "zh": "弹跳台",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29734,7 +29734,7 @@
    "field": "c1",
    "type": "text",
    "jp": "自動兵器",
-   "zh": "",
+   "zh": "自动兵器",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29756,7 +29756,7 @@
    "field": "c1",
    "type": "text",
    "jp": "木製の謎箱",
-   "zh": "",
+   "zh": "木制神秘箱",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29778,7 +29778,7 @@
    "field": "c1",
    "type": "text",
    "jp": "銀製の謎箱",
-   "zh": "",
+   "zh": "银制神秘箱",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29800,7 +29800,7 @@
    "field": "c1",
    "type": "text",
    "jp": "金玉",
-   "zh": "",
+   "zh": "金球",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29822,7 +29822,7 @@
    "field": "c1",
    "type": "text",
    "jp": "未配置",
-   "zh": "",
+   "zh": "未配置",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29844,7 +29844,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシ1",
-   "zh": "",
+   "zh": "魔女的证明1",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29865,7 +29865,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシ2",
-   "zh": "",
+   "zh": "魔女的证明2",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29886,7 +29886,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシ3",
-   "zh": "",
+   "zh": "魔女的证明3",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29907,7 +29907,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシ4",
-   "zh": "",
+   "zh": "魔女的证明4",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29928,7 +29928,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシ5",
-   "zh": "",
+   "zh": "魔女的证明5",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29949,7 +29949,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシ6",
-   "zh": "",
+   "zh": "魔女的证明6",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,
@@ -29970,7 +29970,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシ7",
-   "zh": "",
+   "zh": "魔女的证明7",
    "loc": {
     "file": "CharacterStatus.dat",
     "dstart": 163392,

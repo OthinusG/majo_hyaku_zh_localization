@@ -15,7 +15,7 @@
 
 ## M1 — 角色名与系统 UI
 
-- [ ] **M1-01** CharacterStatus.dat，序号 876–1391（516 条），`CharacterStatus.dat#00000.c1` → `CharacterStatus.dat#00515.c1`
+- [x] **M1-01** CharacterStatus.dat，序号 876–1391（516 条），`CharacterStatus.dat#00000.c1` → `CharacterStatus.dat#00515.c1`
 - [ ] **M1-02** DemoText.dat（说话人），序号 1392–1650（259 条），`DemoText_Speakers#0001` → `DemoText_Speakers#0259`
 - [ ] **M1-03** GameString.dat，序号 14049–15048（1000 条），`GameString.dat#00000.c1` → `GameString.dat#01621.c1`
 - [ ] **M1-04** GameString.dat，序号 15049–15167（119 条），`GameString.dat#01623.c1` → `GameString.dat#01786.c1`
