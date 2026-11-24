@@ -394051,7 +394051,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メタリカ",
-   "zh": "",
+   "zh": "梅塔莉卡",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394073,7 +394073,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵",
-   "zh": "",
+   "zh": "百骑兵",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394095,7 +394095,7 @@
    "field": "c1",
    "type": "text",
    "jp": "「肯定」の意思を相手に伝えます",
-   "zh": "",
+   "zh": "向对方传达“肯定”意图",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394117,7 +394117,7 @@
    "field": "c1",
    "type": "text",
    "jp": "「否定」の意思を相手に伝えます",
-   "zh": "",
+   "zh": "向对方传达“否定”意图",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394139,7 +394139,7 @@
    "field": "c1",
    "type": "text",
    "jp": "「疑問」の意思を相手に伝えます",
-   "zh": "",
+   "zh": "向对方传达“疑问”意图",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394161,7 +394161,7 @@
    "field": "c1",
    "type": "text",
    "jp": "「無視」をします",
-   "zh": "",
+   "zh": "予以“无视”",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394183,7 +394183,7 @@
    "field": "c1",
    "type": "text",
    "jp": "買い物をする",
-   "zh": "",
+   "zh": "购物",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394205,7 +394205,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテムを売る",
-   "zh": "",
+   "zh": "出售道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394227,7 +394227,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ショップスキル",
-   "zh": "",
+   "zh": "商店技能",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394249,7 +394249,7 @@
    "field": "c1",
    "type": "text",
    "jp": "みかじめ料を徴収",
-   "zh": "",
+   "zh": "征收保护费",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394271,7 +394271,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ショップから出る",
-   "zh": "",
+   "zh": "离开商店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394293,7 +394293,7 @@
    "field": "c1",
    "type": "text",
    "jp": "購入",
-   "zh": "",
+   "zh": "购买",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394315,7 +394315,7 @@
    "field": "c1",
    "type": "text",
    "jp": "情報切替",
-   "zh": "",
+   "zh": "切换信息",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394337,7 +394337,7 @@
    "field": "c1",
    "type": "text",
    "jp": "決定",
-   "zh": "",
+   "zh": "确定",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394359,7 +394359,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戻る",
-   "zh": "",
+   "zh": "返回",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394381,7 +394381,7 @@
    "field": "c1",
    "type": "text",
    "jp": "値段",
-   "zh": "",
+   "zh": "价格",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394403,7 +394403,7 @@
    "field": "c1",
    "type": "text",
    "jp": "購入",
-   "zh": "",
+   "zh": "购买",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394425,7 +394425,7 @@
    "field": "c1",
    "type": "text",
    "jp": "所持数",
-   "zh": "",
+   "zh": "持有数",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394447,7 +394447,7 @@
    "field": "c1",
    "type": "text",
    "jp": "合計金額",
-   "zh": "",
+   "zh": "总计金额",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394469,7 +394469,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%10ld",
-   "zh": "",
+   "zh": "%10ld",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394490,7 +394490,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%10d",
-   "zh": "",
+   "zh": "%10d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394511,7 +394511,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%10d",
-   "zh": "",
+   "zh": "%10d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394532,7 +394532,7 @@
    "field": "c1",
    "type": "text",
    "jp": "未制圧の施設です！",
-   "zh": "",
+   "zh": "尚未压制的设施！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394554,7 +394554,7 @@
    "field": "c1",
    "type": "text",
    "jp": "すでにみかじめ料は徴収済みです！",
-   "zh": "",
+   "zh": "已经征收过保护费了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394576,7 +394576,7 @@
    "field": "c1",
    "type": "text",
    "jp": "みかじめ料が 0 Shellだった！",
-   "zh": "",
+   "zh": "保护费为 0 Shell！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394598,7 +394598,7 @@
    "field": "c1",
    "type": "text",
    "jp": "みかじめ料として%ld Shell手に入れた！",
-   "zh": "",
+   "zh": "征收到了%ld Shell保护费！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394620,7 +394620,7 @@
    "field": "c1",
    "type": "text",
    "jp": "割引額 %d％OFF!",
-   "zh": "",
+   "zh": "折扣 %d％OFF!",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394642,7 +394642,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ぼったくり %d％UP!",
-   "zh": "",
+   "zh": "宰客 %d％UP!",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394664,7 +394664,7 @@
    "field": "c1",
    "type": "text",
    "jp": "選択したアイテムを購入します",
-   "zh": "",
+   "zh": "购买选中的道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394686,7 +394686,7 @@
    "field": "c1",
    "type": "text",
    "jp": "購入可能なアイテムはありません",
-   "zh": "",
+   "zh": "没有可购买的道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394708,7 +394708,7 @@
    "field": "c1",
    "type": "text",
    "jp": "高価買取 %d％UP!",
-   "zh": "",
+   "zh": "高价收购 %d％UP!",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394730,7 +394730,7 @@
    "field": "c1",
    "type": "text",
    "jp": "買い叩き %d％UP!",
-   "zh": "",
+   "zh": "恶意压价 %d％UP!",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394752,7 +394752,7 @@
    "field": "c1",
    "type": "text",
    "jp": "売却するアイテムを選択してください",
-   "zh": "",
+   "zh": "请选择要出售的道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394774,7 +394774,7 @@
    "field": "c1",
    "type": "text",
    "jp": "売却可能なアイテムはありません",
-   "zh": "",
+   "zh": "没有可出售的道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394796,7 +394796,7 @@
    "field": "c1",
    "type": "text",
    "jp": "すべてのアイテム",
-   "zh": "",
+   "zh": "全部道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394818,7 +394818,7 @@
    "field": "c1",
    "type": "text",
    "jp": "タイプA",
-   "zh": "",
+   "zh": "类型A",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394840,7 +394840,7 @@
    "field": "c1",
    "type": "text",
    "jp": "タイプB",
-   "zh": "",
+   "zh": "类型B",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394862,7 +394862,7 @@
    "field": "c1",
    "type": "text",
    "jp": "タイプC",
-   "zh": "",
+   "zh": "类型C",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394884,7 +394884,7 @@
    "field": "c1",
    "type": "text",
    "jp": "再生",
-   "zh": "",
+   "zh": "播放",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394906,7 +394906,7 @@
    "field": "c1",
    "type": "text",
    "jp": "終了",
-   "zh": "",
+   "zh": "结束",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394928,7 +394928,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%ldShell",
-   "zh": "",
+   "zh": "%ldShell",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394950,7 +394950,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%ldマナ",
-   "zh": "",
+   "zh": "%ld玛那",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394972,7 +394972,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コモン",
-   "zh": "",
+   "zh": "普通",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -394994,7 +394994,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レア",
-   "zh": "",
+   "zh": "稀有",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395016,7 +395016,7 @@
    "field": "c1",
    "type": "text",
    "jp": "エピック",
-   "zh": "",
+   "zh": "史诗",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395038,7 +395038,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レジェンダリー",
-   "zh": "",
+   "zh": "传说",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395060,7 +395060,7 @@
    "field": "c1",
    "type": "text",
    "jp": "鋳掛錬成を行います",
-   "zh": "",
+   "zh": "进行补锅炼成",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395082,7 +395082,7 @@
    "field": "c1",
    "type": "text",
    "jp": "鋳掛錬成の説明を見ます",
-   "zh": "",
+   "zh": "查看补锅炼成的说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395104,7 +395104,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マーニィの鋳掛屋から出ます",
-   "zh": "",
+   "zh": "离开玛妮的补锅铺",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395126,7 +395126,7 @@
    "field": "c1",
    "type": "text",
    "jp": "鋳掛錬成を行う",
-   "zh": "",
+   "zh": "进行补锅炼成",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395148,7 +395148,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395170,7 +395170,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マーニィの鋳掛屋を出る",
-   "zh": "",
+   "zh": "离开玛妮的补锅铺",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395192,7 +395192,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マナ",
-   "zh": "",
+   "zh": "玛那",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395214,7 +395214,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ベースとなるアイテムを選択してください",
-   "zh": "",
+   "zh": "请选择作为基底的道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395236,7 +395236,7 @@
    "field": "c1",
    "type": "text",
    "jp": "媒介を選択してください",
-   "zh": "",
+   "zh": "请选择媒介",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395258,7 +395258,7 @@
    "field": "c1",
    "type": "text",
    "jp": "合成素材を選択してください",
-   "zh": "",
+   "zh": "请选择合成素材",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395280,7 +395280,7 @@
    "field": "c1",
    "type": "text",
    "jp": "鋳掛錬成を実行します",
-   "zh": "",
+   "zh": "执行补锅炼成",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395302,7 +395302,7 @@
    "field": "c1",
    "type": "text",
    "jp": "媒介アイテムを持っていません！",
-   "zh": "",
+   "zh": "未持有媒介道具！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395324,7 +395324,7 @@
    "field": "c1",
    "type": "text",
    "jp": "選択可能なアイテムを持っていません！",
-   "zh": "",
+   "zh": "未持有可选道具！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395346,7 +395346,7 @@
    "field": "c1",
    "type": "text",
    "jp": "の合成に成功しました！",
-   "zh": "",
+   "zh": "合成成功！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395368,7 +395368,7 @@
    "field": "c1",
    "type": "text",
    "jp": "が",
-   "zh": "",
+   "zh": "的",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395390,7 +395390,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテムレベル %d に",
-   "zh": "",
+   "zh": "道具等级变为 %d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395412,7 +395412,7 @@
    "field": "c1",
    "type": "text",
    "jp": "なりました！",
-   "zh": "",
+   "zh": "了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395434,7 +395434,7 @@
    "field": "c1",
    "type": "text",
    "jp": "1枚",
-   "zh": "",
+   "zh": "1张",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395456,7 +395456,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Shellになります",
-   "zh": "",
+   "zh": "Shell",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395478,7 +395478,7 @@
    "field": "c1",
    "type": "text",
    "jp": "購入チップ",
-   "zh": "",
+   "zh": "购买筹码",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395500,7 +395500,7 @@
    "field": "c1",
    "type": "text",
    "jp": "枚",
-   "zh": "",
+   "zh": "张",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395522,7 +395522,7 @@
    "field": "c1",
    "type": "text",
    "jp": "購入金額",
-   "zh": "",
+   "zh": "购买金额",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395544,7 +395544,7 @@
    "field": "c1",
    "type": "text",
    "jp": "購入してもよろしいですか？",
-   "zh": "",
+   "zh": "确定要购买吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395566,7 +395566,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女嘆願書",
-   "zh": "",
+   "zh": "魔女请愿书",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395588,7 +395588,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女注文",
-   "zh": "",
+   "zh": "魔女委托",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395610,7 +395610,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395632,7 +395632,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女様謁見の間を出る",
-   "zh": "",
+   "zh": "离开魔女大人觐见厅",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395654,7 +395654,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女嘆願書を確認します",
-   "zh": "",
+   "zh": "查看魔女请愿书",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395676,7 +395676,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女注文を確認します",
-   "zh": "",
+   "zh": "查看魔女委托",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395698,7 +395698,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明を確認します",
-   "zh": "",
+   "zh": "查看说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395720,7 +395720,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女様謁見の間を出ます",
-   "zh": "",
+   "zh": "离开魔女大人觐见厅",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395742,7 +395742,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アニマ",
-   "zh": "",
+   "zh": "阿尼玛",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395764,7 +395764,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ノーマルイマーゴ",
-   "zh": "",
+   "zh": "普通意象",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395785,7 +395785,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ミシルシイマーゴ",
-   "zh": "",
+   "zh": "首级意象",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395806,7 +395806,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395827,7 +395827,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ファンタスマゴリアを出る",
-   "zh": "",
+   "zh": "离开幻影之境",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395848,7 +395848,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛したモンスターを選択してダンジョンへ移動します",
-   "zh": "",
+   "zh": "选择捕获的魔物并前往迷宫",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395869,7 +395869,7 @@
    "field": "c1",
    "type": "text",
    "jp": "所持している魔女のミシルシを選択してダンジョンへ移動します",
-   "zh": "",
+   "zh": "选择持有的魔女之证并前往迷宫",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395890,7 +395890,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395911,7 +395911,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ファンタスマゴリアを出る",
-   "zh": "",
+   "zh": "离开幻影之境",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395932,7 +395932,7 @@
    "field": "c1",
    "type": "text",
    "jp": "キャラレベル1開始",
-   "zh": "",
+   "zh": "角色等级1开始",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395953,7 +395953,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム持ち込み禁止",
-   "zh": "",
+   "zh": "禁止携带道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395974,7 +395974,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トーチカ使用禁止",
-   "zh": "",
+   "zh": "禁止使用战术火炬",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -395995,7 +395995,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サブジョブ禁止",
-   "zh": "",
+   "zh": "禁止使用副职业",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396016,7 +396016,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マップサイズ制限",
-   "zh": "",
+   "zh": "地图大小限制",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396037,7 +396037,7 @@
    "field": "c1",
    "type": "text",
    "jp": "カロリー30%開始",
-   "zh": "",
+   "zh": "热量30%开始",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396058,7 +396058,7 @@
    "field": "c1",
    "type": "text",
    "jp": "暗闇マップ",
-   "zh": "",
+   "zh": "黑暗地图",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396079,7 +396079,7 @@
    "field": "c1",
    "type": "text",
    "jp": "精神交信",
-   "zh": "",
+   "zh": "精神交信",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396100,7 +396100,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の虜情報",
-   "zh": "",
+   "zh": "魔女之俘信息",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396121,7 +396121,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396142,7 +396142,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ラブハウスを出る",
-   "zh": "",
+   "zh": "离开爱之屋",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396163,7 +396163,7 @@
    "field": "c1",
    "type": "text",
    "jp": "決定",
-   "zh": "",
+   "zh": "确定",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396184,7 +396184,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戻る",
-   "zh": "",
+   "zh": "返回",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396205,7 +396205,7 @@
    "field": "c1",
    "type": "text",
    "jp": "虜の管理",
-   "zh": "",
+   "zh": "俘虏管理",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396226,7 +396226,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店管理",
-   "zh": "",
+   "zh": "魔女商店管理",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396247,7 +396247,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396268,7 +396268,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の躾部屋を出る",
-   "zh": "",
+   "zh": "离开魔女调教屋",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396289,7 +396289,7 @@
    "field": "c1",
    "type": "text",
    "jp": "決定",
-   "zh": "",
+   "zh": "确定",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396310,7 +396310,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戻る",
-   "zh": "",
+   "zh": "返回",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396331,7 +396331,7 @@
    "field": "c1",
    "type": "text",
    "jp": "内容物のチェック",
-   "zh": "",
+   "zh": "查看收纳物品",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396353,7 +396353,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテムの使用",
-   "zh": "",
+   "zh": "使用道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396375,7 +396375,7 @@
    "field": "c1",
    "type": "text",
    "jp": "情報切替",
-   "zh": "",
+   "zh": "切换信息",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396397,7 +396397,7 @@
    "field": "c1",
    "type": "text",
    "jp": "決定",
-   "zh": "",
+   "zh": "确定",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396419,7 +396419,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戻る",
-   "zh": "",
+   "zh": "返回",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396441,7 +396441,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヘルプ",
-   "zh": "",
+   "zh": "帮助",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396463,7 +396463,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマックアイテム一覧です。",
-   "zh": "",
+   "zh": "胃袋库存的道具一览。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396485,7 +396485,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマックが空っぽです。",
-   "zh": "",
+   "zh": "胃袋库存是空的。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396507,7 +396507,7 @@
    "field": "c1",
    "type": "text",
    "jp": "情報切替",
-   "zh": "",
+   "zh": "切换信息",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396529,7 +396529,7 @@
    "field": "c1",
    "type": "text",
    "jp": "何も入っていません。",
-   "zh": "",
+   "zh": "里面什么都没有。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396551,7 +396551,7 @@
    "field": "c1",
    "type": "text",
    "jp": "未解放の拡張エリアです。",
-   "zh": "",
+   "zh": "尚未开放的扩展区域。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396573,7 +396573,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%d個/%d個",
-   "zh": "",
+   "zh": "%d个/%d个",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396595,7 +396595,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヴァンダースタック",
-   "zh": "",
+   "zh": "游荡储备仓",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396616,7 +396616,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女トークンの納品",
-   "zh": "",
+   "zh": "缴纳魔女代币",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396637,7 +396637,7 @@
    "field": "c1",
    "type": "text",
    "jp": "景品リスト",
-   "zh": "",
+   "zh": "奖品列表",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396658,7 +396658,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396679,7 +396679,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヴァンダーカンマーを出る",
-   "zh": "",
+   "zh": "离开游荡商人",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396700,7 +396700,7 @@
    "field": "c1",
    "type": "text",
    "jp": "個",
-   "zh": "",
+   "zh": "个",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396721,7 +396721,7 @@
    "field": "c1",
    "type": "text",
    "jp": "個",
-   "zh": "",
+   "zh": "个",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396742,7 +396742,7 @@
    "field": "c1",
    "type": "text",
    "jp": "決定",
-   "zh": "",
+   "zh": "确定",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396763,7 +396763,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戻る",
-   "zh": "",
+   "zh": "返回",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396784,7 +396784,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ミールさん",
-   "zh": "",
+   "zh": "米尔先生",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396805,7 +396805,7 @@
    "field": "c1",
    "type": "text",
    "jp": "父親を選択してください",
-   "zh": "",
+   "zh": "请选择父亲",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396826,7 +396826,7 @@
    "field": "c1",
    "type": "text",
    "jp": "母親を選択してください",
-   "zh": "",
+   "zh": "请选择母亲",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396847,7 +396847,7 @@
    "field": "c1",
    "type": "text",
    "jp": "解約金",
-   "zh": "",
+   "zh": "解约金",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396868,7 +396868,7 @@
    "field": "c1",
    "type": "text",
    "jp": "評価ポイント",
-   "zh": "",
+   "zh": "评价点数",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396889,7 +396889,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マナ",
-   "zh": "",
+   "zh": "玛那",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396910,7 +396910,7 @@
    "field": "c1",
    "type": "text",
    "jp": "錬金術を行う",
-   "zh": "",
+   "zh": "进行炼金术",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396931,7 +396931,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レシピを使う",
-   "zh": "",
+   "zh": "使用配方",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396952,7 +396952,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396973,7 +396973,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の錬金術から出る",
-   "zh": "",
+   "zh": "退出魔女炼金术",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -396994,7 +396994,7 @@
    "field": "c1",
    "type": "text",
    "jp": "決定",
-   "zh": "",
+   "zh": "确定",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397015,7 +397015,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戻る",
-   "zh": "",
+   "zh": "返回",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397036,7 +397036,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マナ",
-   "zh": "",
+   "zh": "玛那",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397057,7 +397057,7 @@
    "field": "c1",
    "type": "text",
    "jp": "錬金術を行います",
-   "zh": "",
+   "zh": "进行炼金术",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397078,7 +397078,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チュートリアルを見ます",
-   "zh": "",
+   "zh": "查看教学指南",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397099,7 +397099,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の錬金術から出ます",
-   "zh": "",
+   "zh": "退出魔女炼金术",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397120,7 +397120,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レシピを選んでください",
-   "zh": "",
+   "zh": "请选择配方",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397141,7 +397141,7 @@
    "field": "c1",
    "type": "text",
    "jp": "錬金可能なアイテムはありません",
-   "zh": "",
+   "zh": "没有可炼金的道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397162,7 +397162,7 @@
    "field": "c1",
    "type": "text",
    "jp": "錬金可能なレシピはありません",
-   "zh": "",
+   "zh": "没有可炼金的配方",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397183,7 +397183,7 @@
    "field": "c1",
    "type": "text",
    "jp": "初級レシピ集",
-   "zh": "",
+   "zh": "初级配方集",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397204,7 +397204,7 @@
    "field": "c1",
    "type": "text",
    "jp": "中級レシピ集",
-   "zh": "",
+   "zh": "中级配方集",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397225,7 +397225,7 @@
    "field": "c1",
    "type": "text",
    "jp": "上級レシピ集",
-   "zh": "",
+   "zh": "高级配方集",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397246,7 +397246,7 @@
    "field": "c1",
    "type": "text",
    "jp": "神器レシピ集",
-   "zh": "",
+   "zh": "神器配方集",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397267,7 +397267,7 @@
    "field": "c1",
    "type": "text",
    "jp": "必要な素材を確認してください",
-   "zh": "",
+   "zh": "请确认所需素材",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397288,7 +397288,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%10ldマナ",
-   "zh": "",
+   "zh": "%10ld玛那",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397309,7 +397309,7 @@
    "field": "c1",
    "type": "text",
    "jp": "作成可能です",
-   "zh": "",
+   "zh": "可制作",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397330,7 +397330,7 @@
    "field": "c1",
    "type": "text",
    "jp": "材料を選択してください",
-   "zh": "",
+   "zh": "请选择素材",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397351,7 +397351,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sは",
-   "zh": "",
+   "zh": "%s将会",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397372,7 +397372,7 @@
    "field": "c1",
    "type": "text",
    "jp": "消滅しますがよろしいですか？",
-   "zh": "",
+   "zh": "消失，确定要继续吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397393,7 +397393,7 @@
    "field": "c1",
    "type": "text",
    "jp": "監修する虜を選んでください",
-   "zh": "",
+   "zh": "请选择负责监修的俘虏",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397414,7 +397414,7 @@
    "field": "c1",
    "type": "text",
    "jp": "とても良い相性です",
-   "zh": "",
+   "zh": "契合度极佳",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397435,7 +397435,7 @@
    "field": "c1",
    "type": "text",
    "jp": "良い相性です",
-   "zh": "",
+   "zh": "契合度良好",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397456,7 +397456,7 @@
    "field": "c1",
    "type": "text",
    "jp": "そこそこの相性です",
-   "zh": "",
+   "zh": "契合度尚可",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397477,7 +397477,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ぼちぼちな相性です",
-   "zh": "",
+   "zh": "契合度平平",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397498,7 +397498,7 @@
    "field": "c1",
    "type": "text",
    "jp": "残念な相性です",
-   "zh": "",
+   "zh": "契合度很差",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397519,7 +397519,7 @@
    "field": "c1",
    "type": "text",
    "jp": "相性最悪です",
-   "zh": "",
+   "zh": "契合度最差",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397540,7 +397540,7 @@
    "field": "c1",
    "type": "text",
    "jp": "虜玉の捕縛解除",
-   "zh": "",
+   "zh": "解除俘虏宝玉的束缚",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397561,7 +397561,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛解除する虜玉を選んでください",
-   "zh": "",
+   "zh": "请选择要解除束缚的俘虏宝玉",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397582,7 +397582,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛解除する虜玉を選んでください",
-   "zh": "",
+   "zh": "请选择要解除束缚的俘虏宝玉",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397603,7 +397603,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛解除に %ld マナ",
-   "zh": "",
+   "zh": "解除束缚需要花费 %ld 玛那，",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397624,7 +397624,7 @@
    "field": "c1",
    "type": "text",
    "jp": "かかりますがよろしいですか？",
-   "zh": "",
+   "zh": "确定要进行吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397645,7 +397645,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛を解除しました！",
-   "zh": "",
+   "zh": "已解除束缚！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397666,7 +397666,7 @@
    "field": "c1",
    "type": "text",
    "jp": "虜の管理を行います",
-   "zh": "",
+   "zh": "进行俘虏管理",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397687,7 +397687,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店の管理を行います",
-   "zh": "",
+   "zh": "进行魔女商店管理",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397708,7 +397708,7 @@
    "field": "c1",
    "type": "text",
    "jp": "虜玉の捕縛解除を行います",
-   "zh": "",
+   "zh": "解除俘虏宝玉的束缚",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397729,7 +397729,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明を見ます",
-   "zh": "",
+   "zh": "查看说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397750,7 +397750,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の躾部屋から出ます",
-   "zh": "",
+   "zh": "离开魔女调教室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397771,7 +397771,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛解除可能な虜玉を持っていません",
-   "zh": "",
+   "zh": "没有可解除束缚的俘虏宝玉",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397792,7 +397792,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メニュー１",
-   "zh": "",
+   "zh": "菜单１",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397813,7 +397813,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メニュー２",
-   "zh": "",
+   "zh": "菜单２",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397834,7 +397834,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メニュー３",
-   "zh": "",
+   "zh": "菜单３",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397855,7 +397855,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メニュー４",
-   "zh": "",
+   "zh": "菜单４",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397876,7 +397876,7 @@
    "field": "c1",
    "type": "text",
    "jp": "両親が同じモンスターです",
-   "zh": "",
+   "zh": "双亲为同一种魔物",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397897,7 +397897,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マナが足りません",
-   "zh": "",
+   "zh": "玛那不足",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397918,7 +397918,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシは父体に出来ない！",
-   "zh": "",
+   "zh": "无法将魔女的证明作为父体！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397939,7 +397939,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシは処刑できそうにない！",
-   "zh": "",
+   "zh": "似乎无法对魔女的证明进行处刑！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397960,7 +397960,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシは尋問できそうにない！",
-   "zh": "",
+   "zh": "似乎无法对魔女的证明进行审问！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -397981,7 +397981,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシは仲間にすることは出来ない！",
-   "zh": "",
+   "zh": "无法将魔女的证明收为同伴！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398002,7 +398002,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム袋",
-   "zh": "",
+   "zh": "道具袋",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398024,7 +398024,7 @@
    "field": "c1",
    "type": "text",
    "jp": "使う",
-   "zh": "",
+   "zh": "使用",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398046,7 +398046,7 @@
    "field": "c1",
    "type": "text",
    "jp": "登録",
-   "zh": "",
+   "zh": "登记",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398068,7 +398068,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテムの移動先を選択してください。",
-   "zh": "",
+   "zh": "请选择道具的移动目的地。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398090,7 +398090,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sが持てない状態です。",
-   "zh": "",
+   "zh": "当前无法携带%s。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398112,7 +398112,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテムは廃棄されますが宜しいですか？",
-   "zh": "",
+   "zh": "道具将被丢弃，确定要继续吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398134,7 +398134,7 @@
    "field": "c1",
    "type": "text",
    "jp": "溢れていたアイテム「%s」を",
-   "zh": "",
+   "zh": "已将溢出的道具「%s」",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398156,7 +398156,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム袋に入れました！",
-   "zh": "",
+   "zh": "放入道具袋中！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398178,7 +398178,7 @@
    "field": "c1",
    "type": "text",
    "jp": "力づくで虜に躾を施し、仕事の基本を体",
-   "zh": "",
+   "zh": "凭借武力管教俘虏，将工作基本要领",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398199,7 +398199,7 @@
    "field": "c1",
    "type": "text",
    "jp": "に叩き込みます。躾が成功すると、",
-   "zh": "",
+   "zh": "深深印入其身体。调教成功后，",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398220,7 +398220,7 @@
    "field": "c1",
    "type": "text",
    "jp": "能力』が★１～３個アップします。",
-   "zh": "",
+   "zh": "能力』将提升★１～３颗。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398241,7 +398241,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説教で虜に躾を施し、仕事の基本を体",
-   "zh": "",
+   "zh": "凭借说教管教俘虏，将工作基本要领",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398262,7 +398262,7 @@
    "field": "c1",
    "type": "text",
    "jp": "に叩き込みます。躾が成功すると、",
-   "zh": "",
+   "zh": "深深印入其身体。调教成功后，",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398283,7 +398283,7 @@
    "field": "c1",
    "type": "text",
    "jp": "『やる気』が★１～３個アップします。",
-   "zh": "",
+   "zh": "『干劲』将提升★１～３颗。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398304,7 +398304,7 @@
    "field": "c1",
    "type": "text",
    "jp": "***で虜に躾を施し、仕事の基本を体",
-   "zh": "",
+   "zh": "凭借***管教俘虏，将工作基本要领",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398325,7 +398325,7 @@
    "field": "c1",
    "type": "text",
    "jp": "に叩き込みます。躾が成功すると、",
-   "zh": "",
+   "zh": "深深印入其身体。调教成功后，",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398346,7 +398346,7 @@
    "field": "c1",
    "type": "text",
    "jp": "『協調力』が★１～３個アップします。",
-   "zh": "",
+   "zh": "“协调力”提升★1～3个。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398367,7 +398367,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダウン",
-   "zh": "",
+   "zh": "下降",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398388,7 +398388,7 @@
    "field": "c1",
    "type": "text",
    "jp": "この躾を実行する",
-   "zh": "",
+   "zh": "执行这项管教",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398409,7 +398409,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の躾",
-   "zh": "",
+   "zh": "魔女的管教",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398430,7 +398430,7 @@
    "field": "c1",
    "type": "text",
    "jp": "懐柔作戦",
-   "zh": "",
+   "zh": "怀柔作战",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398451,7 +398451,7 @@
    "field": "c1",
    "type": "text",
    "jp": "放置する",
-   "zh": "",
+   "zh": "置之不理",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398472,7 +398472,7 @@
    "field": "c1",
    "type": "text",
    "jp": "処刑",
-   "zh": "",
+   "zh": "处刑",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398493,7 +398493,7 @@
    "field": "c1",
    "type": "text",
    "jp": "尋問",
-   "zh": "",
+   "zh": "审问",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398514,7 +398514,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398535,7 +398535,7 @@
    "field": "c1",
    "type": "text",
    "jp": "やめる",
-   "zh": "",
+   "zh": "放弃",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398556,7 +398556,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店",
-   "zh": "",
+   "zh": "魔女商店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398577,7 +398577,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メイドをする",
-   "zh": "",
+   "zh": "当女仆",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398598,7 +398598,7 @@
    "field": "c1",
    "type": "text",
    "jp": "里親に出す",
-   "zh": "",
+   "zh": "送去寄养",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398619,7 +398619,7 @@
    "field": "c1",
    "type": "text",
    "jp": "放置のおしおき",
-   "zh": "",
+   "zh": "放置惩罚",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398640,7 +398640,7 @@
    "field": "c1",
    "type": "text",
    "jp": "仲間にする",
-   "zh": "",
+   "zh": "收为同伴",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398661,7 +398661,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398682,7 +398682,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店について",
-   "zh": "",
+   "zh": "关于魔女商店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398703,7 +398703,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メイドをするについて",
-   "zh": "",
+   "zh": "关于当女仆",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398724,7 +398724,7 @@
    "field": "c1",
    "type": "text",
    "jp": "里親に出すについて",
-   "zh": "",
+   "zh": "关于送去寄养",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398745,7 +398745,7 @@
    "field": "c1",
    "type": "text",
    "jp": "放置のおしおきについて",
-   "zh": "",
+   "zh": "关于放置惩罚",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398766,7 +398766,7 @@
    "field": "c1",
    "type": "text",
    "jp": "仲間にするについて",
-   "zh": "",
+   "zh": "关于收为同伴",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398787,7 +398787,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明について",
-   "zh": "",
+   "zh": "关于说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398808,7 +398808,7 @@
    "field": "c1",
    "type": "text",
    "jp": "リビング",
-   "zh": "",
+   "zh": "客厅",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398830,7 +398830,7 @@
    "field": "c1",
    "type": "text",
    "jp": "研究室",
-   "zh": "",
+   "zh": "研究室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398852,7 +398852,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ベッドルーム",
-   "zh": "",
+   "zh": "卧室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398874,7 +398874,7 @@
    "field": "c1",
    "type": "text",
    "jp": "バスルーム",
-   "zh": "",
+   "zh": "浴室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398896,7 +398896,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ファセットチェンジ",
-   "zh": "",
+   "zh": "百骑兵形态变更",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398918,7 +398918,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の嘆願書",
-   "zh": "",
+   "zh": "魔女请愿书",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398940,7 +398940,7 @@
    "field": "c1",
    "type": "text",
    "jp": "沼の魔女邸を出る",
-   "zh": "",
+   "zh": "离开沼之魔女宅邸",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398962,7 +398962,7 @@
    "field": "c1",
    "type": "text",
    "jp": "リビングへ入ります。",
-   "zh": "",
+   "zh": "进入客厅。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -398984,7 +398984,7 @@
    "field": "c1",
    "type": "text",
    "jp": "研究室へ入ります。",
-   "zh": "",
+   "zh": "进入研究室。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399006,7 +399006,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ベッドルームへ入ります。",
-   "zh": "",
+   "zh": "进入卧室。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399028,7 +399028,7 @@
    "field": "c1",
    "type": "text",
    "jp": "バスルームへ入ります。",
-   "zh": "",
+   "zh": "进入浴室。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399050,7 +399050,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ファセットチェンジを行います。",
-   "zh": "",
+   "zh": "进行百骑兵形态变更。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399072,7 +399072,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の嘆願書を利用します。",
-   "zh": "",
+   "zh": "使用魔女请愿书。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399094,7 +399094,7 @@
    "field": "c1",
    "type": "text",
    "jp": "沼の魔女邸を出る。",
-   "zh": "",
+   "zh": "离开沼之魔女宅邸。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399116,7 +399116,7 @@
    "field": "c1",
    "type": "text",
    "jp": "エリアを選択してください",
-   "zh": "",
+   "zh": "请选择区域",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399137,7 +399137,7 @@
    "field": "c1",
    "type": "text",
    "jp": "エリアを選択してください",
-   "zh": "",
+   "zh": "请选择区域",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399158,7 +399158,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウィッチドミネーション",
-   "zh": "",
+   "zh": "魔女制压",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399179,7 +399179,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウィッチーズオーダーポイント",
-   "zh": "",
+   "zh": "魔女指令点数",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399200,7 +399200,7 @@
    "field": "c1",
    "type": "text",
    "jp": "支配率",
-   "zh": "",
+   "zh": "支配率",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399221,7 +399221,7 @@
    "field": "c1",
    "type": "text",
    "jp": "平均レベル",
-   "zh": "",
+   "zh": "平均等级",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399242,7 +399242,7 @@
    "field": "c1",
    "type": "text",
    "jp": "平均忠誠度",
-   "zh": "",
+   "zh": "平均忠诚度",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399263,7 +399263,7 @@
    "field": "c1",
    "type": "text",
    "jp": "家屋数",
-   "zh": "",
+   "zh": "房屋数",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399284,7 +399284,7 @@
    "field": "c1",
    "type": "text",
    "jp": "死者数",
-   "zh": "",
+   "zh": "死亡人数",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399305,7 +399305,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戸",
-   "zh": "",
+   "zh": "户",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399326,7 +399326,7 @@
    "field": "c1",
    "type": "text",
    "jp": "人",
-   "zh": "",
+   "zh": "人",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399347,7 +399347,7 @@
    "field": "c1",
    "type": "text",
    "jp": "投資する",
-   "zh": "",
+   "zh": "投资",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399368,7 +399368,7 @@
    "field": "c1",
    "type": "text",
    "jp": "指示する",
-   "zh": "",
+   "zh": "下达指示",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399389,7 +399389,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店を設定する",
-   "zh": "",
+   "zh": "开设魔女店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399410,7 +399410,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399431,7 +399431,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店本店を出る",
-   "zh": "",
+   "zh": "离开魔女店总店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399452,7 +399452,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店を設定します",
-   "zh": "",
+   "zh": "开设魔女店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399473,7 +399473,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明を見ます",
-   "zh": "",
+   "zh": "查看说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399494,7 +399494,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店本店から出ます",
-   "zh": "",
+   "zh": "离开魔女店总店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399515,7 +399515,7 @@
    "field": "c1",
    "type": "text",
    "jp": "次へ",
-   "zh": "",
+   "zh": "下一步",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399537,7 +399537,7 @@
    "field": "c1",
    "type": "text",
    "jp": "名前をつける",
-   "zh": "",
+   "zh": "起名",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399558,7 +399558,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ステータスの確認",
-   "zh": "",
+   "zh": "确认状态",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399579,7 +399579,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捨てる",
-   "zh": "",
+   "zh": "丢弃",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399600,7 +399600,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ななし",
-   "zh": "",
+   "zh": "无名",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399621,7 +399621,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マイホームに設定する",
-   "zh": "",
+   "zh": "设为据点住宅",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399642,7 +399642,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メイドを入れる",
-   "zh": "",
+   "zh": "安排女仆",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399663,7 +399663,7 @@
    "field": "c1",
    "type": "text",
    "jp": "里親になってもらう",
-   "zh": "",
+   "zh": "拜托成为养父母",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399684,7 +399684,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マイホームに設定しました！",
-   "zh": "",
+   "zh": "已设为据点住宅！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399705,7 +399705,7 @@
    "field": "c1",
    "type": "text",
    "jp": "この家の里親に出す魔女の虜を選んでください",
-   "zh": "",
+   "zh": "请选择要托付给这户人家的魔女俘虏",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399726,7 +399726,7 @@
    "field": "c1",
    "type": "text",
    "jp": "この家に入れるメイドを選んでください",
-   "zh": "",
+   "zh": "请选择安排进这栋房屋的女仆",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399747,7 +399747,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マイホームにしかメイドを入れることができません！",
-   "zh": "",
+   "zh": "只能在据点住宅中安排女仆！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399768,7 +399768,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（勝てそうだ！）",
-   "zh": "",
+   "zh": "（感觉能赢！）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399789,7 +399789,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（余裕で勝てそうだ！！）",
-   "zh": "",
+   "zh": "（感觉能轻松取胜！！）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399810,7 +399810,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（強そうだ･･･）",
-   "zh": "",
+   "zh": "（看起来很强……）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399831,7 +399831,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（かなり強いようだ･･･！）",
-   "zh": "",
+   "zh": "（看起来相当强悍……！）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399852,7 +399852,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（同じぐらいの強さだ）",
-   "zh": "",
+   "zh": "（实力不相上下）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399873,7 +399873,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%d％",
-   "zh": "",
+   "zh": "%d％",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399894,7 +399894,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（まったく忠誠心がない）",
-   "zh": "",
+   "zh": "（毫无忠诚心）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399915,7 +399915,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（少し忠誠心が出てきたようだ）",
-   "zh": "",
+   "zh": "（似乎稍微萌生了忠诚心）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399936,7 +399936,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（わりと忠誠を尽くしている）",
-   "zh": "",
+   "zh": "（还算效忠）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399957,7 +399957,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（かなり忠誠を尽くしている）",
-   "zh": "",
+   "zh": "（相当忠诚）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399978,7 +399978,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（すごく忠誠を尽くしている）",
-   "zh": "",
+   "zh": "（非常忠诚）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -399999,7 +399999,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（ものすごく忠誠を尽くしている）",
-   "zh": "",
+   "zh": "（竭尽全力效忠）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400020,7 +400020,7 @@
    "field": "c1",
    "type": "text",
    "jp": "家主:",
-   "zh": "",
+   "zh": "户主:",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400041,7 +400041,7 @@
    "field": "c1",
    "type": "text",
    "jp": "種別:",
-   "zh": "",
+   "zh": "种类：",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400062,7 +400062,7 @@
    "field": "c1",
    "type": "text",
    "jp": "主の魔女:",
-   "zh": "",
+   "zh": "效忠魔女：",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400083,7 +400083,7 @@
    "field": "c1",
    "type": "text",
    "jp": "忠誠度:",
-   "zh": "",
+   "zh": "忠诚度：",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400104,7 +400104,7 @@
    "field": "c1",
    "type": "text",
    "jp": "家宝:",
-   "zh": "",
+   "zh": "传家宝：",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400125,7 +400125,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スタッフ募集中",
-   "zh": "",
+   "zh": "招募员工中",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400146,7 +400146,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ここにシフトを入れることができます",
-   "zh": "",
+   "zh": "此处可以排班",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400167,7 +400167,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ここにシフトを入れることはできません",
-   "zh": "",
+   "zh": "此处无法排班",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400188,7 +400188,7 @@
    "field": "c1",
    "type": "text",
    "jp": "雇うスタッフを選択してください",
-   "zh": "",
+   "zh": "请选择要雇用的员工",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400209,7 +400209,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このキャラクターは既に他の職業に選択されているため、",
-   "zh": "",
+   "zh": "该角色已被选入其他职业，",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400230,7 +400230,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スタッフとして雇えません！",
-   "zh": "",
+   "zh": "无法作为员工雇用！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400251,7 +400251,7 @@
    "field": "c1",
    "type": "text",
    "jp": "タイプ：",
-   "zh": "",
+   "zh": "类型：",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400272,7 +400272,7 @@
    "field": "c1",
    "type": "text",
    "jp": "業種：",
-   "zh": "",
+   "zh": "行业：",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400293,7 +400293,7 @@
    "field": "c1",
    "type": "text",
    "jp": "店員数：",
-   "zh": "",
+   "zh": "店员数：",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400314,7 +400314,7 @@
    "field": "c1",
    "type": "text",
    "jp": "閉店する",
-   "zh": "",
+   "zh": "关店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400335,7 +400335,7 @@
    "field": "c1",
    "type": "text",
    "jp": "業種名変更",
-   "zh": "",
+   "zh": "变更行业名",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400356,7 +400356,7 @@
    "field": "c1",
    "type": "text",
    "jp": "店名変更",
-   "zh": "",
+   "zh": "变更店名",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400377,7 +400377,7 @@
    "field": "c1",
    "type": "text",
    "jp": "設定する魔女店を選んでください",
-   "zh": "",
+   "zh": "请选择要设定的魔女商店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400398,7 +400398,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店は一つもありません",
-   "zh": "",
+   "zh": "没有任何魔女商店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400419,7 +400419,7 @@
    "field": "c1",
    "type": "text",
    "jp": "解雇する",
-   "zh": "",
+   "zh": "解雇",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400440,7 +400440,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店に設定する",
-   "zh": "",
+   "zh": "设为魔女商店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400461,7 +400461,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店に設定しました！",
-   "zh": "",
+   "zh": "已设为魔女商店！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400482,7 +400482,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店に設定するウィッチダイナモを選択してください",
-   "zh": "",
+   "zh": "请选择要设为魔女商店的魔女发电机",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400503,7 +400503,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店の設定に必要なウィッチダイナモを持っていません！",
-   "zh": "",
+   "zh": "未持有设定魔女商店所需的魔女发电机！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400524,7 +400524,7 @@
    "field": "c1",
    "type": "text",
    "jp": "選択したウィッチダイナモは既に他の魔女店で使用されています",
-   "zh": "",
+   "zh": "所选的魔女发电机已在其他魔女商店中使用",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400545,7 +400545,7 @@
    "field": "c1",
    "type": "text",
    "jp": "既存の魔女店を閉店し、このウィッチダイナモを使用しますか？",
-   "zh": "",
+   "zh": "是否关闭现有的魔女商店并使用此魔女发电机？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400566,7 +400566,7 @@
    "field": "c1",
    "type": "text",
    "jp": "閉店しました",
-   "zh": "",
+   "zh": "已关店",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400587,7 +400587,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店の変更を行うとスキルに影響がでる可能性があります",
-   "zh": "",
+   "zh": "变更魔女商店可能会影响技能",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400608,7 +400608,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女店の変更を行いますか？",
-   "zh": "",
+   "zh": "确定要变更魔女商店吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400629,7 +400629,7 @@
    "field": "c1",
    "type": "text",
    "jp": "仲間にする",
-   "zh": "",
+   "zh": "收为同伴",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400650,7 +400650,7 @@
    "field": "c1",
    "type": "text",
    "jp": "可",
-   "zh": "",
+   "zh": "可",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400671,7 +400671,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不",
-   "zh": "",
+   "zh": "否",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400692,7 +400692,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキル装備",
-   "zh": "",
+   "zh": "装备技能",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400713,7 +400713,7 @@
    "field": "c1",
    "type": "text",
    "jp": "属性なし",
-   "zh": "",
+   "zh": "无属性",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400734,7 +400734,7 @@
    "field": "c1",
    "type": "text",
    "jp": "属性A",
-   "zh": "",
+   "zh": "属性A",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400755,7 +400755,7 @@
    "field": "c1",
    "type": "text",
    "jp": "属性B",
-   "zh": "",
+   "zh": "属性B",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400776,7 +400776,7 @@
    "field": "c1",
    "type": "text",
    "jp": "属性交換機",
-   "zh": "",
+   "zh": "属性交换机",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400797,7 +400797,7 @@
    "field": "c1",
    "type": "text",
    "jp": "未解放のチップです、スキル経験値を使用する事で解放できます",
-   "zh": "",
+   "zh": "未解锁的芯片，消耗技能经验值即可解锁",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400818,7 +400818,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ1",
-   "zh": "",
+   "zh": "技能类型1",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400839,7 +400839,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ2",
-   "zh": "",
+   "zh": "技能类型2",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400860,7 +400860,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ3",
-   "zh": "",
+   "zh": "技能类型3",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400881,7 +400881,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ4",
-   "zh": "",
+   "zh": "技能类型4",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400902,7 +400902,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ5",
-   "zh": "",
+   "zh": "技能类型5",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400923,7 +400923,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ6",
-   "zh": "",
+   "zh": "技能类型6",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400944,7 +400944,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ7",
-   "zh": "",
+   "zh": "技能类型7",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400965,7 +400965,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ8",
-   "zh": "",
+   "zh": "技能类型8",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -400986,7 +400986,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ9",
-   "zh": "",
+   "zh": "技能类型9",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401007,7 +401007,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ10",
-   "zh": "",
+   "zh": "技能类型10",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401028,7 +401028,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ11",
-   "zh": "",
+   "zh": "技能类型11",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401049,7 +401049,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ12",
-   "zh": "",
+   "zh": "技能类型12",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401070,7 +401070,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ13",
-   "zh": "",
+   "zh": "技能类型13",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401091,7 +401091,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ14",
-   "zh": "",
+   "zh": "技能类型14",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401112,7 +401112,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ15",
-   "zh": "",
+   "zh": "技能类型15",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401133,7 +401133,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ16",
-   "zh": "",
+   "zh": "技能类型16",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401154,7 +401154,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ17",
-   "zh": "",
+   "zh": "技能类型17",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401175,7 +401175,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ18",
-   "zh": "",
+   "zh": "技能类型18",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401196,7 +401196,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ19",
-   "zh": "",
+   "zh": "技能类型19",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401217,7 +401217,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ20",
-   "zh": "",
+   "zh": "技能类型20",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401238,7 +401238,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ21",
-   "zh": "",
+   "zh": "技能类型21",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401259,7 +401259,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ22",
-   "zh": "",
+   "zh": "技能类型22",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401280,7 +401280,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ23",
-   "zh": "",
+   "zh": "技能类型23",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401301,7 +401301,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ24",
-   "zh": "",
+   "zh": "技能类型24",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401322,7 +401322,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ25",
-   "zh": "",
+   "zh": "技能类型25",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401343,7 +401343,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ26",
-   "zh": "",
+   "zh": "技能类型26",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401364,7 +401364,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ27",
-   "zh": "",
+   "zh": "技能类型27",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401385,7 +401385,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ28",
-   "zh": "",
+   "zh": "技能类型28",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401406,7 +401406,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ29",
-   "zh": "",
+   "zh": "技能类型29",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401427,7 +401427,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキルタイプ30",
-   "zh": "",
+   "zh": "技能类型30",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401448,7 +401448,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ＯＮ・ＯＦＦ",
-   "zh": "",
+   "zh": "开·关",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401469,7 +401469,7 @@
    "field": "c1",
    "type": "text",
    "jp": "みかじめ料%ld Shellを",
-   "zh": "",
+   "zh": "保护费%ld Shell",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401490,7 +401490,7 @@
    "field": "c1",
    "type": "text",
    "jp": "徴収しますか？",
-   "zh": "",
+   "zh": "要进行征收吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401511,7 +401511,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このアイテムは選択できません！",
-   "zh": "",
+   "zh": "无法选择该道具！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401532,7 +401532,7 @@
    "field": "c1",
    "type": "text",
    "jp": "作成しますか？",
-   "zh": "",
+   "zh": "要进行制作吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401553,7 +401553,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウィッチーズタワーで遊ぶ",
-   "zh": "",
+   "zh": "游玩魔女之塔",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401574,7 +401574,7 @@
    "field": "c1",
    "type": "text",
    "jp": "景品を交換する",
-   "zh": "",
+   "zh": "兑换奖品",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401595,7 +401595,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明",
-   "zh": "",
+   "zh": "说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401616,7 +401616,7 @@
    "field": "c1",
    "type": "text",
    "jp": "カジノから出る",
-   "zh": "",
+   "zh": "离开赌场",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401637,7 +401637,7 @@
    "field": "c1",
    "type": "text",
    "jp": "遊びます",
-   "zh": "",
+   "zh": "开始游玩",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401658,7 +401658,7 @@
    "field": "c1",
    "type": "text",
    "jp": "景品と交換します",
-   "zh": "",
+   "zh": "兑换奖品",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401679,7 +401679,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明を見ます",
-   "zh": "",
+   "zh": "查看说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401700,7 +401700,7 @@
    "field": "c1",
    "type": "text",
    "jp": "店から出ます",
-   "zh": "",
+   "zh": "离开店铺",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401721,7 +401721,7 @@
    "field": "c1",
    "type": "text",
    "jp": "交換するアイテムを選んでください",
-   "zh": "",
+   "zh": "请选择要交换的道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401742,7 +401742,7 @@
    "field": "c1",
    "type": "text",
    "jp": "交換済み",
-   "zh": "",
+   "zh": "已交换",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401763,7 +401763,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sと",
-   "zh": "",
+   "zh": "确定要用%s",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401784,7 +401784,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%lldチップ",
-   "zh": "",
+   "zh": "交换%lld个筹码",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401805,7 +401805,7 @@
    "field": "c1",
    "type": "text",
    "jp": "を交換してもよろしいですか？",
-   "zh": "",
+   "zh": "吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401826,7 +401826,7 @@
    "field": "c1",
    "type": "text",
    "jp": "錬成を行うベースアイテムを選択してください",
-   "zh": "",
+   "zh": "请选择要进行炼制的基础道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401847,7 +401847,7 @@
    "field": "c1",
    "type": "text",
    "jp": "媒介を選択してください、媒介によって成功時のアイテムステータスが変化します",
-   "zh": "",
+   "zh": "请选择媒介，媒介不同，成功时的道具属性也会改变",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401868,7 +401868,7 @@
    "field": "c1",
    "type": "text",
    "jp": "合成するアイテムを選択してください、合成するアイテムは消滅します",
-   "zh": "",
+   "zh": "请选择要合成的道具，合成的道具将会消失",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401889,7 +401889,7 @@
    "field": "c1",
    "type": "text",
    "jp": "錬成を開始します",
-   "zh": "",
+   "zh": "开始炼制",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401910,7 +401910,7 @@
    "field": "c1",
    "type": "text",
    "jp": "通電状態のスキルチップがありません！",
-   "zh": "",
+   "zh": "没有处于通电状态的技能芯片！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401931,7 +401931,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%10lld",
-   "zh": "",
+   "zh": "%10lld",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401952,7 +401952,7 @@
    "field": "c1",
    "type": "text",
    "jp": "コインをこれ以上購入する事はできません",
-   "zh": "",
+   "zh": "无法购买更多硬币了",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401973,7 +401973,7 @@
    "field": "c1",
    "type": "text",
    "jp": "所持金が足りません",
-   "zh": "",
+   "zh": "持有的金钱不足",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -401994,7 +401994,7 @@
    "field": "c1",
    "type": "text",
    "jp": "装備するアイテムを選択してください。",
-   "zh": "",
+   "zh": "请选择要装备的道具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402016,7 +402016,7 @@
    "field": "c1",
    "type": "text",
    "jp": "一段目の攻撃に使用する武器を変更します。",
-   "zh": "",
+   "zh": "更改第1段攻击使用的武器。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402038,7 +402038,7 @@
    "field": "c1",
    "type": "text",
    "jp": "二段目の攻撃に使用する武器を変更します。",
-   "zh": "",
+   "zh": "更改第2段攻击使用的武器。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402060,7 +402060,7 @@
    "field": "c1",
    "type": "text",
    "jp": "三段目の攻撃に使用する武器を変更します。",
-   "zh": "",
+   "zh": "更改第3段攻击使用的武器。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402082,7 +402082,7 @@
    "field": "c1",
    "type": "text",
    "jp": "四段目の攻撃に使用する武器を変更します。",
-   "zh": "",
+   "zh": "更改第4段攻击使用的武器。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402104,7 +402104,7 @@
    "field": "c1",
    "type": "text",
    "jp": "五段目の攻撃に使用する武器を変更します。",
-   "zh": "",
+   "zh": "更改第5段攻击使用的武器。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402126,7 +402126,7 @@
    "field": "c1",
    "type": "text",
    "jp": "一つ目の防具を変更します。",
-   "zh": "",
+   "zh": "更改第一件防具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402148,7 +402148,7 @@
    "field": "c1",
    "type": "text",
    "jp": "二つ目の防具を変更します。",
-   "zh": "",
+   "zh": "更改第二件防具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402170,7 +402170,7 @@
    "field": "c1",
    "type": "text",
    "jp": "一つ目のアクセサリを変更します。",
-   "zh": "",
+   "zh": "更改第一件饰品。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402192,7 +402192,7 @@
    "field": "c1",
    "type": "text",
    "jp": "二つ目のアクセサリを変更します。",
-   "zh": "",
+   "zh": "更改第二件饰品。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402214,7 +402214,7 @@
    "field": "c1",
    "type": "text",
    "jp": "(空き)",
-   "zh": "",
+   "zh": "(空)",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402236,7 +402236,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このキャラクターに入ります",
-   "zh": "",
+   "zh": "进入该角色体内",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402257,7 +402257,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のミシルシルール",
-   "zh": "",
+   "zh": "魔女的证明规则",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402278,7 +402278,7 @@
    "field": "c1",
    "type": "text",
    "jp": "現在%2d階層まで",
-   "zh": "",
+   "zh": "目前最多%2d层",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402299,7 +402299,7 @@
    "field": "c1",
    "type": "text",
    "jp": "カロリー30%開始",
-   "zh": "",
+   "zh": "以卡路里30%开始",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402320,7 +402320,7 @@
    "field": "c1",
    "type": "text",
    "jp": "キャラレベル１開始",
-   "zh": "",
+   "zh": "以角色等级1开始",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402341,7 +402341,7 @@
    "field": "c1",
    "type": "text",
    "jp": "暗闇マップ",
-   "zh": "",
+   "zh": "黑暗地图",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402362,7 +402362,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サイズ",
-   "zh": "",
+   "zh": "尺寸",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402383,7 +402383,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム持ち込み禁止",
-   "zh": "",
+   "zh": "禁止携带道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402404,7 +402404,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サブジョブ禁止",
-   "zh": "",
+   "zh": "禁止副职业",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402425,7 +402425,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トーチカ禁止",
-   "zh": "",
+   "zh": "禁止战术火炬",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402446,7 +402446,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このキャラクターに",
-   "zh": "",
+   "zh": "确定选择",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402467,7 +402467,7 @@
    "field": "c1",
    "type": "text",
    "jp": "決定してもよろしいですか？",
-   "zh": "",
+   "zh": "这个角色吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402488,7 +402488,7 @@
    "field": "c1",
    "type": "text",
    "jp": "プレゼントするアイテムを選んでください",
-   "zh": "",
+   "zh": "请选择要赠送的道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402509,7 +402509,7 @@
    "field": "c1",
    "type": "text",
    "jp": "精神力が%d回復した！",
-   "zh": "",
+   "zh": "精神力恢复了%d！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402530,7 +402530,7 @@
    "field": "c1",
    "type": "text",
    "jp": "忠誠度が%dあがった！",
-   "zh": "",
+   "zh": "忠诚度提升了%d！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402551,7 +402551,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム袋が一杯です、整理を行ってください。",
-   "zh": "",
+   "zh": "道具袋已满，请进行整理。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402573,7 +402573,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム袋の整理を行って下さい。",
-   "zh": "",
+   "zh": "请整理道具袋。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402595,7 +402595,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム袋が一杯のため、",
-   "zh": "",
+   "zh": "由于道具袋已满，",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402617,7 +402617,7 @@
    "field": "c1",
    "type": "text",
    "jp": "現在使用できないアイテムです。",
-   "zh": "",
+   "zh": "当前无法使用该道具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402639,7 +402639,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを捨てました！",
-   "zh": "",
+   "zh": "丢弃了%s！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402661,7 +402661,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛したモンスターがいません",
-   "zh": "",
+   "zh": "没有捕获的魔物",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402682,7 +402682,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女のトークン",
-   "zh": "",
+   "zh": "魔女代币",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402703,7 +402703,7 @@
    "field": "c1",
    "type": "text",
    "jp": "個",
-   "zh": "",
+   "zh": "个",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402724,7 +402724,7 @@
    "field": "c1",
    "type": "text",
    "jp": "を取得してもよろしいですか？",
-   "zh": "",
+   "zh": "确定要获取吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402745,7 +402745,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヴァンダースタックを確認します",
-   "zh": "",
+   "zh": "确认游荡仓库",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402766,7 +402766,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女トークンの納品を確認します",
-   "zh": "",
+   "zh": "确认缴纳魔女代币",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402787,7 +402787,7 @@
    "field": "c1",
    "type": "text",
    "jp": "景品リストを確認します",
-   "zh": "",
+   "zh": "确认奖品列表",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402808,7 +402808,7 @@
    "field": "c1",
    "type": "text",
    "jp": "説明を見ます",
-   "zh": "",
+   "zh": "查看说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402829,7 +402829,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヴァンダーカンマーから出ます",
-   "zh": "",
+   "zh": "离开游荡商人",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402850,7 +402850,7 @@
    "field": "c1",
    "type": "text",
    "jp": "バストアップ読み込みに失敗",
-   "zh": "",
+   "zh": "半身立绘加载失败",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402872,7 +402872,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ランダム",
-   "zh": "",
+   "zh": "随机",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402894,7 +402894,7 @@
    "field": "c1",
    "type": "text",
    "jp": "決定",
-   "zh": "",
+   "zh": "确定",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402916,7 +402916,7 @@
    "field": "c1",
    "type": "text",
    "jp": "消去",
-   "zh": "",
+   "zh": "消除",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402938,7 +402938,7 @@
    "field": "c1",
    "type": "text",
    "jp": "中止",
-   "zh": "",
+   "zh": "取消",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402960,7 +402960,7 @@
    "field": "c1",
    "type": "text",
    "jp": "かな",
-   "zh": "",
+   "zh": "假名",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -402982,7 +402982,7 @@
    "field": "c1",
    "type": "text",
    "jp": "終わる",
-   "zh": "",
+   "zh": "结束",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403004,7 +403004,7 @@
    "field": "c1",
    "type": "text",
    "jp": "英  数",
-   "zh": "",
+   "zh": "英  数",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403026,7 +403026,7 @@
    "field": "c1",
    "type": "text",
    "jp": "現在選択できないキャラクターです",
-   "zh": "",
+   "zh": "当前无法选择该角色",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403047,7 +403047,7 @@
    "field": "c1",
    "type": "text",
    "jp": "どのキャラクターをホストとしてダンジョンを生成しますか？",
-   "zh": "",
+   "zh": "要以哪位角色作为宿主生成迷宫？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403068,7 +403068,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このキャラクターは現在お仕事中です",
-   "zh": "",
+   "zh": "该角色当前正在工作中",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403089,7 +403089,7 @@
    "field": "c1",
    "type": "text",
    "jp": "はい",
-   "zh": "",
+   "zh": "是",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403111,7 +403111,7 @@
    "field": "c1",
    "type": "text",
    "jp": "いいえ",
-   "zh": "",
+   "zh": "否",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403133,7 +403133,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ディソーダー",
-   "zh": "",
+   "zh": "混乱状态",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403155,7 +403155,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このキャラクターは既にコンプリート済みなので選択できません",
-   "zh": "",
+   "zh": "该角色已经完全收集完毕，无法选择",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403176,7 +403176,7 @@
    "field": "c1",
    "type": "text",
    "jp": "選択可能なアイテムが見つかりません！",
-   "zh": "",
+   "zh": "未找到可选择的道具！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403198,7 +403198,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このアイテムは装備中のため、選択できません！",
-   "zh": "",
+   "zh": "该道具正在装备中，无法选择！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403220,7 +403220,7 @@
    "field": "c1",
    "type": "text",
    "jp": "装備解除",
-   "zh": "",
+   "zh": "卸下装备",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403242,7 +403242,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを入手",
-   "zh": "",
+   "zh": "获得%s",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403264,7 +403264,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sレベルアップ！",
-   "zh": "",
+   "zh": "%s等级提升！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403286,7 +403286,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ボーナスランクアップ！！",
-   "zh": "",
+   "zh": "奖励等级提升！！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403308,7 +403308,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アニマを入手",
-   "zh": "",
+   "zh": "获得阿尼玛",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403330,7 +403330,7 @@
    "field": "c1",
    "type": "text",
    "jp": "を拾った！",
-   "zh": "",
+   "zh": "捡到了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403351,7 +403351,7 @@
    "field": "c1",
    "type": "text",
    "jp": "手応えはあったが、逃してしまったようだ…",
-   "zh": "",
+   "zh": "虽有咬钩手感，但好像还是让它逃掉了……",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403372,7 +403372,7 @@
    "field": "c1",
    "type": "text",
    "jp": "手応えがまったくなかった…",
-   "zh": "",
+   "zh": "完全没有任何咬钩动静……",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403393,7 +403393,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マイホームには投資できません",
-   "zh": "",
+   "zh": "无法对自己的住宅进行投资",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403414,7 +403414,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ショップには投資できません",
-   "zh": "",
+   "zh": "无法对商店进行投资",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403435,7 +403435,7 @@
    "field": "c1",
    "type": "text",
    "jp": "デバッグシーン",
-   "zh": "",
+   "zh": "调试场景",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403457,7 +403457,7 @@
    "field": "c1",
    "type": "text",
    "jp": "次の階層へ進む",
-   "zh": "",
+   "zh": "前往下一层",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403478,7 +403478,7 @@
    "field": "c1",
    "type": "text",
    "jp": "はじめから",
-   "zh": "",
+   "zh": "从头开始",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403499,7 +403499,7 @@
    "field": "c1",
    "type": "text",
    "jp": "つづきから",
-   "zh": "",
+   "zh": "继续游戏",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403520,7 +403520,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールドマップ",
-   "zh": "",
+   "zh": "原野地图",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403541,7 +403541,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ベースマップ",
-   "zh": "",
+   "zh": "据点地图",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403562,7 +403562,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ビューワー",
-   "zh": "",
+   "zh": "查看器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403583,7 +403583,7 @@
    "field": "c1",
    "type": "text",
    "jp": "移動",
-   "zh": "",
+   "zh": "移动",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403605,7 +403605,7 @@
    "field": "c1",
    "type": "text",
    "jp": "廃棄",
-   "zh": "",
+   "zh": "舍弃",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403627,7 +403627,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを捨てますか？",
-   "zh": "",
+   "zh": "要舍弃%s吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403649,7 +403649,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ソート",
-   "zh": "",
+   "zh": "排序",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403671,7 +403671,7 @@
    "field": "c1",
    "type": "text",
    "jp": "情報",
-   "zh": "",
+   "zh": "信息",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403693,7 +403693,7 @@
    "field": "c1",
    "type": "text",
    "jp": "名前を入力して下さい",
-   "zh": "",
+   "zh": "请输入名字",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403714,7 +403714,7 @@
    "field": "c1",
    "type": "text",
    "jp": "嘆願書一覧です。",
-   "zh": "",
+   "zh": "请愿书一览。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403736,7 +403736,7 @@
    "field": "c1",
    "type": "text",
    "jp": "選択できる嘆願書はありません。",
-   "zh": "",
+   "zh": "没有可选择的请愿书。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403758,7 +403758,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテムを選択してください。",
-   "zh": "",
+   "zh": "请选择道具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403780,7 +403780,7 @@
    "field": "c1",
    "type": "text",
    "jp": "集落を選択してください",
-   "zh": "",
+   "zh": "请选择村落",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403801,7 +403801,7 @@
    "field": "c1",
    "type": "text",
    "jp": "家を選択してください",
-   "zh": "",
+   "zh": "请选择民宅",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403822,7 +403822,7 @@
    "field": "c1",
    "type": "text",
    "jp": "指示を選択してください",
-   "zh": "",
+   "zh": "请选择指示",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403843,7 +403843,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキップ",
-   "zh": "",
+   "zh": "跳过",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403864,7 +403864,7 @@
    "field": "c1",
    "type": "text",
    "jp": "撃破金勲章：１００体以上撃破した王者に贈られる。 ",
-   "zh": "",
+   "zh": "击破金勋章：授予击破100体以上的王者。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403885,7 +403885,7 @@
    "field": "c1",
    "type": "text",
    "jp": "撃破銀勲章：５０体以上撃破したベテランに贈られる。 ",
-   "zh": "",
+   "zh": "击破银勋章：授予击破50体以上的老手。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403906,7 +403906,7 @@
    "field": "c1",
    "type": "text",
    "jp": "撃破勲章：３体以上撃破した初心者に贈られる。 ",
-   "zh": "",
+   "zh": "击破勋章：授予击破3体以上的新人。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403927,7 +403927,7 @@
    "field": "c1",
    "type": "text",
    "jp": "防御金賞：ガード回数が１００回以上のガードマニアに贈られる。 ",
-   "zh": "",
+   "zh": "防御金奖：授予防御次数达100次以上的防御狂人。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403948,7 +403948,7 @@
    "field": "c1",
    "type": "text",
    "jp": "防御銀賞：ガード回数が５０回以上のガード野郎に贈られる。",
-   "zh": "",
+   "zh": "防御银奖：授予防御次数达50次以上的防御达人。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403969,7 +403969,7 @@
    "field": "c1",
    "type": "text",
    "jp": "防御賞：ガード回数が３回以上のガード好きに贈られる。",
-   "zh": "",
+   "zh": "防御奖：授予防御次数达3次以上的防御爱好者。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -403990,7 +403990,7 @@
    "field": "c1",
    "type": "text",
    "jp": "大被弾王：被ダメージが２００以上のドＭ御仁に贈られる。",
-   "zh": "",
+   "zh": "大中弹王：授予承受伤害达200以上的大Ｍ人士。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404011,7 +404011,7 @@
    "field": "c1",
    "type": "text",
    "jp": "被弾王：被ダメージが１００以上のＭ御仁に贈られる。",
-   "zh": "",
+   "zh": "中弹王：授予承受伤害达100以上的Ｍ人士。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404032,7 +404032,7 @@
    "field": "c1",
    "type": "text",
    "jp": "被弾好き：被ダメージが１０以上のプチＭ野郎に贈られる。",
-   "zh": "",
+   "zh": "中弹爱好者：授予承受伤害达10以上的小Ｍ人士。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404053,7 +404053,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト10",
-   "zh": "",
+   "zh": "勋章文本10",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404074,7 +404074,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト11",
-   "zh": "",
+   "zh": "勋章文本11",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404095,7 +404095,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト12",
-   "zh": "",
+   "zh": "勋章文本12",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404116,7 +404116,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト13",
-   "zh": "",
+   "zh": "勋章文本13",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404137,7 +404137,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト14",
-   "zh": "",
+   "zh": "勋章文本14",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404158,7 +404158,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト15",
-   "zh": "",
+   "zh": "勋章文本15",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404179,7 +404179,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト16",
-   "zh": "",
+   "zh": "勋章文本16",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404200,7 +404200,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト17",
-   "zh": "",
+   "zh": "勋章文本17",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404221,7 +404221,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト18",
-   "zh": "",
+   "zh": "勋章文本18",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404242,7 +404242,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト19",
-   "zh": "",
+   "zh": "勋章文本19",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404263,7 +404263,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト20",
-   "zh": "",
+   "zh": "勋章文本20",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404284,7 +404284,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト21",
-   "zh": "",
+   "zh": "勋章文本21",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404305,7 +404305,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト22",
-   "zh": "",
+   "zh": "勋章文本22",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404326,7 +404326,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト23",
-   "zh": "",
+   "zh": "勋章文本23",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404347,7 +404347,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト24",
-   "zh": "",
+   "zh": "勋章文本24",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404368,7 +404368,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト25",
-   "zh": "",
+   "zh": "勋章文本25",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404389,7 +404389,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト26",
-   "zh": "",
+   "zh": "勋章文本26",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404410,7 +404410,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト27",
-   "zh": "",
+   "zh": "勋章文本27",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404431,7 +404431,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト28",
-   "zh": "",
+   "zh": "勋章文本28",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404452,7 +404452,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト29",
-   "zh": "",
+   "zh": "勋章文本29",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404473,7 +404473,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト30",
-   "zh": "",
+   "zh": "勋章文本30",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404494,7 +404494,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト31",
-   "zh": "",
+   "zh": "勋章文本31",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404515,7 +404515,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト32",
-   "zh": "",
+   "zh": "勋章文本32",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404536,7 +404536,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト33",
-   "zh": "",
+   "zh": "勋章文本33",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404557,7 +404557,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト34",
-   "zh": "",
+   "zh": "勋章文本34",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404578,7 +404578,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト35",
-   "zh": "",
+   "zh": "勋章文本35",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404599,7 +404599,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト36",
-   "zh": "",
+   "zh": "勋章文本36",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404620,7 +404620,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト37",
-   "zh": "",
+   "zh": "勋章文本37",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404641,7 +404641,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト38",
-   "zh": "",
+   "zh": "勋章文本38",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404662,7 +404662,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト39",
-   "zh": "",
+   "zh": "勋章文本39",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404683,7 +404683,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト40",
-   "zh": "",
+   "zh": "勋章文本40",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404704,7 +404704,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト41",
-   "zh": "",
+   "zh": "勋章文本41",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404725,7 +404725,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト42",
-   "zh": "",
+   "zh": "勋章文本42",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404746,7 +404746,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト43",
-   "zh": "",
+   "zh": "勋章文本43",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404767,7 +404767,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト44",
-   "zh": "",
+   "zh": "勋章文本44",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404788,7 +404788,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト45",
-   "zh": "",
+   "zh": "勋章文本45",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404809,7 +404809,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト46",
-   "zh": "",
+   "zh": "勋章文本46",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404830,7 +404830,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト47",
-   "zh": "",
+   "zh": "勋章文本47",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404851,7 +404851,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト48",
-   "zh": "",
+   "zh": "勋章文本48",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404872,7 +404872,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト49",
-   "zh": "",
+   "zh": "勋章文本49",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404893,7 +404893,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト50",
-   "zh": "",
+   "zh": "勋章文本50",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404914,7 +404914,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト51",
-   "zh": "",
+   "zh": "勋章文本51",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404935,7 +404935,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト52",
-   "zh": "",
+   "zh": "勋章文本52",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404956,7 +404956,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト53",
-   "zh": "",
+   "zh": "勋章文本53",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404977,7 +404977,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト54",
-   "zh": "",
+   "zh": "勋章文本54",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -404998,7 +404998,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト55",
-   "zh": "",
+   "zh": "勋章文本55",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405019,7 +405019,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト56",
-   "zh": "",
+   "zh": "勋章文本56",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405040,7 +405040,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト57",
-   "zh": "",
+   "zh": "勋章文本57",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405061,7 +405061,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト58",
-   "zh": "",
+   "zh": "勋章文本58",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405082,7 +405082,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト59",
-   "zh": "",
+   "zh": "勋章文本59",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405103,7 +405103,7 @@
    "field": "c1",
    "type": "text",
    "jp": "勲章テキスト60",
-   "zh": "",
+   "zh": "勋章文本60",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405124,7 +405124,7 @@
    "field": "c1",
    "type": "text",
    "jp": " 獲得",
-   "zh": "",
+   "zh": "获得",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405146,7 +405146,7 @@
    "field": "c1",
    "type": "text",
    "jp": "獲得ボーナスなし",
-   "zh": "",
+   "zh": "未获得奖励",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405168,7 +405168,7 @@
    "field": "c1",
    "type": "text",
    "jp": "使用するストックストマックアイテムを選択してください。",
-   "zh": "",
+   "zh": "请选择要使用的胃袋仓库道具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405190,7 +405190,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サイドクエストはまだありません",
-   "zh": "",
+   "zh": "暂无支线任务",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405211,7 +405211,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ボーナスリスト",
-   "zh": "",
+   "zh": "奖励列表",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405233,7 +405233,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵のステータスを確認します。",
-   "zh": "",
+   "zh": "查看百骑兵的状态。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405255,7 +405255,7 @@
    "field": "c1",
    "type": "text",
    "jp": "装備を確認します。",
-   "zh": "",
+   "zh": "查看装备。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405277,7 +405277,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテムを確認します。",
-   "zh": "",
+   "zh": "查看道具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405299,7 +405299,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トーチカを確認します。",
-   "zh": "",
+   "zh": "查看战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405321,7 +405321,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマックを確認します。",
-   "zh": "",
+   "zh": "查看胃袋仓库。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405343,7 +405343,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マップを確認します。",
-   "zh": "",
+   "zh": "查看地图。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405365,7 +405365,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ボーナスリストを確認します。",
-   "zh": "",
+   "zh": "查看奖励列表。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405387,7 +405387,7 @@
    "field": "c1",
    "type": "text",
    "jp": "オプションを確認します。",
-   "zh": "",
+   "zh": "查看系统设置。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405409,7 +405409,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマックから",
-   "zh": "",
+   "zh": "从胃袋仓库中",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405431,7 +405431,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sしました。",
-   "zh": "",
+   "zh": "已%s。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405453,7 +405453,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム%d個を%sしました。",
-   "zh": "",
+   "zh": "已将%d个道具%s。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405475,7 +405475,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sできません（%d個）。",
-   "zh": "",
+   "zh": "无法%s（%d个）。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405497,7 +405497,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sできません（アイテム袋インデックス＝%d）。",
-   "zh": "",
+   "zh": "无法%s（道具袋索引＝%d）。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405519,7 +405519,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ガードしました（%d％→%d％）。",
-   "zh": "",
+   "zh": "已防御成功（%d％→%d％）。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405541,7 +405541,7 @@
    "field": "c1",
    "type": "text",
    "jp": "すでにガード率が１００％です。",
-   "zh": "",
+   "zh": "防御率已达到１００％。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405563,7 +405563,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ガード率の値がオーバーフロー（%d）。",
-   "zh": "",
+   "zh": "防御率数值溢出（%d）。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405585,7 +405585,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマックに対象のアイテムがありません。",
-   "zh": "",
+   "zh": "胃袋仓库中没有目标道具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405607,7 +405607,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストマックスロットからランダムで%d個を破壊しました。",
-   "zh": "",
+   "zh": "已从胃袋槽中随机破坏了%d个。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405629,7 +405629,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストマックスロット中にアイテムがありません。",
-   "zh": "",
+   "zh": "胃袋槽中没有道具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405651,7 +405651,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ここでは使用できないアイテムです。",
-   "zh": "",
+   "zh": "该道具无法在此处使用。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405673,7 +405673,7 @@
    "field": "c1",
    "type": "text",
    "jp": "破壊",
-   "zh": "",
+   "zh": "破坏",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405695,7 +405695,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サルベージ",
-   "zh": "",
+   "zh": "回收",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405717,7 +405717,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを使用する対象アイテムを選択してください",
-   "zh": "",
+   "zh": "请选择使用%s的目标道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405739,7 +405739,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%s",
-   "zh": "",
+   "zh": "%s",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405760,7 +405760,7 @@
    "field": "c1",
    "type": "text",
    "jp": "片手剣",
-   "zh": "",
+   "zh": "单手剑",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405782,7 +405782,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マジックトーチ",
-   "zh": "",
+   "zh": "魔法火炬",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405804,7 +405804,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ハンマー",
-   "zh": "",
+   "zh": "战锤",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405826,7 +405826,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦斧",
-   "zh": "",
+   "zh": "战斧",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405848,7 +405848,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ナイフ",
-   "zh": "",
+   "zh": "短刀",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405870,7 +405870,7 @@
    "field": "c1",
    "type": "text",
    "jp": "太刀",
-   "zh": "",
+   "zh": "太刀",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405892,7 +405892,7 @@
    "field": "c1",
    "type": "text",
    "jp": "破城槌",
-   "zh": "",
+   "zh": "破城槌",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405914,7 +405914,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ランス",
-   "zh": "",
+   "zh": "骑枪",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405936,7 +405936,7 @@
    "field": "c1",
    "type": "text",
    "jp": "槍",
-   "zh": "",
+   "zh": "长枪",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405958,7 +405958,7 @@
    "field": "c1",
    "type": "text",
    "jp": "鎌",
-   "zh": "",
+   "zh": "战镰",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -405980,7 +405980,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ブレイド",
-   "zh": "",
+   "zh": "利刃",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406002,7 +406002,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ナックル",
-   "zh": "",
+   "zh": "指虎",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406024,7 +406024,7 @@
    "field": "c1",
    "type": "text",
    "jp": "防具",
-   "zh": "",
+   "zh": "防具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406046,7 +406046,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アクセサリー",
-   "zh": "",
+   "zh": "饰品",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406068,7 +406068,7 @@
    "field": "c1",
    "type": "text",
    "jp": "拠点 マップ番号1",
-   "zh": "",
+   "zh": "据点 地图编号1",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406089,7 +406089,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号2",
-   "zh": "",
+   "zh": "原野 地图编号2",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406110,7 +406110,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号3",
-   "zh": "",
+   "zh": "原野 地图编号3",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406131,7 +406131,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号4",
-   "zh": "",
+   "zh": "原野 地图编号4",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406152,7 +406152,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号5",
-   "zh": "",
+   "zh": "原野 地图编号5",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406173,7 +406173,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号6",
-   "zh": "",
+   "zh": "原野 地图编号6",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406194,7 +406194,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号7",
-   "zh": "",
+   "zh": "原野 地图编号7",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406215,7 +406215,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号8",
-   "zh": "",
+   "zh": "原野 地图编号8",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406236,7 +406236,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号9",
-   "zh": "",
+   "zh": "原野 地图编号9",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406257,7 +406257,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号10",
-   "zh": "",
+   "zh": "原野 地图编号10",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406278,7 +406278,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号11",
-   "zh": "",
+   "zh": "原野 地图编号11",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406299,7 +406299,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号12",
-   "zh": "",
+   "zh": "原野 地图编号12",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406320,7 +406320,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号13",
-   "zh": "",
+   "zh": "原野 地图编号13",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406341,7 +406341,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号14",
-   "zh": "",
+   "zh": "原野 地图编号14",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406362,7 +406362,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号15",
-   "zh": "",
+   "zh": "原野 地图编号15",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406383,7 +406383,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号16",
-   "zh": "",
+   "zh": "原野 地图编号16",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406404,7 +406404,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号17",
-   "zh": "",
+   "zh": "原野 地图编号17",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406425,7 +406425,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号18",
-   "zh": "",
+   "zh": "原野 地图编号18",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406446,7 +406446,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号19",
-   "zh": "",
+   "zh": "原野 地图编号19",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406467,7 +406467,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号20",
-   "zh": "",
+   "zh": "原野 地图编号20",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406488,7 +406488,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号21",
-   "zh": "",
+   "zh": "原野 地图编号21",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406509,7 +406509,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号22",
-   "zh": "",
+   "zh": "原野 地图编号22",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406530,7 +406530,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号23",
-   "zh": "",
+   "zh": "原野 地图编号23",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406551,7 +406551,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号24",
-   "zh": "",
+   "zh": "原野 地图编号24",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406572,7 +406572,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号25",
-   "zh": "",
+   "zh": "原野 地图编号25",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406593,7 +406593,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号26",
-   "zh": "",
+   "zh": "原野 地图编号26",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406614,7 +406614,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号27",
-   "zh": "",
+   "zh": "原野 地图编号27",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406635,7 +406635,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号28",
-   "zh": "",
+   "zh": "原野 地图编号28",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406656,7 +406656,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号29",
-   "zh": "",
+   "zh": "原野 地图编号29",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406677,7 +406677,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号30",
-   "zh": "",
+   "zh": "原野 地图编号30",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406698,7 +406698,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号31",
-   "zh": "",
+   "zh": "原野 地图编号31",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406719,7 +406719,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号32",
-   "zh": "",
+   "zh": "原野 地图编号32",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406740,7 +406740,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号33",
-   "zh": "",
+   "zh": "原野 地图编号33",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406761,7 +406761,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号34",
-   "zh": "",
+   "zh": "原野 地图编号34",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406782,7 +406782,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号35",
-   "zh": "",
+   "zh": "原野 地图编号35",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406803,7 +406803,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号36",
-   "zh": "",
+   "zh": "原野 地图编号36",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406824,7 +406824,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号37",
-   "zh": "",
+   "zh": "原野 地图编号37",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406845,7 +406845,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号38",
-   "zh": "",
+   "zh": "野外地图编号38",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406866,7 +406866,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号39",
-   "zh": "",
+   "zh": "野外地图编号39",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406887,7 +406887,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号40",
-   "zh": "",
+   "zh": "野外地图编号40",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406908,7 +406908,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号41",
-   "zh": "",
+   "zh": "野外地图编号41",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406929,7 +406929,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号42",
-   "zh": "",
+   "zh": "野外地图编号42",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406950,7 +406950,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号43",
-   "zh": "",
+   "zh": "野外地图编号43",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406971,7 +406971,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号44",
-   "zh": "",
+   "zh": "野外地图编号44",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -406992,7 +406992,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号45",
-   "zh": "",
+   "zh": "野外地图编号45",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407013,7 +407013,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号46",
-   "zh": "",
+   "zh": "野外地图编号46",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407034,7 +407034,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号47",
-   "zh": "",
+   "zh": "野外地图编号47",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407055,7 +407055,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号48",
-   "zh": "",
+   "zh": "野外地图编号48",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407076,7 +407076,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号49",
-   "zh": "",
+   "zh": "野外地图编号49",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407097,7 +407097,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド マップ番号50",
-   "zh": "",
+   "zh": "野外地图编号50",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407118,7 +407118,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマックの内容物を確認できます。",
-   "zh": "",
+   "zh": "可以确认胃袋仓库中的物品。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407140,7 +407140,7 @@
    "field": "c1",
    "type": "text",
    "jp": "回転",
-   "zh": "",
+   "zh": "旋转",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407162,7 +407162,7 @@
    "field": "c1",
    "type": "text",
    "jp": "斬撃耐性",
-   "zh": "",
+   "zh": "斩击抗性",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407184,7 +407184,7 @@
    "field": "c1",
    "type": "text",
    "jp": "打撃耐性",
-   "zh": "",
+   "zh": "打击抗性",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407206,7 +407206,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔撃耐性",
-   "zh": "",
+   "zh": "魔击抗性",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407228,7 +407228,7 @@
    "field": "c1",
    "type": "text",
    "jp": "毒耐性",
-   "zh": "",
+   "zh": "中毒抗性",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407250,7 +407250,7 @@
    "field": "c1",
    "type": "text",
    "jp": "気絶耐性",
-   "zh": "",
+   "zh": "气绝抗性",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407272,7 +407272,7 @@
    "field": "c1",
    "type": "text",
    "jp": "睡眠耐性",
-   "zh": "",
+   "zh": "睡眠抗性",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407294,7 +407294,7 @@
    "field": "c1",
    "type": "text",
    "jp": "を受諾しました。",
-   "zh": "",
+   "zh": "已接受。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407315,7 +407315,7 @@
    "field": "c1",
    "type": "text",
    "jp": "詳細切替",
-   "zh": "",
+   "zh": "切换详情",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407337,7 +407337,7 @@
    "field": "c1",
    "type": "text",
    "jp": "装備選択",
-   "zh": "",
+   "zh": "选择装备",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407359,7 +407359,7 @@
    "field": "c1",
    "type": "text",
    "jp": "武器/防具",
-   "zh": "",
+   "zh": "武器/防具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407381,7 +407381,7 @@
    "field": "c1",
    "type": "text",
    "jp": "廃棄するアイテムを選択してください。",
-   "zh": "",
+   "zh": "请选择要丢弃的物品。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407403,7 +407403,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ショートカット登録",
-   "zh": "",
+   "zh": "快捷栏登记",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407424,7 +407424,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このアイテムはショートカットに登録できません。",
-   "zh": "",
+   "zh": "该物品无法登记至快捷栏。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407445,7 +407445,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このアイテムは捨てることができません。",
-   "zh": "",
+   "zh": "无法丢弃该物品。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407467,7 +407467,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グレードポイントを1消費してHP能力を解放します。",
-   "zh": "",
+   "zh": "消耗1点等级点数解放HP能力。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407489,7 +407489,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グレードポイントを1消費してAP能力を解放します。",
-   "zh": "",
+   "zh": "消耗1点等级点数解放AP能力。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407511,7 +407511,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グレードポイントを1消費して攻撃力を解放します。",
-   "zh": "",
+   "zh": "消耗1点等级点数解放攻击力。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407533,7 +407533,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グレードポイントを1消費して防御力を解放します。",
-   "zh": "",
+   "zh": "消耗1点等级点数解放防御力。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407555,7 +407555,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グレードポイントを1消費してTP(トーチカ能力)を解放します。",
-   "zh": "",
+   "zh": "消耗1点等级点数解放TP（战术火炬能力）。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407577,7 +407577,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グレードポイントを1消費してボーナスポイントを15ポイントアップします。",
-   "zh": "",
+   "zh": "消耗1点等级点数提升15点奖励点数。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407599,7 +407599,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グレードポイントを1消費してギガカロリーを10％回復します。",
-   "zh": "",
+   "zh": "消耗1点等级点数恢复10%吉迦卡路里。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407621,7 +407621,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レベルボーナスを割り振る。",
-   "zh": "",
+   "zh": "分配等级奖励。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407643,7 +407643,7 @@
    "field": "c1",
    "type": "text",
    "jp": "拠点に戻る。",
-   "zh": "",
+   "zh": "返回据点。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407665,7 +407665,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このピラーをリスタートポイントに設定する。",
-   "zh": "",
+   "zh": "将此魔女之柱设为重生点。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407687,7 +407687,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ピラー間ワープを行う。",
-   "zh": "",
+   "zh": "在魔女之柱之间进行传送。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407709,7 +407709,7 @@
    "field": "c1",
    "type": "text",
    "jp": "あり",
-   "zh": "",
+   "zh": "开启",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407731,7 +407731,7 @@
    "field": "c1",
    "type": "text",
    "jp": "なし",
-   "zh": "",
+   "zh": "关闭",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407753,7 +407753,7 @@
    "field": "c1",
    "type": "text",
    "jp": "選択可能なピラーはありません。",
-   "zh": "",
+   "zh": "没有可选择的花柱。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407775,7 +407775,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム移動中はアイテムフィルターの切替はできません。",
-   "zh": "",
+   "zh": "移动道具期间无法切换道具筛选。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407797,7 +407797,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ランク-種類-レアリティ-魔紋-ATK順。",
-   "zh": "",
+   "zh": "按品阶-种类-稀有度-魔纹-ATK排序。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407819,7 +407819,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ランク-種類-魔紋-ATK-レアリティ順。",
-   "zh": "",
+   "zh": "按品阶-种类-魔纹-ATK-稀有度排序。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407841,7 +407841,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ランク-種類-ATK-魔紋-レアリティ順。",
-   "zh": "",
+   "zh": "按品阶-种类-ATK-魔纹-稀有度排序。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407863,7 +407863,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテムショートカットの登録先を左スティックで選択してください",
-   "zh": "",
+   "zh": "请用左摇杆选择道具快捷键的登记目标",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407884,7 +407884,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ショートカット切替",
-   "zh": "",
+   "zh": "切换快捷键",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407905,7 +407905,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メイン設定",
-   "zh": "",
+   "zh": "设为主形态",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407927,7 +407927,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サブ設定",
-   "zh": "",
+   "zh": "设为副形态",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407949,7 +407949,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メインファセットに設定できるのは一つのみです",
-   "zh": "",
+   "zh": "主百骑兵形态只能设置一个",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407971,7 +407971,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サブファセットに設定できるのは二つまでです",
-   "zh": "",
+   "zh": "副百骑兵形态最多可设置两个",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -407993,7 +407993,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛したモンスターにおしおきをします",
-   "zh": "",
+   "zh": "对捕获的魔物进行惩罚",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408014,7 +408014,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛したモンスターを懐柔します",
-   "zh": "",
+   "zh": "怀柔捕获的魔物",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408035,7 +408035,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛したモンスターを放置のおしおきをします",
-   "zh": "",
+   "zh": "对捕获的魔物施以放置惩罚",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408056,7 +408056,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛したモンスターを処刑します",
-   "zh": "",
+   "zh": "处决捕获的魔物",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408077,7 +408077,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛したモンスターを尋問します",
-   "zh": "",
+   "zh": "审问捕获的魔物",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408098,7 +408098,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛したモンスターを放置のおしおきから解放します",
-   "zh": "",
+   "zh": "将捕获的魔物从放置惩罚中释放",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408119,7 +408119,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の躾について",
-   "zh": "",
+   "zh": "关于魔女的调教",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408140,7 +408140,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の躾部屋から出ます",
-   "zh": "",
+   "zh": "离开魔女的调教室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408161,7 +408161,7 @@
    "field": "c1",
    "type": "text",
    "jp": "力づくの躾に成功！能力が%dになった！",
-   "zh": "",
+   "zh": "暴力调教成功！能力变成了%d！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408182,7 +408182,7 @@
    "field": "c1",
    "type": "text",
    "jp": "理論的な躾に成功！やる気が%dになった！",
-   "zh": "",
+   "zh": "理论调教成功！干劲变成了%d！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408203,7 +408203,7 @@
    "field": "c1",
    "type": "text",
    "jp": "卑猥な躾に成功！協調力が%dになった！",
-   "zh": "",
+   "zh": "下流调教成功！协同力变成了%d！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408224,7 +408224,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを処刑します、よろしいですか？",
-   "zh": "",
+   "zh": "要处决%s吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408245,7 +408245,7 @@
    "field": "c1",
    "type": "text",
    "jp": "※一度処刑した虜は元に戻せません",
-   "zh": "",
+   "zh": "※一旦处决俘虏便无法复原",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408266,7 +408266,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを処刑しました！",
-   "zh": "",
+   "zh": "已处决%s！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408287,7 +408287,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを放置のおしおきにしました！",
-   "zh": "",
+   "zh": "已对%s施以放置惩罚！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408308,7 +408308,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを放置のおしおきから解放しました！",
-   "zh": "",
+   "zh": "已将%s从放置惩罚中释放！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408329,7 +408329,7 @@
    "field": "c1",
    "type": "text",
    "jp": "放置解除",
-   "zh": "",
+   "zh": "解除放置",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408350,7 +408350,7 @@
    "field": "c1",
    "type": "text",
    "jp": "登録解除",
-   "zh": "",
+   "zh": "解除登记",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408371,7 +408371,7 @@
    "field": "c1",
    "type": "text",
    "jp": "武器セット切替",
-   "zh": "",
+   "zh": "切换武器组",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408392,7 +408392,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メイン武器",
-   "zh": "",
+   "zh": "主武器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408413,7 +408413,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サブ武器",
-   "zh": "",
+   "zh": "副武器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408434,7 +408434,7 @@
    "field": "c1",
    "type": "text",
    "jp": "選択可能なマップはありません。",
-   "zh": "",
+   "zh": "没有可选择的地图。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408456,7 +408456,7 @@
    "field": "c1",
    "type": "text",
    "jp": "装備中のアイテムは廃棄できません",
-   "zh": "",
+   "zh": "无法丢弃装备中的道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408478,7 +408478,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマックが一杯です！",
-   "zh": "",
+   "zh": "库存胃袋已满！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408500,7 +408500,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sをストックストマックへ入れた！",
-   "zh": "",
+   "zh": "将%s放入了库存胃袋！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408522,7 +408522,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマックの内容物を確認できます。",
-   "zh": "",
+   "zh": "可确认库存胃袋内的物品。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408544,7 +408544,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマック専用のアイテムを使用します。",
-   "zh": "",
+   "zh": "使用库存胃袋专用的道具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408566,7 +408566,7 @@
    "field": "c1",
    "type": "text",
    "jp": "未解放の拡張エリアです。",
-   "zh": "",
+   "zh": "未解放的扩展区域。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408588,7 +408588,7 @@
    "field": "c1",
    "type": "text",
    "jp": "なし",
-   "zh": "",
+   "zh": "无",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408610,7 +408610,7 @@
    "field": "c1",
    "type": "text",
    "jp": "攻撃中は武器の変更ができません！",
-   "zh": "",
+   "zh": "攻击中无法更换武器！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408632,7 +408632,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捨てる",
-   "zh": "",
+   "zh": "丢弃",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408654,7 +408654,7 @@
    "field": "c1",
    "type": "text",
    "jp": "完了",
-   "zh": "",
+   "zh": "完成",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408676,7 +408676,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ステータス切替",
-   "zh": "",
+   "zh": "切换状态",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408698,7 +408698,7 @@
    "field": "c1",
    "type": "text",
    "jp": "「%s」",
-   "zh": "",
+   "zh": "「%s」",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408719,7 +408719,7 @@
    "field": "c1",
    "type": "text",
    "jp": "決定します、よろしいですか？",
-   "zh": "",
+   "zh": "确定执行吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408741,7 +408741,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵",
-   "zh": "",
+   "zh": "百骑兵",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408763,7 +408763,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アニマが足りません！",
-   "zh": "",
+   "zh": "阿尼玛不足！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408785,7 +408785,7 @@
    "field": "c1",
    "type": "text",
    "jp": "「%s」を嘆願するには%ldアニマ必要です",
-   "zh": "",
+   "zh": "叹愿「%s」需要 %ld 阿尼玛",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408807,7 +408807,7 @@
    "field": "c1",
    "type": "text",
    "jp": "よろしいですか？",
-   "zh": "",
+   "zh": "确定吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408829,7 +408829,7 @@
    "field": "c1",
    "type": "text",
    "jp": "選択",
-   "zh": "",
+   "zh": "选择",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408851,7 +408851,7 @@
    "field": "c1",
    "type": "text",
    "jp": "会計",
-   "zh": "",
+   "zh": "结账",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408873,7 +408873,7 @@
    "field": "c1",
    "type": "text",
    "jp": "購入",
-   "zh": "",
+   "zh": "购买",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408895,7 +408895,7 @@
    "field": "c1",
    "type": "text",
    "jp": "会計キャンセル",
-   "zh": "",
+   "zh": "取消结账",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408917,7 +408917,7 @@
    "field": "c1",
    "type": "text",
    "jp": "会計するアイテムを選択してください",
-   "zh": "",
+   "zh": "请选择要结账的道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408939,7 +408939,7 @@
    "field": "c1",
    "type": "text",
    "jp": "装備中のアイテムは選択できません！",
-   "zh": "",
+   "zh": "无法选择装备中的道具！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408961,7 +408961,7 @@
    "field": "c1",
    "type": "text",
    "jp": "キャンセル",
-   "zh": "",
+   "zh": "取消",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -408983,7 +408983,7 @@
    "field": "c1",
    "type": "text",
    "jp": "愚者の石 %d 個、マナ %d を使用して武器強化しますか？",
-   "zh": "",
+   "zh": "是否消耗 %d 个愚者之石、%d 玛那来进行武器强化？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409005,7 +409005,7 @@
    "field": "c1",
    "type": "text",
    "jp": "個",
-   "zh": "",
+   "zh": "个",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409027,7 +409027,7 @@
    "field": "c1",
    "type": "text",
    "jp": "売却",
-   "zh": "",
+   "zh": "出售",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409049,7 +409049,7 @@
    "field": "c1",
    "type": "text",
    "jp": "選択したアイテムを売却します",
-   "zh": "",
+   "zh": "出售所选道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409071,7 +409071,7 @@
    "field": "c1",
    "type": "text",
    "jp": "タイトルへ戻ります。",
-   "zh": "",
+   "zh": "返回标题画面。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409093,7 +409093,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セーブはされません、よろしいですか？",
-   "zh": "",
+   "zh": "进度不会保存，确定吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409115,7 +409115,7 @@
    "field": "c1",
    "type": "text",
    "jp": "タイトルへ戻る",
-   "zh": "",
+   "zh": "返回标题画面",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409137,7 +409137,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを失った。",
-   "zh": "",
+   "zh": "失去了%s。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409159,7 +409159,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマック内のアイテムをすべて失った！",
-   "zh": "",
+   "zh": "胃袋库存内的道具全部遗失了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409181,7 +409181,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵の攻撃力が低下した！",
-   "zh": "",
+   "zh": "百骑兵的攻击力下降了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409203,7 +409203,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵の防御力が低下した！",
-   "zh": "",
+   "zh": "百骑兵的防御力下降了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409225,7 +409225,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵の攻撃力が元に戻った！",
-   "zh": "",
+   "zh": "百骑兵的攻击力恢复原状了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409247,7 +409247,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵の防御力が元に戻った！",
-   "zh": "",
+   "zh": "百骑兵的防御力恢复原状了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409269,7 +409269,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sが激怒状態になった！",
-   "zh": "",
+   "zh": "%s陷入了激怒状态！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409291,7 +409291,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sが絶望状態になった！",
-   "zh": "",
+   "zh": "%s陷入了绝望状态！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409313,7 +409313,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sが陶酔状態になった！",
-   "zh": "",
+   "zh": "%s陷入了陶醉状态！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409335,7 +409335,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sの攻撃力が上昇した！",
-   "zh": "",
+   "zh": "%s的攻击力提升了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409357,7 +409357,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールドで手に入れたボーナスポイントの清算を行います。",
-   "zh": "",
+   "zh": "正在结算在探索区域中获得的奖励点数。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409379,7 +409379,7 @@
    "field": "c1",
    "type": "text",
    "jp": "何も取得できませんでした。",
-   "zh": "",
+   "zh": "未能获得任何物品。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409401,7 +409401,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クリアしてワールドマップへ進みますか？",
-   "zh": "",
+   "zh": "要通关并前往世界地图吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409423,7 +409423,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ワールドマップを開き、チョコラータ楼閣へ進みますか？",
-   "zh": "",
+   "zh": "是否打开世界地图，前往巧克拉塔楼阁？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409445,7 +409445,7 @@
    "field": "c1",
    "type": "text",
    "jp": "リタイヤしてワールドマップへ戻りますか？",
-   "zh": "",
+   "zh": "要放弃并返回世界地图吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409467,7 +409467,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クリアしてブロッケントゥルムへ進みますか？",
-   "zh": "",
+   "zh": "要通关并前往布罗肯特尔姆吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409489,7 +409489,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ギガカロリーの残量が０になった！",
-   "zh": "",
+   "zh": "吉伽卡路里的剩余量归零了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409511,7 +409511,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%d個",
-   "zh": "",
+   "zh": "%d个",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409533,7 +409533,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　%dEXPを入手した！",
-   "zh": "",
+   "zh": "获得了%dEXP！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409555,7 +409555,7 @@
    "field": "c1",
    "type": "text",
    "jp": "操作説明",
-   "zh": "",
+   "zh": "操作说明",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409577,7 +409577,7 @@
    "field": "c1",
    "type": "text",
    "jp": "『%s』を撃破した！",
-   "zh": "",
+   "zh": "击破了『%s』！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409599,7 +409599,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%s『%s』を取得した！",
-   "zh": "",
+   "zh": "获得了%s『%s』！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409621,7 +409621,7 @@
    "field": "c1",
    "type": "text",
    "jp": "『%s』を取得した！",
-   "zh": "",
+   "zh": "获得了『%s』！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409643,7 +409643,7 @@
    "field": "c1",
    "type": "text",
    "jp": "カオスリバレーションを発動した！",
-   "zh": "",
+   "zh": "发动了混沌解放！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409665,7 +409665,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　攻撃力が大幅にアップした！",
-   "zh": "",
+   "zh": "攻击力大幅提升！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409687,7 +409687,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　防御力が大幅にアップした！",
-   "zh": "",
+   "zh": "防御力大幅提升！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409709,7 +409709,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　消費ギガカロリーが大幅に増えた！",
-   "zh": "",
+   "zh": "吉伽卡路里消耗量大幅增加！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409731,7 +409731,7 @@
    "field": "c1",
    "type": "text",
    "jp": "『%s』のビヘイビア変化！",
-   "zh": "",
+   "zh": "『%s』的行为模式改变！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409753,7 +409753,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　『激怒状態』になった！",
-   "zh": "",
+   "zh": "进入了『激怒状态』！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409775,7 +409775,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　攻撃力上昇！",
-   "zh": "",
+   "zh": "攻击力上升！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409797,7 +409797,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　攻撃にひるまなくなった！",
-   "zh": "",
+   "zh": "受到攻击不再畏缩！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409819,7 +409819,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　『絶望状態』になった！",
-   "zh": "",
+   "zh": "进入了『绝望状态』！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409841,7 +409841,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　あまりの恐怖に『%s』は消滅した！",
-   "zh": "",
+   "zh": "因过度恐惧，『%s』消灭了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409863,7 +409863,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　『陶酔状態』になった！",
-   "zh": "",
+   "zh": "进入了『陶醉状态』！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409885,7 +409885,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　身を焦がす愛の奴隷になった！",
-   "zh": "",
+   "zh": "沦为了热烈之爱的奴隶！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409907,7 +409907,7 @@
    "field": "c1",
    "type": "text",
    "jp": "　時間と共にダメージ！",
-   "zh": "",
+   "zh": "随时间受到伤害！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409929,7 +409929,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵（%s）",
-   "zh": "",
+   "zh": "百骑兵（%s）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409951,7 +409951,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵",
-   "zh": "",
+   "zh": "百骑兵",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409973,7 +409973,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%s『%s』をストックストマックに格納した！",
-   "zh": "",
+   "zh": "将%s『%s』收纳进了存物胃袋！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -409995,7 +409995,7 @@
    "field": "c1",
    "type": "text",
    "jp": "『%s』をストックストマックに格納した！",
-   "zh": "",
+   "zh": "将『%s』收纳进了存物胃袋！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410017,7 +410017,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵のステータス全般が確認できます。 ",
-   "zh": "",
+   "zh": "可确认百骑兵的综合状态。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410039,7 +410039,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵の攻撃力、防御力と装備武器の確認ができます。",
-   "zh": "",
+   "zh": "可确认百骑兵的攻击力、防御力与装备的武器。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410061,7 +410061,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵の攻撃力、防御力と装備防具・アクセサリーの確認ができます。",
-   "zh": "",
+   "zh": "可确认百骑兵的攻击力、防御力与装备的防具、饰品。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410083,7 +410083,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵の攻撃耐性、状態異常耐性の確認ができます。",
-   "zh": "",
+   "zh": "可确认百骑兵的攻击抗性与异常状态抗性。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410105,7 +410105,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵が手に入れた戦術トーチカの種類が確認できます。",
-   "zh": "",
+   "zh": "可确认百骑兵已获得的战术火炬种类。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410127,7 +410127,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵は、制圧に失敗した！！",
-   "zh": "",
+   "zh": "百骑兵压制失败了！！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410149,7 +410149,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このアイテムはこれ以上持てません！",
-   "zh": "",
+   "zh": "无法携带更多该道具了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410171,7 +410171,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%s 所持数%d個",
-   "zh": "",
+   "zh": "%s 持有数%d个",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410193,7 +410193,7 @@
    "field": "c1",
    "type": "text",
    "jp": "持てないアイテムに捨てられないアイテムが存在します！",
-   "zh": "",
+   "zh": "无法携带的道具中存在不可丢弃的道具！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410215,7 +410215,7 @@
    "field": "c1",
    "type": "text",
    "jp": "「ボロノ刀剣α」を手に入れた！",
-   "zh": "",
+   "zh": "获得了「破旧刀剑α」！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410237,7 +410237,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカが利用できるようになりました！",
-   "zh": "",
+   "zh": "可以使用战术火炬了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410259,7 +410259,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカ“８系チクボム”を身につけた！",
-   "zh": "",
+   "zh": "掌握了战术火炬“８系定时炸弹”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410281,7 +410281,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカ“２６系キャプテル”を身につけた！",
-   "zh": "",
+   "zh": "掌握了战术火炬“２６系捕缚牢”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410303,7 +410303,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカ“０系ジャンピー”を身につけた！",
-   "zh": "",
+   "zh": "掌握了战术火炬“０系弹跳垫”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410325,7 +410325,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ファセット“パワー・フォートレス”を入手した！",
-   "zh": "",
+   "zh": "获得了百骑兵形态“坚固要塞”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410347,7 +410347,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ファセット“マージナル・ゲイズ”を入手した！",
-   "zh": "",
+   "zh": "获得了百骑兵形态“边缘凝视”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410369,7 +410369,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ファセット“シノビ・ザ・アサシン”を入手した！",
-   "zh": "",
+   "zh": "获得了百骑兵形态“忍者暗杀者”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410391,7 +410391,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ファセット“トリック・スクリーマー”を入手した！",
-   "zh": "",
+   "zh": "获得了百骑兵形态“诡计呼啸者”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410413,7 +410413,7 @@
    "field": "c1",
    "type": "text",
    "jp": "撤退しますか？",
-   "zh": "",
+   "zh": "要撤退吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410435,7 +410435,7 @@
    "field": "c1",
    "type": "text",
    "jp": "未開放のピラーにはマップ移動できません",
-   "zh": "",
+   "zh": "无法移动至未开放的支柱地图",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410457,7 +410457,7 @@
    "field": "c1",
    "type": "text",
    "jp": "難易度を“カジュアルモード”に切替えますか？ ",
-   "zh": "",
+   "zh": "要将难度切换为“休闲模式”吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410479,7 +410479,7 @@
    "field": "c1",
    "type": "text",
    "jp": "難易度を“ノーマルモード”に切替えますか？ ",
-   "zh": "",
+   "zh": "要将难度切换为“普通模式”吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410501,7 +410501,7 @@
    "field": "c1",
    "type": "text",
    "jp": "発動に必要なＡＰが足りません！",
-   "zh": "",
+   "zh": "发动所需的AP不足！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410523,7 +410523,7 @@
    "field": "c1",
    "type": "text",
    "jp": "発動に必要なギガカロリーが足りません！",
-   "zh": "",
+   "zh": "发动所需的千兆卡路里不足！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410545,7 +410545,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サブファセットが装備されていません！",
-   "zh": "",
+   "zh": "未装备副百骑兵形态！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410567,7 +410567,7 @@
    "field": "c1",
    "type": "text",
    "jp": "カオスリバレーション中は変更できません！",
-   "zh": "",
+   "zh": "混沌觉醒中无法变更！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410589,7 +410589,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカを装備していません！",
-   "zh": "",
+   "zh": "未装备战术火炬！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410611,7 +410611,7 @@
    "field": "c1",
    "type": "text",
    "jp": "召還に必要な素体が足りません！",
-   "zh": "",
+   "zh": "召唤所需的素体不足！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410633,7 +410633,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ここでは使用できません！",
-   "zh": "",
+   "zh": "此处无法使用！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410655,7 +410655,7 @@
    "field": "c1",
    "type": "text",
    "jp": "これ以上召還できません！",
-   "zh": "",
+   "zh": "无法再召唤更多了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410677,7 +410677,7 @@
    "field": "c1",
    "type": "text",
    "jp": "召還するスペースがありません！",
-   "zh": "",
+   "zh": "没有足够的空间进行召唤！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410699,7 +410699,7 @@
    "field": "c1",
    "type": "text",
    "jp": "まとめて",
-   "zh": "",
+   "zh": "批量",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410721,7 +410721,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クリアして拠点に戻ります、よろしいですか？",
-   "zh": "",
+   "zh": "结算并返回据点，确定吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410743,7 +410743,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クリアしてワールドマップに戻ります、よろしいですか？",
-   "zh": "",
+   "zh": "结算并返回世界地图，确定吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410765,7 +410765,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ワールドマップに戻る",
-   "zh": "",
+   "zh": "返回世界地图",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410787,7 +410787,7 @@
    "field": "c1",
    "type": "text",
    "jp": "切替",
-   "zh": "",
+   "zh": "切换",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410809,7 +410809,7 @@
    "field": "c1",
    "type": "text",
    "jp": "武器移動",
-   "zh": "",
+   "zh": "移动武器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410831,7 +410831,7 @@
    "field": "c1",
    "type": "text",
    "jp": "武器の移動先を選択してください。",
-   "zh": "",
+   "zh": "请选择武器的移动目标位置。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410853,7 +410853,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ファセットチェンジに必要なギガカロリーが足りません！",
-   "zh": "",
+   "zh": "切换形态所需的千兆卡路里不足！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410875,7 +410875,7 @@
    "field": "c1",
    "type": "text",
    "jp": "を渡した。",
-   "zh": "",
+   "zh": "交付了。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410897,7 +410897,7 @@
    "field": "c1",
    "type": "text",
    "jp": "を返してもらった。",
-   "zh": "",
+   "zh": "收回了。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410919,7 +410919,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム",
-   "zh": "",
+   "zh": "道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410941,7 +410941,7 @@
    "field": "c1",
    "type": "text",
    "jp": "を手に入れた。",
-   "zh": "",
+   "zh": "获得了。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410963,7 +410963,7 @@
    "field": "c1",
    "type": "text",
    "jp": "お金",
-   "zh": "",
+   "zh": "金钱",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -410985,7 +410985,7 @@
    "field": "c1",
    "type": "text",
    "jp": "シェルを手に入れた。",
-   "zh": "",
+   "zh": "贝拉获得了。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411007,7 +411007,7 @@
    "field": "c1",
    "type": "text",
    "jp": "拠点へ戻る",
-   "zh": "",
+   "zh": "返回据点",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411028,7 +411028,7 @@
    "field": "c1",
    "type": "text",
    "jp": "冒険を続ける",
-   "zh": "",
+   "zh": "继续冒险",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411049,7 +411049,7 @@
    "field": "c1",
    "type": "text",
    "jp": "はい",
-   "zh": "",
+   "zh": "是",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411070,7 +411070,7 @@
    "field": "c1",
    "type": "text",
    "jp": "いいえ",
-   "zh": "",
+   "zh": "否",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411091,7 +411091,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第一幕）魔女と森の魔女",
-   "zh": "",
+   "zh": "（第一幕）魔女与森林魔女",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411112,7 +411112,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第一幕）・魔女を狩る者ビスコ",
-   "zh": "",
+   "zh": "（第一幕）・猎巫人比丝可",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411133,7 +411133,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第一幕）・魔女と華の大公爵",
-   "zh": "",
+   "zh": "（第一幕）・魔女与华之大公爵",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411154,7 +411154,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第一幕）・魔女と外道魔女の谷",
-   "zh": "",
+   "zh": "（第一幕）・魔女与外道魔女之谷",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411175,7 +411175,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第二幕）・魔女と星読み",
-   "zh": "",
+   "zh": "（第二幕）・魔女与观星者",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411196,7 +411196,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第二幕）魔女とヴァルプルギス",
-   "zh": "",
+   "zh": "（第二幕）魔女与瓦尔普吉斯",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411217,7 +411217,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第二幕）魔女の評議員会ワルプルギス",
-   "zh": "",
+   "zh": "（第二幕）魔女评议会瓦尔普吉斯",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411238,7 +411238,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第三幕）・魔女と虫姫",
-   "zh": "",
+   "zh": "（第三幕）・魔女与虫姬",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411259,7 +411259,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第三幕）・魔女と小さな魔女",
-   "zh": "",
+   "zh": "（第三幕）・魔女与小魔女",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411280,7 +411280,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第四幕）・魔女とさびしがり屋",
-   "zh": "",
+   "zh": "（第四幕）・魔女与耐不住寂寞的人",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411301,7 +411301,7 @@
    "field": "c1",
    "type": "text",
    "jp": "次のフロアへ進みますか？",
-   "zh": "",
+   "zh": "要前往下一层吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411322,7 +411322,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダンジョンから脱出しますか？",
-   "zh": "",
+   "zh": "要从迷宫中脱离吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411343,7 +411343,7 @@
    "field": "c1",
    "type": "text",
    "jp": "次のフロアへ進みますか？",
-   "zh": "",
+   "zh": "要前往下一层吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411364,7 +411364,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%s は一個しか持てません！",
-   "zh": "",
+   "zh": "%s 只能持有1个！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411386,7 +411386,7 @@
    "field": "c1",
    "type": "text",
    "jp": "種類順",
-   "zh": "",
+   "zh": "按种类",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411407,7 +411407,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム名順",
-   "zh": "",
+   "zh": "按道具名",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411428,7 +411428,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテムランク順",
-   "zh": "",
+   "zh": "按道具阶级",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411449,7 +411449,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レシピ順",
-   "zh": "",
+   "zh": "按配方",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411470,7 +411470,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%3d％",
-   "zh": "",
+   "zh": "%3d％",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411491,7 +411491,7 @@
    "field": "c1",
    "type": "text",
    "jp": "×%d/%d(%3d)",
-   "zh": "",
+   "zh": "×%d/%d(%3d)",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411512,7 +411512,7 @@
    "field": "c1",
    "type": "text",
    "jp": "錬金中",
-   "zh": "",
+   "zh": "炼金中",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411533,7 +411533,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム袋が一杯のため、報酬アイテムの取得に失敗！",
-   "zh": "",
+   "zh": "道具袋已满，无法获取报酬道具！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411554,7 +411554,7 @@
    "field": "c1",
    "type": "text",
    "jp": "「%s」を1個獲得！",
-   "zh": "",
+   "zh": "获得1个「%s」！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411575,7 +411575,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム袋が一杯のため、謎の廃棄物の取得に失敗！",
-   "zh": "",
+   "zh": "道具袋已满，无法获取神秘废弃物！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411596,7 +411596,7 @@
    "field": "c1",
    "type": "text",
    "jp": "「謎の廃棄物」を1個獲得！",
-   "zh": "",
+   "zh": "获得1个「神秘废弃物」！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411617,7 +411617,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sの錬金に成功！",
-   "zh": "",
+   "zh": "炼金%s成功！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411638,7 +411638,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sの錬金に失敗！",
-   "zh": "",
+   "zh": "炼金%s失败！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411659,7 +411659,7 @@
    "field": "c1",
    "type": "text",
    "jp": "まだ%sランク以上のアイテムは錬金できません！",
-   "zh": "",
+   "zh": "目前还无法炼金%s阶级以上的道具！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411680,7 +411680,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム袋に空きがありません！",
-   "zh": "",
+   "zh": "道具袋没有空位！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411701,7 +411701,7 @@
    "field": "c1",
    "type": "text",
    "jp": "レベルが足りません！",
-   "zh": "",
+   "zh": "等级不足！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411722,7 +411722,7 @@
    "field": "c1",
    "type": "text",
    "jp": "移動不可マスです！",
-   "zh": "",
+   "zh": "此格无法移动！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411743,7 +411743,7 @@
    "field": "c1",
    "type": "text",
    "jp": "隠し味を%d個選択してください",
-   "zh": "",
+   "zh": "请选择%d个独门秘料",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411764,7 +411764,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを%d個選択してください",
-   "zh": "",
+   "zh": "%sを%d個選択してください",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411785,7 +411785,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを%d個選択しました！",
-   "zh": "",
+   "zh": "%sを%d個選択しました！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411806,7 +411806,7 @@
    "field": "c1",
    "type": "text",
    "jp": "以上の%dつでよろしいですか？",
-   "zh": "",
+   "zh": "以上%d个确定无误吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411827,7 +411827,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第一幕）・チョコレート三昧",
-   "zh": "",
+   "zh": "（第一幕）・巧克力盛宴",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411848,7 +411848,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第二幕）・クーリュフを奪い取れ！",
-   "zh": "",
+   "zh": "（第二幕）・夺取库留夫！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411869,7 +411869,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第二幕）・マーニィとの別れ",
-   "zh": "",
+   "zh": "（第二幕）・与玛妮告别",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411890,7 +411890,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第二幕）・閉じこもるメタリカ",
-   "zh": "",
+   "zh": "（第二幕）・闭门不出的梅塔莉卡",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411911,7 +411911,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第二幕）・一方そのころ",
-   "zh": "",
+   "zh": "（第二幕）・与此同时",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411932,7 +411932,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第二幕）・夜会行き列車、出発",
-   "zh": "",
+   "zh": "（第二幕）・开往夜会的列车，出发",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411953,7 +411953,7 @@
    "field": "c1",
    "type": "text",
    "jp": "（第二幕）・拠点・メタリカと門の話",
-   "zh": "",
+   "zh": "（第二幕）・据点・梅塔莉卡与门的话题",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411974,7 +411974,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%ld Shell手に入れた！",
-   "zh": "",
+   "zh": "获得了%ld Shell！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -411996,7 +411996,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカ使い",
-   "zh": "",
+   "zh": "战术火炬手",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412018,7 +412018,7 @@
    "field": "c1",
    "type": "text",
    "jp": "復活の魂",
-   "zh": "",
+   "zh": "复活之魂",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412040,7 +412040,7 @@
    "field": "c1",
    "type": "text",
    "jp": "城壁ブロック",
-   "zh": "",
+   "zh": "城壁格挡",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412062,7 +412062,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヘビースマッシュ",
-   "zh": "",
+   "zh": "强力重击",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412084,7 +412084,7 @@
    "field": "c1",
    "type": "text",
    "jp": "死神との契約Ⅰ",
-   "zh": "",
+   "zh": "与死神的契约Ⅰ",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412106,7 +412106,7 @@
    "field": "c1",
    "type": "text",
    "jp": "死神との契約Ⅱ",
-   "zh": "",
+   "zh": "与死神的契约Ⅱ",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412128,7 +412128,7 @@
    "field": "c1",
    "type": "text",
    "jp": "エンドレスダッシュ",
-   "zh": "",
+   "zh": "无尽冲刺",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412150,7 +412150,7 @@
    "field": "c1",
    "type": "text",
    "jp": "断食の心得",
-   "zh": "",
+   "zh": "断食心得",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412172,7 +412172,7 @@
    "field": "c1",
    "type": "text",
    "jp": "リーフトリッカー",
-   "zh": "",
+   "zh": "飞叶诡术",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412194,7 +412194,7 @@
    "field": "c1",
    "type": "text",
    "jp": "友愛と絶叫の呪い",
-   "zh": "",
+   "zh": "友爱与绝叫之诅咒",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412216,7 +412216,7 @@
    "field": "c1",
    "type": "text",
    "jp": "卑見の見切り",
-   "zh": "",
+   "zh": "断念之看破",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412238,7 +412238,7 @@
    "field": "c1",
    "type": "text",
    "jp": "薄氷の見切り",
-   "zh": "",
+   "zh": "薄冰之看破",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412260,7 +412260,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカの体力が２倍になる。",
-   "zh": "",
+   "zh": "战术火炬的体力变为2倍。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412282,7 +412282,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダウン後、復活するときに必要なカロリーが本来の半分になる。",
-   "zh": "",
+   "zh": "倒地后复活所需的卡路里减半。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412304,7 +412304,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ガード時に、斬撃耐性＋２５％、打撃耐性＋２５％の補正がつく。",
-   "zh": "",
+   "zh": "防御时，获得斩击抗性＋25%、打击抗性＋25%的修正。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412326,7 +412326,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ジャンプ攻撃の威力が通常時の１．５倍になる。",
-   "zh": "",
+   "zh": "跳跃攻击的威力提升为通常状态的1.5倍。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412348,7 +412348,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アニマの出現率が大幅にアップし、カルマが増加しなくなる。",
-   "zh": "",
+   "zh": "阿尼玛出现率大幅上升，且业值不再增加。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412370,7 +412370,7 @@
    "field": "c1",
    "type": "text",
    "jp": "”赤い血”を流す敵を攻撃すると、ＨＰを３％回復する。",
-   "zh": "",
+   "zh": "攻击流出“红血”的敌人时，恢复3%的HP。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412392,7 +412392,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダッシュ時のスタミナ減少量が大幅に抑えられる。",
-   "zh": "",
+   "zh": "大幅抑制冲刺时的耐力消耗量。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412414,7 +412414,7 @@
    "field": "c1",
    "type": "text",
    "jp": "カロリーの自然消費量が少なくなる。",
-   "zh": "",
+   "zh": "降低卡路里的自然消耗量。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412436,7 +412436,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ミスティカル・ダッジの発動範囲と戦術トーチカの能力が上昇。",
-   "zh": "",
+   "zh": "神秘闪避的判定范围与战术火炬的能力提升。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412458,7 +412458,7 @@
    "field": "c1",
    "type": "text",
    "jp": "殴ると友愛上昇、ただし、スタミナ回復のカロリー消費が１０倍。",
-   "zh": "",
+   "zh": "殴打可提升友爱，但耐力恢复消耗的卡路里增至10倍。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412480,7 +412480,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ＡＰ攻撃の威力が１．５倍になる。",
-   "zh": "",
+   "zh": "AP攻击的威力提升为1.5倍。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412502,7 +412502,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クリティカル率が３０％アップ。",
-   "zh": "",
+   "zh": "暴击率提升30%。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412524,7 +412524,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マスターに設定",
-   "zh": "",
+   "zh": "设为主形态",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412546,7 +412546,7 @@
    "field": "c1",
    "type": "text",
    "jp": "サブに設定",
-   "zh": "",
+   "zh": "设为副形态",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412568,7 +412568,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セーブしますか？",
-   "zh": "",
+   "zh": "要保存吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412590,7 +412590,7 @@
    "field": "c1",
    "type": "text",
    "jp": "テストマップ",
-   "zh": "",
+   "zh": "测试地图",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412612,7 +412612,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ニブルヘンネの魔女邸",
-   "zh": "",
+   "zh": "尼布尔亨涅的魔女官邸",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412634,7 +412634,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ニブルヘンネの魔女邸　寝室",
-   "zh": "",
+   "zh": "尼布尔亨涅的魔女官邸　卧室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412656,7 +412656,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ニブルヘンネの魔女邸　リビング",
-   "zh": "",
+   "zh": "尼布尔亨涅的魔女官邸　起居室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412678,7 +412678,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ニブルヘンネの魔女邸　浴室",
-   "zh": "",
+   "zh": "尼布尔亨涅的魔女官邸　浴室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412700,7 +412700,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ニブルヘンネの魔女邸　研究室",
-   "zh": "",
+   "zh": "尼布尔亨涅的魔女官邸　研究室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412722,7 +412722,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ニブルヘンネの魔女邸　地下実験室",
-   "zh": "",
+   "zh": "尼布尔亨涅的魔女官邸　地下实验室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412744,7 +412744,7 @@
    "field": "c1",
    "type": "text",
    "jp": "闇世界",
-   "zh": "",
+   "zh": "暗世界",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412766,7 +412766,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズの森",
-   "zh": "",
+   "zh": "乌兹之森",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412788,7 +412788,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズの森深部",
-   "zh": "",
+   "zh": "乌兹之森深处",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412810,7 +412810,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヘッカヘンネの隠し森",
-   "zh": "",
+   "zh": "赫卡亨涅的隐藏之森",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412832,7 +412832,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンの丘",
-   "zh": "",
+   "zh": "多恩之丘",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412854,7 +412854,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンの大森林",
-   "zh": "",
+   "zh": "多恩大森林",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412876,7 +412876,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェ",
-   "zh": "",
+   "zh": "圣多尔切",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412898,7 +412898,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコレート楼",
-   "zh": "",
+   "zh": "巧克力楼",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412920,7 +412920,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコレート楼・ボス",
-   "zh": "",
+   "zh": "巧克力楼·头目",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412941,7 +412941,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヤプトラーカ渓谷",
-   "zh": "",
+   "zh": "亚普托拉卡峡谷",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412963,7 +412963,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヤプトラーカ渓谷・洞窟・ボス",
-   "zh": "",
+   "zh": "亚普托拉卡峡谷·洞窟·头目",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -412984,7 +412984,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヤプトラーカ渓谷・洞窟",
-   "zh": "",
+   "zh": "亚普托拉卡峡谷·洞窟",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413006,7 +413006,7 @@
    "field": "c1",
    "type": "text",
    "jp": "テッタラ砂漠",
-   "zh": "",
+   "zh": "特塔拉沙漠",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413028,7 +413028,7 @@
    "field": "c1",
    "type": "text",
    "jp": "テッタラ砂漠・ボス",
-   "zh": "",
+   "zh": "特塔拉沙漠·头目",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413049,7 +413049,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アズ・ブロッケン山",
-   "zh": "",
+   "zh": "阿兹·布罗肯山",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413071,7 +413071,7 @@
    "field": "c1",
    "type": "text",
    "jp": "異空間",
-   "zh": "",
+   "zh": "异空间",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413093,7 +413093,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都ヴァルプルギス路地裏",
-   "zh": "",
+   "zh": "魔女之都瓦尔普吉斯后街",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413115,7 +413115,7 @@
    "field": "c1",
    "type": "text",
    "jp": "議事塔ブロッケントゥルム",
-   "zh": "",
+   "zh": "议事塔布罗肯图尔姆",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413137,7 +413137,7 @@
    "field": "c1",
    "type": "text",
    "jp": "議事塔ブロッケントゥルム　議事堂",
-   "zh": "",
+   "zh": "议事塔布罗肯图尔姆　议事堂",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413159,7 +413159,7 @@
    "field": "c1",
    "type": "text",
    "jp": "紅嵐街道チンクエの林道",
-   "zh": "",
+   "zh": "红岚街道奇恩奎林道",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413181,7 +413181,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭な世界",
-   "zh": "",
+   "zh": "不明晰的世界",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413203,7 +413203,7 @@
    "field": "c1",
    "type": "text",
    "jp": "シシーテ戦場跡地",
-   "zh": "",
+   "zh": "希西特古战场遗址",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413225,7 +413225,7 @@
    "field": "c1",
    "type": "text",
    "jp": "シシーテ戦場跡地・裏世界",
-   "zh": "",
+   "zh": "希西特古战场遗址·里世界",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413247,7 +413247,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王国",
-   "zh": "",
+   "zh": "阿玛泰亚王国",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413269,7 +413269,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王国　城門",
-   "zh": "",
+   "zh": "阿玛泰亚王国　城门",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413291,7 +413291,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王国　下水道",
-   "zh": "",
+   "zh": "阿玛泰亚王国　下水道",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413313,7 +413313,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王国　旧市街遺跡",
-   "zh": "",
+   "zh": "阿玛泰亚王国　旧街市遗迹",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413335,7 +413335,7 @@
    "field": "c1",
    "type": "text",
    "jp": "碧の回廊",
-   "zh": "",
+   "zh": "碧绿回廊",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413357,7 +413357,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王国　裏世界",
-   "zh": "",
+   "zh": "阿玛泰亚王国　里世界",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413379,7 +413379,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王国　地下封印牢",
-   "zh": "",
+   "zh": "阿玛泰亚王国　地下封印牢",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413401,7 +413401,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷の世界",
-   "zh": "",
+   "zh": "冰之世界",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413423,7 +413423,7 @@
    "field": "c1",
    "type": "text",
    "jp": "封印されし不浄の地",
-   "zh": "",
+   "zh": "被封印的不净之地",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413445,7 +413445,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王国　城門奥・橋",
-   "zh": "",
+   "zh": "阿玛泰亚王国　城门深处·桥",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413466,7 +413466,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウルカの家",
-   "zh": "",
+   "zh": "乌露卡的家",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413488,7 +413488,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ナハブの家",
-   "zh": "",
+   "zh": "纳哈布的家",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413510,7 +413510,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニィの家",
-   "zh": "",
+   "zh": "露琪妮的家",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413532,7 +413532,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王城　謁見の間",
-   "zh": "",
+   "zh": "阿玛泰亚王城　觐见之室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413554,7 +413554,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王城　舞踏会場",
-   "zh": "",
+   "zh": "阿玛泰亚王城　舞会大厅",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413576,7 +413576,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王城　応接室",
-   "zh": "",
+   "zh": "阿玛泰亚王城　接待室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413598,7 +413598,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王城　廊下",
-   "zh": "",
+   "zh": "阿玛泰亚王城　走廊",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413620,7 +413620,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王城　牢獄",
-   "zh": "",
+   "zh": "阿玛泰亚王城　牢狱",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413642,7 +413642,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王城　ビスコ自室",
-   "zh": "",
+   "zh": "阿玛泰亚王城　比丝可自室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413664,7 +413664,7 @@
    "field": "c1",
    "type": "text",
    "jp": "学校（ビスコフラッシュバック用）",
-   "zh": "",
+   "zh": "学校（比丝可倒叙回忆用）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413686,7 +413686,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王城　舞踏会控え室",
-   "zh": "",
+   "zh": "阿玛泰亚王城　舞会候场室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413708,7 +413708,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王城　裁判所",
-   "zh": "",
+   "zh": "阿玛泰亚王城　审判所",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413730,7 +413730,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アマタイア王国　裏路地",
-   "zh": "",
+   "zh": "阿玛泰亚王国　后巷",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413752,7 +413752,7 @@
    "field": "c1",
    "type": "text",
    "jp": "星徒会長室前・連絡通路",
-   "zh": "",
+   "zh": "星徒会长室前·联络通道",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413774,7 +413774,7 @@
    "field": "c1",
    "type": "text",
    "jp": "学園内　裏花の隠し部屋",
-   "zh": "",
+   "zh": "学园内　里花密室",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413796,7 +413796,7 @@
    "field": "c1",
    "type": "text",
    "jp": "HP回復アイテム",
-   "zh": "",
+   "zh": "HP回复道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413818,7 +413818,7 @@
    "field": "c1",
    "type": "text",
    "jp": "AP回復アイテム",
-   "zh": "",
+   "zh": "AP回复道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413840,7 +413840,7 @@
    "field": "c1",
    "type": "text",
    "jp": "毒回復アイテム",
-   "zh": "",
+   "zh": "解毒道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413862,7 +413862,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ギガカロリー補給アイテム",
-   "zh": "",
+   "zh": "十亿卡路里补给道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413884,7 +413884,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Cランク・武器",
-   "zh": "",
+   "zh": "C级・武器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413906,7 +413906,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Bランク・武器",
-   "zh": "",
+   "zh": "B级・武器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413928,7 +413928,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Aランク・武器",
-   "zh": "",
+   "zh": "A级・武器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413950,7 +413950,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Sランク・武器",
-   "zh": "",
+   "zh": "S级・武器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413972,7 +413972,7 @@
    "field": "c1",
    "type": "text",
    "jp": "特殊武器",
-   "zh": "",
+   "zh": "特殊武器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -413994,7 +413994,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Cランク・防具",
-   "zh": "",
+   "zh": "C级・防具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414016,7 +414016,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Bランク・防具",
-   "zh": "",
+   "zh": "B级・防具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414038,7 +414038,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Aランク・防具",
-   "zh": "",
+   "zh": "A级・防具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414060,7 +414060,7 @@
    "field": "c1",
    "type": "text",
    "jp": "特殊防具",
-   "zh": "",
+   "zh": "特殊防具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414082,7 +414082,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Cランク・アクセサリー",
-   "zh": "",
+   "zh": "C级・饰品",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414104,7 +414104,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Bランク・アクセサリー",
-   "zh": "",
+   "zh": "B级・饰品",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414126,7 +414126,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Aランク・アクセサリー",
-   "zh": "",
+   "zh": "A级・饰品",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414148,7 +414148,7 @@
    "field": "c1",
    "type": "text",
    "jp": "特殊アクセサリー",
-   "zh": "",
+   "zh": "特殊饰品",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414170,7 +414170,7 @@
    "field": "c1",
    "type": "text",
    "jp": "雑貨",
-   "zh": "",
+   "zh": "杂货",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414192,7 +414192,7 @@
    "field": "c1",
    "type": "text",
    "jp": "触媒アイテム",
-   "zh": "",
+   "zh": "触媒道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414214,7 +414214,7 @@
    "field": "c1",
    "type": "text",
    "jp": "これ以上敵を強くできません！",
-   "zh": "",
+   "zh": "无法让敌人变得更强了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414236,7 +414236,7 @@
    "field": "c1",
    "type": "text",
    "jp": "これ以上敵を弱くできません！",
-   "zh": "",
+   "zh": "无法让敌人变得更弱了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414258,7 +414258,7 @@
    "field": "c1",
    "type": "text",
    "jp": "この嘆願書は一度しかお願い出来ません！",
-   "zh": "",
+   "zh": "此请愿书只能许愿一次！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414280,7 +414280,7 @@
    "field": "c1",
    "type": "text",
    "jp": "カルマが%d減少して、%dになりました！",
-   "zh": "",
+   "zh": "业值减少了%d，变为%d！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414302,7 +414302,7 @@
    "field": "c1",
    "type": "text",
    "jp": "すべての村人が復活しました！",
-   "zh": "",
+   "zh": "所有村民都复活了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414324,7 +414324,7 @@
    "field": "c1",
    "type": "text",
    "jp": "1000マナを10000Shellに換金しました！",
-   "zh": "",
+   "zh": "已将1000玛那兑换为10000Shell！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414346,7 +414346,7 @@
    "field": "c1",
    "type": "text",
    "jp": "換金するには1000マナ必要です！",
-   "zh": "",
+   "zh": "兑换需要1000玛那！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414368,7 +414368,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカ“１系チビヘイ”を身につけた！",
-   "zh": "",
+   "zh": "习得了战术火炬“1系小骑兵”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414390,7 +414390,7 @@
    "field": "c1",
    "type": "text",
    "jp": "新しいファセットを取得しました！",
-   "zh": "",
+   "zh": "获得了新的百骑兵形态！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414412,7 +414412,7 @@
    "field": "c1",
    "type": "text",
    "jp": "敵が強くなりました！",
-   "zh": "",
+   "zh": "敌人变强了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414434,7 +414434,7 @@
    "field": "c1",
    "type": "text",
    "jp": "敵が弱くなりました！",
-   "zh": "",
+   "zh": "敌人变弱了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414456,7 +414456,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sを取得しました！",
-   "zh": "",
+   "zh": "获得了%s！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414478,7 +414478,7 @@
    "field": "c1",
    "type": "text",
    "jp": "練武の氷雪が解放されました！",
-   "zh": "",
+   "zh": "练武之冰雪已解锁！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414500,7 +414500,7 @@
    "field": "c1",
    "type": "text",
    "jp": "強化する武器を選択してください",
-   "zh": "",
+   "zh": "请选择要强化的武器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414522,7 +414522,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このアイテムを強化するにはマナが %d 必要です",
-   "zh": "",
+   "zh": "强化该道具需要玛那 %d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414544,7 +414544,7 @@
    "field": "c1",
    "type": "text",
    "jp": "このアイテムを強化するには愚者の石が %d 個必要です",
-   "zh": "",
+   "zh": "强化该道具需要愚者之石 %d 个",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414566,7 +414566,7 @@
    "field": "c1",
    "type": "text",
    "jp": "これ以上強化できないアイテムです",
-   "zh": "",
+   "zh": "此道具已无法继续强化",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414588,7 +414588,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテムレベルが %d になりました！",
-   "zh": "",
+   "zh": "道具等级提升至 %d！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414610,7 +414610,7 @@
    "field": "c1",
    "type": "text",
    "jp": "愚者の石 %d 個、マナ %d を使用して",
-   "zh": "",
+   "zh": "消耗愚者之石 %d 个、玛那 %d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414632,7 +414632,7 @@
    "field": "c1",
    "type": "text",
    "jp": "すでにカルマは０です！",
-   "zh": "",
+   "zh": "业值已经是０了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414654,7 +414654,7 @@
    "field": "c1",
    "type": "text",
    "jp": "愚者の石 %d 個、マナ %d を使用して",
-   "zh": "",
+   "zh": "消耗愚者之石 %d 个、玛那 %d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414676,7 +414676,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ポイント割り振り",
-   "zh": "",
+   "zh": "点数分配",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414698,7 +414698,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グレードポイントを1消費して%sを1段階解放します",
-   "zh": "",
+   "zh": "消耗1点阶段点数，将%s提升1个等级",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414720,7 +414720,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sは既に最大です",
-   "zh": "",
+   "zh": "%s已经达到最大值",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414742,7 +414742,7 @@
    "field": "c1",
    "type": "text",
    "jp": "HP能力",
-   "zh": "",
+   "zh": "HP能力",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414764,7 +414764,7 @@
    "field": "c1",
    "type": "text",
    "jp": "AP能力",
-   "zh": "",
+   "zh": "AP能力",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414786,7 +414786,7 @@
    "field": "c1",
    "type": "text",
    "jp": "攻撃力",
-   "zh": "",
+   "zh": "攻击力",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414808,7 +414808,7 @@
    "field": "c1",
    "type": "text",
    "jp": "防御力",
-   "zh": "",
+   "zh": "防御力",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414830,7 +414830,7 @@
    "field": "c1",
    "type": "text",
    "jp": "TP(トーチカ能力)",
-   "zh": "",
+   "zh": "TP（战术火炬能力）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414852,7 +414852,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ボーナスランク",
-   "zh": "",
+   "zh": "报酬等级",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414874,7 +414874,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ギガカロリー",
-   "zh": "",
+   "zh": "十亿卡路里",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414896,7 +414896,7 @@
    "field": "c1",
    "type": "text",
    "jp": "よろしいですか？",
-   "zh": "",
+   "zh": "确定吗？",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414918,7 +414918,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ボーナスポイントアップ！",
-   "zh": "",
+   "zh": "报酬等级提升！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414940,7 +414940,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ギガカロリーが%0.2fに回復しました！",
-   "zh": "",
+   "zh": "十亿卡路里已恢复至%0.2f！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414962,7 +414962,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グレードポイントを1消費してボーナスポイントをアップします",
-   "zh": "",
+   "zh": "消耗1点阶段点数以提升报酬等级",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -414984,7 +414984,7 @@
    "field": "c1",
    "type": "text",
    "jp": "グレードポイントを1消費してギガカロリーを回復します",
-   "zh": "",
+   "zh": "消耗1点阶段点数以恢复十亿卡路里",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415006,7 +415006,7 @@
    "field": "c1",
    "type": "text",
    "jp": "８系チクボム",
-   "zh": "",
+   "zh": "８系 定时炸弹",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415028,7 +415028,7 @@
    "field": "c1",
    "type": "text",
    "jp": "１０系ディアロー",
-   "zh": "",
+   "zh": "１０系 射手引弓",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415050,7 +415050,7 @@
    "field": "c1",
    "type": "text",
    "jp": "１６系デコイモ",
-   "zh": "",
+   "zh": "１６系 诱饵木偶",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415072,7 +415072,7 @@
    "field": "c1",
    "type": "text",
    "jp": "２６系キャプテル",
-   "zh": "",
+   "zh": "２６系 捕缚牢笼",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415094,7 +415094,7 @@
    "field": "c1",
    "type": "text",
    "jp": "４２系プロテム",
-   "zh": "",
+   "zh": "４２系 护卫装甲",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415116,7 +415116,7 @@
    "field": "c1",
    "type": "text",
    "jp": "１系チビヘイ",
-   "zh": "",
+   "zh": "１系 小小兵",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415138,7 +415138,7 @@
    "field": "c1",
    "type": "text",
    "jp": "７２系ウィクック",
-   "zh": "",
+   "zh": "７２系 旋转飞刀",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415160,7 +415160,7 @@
    "field": "c1",
    "type": "text",
    "jp": "４２系キャセリオ",
-   "zh": "",
+   "zh": "４２系 坚固炮台",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415182,7 +415182,7 @@
    "field": "c1",
    "type": "text",
    "jp": "０系ジャンピー",
-   "zh": "",
+   "zh": "０系 弹跳垫",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415204,7 +415204,7 @@
    "field": "c1",
    "type": "text",
    "jp": "爆弾型のトーチカで、同時召喚１基。",
-   "zh": "",
+   "zh": "炸弹型战术火炬，最多同时召唤1个。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415226,7 +415226,7 @@
    "field": "c1",
    "type": "text",
    "jp": "時限式で”特殊な魔法障壁”を破壊する",
-   "zh": "",
+   "zh": "为定时式引爆，能够破坏“特殊的魔法障壁”。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415248,7 +415248,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ことが可能。",
-   "zh": "",
+   "zh": "ことが可能。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415270,7 +415270,7 @@
    "field": "c1",
    "type": "text",
    "jp": "爆風でダメージを与えることもできる。",
-   "zh": "",
+   "zh": "爆炸气浪也能造成伤害。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415292,7 +415292,7 @@
    "field": "c1",
    "type": "text",
    "jp": "弓矢型のトーチカ、同時召喚３基。",
-   "zh": "",
+   "zh": "弓箭型战术火炬，最多同时召唤3个。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415314,7 +415314,7 @@
    "field": "c1",
    "type": "text",
    "jp": "遠距離攻撃や離れた場所の仕掛けを",
-   "zh": "",
+   "zh": "可用于远距离攻击或启动远处的机关。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415336,7 +415336,7 @@
    "field": "c1",
    "type": "text",
    "jp": "起動することが可能。また、ロックオン",
-   "zh": "",
+   "zh": "此外，通过锁定目标",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415358,7 +415358,7 @@
    "field": "c1",
    "type": "text",
    "jp": "することで対象に向かって誘導できる。",
-   "zh": "",
+   "zh": "可以引导箭矢飞向对象。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415380,7 +415380,7 @@
    "field": "c1",
    "type": "text",
    "jp": "囮型のトーチカ、同時召喚２基。",
-   "zh": "",
+   "zh": "诱饵型战术火炬，最多同时召唤2个。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415402,7 +415402,7 @@
    "field": "c1",
    "type": "text",
    "jp": "近くにいる敵の攻撃を引き付ける効果が",
-   "zh": "",
+   "zh": "具有吸引附近敌人攻击的效果。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415424,7 +415424,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ある。敵から逃げたいときや不意打ちを",
-   "zh": "",
+   "zh": "在想要脱离敌人或进行奇袭时",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415446,7 +415446,7 @@
    "field": "c1",
    "type": "text",
    "jp": "したいときに有効なトーチカ。",
-   "zh": "",
+   "zh": "非常有效。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415468,7 +415468,7 @@
    "field": "c1",
    "type": "text",
    "jp": "捕縛消滅型のトーチカ、同時召喚１基。",
-   "zh": "",
+   "zh": "捕缚消灭型战术火炬，最多同时召唤1个。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415490,7 +415490,7 @@
    "field": "c1",
    "type": "text",
    "jp": "弱った敵を強制的に捕縛消滅させること",
-   "zh": "",
+   "zh": "能够强制捕缚并消灭虚弱的敌人。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415512,7 +415512,7 @@
    "field": "c1",
    "type": "text",
    "jp": "が可能。その際、敵によってはアイテム",
-   "zh": "",
+   "zh": "届时，部分敌人",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415534,7 +415534,7 @@
    "field": "c1",
    "type": "text",
    "jp": "をドロップするものもいる。",
-   "zh": "",
+   "zh": "还会掉落道具。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
