@@ -6,3 +6,5 @@
 - The initial CSV is an export snapshot. Its `speaker_or_field` column uses `speaker`, then `field`, then `context`, and `en_ref` maps to JSON `en`.
 - `DemoText.dat` stores 259 deduplicated speaker entries before 10,632 dialogue entries. Voice prefixes leave 1,122 dialogue entries with `voice` set to `0`. Batch boundaries use extraction order and stable IDs until a verified chapter mapping is available.
 - The handoff description documents image extraction and video scanning. The local material delivered for setup consists of the text corpus and delivery note. Preserve those asset findings as provenance until files can be inspected locally.
+- Milestone 1 (M1-01 through M1-04, 1,894 entries) covering character status, speakers, and game strings is fully localized, verified via `scripts/verify_alignment.py`, and pushed to `main`.
+- Tooling in `scripts/batch_processor.py` supports chunked localization with strict format token and placeholder preservation, automated structural verification, modification index updates, and push pipelines.
