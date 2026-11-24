@@ -257,13 +257,13 @@ def update_plan_checklist(batch_id):
   return False
 
 
-def update_modification_index(batch_info, commit_hash="pending"):
+def update_modification_index(batch_info):
   content = INDEX_PATH.read_text(encoding="utf-8")
   bid = batch_info["batch_id"]
   start_end = f"`{batch_info['start_id']}` → `{batch_info['end_id']}`"
   cnt = batch_info["count"]
   desc = f"{batch_info['name']} 汉化与对齐校对"
-  ver = f"PASS / `{commit_hash}`"
+  ver = "PASS"
   row = f"| {bid} | {start_end} | {cnt} | {desc} | {ver} |\n"
   if row not in content:
     content += row
@@ -299,7 +299,6 @@ def git_commit_and_push(batch_info):
   )
   subprocess.run(["git", "commit", "-m", msg], check=True)
 
-  # Get latest commit hash
   rev = (
       subprocess.run(
           ["git", "rev-parse", "--short", "HEAD"],
@@ -310,24 +309,18 @@ def git_commit_and_push(batch_info):
       .stdout.strip()
   )
 
-  # Update commit hash in modification index if needed
-  content = INDEX_PATH.read_text(encoding="utf-8")
-  if "pending" in content:
-    content = content.replace("pending", rev)
-    INDEX_PATH.write_text(content, encoding="utf-8")
-    subprocess.run(["git", "add", str(INDEX_PATH)], check=True)
-    subprocess.run(["git", "commit", "--amend", "--no-edit"], check=True)
-    rev = (
-        subprocess.run(
-            ["git", "rev-parse", "--short", "HEAD"],
-            capture_output=True,
-            text=True,
-            check=True,
-        )
-        .stdout.strip()
-    )
-
   print(f"Pushing commit {rev} to origin main...")
+  for attempt in range(3):
+    push_res = subprocess.run(
+        ["git", "push", "origin", "main"], capture_output=True, text=True
+    )
+    if push_res.returncode == 0:
+      print("Pushed successfully!")
+      return True
+    time.sleep(2)
+
+  print("Warning: Push failed after 3 attempts.")
+  return False
   for attempt in range(3):
     push_res = subprocess.run(
         ["git", "push", "origin", "main"], capture_output=True, text=True
