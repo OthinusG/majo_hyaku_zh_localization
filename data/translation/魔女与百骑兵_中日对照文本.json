@@ -415556,7 +415556,7 @@
    "field": "c1",
    "type": "text",
    "jp": "支援型のトーチカ、同時召喚２基。",
-   "zh": "",
+   "zh": "支援型战术火炬，最多同时召唤2个。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415578,7 +415578,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド内であれば、プロテムとの",
-   "zh": "",
+   "zh": "只要身处区域内，不论与普罗特姆的",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415600,7 +415600,7 @@
    "field": "c1",
    "type": "text",
    "jp": "距離は関係なく、百騎兵の能力が",
-   "zh": "",
+   "zh": "距离有多远，百骑兵的能力都将",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415622,7 +415622,7 @@
    "field": "c1",
    "type": "text",
    "jp": "一時的に向上する。",
-   "zh": "",
+   "zh": "获得暂时提升。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415644,7 +415644,7 @@
    "field": "c1",
    "type": "text",
    "jp": "自立戦闘型のトーチカ、同時召喚８基。",
-   "zh": "",
+   "zh": "自主战斗型战术火炬，最多同时召唤8个。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415666,7 +415666,7 @@
    "field": "c1",
    "type": "text",
    "jp": "召喚後、自動的に戦闘を行う自立型の",
-   "zh": "",
+   "zh": "召唤后会自动进行战斗的自主型",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415688,7 +415688,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦闘トーチカ。",
-   "zh": "",
+   "zh": "战斗战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415710,7 +415710,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵の移動に追従してくる。",
-   "zh": "",
+   "zh": "会跟随百骑兵的移动前进。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415732,7 +415732,7 @@
    "field": "c1",
    "type": "text",
    "jp": "偵察斥候型のトーチカ、同時召喚１基。",
-   "zh": "",
+   "zh": "侦察斥候型战术火炬，最多同时召唤1个。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415754,7 +415754,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵の目となり、偵察を行うことが",
-   "zh": "",
+   "zh": "可作为百骑兵的眼线进行侦察。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415776,7 +415776,7 @@
    "field": "c1",
    "type": "text",
    "jp": "可能。ただし、百騎兵本体は召喚した",
-   "zh": "",
+   "zh": "但百骑兵本体仍会留在召唤时的",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415798,7 +415798,7 @@
    "field": "c1",
    "type": "text",
    "jp": "場所に残るので注意が必要。",
-   "zh": "",
+   "zh": "位置，需要多加注意。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415820,7 +415820,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦闘砦型のトーチカ、同時召喚２基。",
-   "zh": "",
+   "zh": "战斗要塞型战术火炬，最多同时召唤2个。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415842,7 +415842,7 @@
    "field": "c1",
    "type": "text",
    "jp": "自動で遠距攻撃を行う大型固定砲台。",
-   "zh": "",
+   "zh": "可自动进行远距离攻击的大型固定炮台。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415864,7 +415864,7 @@
    "field": "c1",
    "type": "text",
    "jp": "攻撃属性は魔撃。威力はさほど高くない",
-   "zh": "",
+   "zh": "攻击属性为魔击。威力虽不算太高，",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415886,7 +415886,7 @@
    "field": "c1",
    "type": "text",
    "jp": "が、混戦時に有効。",
-   "zh": "",
+   "zh": "但在混战时非常有效。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415908,7 +415908,7 @@
    "field": "c1",
    "type": "text",
    "jp": "移動支援型のトーチカ。",
-   "zh": "",
+   "zh": "移动支援型战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415930,7 +415930,7 @@
    "field": "c1",
    "type": "text",
    "jp": "地形に、古の風紋がある場所限定で、",
-   "zh": "",
+   "zh": "仅限设置在地貌存在古代风纹的",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415952,7 +415952,7 @@
    "field": "c1",
    "type": "text",
    "jp": "設置可能。百騎兵の移動を支援する。",
-   "zh": "",
+   "zh": "地点。能为百骑兵的移动提供支援。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415974,7 +415974,7 @@
    "field": "c1",
    "type": "text",
    "jp": "８系チクボム：必要素体８体、同時召喚１基の爆弾型のトーチカ。",
-   "zh": "",
+   "zh": "８系定时炸弹：所需素体８只，最多同时召唤１个的炸弹型战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -415996,7 +415996,7 @@
    "field": "c1",
    "type": "text",
    "jp": "１０系ディアロー：必要素体１０体、同時召喚３基の弓矢型のトーチカ。",
-   "zh": "",
+   "zh": "１０系射手引弓：所需素体１０只，最多同时召唤３个的弓箭型战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416018,7 +416018,7 @@
    "field": "c1",
    "type": "text",
    "jp": "１６系デコイモ：必要素体１６体、同時召喚２基の囮型のトーチカ。",
-   "zh": "",
+   "zh": "１６系诱饵木偶：所需素体１６只，最多同时召唤２个的诱饵型战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416040,7 +416040,7 @@
    "field": "c1",
    "type": "text",
    "jp": "２６系キャプテル：必要素体２６体、同時召喚１基の捕縛消滅型のトーチカ。",
-   "zh": "",
+   "zh": "２６系捕缚牢笼：所需素体２６只，最多同时召唤１个的捕缚消灭型战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416062,7 +416062,7 @@
    "field": "c1",
    "type": "text",
    "jp": "４２系プロテム：必要素体４２体、同時召喚２基の支援型のトーチカ。",
-   "zh": "",
+   "zh": "４２系护卫装甲：所需素体４２只，最多同时召唤２个的支援型战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416084,7 +416084,7 @@
    "field": "c1",
    "type": "text",
    "jp": "１系チビヘイ：必要素体１体、同時召喚８基の自立戦闘型のトーチカ。",
-   "zh": "",
+   "zh": "１系小小兵：所需素体１只，最多同时召唤８个的自主战斗型战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416106,7 +416106,7 @@
    "field": "c1",
    "type": "text",
    "jp": "７２系ウィクック：必要素体７２体、同時召喚１基の偵察斥候型のトーチカ。",
-   "zh": "",
+   "zh": "７２系旋转飞刀：所需素体７２只，最多同时召唤１个的侦察斥候型战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416128,7 +416128,7 @@
    "field": "c1",
    "type": "text",
    "jp": "４２系キャセリオ：必要素体４２体、同時召喚２基の戦闘砦型のトーチカ。",
-   "zh": "",
+   "zh": "４２系坚固炮台：所需素体４２只，最多同时召唤２个的战斗要塞型战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416150,7 +416150,7 @@
    "field": "c1",
    "type": "text",
    "jp": "０系ジャンピー：必要素体０体、移動支援型のトーチカ。",
-   "zh": "",
+   "zh": "０系弹跳垫：所需素体０只，移动支援型战术火炬。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416172,7 +416172,7 @@
    "field": "c1",
    "type": "text",
    "jp": "召還必要素体数： %d",
-   "zh": "",
+   "zh": "召唤所需素体数：%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416194,7 +416194,7 @@
    "field": "c1",
    "type": "text",
    "jp": "画面スクロール",
-   "zh": "",
+   "zh": "画面滚动",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416216,7 +416216,7 @@
    "field": "c1",
    "type": "text",
    "jp": "拡大",
-   "zh": "",
+   "zh": "放大",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416238,7 +416238,7 @@
    "field": "c1",
    "type": "text",
    "jp": "縮小",
-   "zh": "",
+   "zh": "缩小",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416260,7 +416260,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戻る",
-   "zh": "",
+   "zh": "返回",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416282,7 +416282,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ＢＧＭの音量を調整します。",
-   "zh": "",
+   "zh": "调节ＢＧＭ音量。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416304,7 +416304,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ＳＥの音量を調整します。",
-   "zh": "",
+   "zh": "调节ＳＥ音量。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416326,7 +416326,7 @@
    "field": "c1",
    "type": "text",
    "jp": "デモボイスの音量を調整します。",
-   "zh": "",
+   "zh": "调节剧情语音音量。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416348,7 +416348,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メッセージ速度を調整します。",
-   "zh": "",
+   "zh": "调节信息显示速度。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416370,7 +416370,7 @@
    "field": "c1",
    "type": "text",
    "jp": "カメラ上下移動の設定を行います。",
-   "zh": "",
+   "zh": "进行镜头上下移动的设置。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416392,7 +416392,7 @@
    "field": "c1",
    "type": "text",
    "jp": "カメラ左右移動の設定を行います。",
-   "zh": "",
+   "zh": "进行镜头左右移动的设置。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416414,7 +416414,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ログの表示オン・オフを切り替えます。",
-   "zh": "",
+   "zh": "切换战斗日志的开启／关闭显示。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416436,7 +416436,7 @@
    "field": "c1",
    "type": "text",
    "jp": "画面の表示調整を行います。",
-   "zh": "",
+   "zh": "调整画面显示。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416458,7 +416458,7 @@
    "field": "c1",
    "type": "text",
    "jp": "初期設定に戻す",
-   "zh": "",
+   "zh": "恢复默认设置",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416480,7 +416480,7 @@
    "field": "c1",
    "type": "text",
    "jp": "設定変更",
-   "zh": "",
+   "zh": "更改设置",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416502,7 +416502,7 @@
    "field": "c1",
    "type": "text",
    "jp": "項目選択",
-   "zh": "",
+   "zh": "选择项目",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416524,7 +416524,7 @@
    "field": "c1",
    "type": "text",
    "jp": "必要召還素体数",
-   "zh": "",
+   "zh": "召唤所需素体数",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416546,7 +416546,7 @@
    "field": "c1",
    "type": "text",
    "jp": "同時召喚数",
-   "zh": "",
+   "zh": "同时召唤数",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416568,7 +416568,7 @@
    "field": "c1",
    "type": "text",
    "jp": "名前を入力してください。",
-   "zh": "",
+   "zh": "请输入名字。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416590,7 +416590,7 @@
    "field": "c1",
    "type": "text",
    "jp": "安定した装備適正を持っており、目立った不得意が存在しないバランスタイプ。 ",
-   "zh": "",
+   "zh": "拥有稳定的装备适性，无明显短板的平衡型。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416612,7 +416612,7 @@
    "field": "c1",
    "type": "text",
    "jp": "体力と防御に特化した、小型要塞。ただし、魔撃には弱いので注意が必要。 ",
-   "zh": "",
+   "zh": "专精于体能与防御的小型要塞。但对魔击抗性较弱，需要注意。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416634,7 +416634,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔撃に強く、蝕台と槍鎌の扱いに優れているが、防御力は低い。 ",
-   "zh": "",
+   "zh": "对魔击抗性高，擅长操纵烛台与枪镰，但防御力较低。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416656,7 +416656,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦闘能力は高く長期活動に向いたスキルを持つ。ただし、防御力は少し低い。 ",
-   "zh": "",
+   "zh": "战斗能力高超，拥有适合持久战的技能。不过防御力略低。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416678,7 +416678,7 @@
    "field": "c1",
    "type": "text",
    "jp": "蝕台を得意とするが、体力、防御力共にかなり低い。トリッキーな変り種。 ",
-   "zh": "",
+   "zh": "擅长烛台，但体力与防御力均相当低。玩法诡异的奇特型。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416700,7 +416700,7 @@
    "field": "c1",
    "type": "text",
    "jp": "防御力こそ低いが、圧倒的な攻撃能力を持つ戦闘特化型。特に古塔が得意。 ",
-   "zh": "",
+   "zh": "防御力虽低，却拥有压倒性攻击能力的战斗特化型。尤其擅长古塔。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416722,7 +416722,7 @@
    "field": "c1",
    "type": "text",
    "jp": "まだ、入手していないファセットです。 ",
-   "zh": "",
+   "zh": "尚未获得的百骑兵形态。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416744,7 +416744,7 @@
    "field": "c1",
    "type": "text",
    "jp": "デバッグシーン（十川用）",
-   "zh": "",
+   "zh": "调试场景（十川用）",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416765,7 +416765,7 @@
    "field": "c1",
    "type": "text",
    "jp": "シーン一覧",
-   "zh": "",
+   "zh": "场景一览",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416786,7 +416786,7 @@
    "field": "c1",
    "type": "text",
    "jp": "フィールド",
-   "zh": "",
+   "zh": "原野",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416807,7 +416807,7 @@
    "field": "c1",
    "type": "text",
    "jp": "拠点",
-   "zh": "",
+   "zh": "据点",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416828,7 +416828,7 @@
    "field": "c1",
    "type": "text",
    "jp": "タイトル",
-   "zh": "",
+   "zh": "标题",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416849,7 +416849,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アイテム追加",
-   "zh": "",
+   "zh": "追加道具",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416870,7 +416870,7 @@
    "field": "c1",
    "type": "text",
    "jp": "デモテスト",
-   "zh": "",
+   "zh": "演示测试",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416891,7 +416891,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sをロストしました",
-   "zh": "",
+   "zh": "遗失了%s",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416912,7 +416912,7 @@
    "field": "c1",
    "type": "text",
    "jp": "%sをロストを防ぎました",
-   "zh": "",
+   "zh": "防止了%s的遗失",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416933,7 +416933,7 @@
    "field": "c1",
    "type": "text",
    "jp": "総合Pow:%d",
-   "zh": "",
+   "zh": "综合Pow:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416954,7 +416954,7 @@
    "field": "c1",
    "type": "text",
    "jp": "総合スキルポイント:%ld",
-   "zh": "",
+   "zh": "综合技能点数:%ld",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416975,7 +416975,7 @@
    "field": "c1",
    "type": "text",
    "jp": "移動可能マス:%d",
-   "zh": "",
+   "zh": "可移动格子:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -416996,7 +416996,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チップ名称:ウィッチダイナモ",
-   "zh": "",
+   "zh": "芯片名称:魔女发电机",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417017,7 +417017,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チップ名称:ジェネレーター",
-   "zh": "",
+   "zh": "芯片名称:发生器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417038,7 +417038,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チップ名称:変換器",
-   "zh": "",
+   "zh": "芯片名称:转换器",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417059,7 +417059,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チップ名称:抵抗",
-   "zh": "",
+   "zh": "芯片名称:电阻",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417080,7 +417080,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チップ名称:スキルチップ",
-   "zh": "",
+   "zh": "芯片名称:技能芯片",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417101,7 +417101,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チップ名称:中継チップ",
-   "zh": "",
+   "zh": "芯片名称:中继芯片",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417122,7 +417122,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スキル名称:%s",
-   "zh": "",
+   "zh": "技能名称:%s",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417143,7 +417143,7 @@
    "field": "c1",
    "type": "text",
    "jp": "パフォーマンス:%d",
-   "zh": "",
+   "zh": "性能表现:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417164,7 +417164,7 @@
    "field": "c1",
    "type": "text",
    "jp": "NextExp:%d",
-   "zh": "",
+   "zh": "NextExp:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417185,7 +417185,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Pow:%d(BasePow:%d)",
-   "zh": "",
+   "zh": "Pow:%d(BasePow:%d)",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417206,7 +417206,7 @@
    "field": "c1",
    "type": "text",
    "jp": "Lv:%d MaxLv:%d",
-   "zh": "",
+   "zh": "Lv:%d MaxLv:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417227,7 +417227,7 @@
    "field": "c1",
    "type": "text",
    "jp": "入力電力:%d",
-   "zh": "",
+   "zh": "输入电量:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417248,7 +417248,7 @@
    "field": "c1",
    "type": "text",
    "jp": "出力電力:%d",
-   "zh": "",
+   "zh": "输出电量:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417269,7 +417269,7 @@
    "field": "c1",
    "type": "text",
    "jp": "通電状態:オン",
-   "zh": "",
+   "zh": "通电状态:开启",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417290,7 +417290,7 @@
    "field": "c1",
    "type": "text",
    "jp": "通電状態:オフ",
-   "zh": "",
+   "zh": "通电状态:关",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417311,7 +417311,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チップタイプ：%d",
-   "zh": "",
+   "zh": "芯片类型：%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417332,7 +417332,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チップ表示解放：%d",
-   "zh": "",
+   "zh": "芯片显示解锁：%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417353,7 +417353,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ロック情報:アンロック",
-   "zh": "",
+   "zh": "锁定状态:已解锁",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417374,7 +417374,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ロック情報:ロック",
-   "zh": "",
+   "zh": "锁定状态:已锁定",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417395,7 +417395,7 @@
    "field": "c1",
    "type": "text",
    "jp": "回転可能レベル:%d",
-   "zh": "",
+   "zh": "可旋转等级:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417416,7 +417416,7 @@
    "field": "c1",
    "type": "text",
    "jp": "移動可能レベル:%d",
-   "zh": "",
+   "zh": "可移动等级:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417437,7 +417437,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チップ抵抗値:%d",
-   "zh": "",
+   "zh": "芯片抗性值:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417458,7 +417458,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チップ属性:%d",
-   "zh": "",
+   "zh": "芯片属性:%d",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417479,7 +417479,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アニメーションセットに失敗",
-   "zh": "",
+   "zh": "动作设定失败",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417500,7 +417500,7 @@
    "field": "c1",
    "type": "text",
    "jp": "安定した装備適正を持っており、目立った不得意が存在しないバランスタイプ。 ",
-   "zh": "",
+   "zh": "拥有稳定的装备适性，没有明显短板的均衡型。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417522,7 +417522,7 @@
    "field": "c1",
    "type": "text",
    "jp": "体力と防御に特化した、小型要塞。ただし、魔撃には弱いので注意が必要。 ",
-   "zh": "",
+   "zh": "专精于体能与防御的小型要塞。但对魔击抗性较弱，需要注意。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417544,7 +417544,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔撃に強く、蝕台と槍鎌の扱いに優れているが、防御力は低い。 ",
-   "zh": "",
+   "zh": "抗魔击能力强，擅长运用蚀台与枪镰，但防御力较低。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417566,7 +417566,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦闘能力は高く長期活動に向いたスキルを持つ。ただし、防御力は少し低い。 ",
-   "zh": "",
+   "zh": "战斗能力出众，拥有适合持久作战的技能。不过防御力稍逊一筹。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417588,7 +417588,7 @@
    "field": "c1",
    "type": "text",
    "jp": "蝕台を得意とするが、体力、防御力共にかなり低い。トリッキーな変り種。 ",
-   "zh": "",
+   "zh": "虽然擅长使用蚀台，但体能与防御力皆相当低下。是个捉摸不透的特异型。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417610,7 +417610,7 @@
    "field": "c1",
    "type": "text",
    "jp": "防御力こそ低いが、圧倒的な攻撃能力を持つ戦闘特化型。特に古塔が得意。 ",
-   "zh": "",
+   "zh": "虽然防御薄弱，却拥有压倒性攻击性能的战斗特化型。尤擅古塔。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417632,7 +417632,7 @@
    "field": "c1",
    "type": "text",
    "jp": "まだ、入手していないファセットです。 ",
-   "zh": "",
+   "zh": "尚未获得的百骑兵形态。",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417654,7 +417654,7 @@
    "field": "c1",
    "type": "text",
    "jp": "未知なる闇の欠片を見つけた！",
-   "zh": "",
+   "zh": "发现了未知的暗之碎片！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417676,7 +417676,7 @@
    "field": "c1",
    "type": "text",
    "jp": "何か懐かしさを感じる！",
-   "zh": "",
+   "zh": "感觉有种莫名的怀念！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417698,7 +417698,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカ“１０系ディアロー”を身につけた！",
-   "zh": "",
+   "zh": "习得了战术火炬“１０系 射手引弓”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417720,7 +417720,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカ“１６系デコイモ”を身につけた！",
-   "zh": "",
+   "zh": "习得了战术火炬“１６系 诱饵木偶”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417742,7 +417742,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカ“４２系プロテム”を身につけた！",
-   "zh": "",
+   "zh": "习得了战术火炬“４２系 护卫装甲”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417764,7 +417764,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカ“４２系キャセリオ”を身につけた！",
-   "zh": "",
+   "zh": "习得了战术火炬“４２系 坚固炮台”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417786,7 +417786,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦術トーチカ“７２系ウィクック”を身につけた！",
-   "zh": "",
+   "zh": "习得了战术火炬“７２系 旋转飞刀”！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417808,7 +417808,7 @@
    "field": "c1",
    "type": "text",
    "jp": "「ストマックストーン」を手に入れた！",
-   "zh": "",
+   "zh": "获得了「胃袋结石」！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417830,7 +417830,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストックストマックが “ １ マス” 拡張されて",
-   "zh": "",
+   "zh": "库存胃袋扩充了“１格”，",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417852,7 +417852,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストック可能なアイテム数が ",
-   "zh": "",
+   "zh": "可容纳的道具数量由",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417874,7 +417874,7 @@
    "field": "c1",
    "type": "text",
    "jp": "個 → ",
-   "zh": "",
+   "zh": "个 →",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417896,7 +417896,7 @@
    "field": "c1",
    "type": "text",
    "jp": "個 になった！",
-   "zh": "",
+   "zh": "个！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417918,7 +417918,7 @@
    "field": "c1",
    "type": "text",
    "jp": "左スティックで選択　○ボタンで決定　×ボタンで閉じる",
-   "zh": "",
+   "zh": "左摇杆选择　○键决定　×键关闭",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417940,7 +417940,7 @@
    "field": "c1",
    "type": "text",
    "jp": "あああああ OFF",
-   "zh": "",
+   "zh": "啊啊啊啊啊 OFF",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417961,7 +417961,7 @@
    "field": "c1",
    "type": "text",
    "jp": "扉は閉ざされている。魔女が3人集まれば…。",
-   "zh": "",
+   "zh": "大门紧闭。若是聚齐3名魔女的话……",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -417983,7 +417983,7 @@
    "field": "c1",
    "type": "text",
    "jp": "強い“闇の念”に阻まれ、足を踏み入れられない！",
-   "zh": "",
+   "zh": "受到强烈的“暗之执念”阻挡，无法涉足！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -418005,7 +418005,7 @@
    "field": "c1",
    "type": "text",
    "jp": "あああああ1 ON",
-   "zh": "",
+   "zh": "啊啊啊啊啊1 ON",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -418026,7 +418026,7 @@
    "field": "c1",
    "type": "text",
    "jp": "あああああ ON",
-   "zh": "",
+   "zh": "啊啊啊啊啊 ON",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -418047,7 +418047,7 @@
    "field": "c1",
    "type": "text",
    "jp": "木漏れ日の力が解放され、“闇の念”の力が弱まった！\nこれまで入れなかった窪地へ入れるようになった！",
-   "zh": "",
+   "zh": "树隙光芒之力得到解放，“暗之执念”的力量减弱了！\n现在可以进入此前无法进入的洼地了！",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -418069,7 +418069,7 @@
    "field": "c1",
    "type": "text",
    "jp": "水路の水が轟音と共に排水され、水位が下がった！\n水路を移動することが可能になった！\n",
-   "zh": "",
+   "zh": "水路中的水伴随着轰鸣声排出，水位下降了！\n现在可以在水路中移动了！\n",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -418091,7 +418091,7 @@
    "field": "c1",
    "type": "text",
    "jp": "振り子が動き出した！\n",
-   "zh": "",
+   "zh": "钟摆开始摆动了！\n",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
@@ -418113,7 +418113,7 @@
    "field": "c1",
    "type": "text",
    "jp": "地鳴りと共に地下水が引いていき、水位が下がった！\n大幅に探索範囲が広がった！行けなかったところに行ってみよう！\n",
-   "zh": "",
+   "zh": "伴随着地鸣，地下水渐渐退去，水位下降了！\n探索范围大幅扩展！去此前未能前往的地方看看吧！\n",
    "loc": {
     "file": "GameString.dat",
     "dstart": 14336,
