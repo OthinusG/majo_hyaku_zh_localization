@@ -29989,7 +29989,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "闇の声",
-   "zh": "",
+   "zh": "黑暗中的声音",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -30009,7 +30009,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "何処からか響く声",
-   "zh": "",
+   "zh": "不知何处传来的声音",
    "occurrences": 188,
    "loc": {
     "file": "DemoText.dat",
@@ -30033,7 +30033,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "少女",
-   "zh": "",
+   "zh": "少女",
    "occurrences": 17,
    "loc": {
     "file": "DemoText.dat",
@@ -30057,7 +30057,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "老婆",
-   "zh": "",
+   "zh": "老婆婆",
    "occurrences": 116,
    "loc": {
     "file": "DemoText.dat",
@@ -30081,7 +30081,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "メタリカ",
-   "zh": "",
+   "zh": "梅塔莉卡",
    "occurrences": 2955,
    "loc": {
     "file": "DemoText.dat",
@@ -30105,7 +30105,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ナレーション",
-   "zh": "",
+   "zh": "旁白",
    "occurrences": 23,
    "loc": {
     "file": "DemoText.dat",
@@ -30129,7 +30129,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "アルレッキーノ",
-   "zh": "",
+   "zh": "阿尔雷奇诺",
    "occurrences": 530,
    "loc": {
     "file": "DemoText.dat",
@@ -30153,7 +30153,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "幼き街灯樹",
-   "zh": "",
+   "zh": "幼小街灯树",
    "occurrences": 32,
    "loc": {
     "file": "DemoText.dat",
@@ -30177,7 +30177,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "若い街灯樹",
-   "zh": "",
+   "zh": "年轻街灯树",
    "occurrences": 37,
    "loc": {
     "file": "DemoText.dat",
@@ -30201,7 +30201,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "立派な街灯樹",
-   "zh": "",
+   "zh": "雄伟街灯树",
    "occurrences": 44,
    "loc": {
     "file": "DemoText.dat",
@@ -30225,7 +30225,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "綺麗な街灯樹",
-   "zh": "",
+   "zh": "美丽街灯树",
    "occurrences": 38,
    "loc": {
     "file": "DemoText.dat",
@@ -30249,7 +30249,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "瑞々しい街灯樹",
-   "zh": "",
+   "zh": "苍翠街灯树",
    "occurrences": 45,
    "loc": {
     "file": "DemoText.dat",
@@ -30273,7 +30273,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "古き街灯樹",
-   "zh": "",
+   "zh": "古老街灯树",
    "occurrences": 39,
    "loc": {
     "file": "DemoText.dat",
@@ -30297,7 +30297,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "朽ちた街灯樹",
-   "zh": "",
+   "zh": "枯朽街灯树",
    "occurrences": 39,
    "loc": {
     "file": "DemoText.dat",
@@ -30321,7 +30321,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "デラキャタピオ",
-   "zh": "",
+   "zh": "黛拉毛毛虫",
    "occurrences": 28,
    "loc": {
     "file": "DemoText.dat",
@@ -30345,7 +30345,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "マーリカ",
-   "zh": "",
+   "zh": "玛莉卡",
    "occurrences": 358,
    "loc": {
     "file": "DemoText.dat",
@@ -30369,7 +30369,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "長老樹",
-   "zh": "",
+   "zh": "长老树",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -30393,7 +30393,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "可愛い子供",
-   "zh": "",
+   "zh": "可爱的小孩",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -30416,7 +30416,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "素直な少年",
-   "zh": "",
+   "zh": "单纯的少年",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30437,7 +30437,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "朗らかな顔の青年",
-   "zh": "",
+   "zh": "面容爽朗的青年",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -30460,7 +30460,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "おしゃれな男",
-   "zh": "",
+   "zh": "时髦的男子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30481,7 +30481,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "筋肉質の男",
-   "zh": "",
+   "zh": "健壮的男子",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -30504,7 +30504,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ブラブラしている男",
-   "zh": "",
+   "zh": "游手好闲的男子",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -30527,7 +30527,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "威厳のある老人",
-   "zh": "",
+   "zh": "威严的老人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30548,7 +30548,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "道草好きな老女",
-   "zh": "",
+   "zh": "爱绕远路的老妇",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30569,7 +30569,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "背の曲がった老女",
-   "zh": "",
+   "zh": "驼背老妇",
    "occurrences": 6,
    "loc": {
     "file": "DemoText.dat",
@@ -30593,7 +30593,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "長老宅の家政婦",
-   "zh": "",
+   "zh": "长老家的女佣",
    "occurrences": 11,
    "loc": {
     "file": "DemoText.dat",
@@ -30617,7 +30617,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "盗賊門番",
-   "zh": "",
+   "zh": "盗贼看门人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30638,7 +30638,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ツイてない男",
-   "zh": "",
+   "zh": "倒霉的男子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30659,7 +30659,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "大勝で喜ぶ男",
-   "zh": "",
+   "zh": "大胜狂喜的男子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30680,7 +30680,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "愚かな若者",
-   "zh": "",
+   "zh": "愚蠢的年轻人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30701,7 +30701,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "夢見る女",
-   "zh": "",
+   "zh": "爱幻想的女子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30722,7 +30722,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "賭場の胴元",
-   "zh": "",
+   "zh": "赌场的庄家",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30743,7 +30743,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "換金する男",
-   "zh": "",
+   "zh": "兑钱的男子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -30764,7 +30764,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "マーリカネズミ",
-   "zh": "",
+   "zh": "玛莉卡老鼠",
    "occurrences": 67,
    "loc": {
     "file": "DemoText.dat",
@@ -30788,7 +30788,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "魔法生物のベッド",
-   "zh": "",
+   "zh": "魔法生物床",
    "occurrences": 11,
    "loc": {
     "file": "DemoText.dat",
@@ -30812,7 +30812,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "兵士ヤック",
-   "zh": "",
+   "zh": "士兵雅克",
    "occurrences": 29,
    "loc": {
     "file": "DemoText.dat",
@@ -30836,7 +30836,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "兵士マーシュ",
-   "zh": "",
+   "zh": "士兵马修",
    "occurrences": 25,
    "loc": {
     "file": "DemoText.dat",
@@ -30860,7 +30860,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "女騎士",
-   "zh": "",
+   "zh": "女骑士",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -30883,7 +30883,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "従者の男",
-   "zh": "",
+   "zh": "侍从青年",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -30907,7 +30907,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ビスコ",
-   "zh": "",
+   "zh": "比丝可",
    "occurrences": 782,
    "loc": {
     "file": "DemoText.dat",
@@ -30931,7 +30931,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "百騎兵",
-   "zh": "",
+   "zh": "百骑兵",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -30954,7 +30954,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "トトペペ",
-   "zh": "",
+   "zh": "托托佩佩",
    "occurrences": 82,
    "loc": {
     "file": "DemoText.dat",
@@ -30978,7 +30978,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "木の精ボッチャ",
-   "zh": "",
+   "zh": "树精波恰",
    "occurrences": 72,
    "loc": {
     "file": "DemoText.dat",
@@ -31002,7 +31002,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "テレッサ",
-   "zh": "",
+   "zh": "特蕾莎",
    "occurrences": 82,
    "loc": {
     "file": "DemoText.dat",
@@ -31026,7 +31026,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "憧れる女の子",
-   "zh": "",
+   "zh": "怀春的少女",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31047,7 +31047,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "強がりたい子供",
-   "zh": "",
+   "zh": "逞强的小孩",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31068,7 +31068,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "心酔する若者",
-   "zh": "",
+   "zh": "狂热倾慕的青年",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -31088,7 +31088,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "妄想好きな男",
-   "zh": "",
+   "zh": "爱妄想的男人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31109,7 +31109,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "油を売る女",
-   "zh": "",
+   "zh": "偷懒摸鱼的女人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31130,7 +31130,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "精霊を恐れる男",
-   "zh": "",
+   "zh": "畏惧精灵的男人",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -31153,7 +31153,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "独身の老人",
-   "zh": "",
+   "zh": "单身老人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31174,7 +31174,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "長生きし過ぎた老人",
-   "zh": "",
+   "zh": "活得过久的老人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31195,7 +31195,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "噂好きな中年女",
-   "zh": "",
+   "zh": "爱八卦的中年女人",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -31217,7 +31217,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "店番の元気な女",
-   "zh": "",
+   "zh": "看店的干练女子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31238,7 +31238,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "コリゴン",
-   "zh": "",
+   "zh": "科里冈",
    "occurrences": 74,
    "loc": {
     "file": "DemoText.dat",
@@ -31262,7 +31262,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "用心棒",
-   "zh": "",
+   "zh": "保镖",
    "occurrences": 16,
    "loc": {
     "file": "DemoText.dat",
@@ -31286,7 +31286,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "コリゴンたち",
-   "zh": "",
+   "zh": "科里冈们",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31307,7 +31307,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "コリゴン一同",
-   "zh": "",
+   "zh": "科里冈全员",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -31327,7 +31327,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ヴァレンティーヌ",
-   "zh": "",
+   "zh": "瓦伦蒂奴",
    "occurrences": 96,
    "loc": {
     "file": "DemoText.dat",
@@ -31351,7 +31351,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "遊蘭花",
-   "zh": "",
+   "zh": "游兰花",
    "occurrences": 6,
    "loc": {
     "file": "DemoText.dat",
@@ -31375,7 +31375,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "スィガーロ",
-   "zh": "",
+   "zh": "希加罗",
    "occurrences": 30,
    "loc": {
     "file": "DemoText.dat",
@@ -31399,7 +31399,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "マーニィ",
-   "zh": "",
+   "zh": "玛妮",
    "occurrences": 495,
    "loc": {
     "file": "DemoText.dat",
@@ -31423,7 +31423,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "双子の蝶々さん",
-   "zh": "",
+   "zh": "双子蝴蝶小姐",
    "occurrences": 16,
    "loc": {
     "file": "DemoText.dat",
@@ -31447,7 +31447,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ナハブ",
-   "zh": "",
+   "zh": "纳哈布",
    "occurrences": 98,
    "loc": {
     "file": "DemoText.dat",
@@ -31471,7 +31471,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "眼光鋭い翼人兵",
-   "zh": "",
+   "zh": "目光锐利的翼人兵",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -31495,7 +31495,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "見習いの翼人兵",
-   "zh": "",
+   "zh": "见习翼人兵",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -31518,7 +31518,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "グルカ",
-   "zh": "",
+   "zh": "古尔卡",
    "occurrences": 53,
    "loc": {
     "file": "DemoText.dat",
@@ -31542,7 +31542,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "子供翼人",
-   "zh": "",
+   "zh": "翼人小孩",
    "occurrences": 11,
    "loc": {
     "file": "DemoText.dat",
@@ -31566,7 +31566,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "羊飼いの獣人",
-   "zh": "",
+   "zh": "放羊的兽人",
    "occurrences": 23,
    "loc": {
     "file": "DemoText.dat",
@@ -31590,7 +31590,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ティト",
-   "zh": "",
+   "zh": "蒂托",
    "occurrences": 34,
    "loc": {
     "file": "DemoText.dat",
@@ -31614,7 +31614,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ルッキーニィ",
-   "zh": "",
+   "zh": "露琪妮",
    "occurrences": 595,
    "loc": {
     "file": "DemoText.dat",
@@ -31638,7 +31638,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "怯えきった獣人",
-   "zh": "",
+   "zh": "惊恐万分的兽人",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -31661,7 +31661,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "蒼白な獣人",
-   "zh": "",
+   "zh": "脸色惨白的兽人",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -31681,7 +31681,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "冷淡な獣人",
-   "zh": "",
+   "zh": "神情冷淡的兽人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31702,7 +31702,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "恐慌状態の獣人",
-   "zh": "",
+   "zh": "陷入恐慌的兽人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31723,7 +31723,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "魔女たち",
-   "zh": "",
+   "zh": "众魔女",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -31746,7 +31746,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "浅黒い魔女",
-   "zh": "",
+   "zh": "皮肤黝黑的魔女",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -31770,7 +31770,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "知的な魔女",
-   "zh": "",
+   "zh": "知性的魔女",
    "occurrences": 7,
    "loc": {
     "file": "DemoText.dat",
@@ -31794,7 +31794,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ウサギ人形",
-   "zh": "",
+   "zh": "兔子玩偶",
    "occurrences": 14,
    "loc": {
     "file": "DemoText.dat",
@@ -31818,7 +31818,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ラビィ",
-   "zh": "",
+   "zh": "拉比",
    "occurrences": 83,
    "loc": {
     "file": "DemoText.dat",
@@ -31842,7 +31842,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "おとなしそうな魔女",
-   "zh": "",
+   "zh": "温顺的魔女",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -31866,7 +31866,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "見習い魔女",
-   "zh": "",
+   "zh": "见习魔女",
    "occurrences": 28,
    "loc": {
     "file": "DemoText.dat",
@@ -31890,7 +31890,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "魔女の声",
-   "zh": "",
+   "zh": "魔女的声音",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -31911,7 +31911,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "見習い魔女達",
-   "zh": "",
+   "zh": "见习魔女们",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -31931,7 +31931,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "森の魔女のシモベ",
-   "zh": "",
+   "zh": "森林魔女的仆从",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -31955,7 +31955,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ネズミ",
-   "zh": "",
+   "zh": "老鼠",
    "occurrences": 13,
    "loc": {
     "file": "DemoText.dat",
@@ -31979,7 +31979,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ライオネル１３世",
-   "zh": "",
+   "zh": "莱昂内尔十三世",
    "occurrences": 35,
    "loc": {
     "file": "DemoText.dat",
@@ -32003,7 +32003,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ゴードーラ",
-   "zh": "",
+   "zh": "戈多拉",
    "occurrences": 22,
    "loc": {
     "file": "DemoText.dat",
@@ -32027,7 +32027,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ゴードール",
-   "zh": "",
+   "zh": "戈多尔",
    "occurrences": 24,
    "loc": {
     "file": "DemoText.dat",
@@ -32051,7 +32051,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "スネーカー",
-   "zh": "",
+   "zh": "斯内克尔",
    "occurrences": 32,
    "loc": {
     "file": "DemoText.dat",
@@ -32075,7 +32075,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "年老いた魔女",
-   "zh": "",
+   "zh": "年迈的魔女",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -32098,7 +32098,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "盲いた魔女",
-   "zh": "",
+   "zh": "眼盲的魔女",
    "occurrences": 41,
    "loc": {
     "file": "DemoText.dat",
@@ -32122,7 +32122,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "魔女都・案内魔女",
-   "zh": "",
+   "zh": "魔女都・向导魔女",
    "occurrences": 10,
    "loc": {
     "file": "DemoText.dat",
@@ -32146,7 +32146,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "魔法生物の門",
-   "zh": "",
+   "zh": "魔法生物之门",
    "occurrences": 27,
    "loc": {
     "file": "DemoText.dat",
@@ -32170,7 +32170,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "魔女達",
-   "zh": "",
+   "zh": "魔女们",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -32190,7 +32190,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ツギハギの魔女",
-   "zh": "",
+   "zh": "拼缀魔女",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -32213,7 +32213,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ベルダ",
-   "zh": "",
+   "zh": "贝尔达",
    "occurrences": 184,
    "loc": {
     "file": "DemoText.dat",
@@ -32237,7 +32237,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "パープルピール",
-   "zh": "",
+   "zh": "紫皮",
    "occurrences": 80,
    "loc": {
     "file": "DemoText.dat",
@@ -32261,7 +32261,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "議長の杖",
-   "zh": "",
+   "zh": "议长的法杖",
    "occurrences": 10,
    "loc": {
     "file": "DemoText.dat",
@@ -32285,7 +32285,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "リリー",
-   "zh": "",
+   "zh": "莉莉",
    "occurrences": 43,
    "loc": {
     "file": "DemoText.dat",
@@ -32309,7 +32309,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "リューベンス",
-   "zh": "",
+   "zh": "琉宾斯",
    "occurrences": 47,
    "loc": {
     "file": "DemoText.dat",
@@ -32333,7 +32333,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ネザリアの杖",
-   "zh": "",
+   "zh": "涅扎莉亚的法杖",
    "occurrences": 20,
    "loc": {
     "file": "DemoText.dat",
@@ -32357,7 +32357,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ネザリア",
-   "zh": "",
+   "zh": "涅扎莉亚",
    "occurrences": 146,
    "loc": {
     "file": "DemoText.dat",
@@ -32381,7 +32381,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "巨大メタリカ",
-   "zh": "",
+   "zh": "巨大梅塔莉卡",
    "occurrences": 19,
    "loc": {
     "file": "DemoText.dat",
@@ -32405,7 +32405,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ブリダンゴ姫",
-   "zh": "",
+   "zh": "布里丹戈公主",
    "occurrences": 13,
    "loc": {
     "file": "DemoText.dat",
@@ -32429,7 +32429,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ミトン",
-   "zh": "",
+   "zh": "米顿",
    "occurrences": 111,
    "loc": {
     "file": "DemoText.dat",
@@ -32453,7 +32453,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "墓守",
-   "zh": "",
+   "zh": "守墓人",
    "occurrences": 21,
    "loc": {
     "file": "DemoText.dat",
@@ -32477,7 +32477,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "強がりな少年",
-   "zh": "",
+   "zh": "逞强的少年",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -32500,7 +32500,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ひねくれぼうず",
-   "zh": "",
+   "zh": "别扭的小鬼",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -32521,7 +32521,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "臆病な男の子",
-   "zh": "",
+   "zh": "胆小的男孩",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -32542,7 +32542,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ハインツ",
-   "zh": "",
+   "zh": "海因茨",
    "occurrences": 92,
    "loc": {
     "file": "DemoText.dat",
@@ -32566,7 +32566,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "護衛の兵士",
-   "zh": "",
+   "zh": "护卫士兵",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -32590,7 +32590,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "王女",
-   "zh": "",
+   "zh": "王女",
    "occurrences": 6,
    "loc": {
     "file": "DemoText.dat",
@@ -32614,7 +32614,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ブリダンゴ",
-   "zh": "",
+   "zh": "布里丹戈",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -32636,7 +32636,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "小さな女の子",
-   "zh": "",
+   "zh": "小女孩",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -32656,7 +32656,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "女の子",
-   "zh": "",
+   "zh": "女孩",
    "occurrences": 14,
    "loc": {
     "file": "DemoText.dat",
@@ -32680,7 +32680,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "リカ",
-   "zh": "",
+   "zh": "莉卡",
    "occurrences": 176,
    "loc": {
     "file": "DemoText.dat",
@@ -32704,7 +32704,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "厳格な父親",
-   "zh": "",
+   "zh": "严厉的父亲",
    "occurrences": 8,
    "loc": {
     "file": "DemoText.dat",
@@ -32728,7 +32728,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "近所のガキ大将",
-   "zh": "",
+   "zh": "附近的孩子王",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -32748,7 +32748,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ガキ大将の腰巾着",
-   "zh": "",
+   "zh": "孩子王的跟班",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -32768,7 +32768,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "パンを作る女性",
-   "zh": "",
+   "zh": "做面包的女性",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -32788,7 +32788,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "粗暴な男性",
-   "zh": "",
+   "zh": "粗暴的男性",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -32808,7 +32808,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ヴェライエ",
-   "zh": "",
+   "zh": "维莱耶",
    "occurrences": 29,
    "loc": {
     "file": "DemoText.dat",
@@ -32832,7 +32832,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ウルカ",
-   "zh": "",
+   "zh": "乌露卡",
    "occurrences": 209,
    "loc": {
     "file": "DemoText.dat",
@@ -32856,7 +32856,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "異端審問官",
-   "zh": "",
+   "zh": "异端审问官",
    "occurrences": 40,
    "loc": {
     "file": "DemoText.dat",
@@ -32880,7 +32880,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "荷造り中の男性",
-   "zh": "",
+   "zh": "收拾行李的男性",
    "occurrences": 10,
    "loc": {
     "file": "DemoText.dat",
@@ -32904,7 +32904,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "軽薄な狩人",
-   "zh": "",
+   "zh": "轻浮的猎人",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -32928,7 +32928,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "覇気のない狩人",
-   "zh": "",
+   "zh": "毫无干劲的猎人",
    "occurrences": 6,
    "loc": {
     "file": "DemoText.dat",
@@ -32952,7 +32952,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "霊",
-   "zh": "",
+   "zh": "灵魂",
    "occurrences": 11,
    "loc": {
     "file": "DemoText.dat",
@@ -32976,7 +32976,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "サビーナ",
-   "zh": "",
+   "zh": "萨比娜",
    "occurrences": 121,
    "loc": {
     "file": "DemoText.dat",
@@ -33000,7 +33000,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "先輩兵士",
-   "zh": "",
+   "zh": "前辈士兵",
    "occurrences": 8,
    "loc": {
     "file": "DemoText.dat",
@@ -33024,7 +33024,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "大柄な後輩兵士",
-   "zh": "",
+   "zh": "身材高大的后辈士兵",
    "occurrences": 11,
    "loc": {
     "file": "DemoText.dat",
@@ -33048,7 +33048,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "王国兵士長",
-   "zh": "",
+   "zh": "王国士兵长",
    "occurrences": 8,
    "loc": {
     "file": "DemoText.dat",
@@ -33072,7 +33072,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "礼儀正しい兵士",
-   "zh": "",
+   "zh": "彬彬有礼的士兵",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -33095,7 +33095,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ジールデン参謀",
-   "zh": "",
+   "zh": "吉尔登参谋",
    "occurrences": 63,
    "loc": {
     "file": "DemoText.dat",
@@ -33119,7 +33119,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "国王",
-   "zh": "",
+   "zh": "国王",
    "occurrences": 70,
    "loc": {
     "file": "DemoText.dat",
@@ -33143,7 +33143,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ヒルダ",
-   "zh": "",
+   "zh": "希尔达",
    "occurrences": 9,
    "loc": {
     "file": "DemoText.dat",
@@ -33167,7 +33167,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "城内警備の兵士",
-   "zh": "",
+   "zh": "城内警卫士兵",
    "occurrences": 9,
    "loc": {
     "file": "DemoText.dat",
@@ -33191,7 +33191,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "誠実な門番",
-   "zh": "",
+   "zh": "忠于职守的看门人",
    "occurrences": 7,
    "loc": {
     "file": "DemoText.dat",
@@ -33215,7 +33215,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "気弱な門番",
-   "zh": "",
+   "zh": "胆小的守门人",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -33239,7 +33239,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "トルーデ",
-   "zh": "",
+   "zh": "特露德",
    "occurrences": 75,
    "loc": {
     "file": "DemoText.dat",
@@ -33263,7 +33263,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "豪奢な貴族",
-   "zh": "",
+   "zh": "奢华的贵族",
    "occurrences": 14,
    "loc": {
     "file": "DemoText.dat",
@@ -33287,7 +33287,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "めかし込んだ夫人",
-   "zh": "",
+   "zh": "浓妆艳抹的妇人",
    "occurrences": 8,
    "loc": {
     "file": "DemoText.dat",
@@ -33311,7 +33311,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "着飾った貴婦人",
-   "zh": "",
+   "zh": "盛装打扮的贵妇",
    "occurrences": 6,
    "loc": {
     "file": "DemoText.dat",
@@ -33335,7 +33335,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "身なりの良い紳士",
-   "zh": "",
+   "zh": "衣冠楚楚的绅士",
    "occurrences": 7,
    "loc": {
     "file": "DemoText.dat",
@@ -33359,7 +33359,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "華のある少女",
-   "zh": "",
+   "zh": "光彩照人的少女",
    "occurrences": 10,
    "loc": {
     "file": "DemoText.dat",
@@ -33383,7 +33383,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "小利口な少女",
-   "zh": "",
+   "zh": "伶俐精明的少女",
    "occurrences": 8,
    "loc": {
     "file": "DemoText.dat",
@@ -33407,7 +33407,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "控えめな少女",
-   "zh": "",
+   "zh": "矜持内敛的少女",
    "occurrences": 6,
    "loc": {
     "file": "DemoText.dat",
@@ -33431,7 +33431,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ジャック",
-   "zh": "",
+   "zh": "杰克",
    "occurrences": 22,
    "loc": {
     "file": "DemoText.dat",
@@ -33455,7 +33455,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "貴族たち",
-   "zh": "",
+   "zh": "贵族们",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -33475,7 +33475,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "観衆",
-   "zh": "",
+   "zh": "观众",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -33495,7 +33495,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "裁判長",
-   "zh": "",
+   "zh": "审判长",
    "occurrences": 8,
    "loc": {
     "file": "DemoText.dat",
@@ -33519,7 +33519,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "マナ・ビスコ",
-   "zh": "",
+   "zh": "玛娜・比丝可",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -33539,7 +33539,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ダムー卿",
-   "zh": "",
+   "zh": "达姆卿",
    "occurrences": 38,
    "loc": {
     "file": "DemoText.dat",
@@ -33563,7 +33563,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "戸惑う女",
-   "zh": "",
+   "zh": "不知所措的女子",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -33583,7 +33583,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "魔女を恨む男",
-   "zh": "",
+   "zh": "痛恨魔女的男子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -33604,7 +33604,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "魔女を恐れる男",
-   "zh": "",
+   "zh": "畏惧魔女的男子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -33625,7 +33625,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "無力な青年",
-   "zh": "",
+   "zh": "无力的青年",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -33646,7 +33646,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "恐れおののく男",
-   "zh": "",
+   "zh": "瑟瑟发抖的男子",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -33666,7 +33666,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "沼を憎む老人",
-   "zh": "",
+   "zh": "憎恨沼泽的老人",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -33686,7 +33686,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "民衆",
-   "zh": "",
+   "zh": "民众",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -33708,7 +33708,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "外道ベルダ",
-   "zh": "",
+   "zh": "外道贝尔达",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -33728,7 +33728,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "偽王",
-   "zh": "",
+   "zh": "伪王",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -33748,7 +33748,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "魔理香",
-   "zh": "",
+   "zh": "魔理香",
    "occurrences": 7,
    "loc": {
     "file": "DemoText.dat",
@@ -33772,7 +33772,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "街灯樹",
-   "zh": "",
+   "zh": "街灯树",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -33795,7 +33795,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ドルチェ",
-   "zh": "",
+   "zh": "多尔切",
    "occurrences": 87,
    "loc": {
     "file": "DemoText.dat",
@@ -33819,7 +33819,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ジェラート",
-   "zh": "",
+   "zh": "杰拉托",
    "occurrences": 35,
    "loc": {
     "file": "DemoText.dat",
@@ -33843,7 +33843,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "魔女",
-   "zh": "",
+   "zh": "魔女",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -33864,7 +33864,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "腰の低い院長",
-   "zh": "",
+   "zh": "低声下气的院长",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -33886,7 +33886,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "理花",
-   "zh": "",
+   "zh": "理花",
    "occurrences": 18,
    "loc": {
     "file": "DemoText.dat",
@@ -33910,7 +33910,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "落ちついた看護師",
-   "zh": "",
+   "zh": "沉着的护士",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -33933,7 +33933,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "気が強い看護師",
-   "zh": "",
+   "zh": "强势的护士",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -33957,7 +33957,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "メタリカ＆マーニィ",
-   "zh": "",
+   "zh": "梅塔莉卡＆玛尼",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -33980,7 +33980,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "アグニ",
-   "zh": "",
+   "zh": "阿耆尼",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -34000,7 +34000,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "イデカの男性",
-   "zh": "",
+   "zh": "伊德卡的男子",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -34020,7 +34020,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "イデカの女性",
-   "zh": "",
+   "zh": "伊德卡的女子",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -34040,7 +34040,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "古の時代の魔女",
-   "zh": "",
+   "zh": "古时代的魔女",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -34063,7 +34063,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "王国の兵士",
-   "zh": "",
+   "zh": "王国的士兵",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34084,7 +34084,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "看護師",
-   "zh": "",
+   "zh": "护士",
    "occurrences": 7,
    "loc": {
     "file": "DemoText.dat",
@@ -34108,7 +34108,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "壮年の医師",
-   "zh": "",
+   "zh": "壮年医生",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -34130,7 +34130,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "老人",
-   "zh": "",
+   "zh": "老人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34151,7 +34151,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "一人暮らしの青年",
-   "zh": "",
+   "zh": "独居青年",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34172,7 +34172,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "家の主人",
-   "zh": "",
+   "zh": "一家之主",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34193,7 +34193,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "腰の曲がった老婆",
-   "zh": "",
+   "zh": "驼背的老婆婆",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34214,7 +34214,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "可愛い売り子",
-   "zh": "",
+   "zh": "可爱的女店员",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34235,7 +34235,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "頑固な老人",
-   "zh": "",
+   "zh": "固执的老人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34256,7 +34256,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "木こりのグリン",
-   "zh": "",
+   "zh": "伐木工格林",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34277,7 +34277,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "村長",
-   "zh": "",
+   "zh": "村长",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34298,7 +34298,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "盗賊の頭領",
-   "zh": "",
+   "zh": "盗贼头领",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34319,7 +34319,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ミールさん",
-   "zh": "",
+   "zh": "米尔小姐",
    "occurrences": 45,
    "loc": {
     "file": "DemoText.dat",
@@ -34343,7 +34343,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ビスコの声",
-   "zh": "",
+   "zh": "比丝可的声音",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -34365,7 +34365,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "メタリカの声",
-   "zh": "",
+   "zh": "梅塔莉卡的声音",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -34389,7 +34389,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "元気な子供",
-   "zh": "",
+   "zh": "精神充沛的孩子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34410,7 +34410,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "若い女",
-   "zh": "",
+   "zh": "年轻女子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34431,7 +34431,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "針縫いの女",
-   "zh": "",
+   "zh": "缝纫女工",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34452,7 +34452,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "酒好きな男",
-   "zh": "",
+   "zh": "嗜酒的男子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34473,7 +34473,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "荒くれた男",
-   "zh": "",
+   "zh": "粗暴的男子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34494,7 +34494,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "元気な老人",
-   "zh": "",
+   "zh": "精神矍铄的老人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34515,7 +34515,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "腰の曲がった老人",
-   "zh": "",
+   "zh": "驼背的老人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34536,7 +34536,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "機嫌の良い獣人",
-   "zh": "",
+   "zh": "心情愉快的兽人",
    "occurrences": 8,
    "loc": {
     "file": "DemoText.dat",
@@ -34560,7 +34560,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "何度も驚く獣人",
-   "zh": "",
+   "zh": "屡屡受惊的兽人",
    "occurrences": 8,
    "loc": {
     "file": "DemoText.dat",
@@ -34584,7 +34584,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "年老いた獣人",
-   "zh": "",
+   "zh": "年迈的兽人",
    "occurrences": 8,
    "loc": {
     "file": "DemoText.dat",
@@ -34608,7 +34608,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "しわくちゃの獣人",
-   "zh": "",
+   "zh": "满脸皱纹的兽人",
    "occurrences": 6,
    "loc": {
     "file": "DemoText.dat",
@@ -34632,7 +34632,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "知性的な獣人",
-   "zh": "",
+   "zh": "知性的兽人",
    "occurrences": 9,
    "loc": {
     "file": "DemoText.dat",
@@ -34656,7 +34656,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "おしゃまな獣人",
-   "zh": "",
+   "zh": "人小鬼大的兽人",
    "occurrences": 8,
    "loc": {
     "file": "DemoText.dat",
@@ -34680,7 +34680,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "星読みの獣人",
-   "zh": "",
+   "zh": "占星兽人",
    "occurrences": 10,
    "loc": {
     "file": "DemoText.dat",
@@ -34704,7 +34704,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "学者の男",
-   "zh": "",
+   "zh": "学者男子",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -34726,7 +34726,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "学者の女",
-   "zh": "",
+   "zh": "学者女子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34747,7 +34747,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "むくつけき大男の兄",
-   "zh": "",
+   "zh": "粗野魁梧的兄长",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34768,7 +34768,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "むくつけき大男の弟",
-   "zh": "",
+   "zh": "粗鲁壮汉的弟弟",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34789,7 +34789,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "むくつけき大男の嫁",
-   "zh": "",
+   "zh": "粗鲁壮汉的妻子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34810,7 +34810,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "年老いた男",
-   "zh": "",
+   "zh": "年迈的男子",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -34834,7 +34834,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "陽気な魔女",
-   "zh": "",
+   "zh": "开朗的魔女",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -34854,7 +34854,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "かわいい魔女",
-   "zh": "",
+   "zh": "可爱的魔女",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -34877,7 +34877,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "奥様な魔女",
-   "zh": "",
+   "zh": "人妻魔女",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -34899,7 +34899,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "醜い魔女",
-   "zh": "",
+   "zh": "丑陋的魔女",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -34922,7 +34922,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "麗しい魔女",
-   "zh": "",
+   "zh": "端丽的魔女",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -34943,7 +34943,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "老婆の魔女",
-   "zh": "",
+   "zh": "老太婆魔女",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -34966,7 +34966,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "生意気な子供",
-   "zh": "",
+   "zh": "傲慢的小孩",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -34986,7 +34986,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "肝っ玉母ちゃん",
-   "zh": "",
+   "zh": "泼辣的大妈",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -35007,7 +35007,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "賢い男",
-   "zh": "",
+   "zh": "聪明的男子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -35028,7 +35028,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "噂好きな女",
-   "zh": "",
+   "zh": "八卦的女子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -35049,7 +35049,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "目つきの悪い老人",
-   "zh": "",
+   "zh": "眼神凶狠的老人",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -35070,7 +35070,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "入り口に立つ男",
-   "zh": "",
+   "zh": "站在门口的男子",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -35090,7 +35090,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "勧誘する青年",
-   "zh": "",
+   "zh": "招揽人的青年",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -35111,7 +35111,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "買い物途中の女",
-   "zh": "",
+   "zh": "买东西途中的女子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -35132,7 +35132,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "筋骨隆々な男",
-   "zh": "",
+   "zh": "肌肉健硕的男子",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -35152,7 +35152,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "いたずら小僧",
-   "zh": "",
+   "zh": "恶作剧小鬼",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -35172,7 +35172,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "おっとりした女",
-   "zh": "",
+   "zh": "稳重的女子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -35193,7 +35193,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "冗談好きなババ様",
-   "zh": "",
+   "zh": "爱开玩笑的老婆婆",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -35214,7 +35214,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "家事見習いの女",
-   "zh": "",
+   "zh": "实习家政的女子",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -35234,7 +35234,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "陰険な女",
-   "zh": "",
+   "zh": "阴险的女子",
    "occurrences": 2,
    "loc": {
     "file": "DemoText.dat",
@@ -35255,7 +35255,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "さわやかな青年",
-   "zh": "",
+   "zh": "爽朗的青年",
    "occurrences": 1,
    "loc": {
     "file": "DemoText.dat",
@@ -35275,7 +35275,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ニケ教伝道師",
-   "zh": "",
+   "zh": "尼克教传道士",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35297,7 +35297,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "ニケ教信者",
-   "zh": "",
+   "zh": "尼克教信徒",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35319,7 +35319,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "優しげな老婆",
-   "zh": "",
+   "zh": "面容慈祥的老妪",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35341,7 +35341,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "浮足立っている男性",
-   "zh": "",
+   "zh": "心神不宁的男性",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35363,7 +35363,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "しょんぼりした女性",
-   "zh": "",
+   "zh": "垂头丧气的女性",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35385,7 +35385,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "恋する乙女",
-   "zh": "",
+   "zh": "恋爱中的少女",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35407,7 +35407,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "国士の大男",
-   "zh": "",
+   "zh": "国士般魁梧的男子",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35429,7 +35429,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "お姫様ごっこの娘",
-   "zh": "",
+   "zh": "玩公主扮演游戏的小女孩",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35451,7 +35451,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "見回り中の兵士",
-   "zh": "",
+   "zh": "巡逻中的士兵",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35473,7 +35473,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "門番の孫",
-   "zh": "",
+   "zh": "门卫的孙子",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35495,7 +35495,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "パン屋の若大将",
-   "zh": "",
+   "zh": "面包房的小老板",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35517,7 +35517,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "夢見る女性",
-   "zh": "",
+   "zh": "爱做梦的女子",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35539,7 +35539,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "末裔ノ男",
-   "zh": "",
+   "zh": "遗民男子",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35561,7 +35561,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "盲イタ老人",
-   "zh": "",
+   "zh": "盲眼老人",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35583,7 +35583,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "占イノ師",
-   "zh": "",
+   "zh": "占卜师",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35605,7 +35605,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "末裔ノ女",
-   "zh": "",
+   "zh": "遗民女子",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35627,7 +35627,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "祈ル男",
-   "zh": "",
+   "zh": "祈祷的男子",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35649,7 +35649,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "祈ル女",
-   "zh": "",
+   "zh": "祈祷的女子",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35671,7 +35671,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "祈ル童",
-   "zh": "",
+   "zh": "祈祷的孩童",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35693,7 +35693,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "幼キ少女",
-   "zh": "",
+   "zh": "幼小少女",
    "occurrences": 5,
    "loc": {
     "file": "DemoText.dat",
@@ -35717,7 +35717,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "呪ウ老人",
-   "zh": "",
+   "zh": "诅咒的老人",
    "occurrences": 3,
    "loc": {
     "file": "DemoText.dat",
@@ -35739,7 +35739,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "賢キ母",
-   "zh": "",
+   "zh": "贤慧母亲",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -35762,7 +35762,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "族ノ長",
-   "zh": "",
+   "zh": "族长",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",
@@ -35785,7 +35785,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "雪ノ婆",
-   "zh": "",
+   "zh": "雪之老婆婆",
    "occurrences": 10,
    "loc": {
     "file": "DemoText.dat",
@@ -35809,7 +35809,7 @@
    "field": "speaker",
    "type": "speaker",
    "jp": "カカリマの街灯樹",
-   "zh": "",
+   "zh": "卡卡利玛的路灯树",
    "occurrences": 4,
    "loc": {
     "file": "DemoText.dat",

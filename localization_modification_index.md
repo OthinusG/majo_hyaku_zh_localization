@@ -5,3 +5,4 @@
 | 批次 | 首末 ID | 改动数 | 修改说明 | 验证及提交 |
 |---|---|---:|---|---|
 | M1-01 | `CharacterStatus.dat#00000.c1` → `CharacterStatus.dat#00515.c1` | 516 | CharacterStatus.dat 汉化与对齐校对 | PASS / `7b64aca` |
+| M1-02 | `DemoText_Speakers#0001` → `DemoText_Speakers#0259` | 259 | DemoText.dat（说话人） 汉化与对齐校对 | PASS |
