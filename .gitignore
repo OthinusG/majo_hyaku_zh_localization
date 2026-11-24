@@ -1,0 +1,13 @@
+.DS_Store
+._*
+Thumbs.db
+.agent/
+__pycache__/
+*.py[cod]
+*.bak
+*.tmp
+*.log
+/tmp/*
+!/tmp/.gitkeep
+/assets/
+/build/
