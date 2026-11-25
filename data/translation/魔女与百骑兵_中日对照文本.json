@@ -432773,7 +432773,7 @@
    "field": "title",
    "type": "text",
    "jp": "カルマを減らしたい",
-   "zh": "",
+   "zh": "想降低业值",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -432795,7 +432795,7 @@
    "field": "description",
    "type": "text",
    "jp": "カルマを１００減らします",
-   "zh": "",
+   "zh": "降低１００点业值",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -432817,7 +432817,7 @@
    "field": "title",
    "type": "text",
    "jp": "マナを換金したい",
-   "zh": "",
+   "zh": "想将玛那兑换成金钱",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -432839,7 +432839,7 @@
    "field": "description",
    "type": "text",
    "jp": "１０００マナを１００００Shellに換金します",
-   "zh": "",
+   "zh": "将１０００玛那兑换为１００００Shell",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -432861,7 +432861,7 @@
    "field": "title",
    "type": "text",
    "jp": "村人を復活させたい",
-   "zh": "",
+   "zh": "想让村民复活",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -432883,7 +432883,7 @@
    "field": "description",
    "type": "text",
    "jp": "全ての村の村人を復活させます",
-   "zh": "",
+   "zh": "让所有村落的村民复活",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -432905,7 +432905,7 @@
    "field": "title",
    "type": "text",
    "jp": "愚者の石とマナで武器を強化したい",
-   "zh": "",
+   "zh": "想用愚者之石与玛那强化武器",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -432927,7 +432927,7 @@
    "field": "description",
    "type": "text",
    "jp": "愚者の石とマナを使用して武器を強化します",
-   "zh": "",
+   "zh": "使用愚者之石与玛那强化武器",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -432949,7 +432949,7 @@
    "field": "title",
    "type": "text",
    "jp": "新たな子分的トーチカがほしい",
-   "zh": "",
+   "zh": "想要新的跟班型战术火炬",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -432971,7 +432971,7 @@
    "field": "description",
    "type": "text",
    "jp": "魔女様に新たなトーチカをおねだりします",
-   "zh": "",
+   "zh": "向魔女大人撒娇讨要新的战术火炬",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -432993,7 +432993,7 @@
    "field": "title",
    "type": "text",
    "jp": "最強のファセットがほしい ",
-   "zh": "",
+   "zh": "想要最强的百骑兵形态",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -433015,7 +433015,7 @@
    "field": "description",
    "type": "text",
    "jp": "魔女様に最強のファセットをおねだりします",
-   "zh": "",
+   "zh": "向魔女大人撒娇讨要最强的百骑兵形态",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -433037,7 +433037,7 @@
    "field": "title",
    "type": "text",
    "jp": "敵をもっと強くしてほしい",
-   "zh": "",
+   "zh": "希望敌人变得更强",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -433059,7 +433059,7 @@
    "field": "description",
    "type": "text",
    "jp": "全マップの敵を少し強くします",
-   "zh": "",
+   "zh": "让全地图的敌人稍微变强一些",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -433081,7 +433081,7 @@
    "field": "title",
    "type": "text",
    "jp": "敵を弱くしてほしい",
-   "zh": "",
+   "zh": "希望敌人变弱",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -433103,7 +433103,7 @@
    "field": "description",
    "type": "text",
    "jp": "全マップの敵を少し弱くします",
-   "zh": "",
+   "zh": "让全地图的敌人稍微变弱一些",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -433125,7 +433125,7 @@
    "field": "title",
    "type": "text",
    "jp": "最強の打撃武器がほしい",
-   "zh": "",
+   "zh": "想要最强的打击武器",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -433147,7 +433147,7 @@
    "field": "description",
    "type": "text",
    "jp": "魔女様に最強の打撃武器をおねだりします",
-   "zh": "",
+   "zh": "向魔女大人撒娇讨要最强的打击武器",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -433169,7 +433169,7 @@
    "field": "title",
    "type": "text",
    "jp": "忘却のネアイデカを開放したい",
-   "zh": "",
+   "zh": "想开放遗忘之内艾德卡",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
@@ -433191,7 +433191,7 @@
    "field": "description",
    "type": "text",
    "jp": "忘却のネアイデカを解放します",
-   "zh": "",
+   "zh": "解放遗忘之内艾德卡",
    "loc": {
     "file": "Petition.dat",
     "dstart": 464,
