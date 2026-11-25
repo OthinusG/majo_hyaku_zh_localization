@@ -12,3 +12,4 @@
 | M2-02 | `DemoText.dat#01000` → `DemoText.dat#01999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |
 | M2-03 | `DemoText.dat#02000` → `DemoText.dat#02999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |
 | M2-04 | `DemoText.dat#03000` → `DemoText.dat#03999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |
+| M2-05 | `DemoText.dat#04000` → `DemoText.dat#04999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |

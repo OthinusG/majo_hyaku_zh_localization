@@ -26,7 +26,7 @@
 - [x] **M2-02** DemoText.dat，序号 2651–3650（1000 条），`DemoText.dat#01000` → `DemoText.dat#01999`
 - [x] **M2-03** DemoText.dat，序号 3651–4650（1000 条），`DemoText.dat#02000` → `DemoText.dat#02999`
 - [x] **M2-04** DemoText.dat，序号 4651–5650（1000 条），`DemoText.dat#03000` → `DemoText.dat#03999`
-- [ ] **M2-05** DemoText.dat，序号 5651–6650（1000 条），`DemoText.dat#04000` → `DemoText.dat#04999`
+- [x] **M2-05** DemoText.dat，序号 5651–6650（1000 条），`DemoText.dat#04000` → `DemoText.dat#04999`
 - [ ] **M2-06** DemoText.dat，序号 6651–7650（1000 条），`DemoText.dat#05000` → `DemoText.dat#05999`
 - [ ] **M2-07** DemoText.dat，序号 7651–8650（1000 条），`DemoText.dat#06000` → `DemoText.dat#06999`
 - [ ] **M2-08** DemoText.dat，序号 8651–9650（1000 条），`DemoText.dat#07000` → `DemoText.dat#07999`
