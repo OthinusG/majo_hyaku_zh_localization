@@ -475540,7 +475540,7 @@
    "context": "gObj:addGameLog(\"L2/R2でモーション変更\")",
    "type": "text",
    "jp": "L2/R2でモーション変更",
-   "zh": "",
+   "zh": "以L2/R2变更动作",
    "loc": {
     "file": "Game/Demo/mainquest/demo9999_0000.lua",
     "line": 455
@@ -475555,7 +475555,7 @@
    "context": "gObj:addGameLog(\"十字キー/右スティックでカメラの高さ変更\")",
    "type": "text",
    "jp": "十字キー/右スティックでカメラの高さ変更",
-   "zh": "",
+   "zh": "以方向键/右摇杆变更镜头高度",
    "loc": {
     "file": "Game/Demo/mainquest/demo9999_0000.lua",
     "line": 456
@@ -475570,7 +475570,7 @@
    "context": "gObj:addGameLog(\"L1/R1でモデル変更\")",
    "type": "text",
    "jp": "L1/R1でモデル変更",
-   "zh": "",
+   "zh": "以L1/R1变更模型",
    "loc": {
     "file": "Game/Demo/mainquest/demo9999_0000.lua",
     "line": 457
@@ -475585,7 +475585,7 @@
    "context": "gObj:addGameLog(\"○でモーションリプレイ\")",
    "type": "text",
    "jp": "○でモーションリプレイ",
-   "zh": "",
+   "zh": "以○键重播动作",
    "loc": {
     "file": "Game/Demo/mainquest/demo9999_0000.lua",
     "line": 458
@@ -475600,7 +475600,7 @@
    "context": "gObj:addGameLog(\"△自動再生\")",
    "type": "text",
    "jp": "△自動再生",
-   "zh": "",
+   "zh": "△自动播放",
    "loc": {
     "file": "Game/Demo/mainquest/demo9999_0000.lua",
     "line": 459
