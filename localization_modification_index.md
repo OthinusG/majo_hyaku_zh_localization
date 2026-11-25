@@ -26,3 +26,4 @@
 | M3-05 | `FieldHouse.dat#00000.c1` → `FieldHouse.dat#00169.c1` | 170 | FieldHouse.dat 汉化与对齐校对 | PASS |
 | M3-06 | `FieldHouseArea.dat#00000.c1` → `FieldHouseArea.dat#00002.c1` | 3 | FieldHouseArea.dat 汉化与对齐校对 | PASS |
 | M3-07 | `FieldHouseBlock.dat#00000.c1` → `FieldHouseBlock.dat#00002.c1` | 3 | FieldHouseBlock.dat 汉化与对齐校对 | PASS |
+| M3-08 | `FieldHouseNPC.dat#00000.npc_name` → `FieldHouseNPC.dat#00168.line_normal` | 1000 | FieldHouseNPC.dat 汉化与对齐校对 | PASS |
