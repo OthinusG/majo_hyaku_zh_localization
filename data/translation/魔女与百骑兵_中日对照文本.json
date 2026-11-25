@@ -430223,7 +430223,7 @@
    "field": "c1",
    "type": "text",
    "jp": "敵撃破 30体",
-   "zh": "",
+   "zh": "击破敌人 30只",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430244,7 +430244,7 @@
    "field": "c1",
    "type": "text",
    "jp": "敵撃破 50体",
-   "zh": "",
+   "zh": "击破敌人 50只",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430265,7 +430265,7 @@
    "field": "c1",
    "type": "text",
    "jp": "敵撃破 100体",
-   "zh": "",
+   "zh": "击破敌人 100只",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430286,7 +430286,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダッシュ時間 3分",
-   "zh": "",
+   "zh": "冲刺时间 3分钟",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430307,7 +430307,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダッシュ時間 5分",
-   "zh": "",
+   "zh": "冲刺时间 5分钟",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430328,7 +430328,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ダッシュ時間 10分",
-   "zh": "",
+   "zh": "冲刺时间 10分钟",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430349,7 +430349,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウィッチタイム回数 10回",
-   "zh": "",
+   "zh": "魔女时间次数 10次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430370,7 +430370,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウィッチタイム回数 30回",
-   "zh": "",
+   "zh": "魔女时间次数 30次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430391,7 +430391,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウィッチタイム回数 50回",
-   "zh": "",
+   "zh": "魔女时间次数 50次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430412,7 +430412,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ガード回数 3回",
-   "zh": "",
+   "zh": "防御次数 3次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430433,7 +430433,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ガード回数 5回",
-   "zh": "",
+   "zh": "防御次数 5次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430454,7 +430454,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ガード回数 10回",
-   "zh": "",
+   "zh": "防御次数 10次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430475,7 +430475,7 @@
    "field": "c1",
    "type": "text",
    "jp": "被ノックダウン回数 50回",
-   "zh": "",
+   "zh": "受击击倒次数 50次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430496,7 +430496,7 @@
    "field": "c1",
    "type": "text",
    "jp": "被ノックダウン回数 80回",
-   "zh": "",
+   "zh": "受击击倒次数 80次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430517,7 +430517,7 @@
    "field": "c1",
    "type": "text",
    "jp": "被ノックダウン回数 100回",
-   "zh": "",
+   "zh": "受击击倒次数 100次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430538,7 +430538,7 @@
    "field": "c1",
    "type": "text",
    "jp": "与ノックダウン回数 50回",
-   "zh": "",
+   "zh": "击倒敌人次数 50次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430559,7 +430559,7 @@
    "field": "c1",
    "type": "text",
    "jp": "与ノックダウン回数 80回",
-   "zh": "",
+   "zh": "击倒敌人次数 80次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430580,7 +430580,7 @@
    "field": "c1",
    "type": "text",
    "jp": "与ノックダウン回数 100回",
-   "zh": "",
+   "zh": "击倒敌人次数 100次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430601,7 +430601,7 @@
    "field": "c1",
    "type": "text",
    "jp": "累計被ダメージ 体力の30倍",
-   "zh": "",
+   "zh": "累计承受伤害 体力的30倍",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430622,7 +430622,7 @@
    "field": "c1",
    "type": "text",
    "jp": "累計被ダメージ 体力の50倍",
-   "zh": "",
+   "zh": "累计承受伤害 体力的50倍",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430643,7 +430643,7 @@
    "field": "c1",
    "type": "text",
    "jp": "累計被ダメージ 体力の100倍",
-   "zh": "",
+   "zh": "累计承受伤害 体力的100倍",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430664,7 +430664,7 @@
    "field": "c1",
    "type": "text",
    "jp": "累計与ダメージ 体力の30倍",
-   "zh": "",
+   "zh": "累计造成伤害 体力的30倍",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430685,7 +430685,7 @@
    "field": "c1",
    "type": "text",
    "jp": "累計与ダメージ 体力の50倍",
-   "zh": "",
+   "zh": "累计造成伤害 体力的50倍",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430706,7 +430706,7 @@
    "field": "c1",
    "type": "text",
    "jp": "累計与ダメージ 体力の100倍",
-   "zh": "",
+   "zh": "累计造成伤害 体力的100倍",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430727,7 +430727,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トレジャー回数 3回",
-   "zh": "",
+   "zh": "寻宝次数 3次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430748,7 +430748,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トレジャー回数 5回",
-   "zh": "",
+   "zh": "寻宝次数 5次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430769,7 +430769,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トレジャー回数 10回",
-   "zh": "",
+   "zh": "寻宝次数 10次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430790,7 +430790,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トーチカ使用数 10回",
-   "zh": "",
+   "zh": "战术火炬使用次数 10次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430811,7 +430811,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トーチカ使用数 30回",
-   "zh": "",
+   "zh": "战术火炬使用次数 30次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430832,7 +430832,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トーチカ使用数 50回",
-   "zh": "",
+   "zh": "战术火炬使用次数 50次",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430853,7 +430853,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トーチカ敵撃破数 10体",
-   "zh": "",
+   "zh": "战术火炬击破敌人数 10只",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430874,7 +430874,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トーチカ敵撃破数 30体",
-   "zh": "",
+   "zh": "战术火炬击破敌人数 30只",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
@@ -430895,7 +430895,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トーチカ敵撃破数 50体",
-   "zh": "",
+   "zh": "战术火炬击破敌人数 50只",
    "loc": {
     "file": "MapEvaluation.dat",
     "dstart": 1936,
