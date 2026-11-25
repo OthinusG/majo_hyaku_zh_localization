@@ -45,7 +45,7 @@
 - [x] **M3-07** FieldHouseBlock.dat，序号 12456–12458（3 条），`FieldHouseBlock.dat#00000.c1` → `FieldHouseBlock.dat#00002.c1`
 - [x] **M3-08** FieldHouseNPC.dat，序号 12459–13458（1000 条），`FieldHouseNPC.dat#00000.npc_name` → `FieldHouseNPC.dat#00168.line_normal`
 - [x] **M3-09** FieldHouseNPC.dat，序号 13459–14046（588 条），`FieldHouseNPC.dat#00168.line_angry1` → `FieldHouseNPC.dat#00267.line_raid2`
-- [ ] **M3-10** FieldHouseWitch.dat，序号 14047–14048（2 条），`FieldHouseWitch.dat#00000.c1` → `FieldHouseWitch.dat#00001.c1`
+- [x] **M3-10** FieldHouseWitch.dat，序号 14047–14048（2 条），`FieldHouseWitch.dat#00000.c1` → `FieldHouseWitch.dat#00001.c1`
 - [ ] **M3-11** ItemAbility.dat，序号 15168–15185（18 条），`ItemAbility.dat#00000.c1` → `ItemAbility.dat#00017.c1`
 - [ ] **M3-12** ItemBase.dat，序号 15186–15587（402 条），`ItemBase.dat#00000.name` → `ItemBase.dat#00200.description`
 - [ ] **M3-13** ItemFlavor.dat，序号 15588–15651（64 条），`ItemFlavor.dat#00000.name` → `ItemFlavor.dat#00031.description`

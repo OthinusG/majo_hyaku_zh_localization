@@ -394009,7 +394009,7 @@
    "field": "c1",
    "type": "text",
    "jp": "沼の魔女メタリカ",
-   "zh": "",
+   "zh": "沼之魔女梅塔莉卡",
    "loc": {
     "file": "FieldHouseWitch.dat",
     "dstart": 96,
@@ -394030,7 +394030,7 @@
    "field": "c1",
    "type": "text",
    "jp": "名もなき魔女",
-   "zh": "",
+   "zh": "无名魔女",
    "loc": {
     "file": "FieldHouseWitch.dat",
     "dstart": 96,
