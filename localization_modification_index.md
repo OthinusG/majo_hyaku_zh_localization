@@ -34,3 +34,4 @@
 | M3-13 | `ItemFlavor.dat#00000.name` → `ItemFlavor.dat#00031.description` | 64 | ItemFlavor.dat 汉化与对齐校对 | PASS |
 | M3-14 | `ItemGroupName.dat#00000.c1` → `ItemGroupName.dat#00010.c1` | 11 | ItemGroupName.dat 汉化与对齐校对 | PASS |
 | M3-15 | `ItemTitleA.dat#00000.c1` → `ItemTitleA.dat#00018.c1` | 19 | ItemTitleA.dat 汉化与对齐校对 | PASS |
+| M3-16 | `ItemTitleB.dat#00000.c1` → `ItemTitleB.dat#00019.c1` | 20 | ItemTitleB.dat 汉化与对齐校对 | PASS |

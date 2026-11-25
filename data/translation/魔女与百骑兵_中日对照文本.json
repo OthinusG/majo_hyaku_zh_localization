@@ -429361,7 +429361,7 @@
    "field": "c1",
    "type": "text",
    "jp": "流星",
-   "zh": "",
+   "zh": "流星",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429383,7 +429383,7 @@
    "field": "c1",
    "type": "text",
    "jp": "彗星",
-   "zh": "",
+   "zh": "彗星",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429405,7 +429405,7 @@
    "field": "c1",
    "type": "text",
    "jp": "鉄壁",
-   "zh": "",
+   "zh": "铁壁",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429427,7 +429427,7 @@
    "field": "c1",
    "type": "text",
    "jp": "完璧",
-   "zh": "",
+   "zh": "完美",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429449,7 +429449,7 @@
    "field": "c1",
    "type": "text",
    "jp": "エロ",
-   "zh": "",
+   "zh": "色气",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429471,7 +429471,7 @@
    "field": "c1",
    "type": "text",
    "jp": "淫乱",
-   "zh": "",
+   "zh": "淫乱",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429493,7 +429493,7 @@
    "field": "c1",
    "type": "text",
    "jp": "限定",
-   "zh": "",
+   "zh": "限定",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429515,7 +429515,7 @@
    "field": "c1",
    "type": "text",
    "jp": "特売",
-   "zh": "",
+   "zh": "特价",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429537,7 +429537,7 @@
    "field": "c1",
    "type": "text",
    "jp": "根性",
-   "zh": "",
+   "zh": "毅力",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429559,7 +429559,7 @@
    "field": "c1",
    "type": "text",
    "jp": "努力",
-   "zh": "",
+   "zh": "努力",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429581,7 +429581,7 @@
    "field": "c1",
    "type": "text",
    "jp": "凄い",
-   "zh": "",
+   "zh": "厉害",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429603,7 +429603,7 @@
    "field": "c1",
    "type": "text",
    "jp": "忍者",
-   "zh": "",
+   "zh": "忍者",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429625,7 +429625,7 @@
    "field": "c1",
    "type": "text",
    "jp": "衝撃",
-   "zh": "",
+   "zh": "冲击",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429647,7 +429647,7 @@
    "field": "c1",
    "type": "text",
    "jp": "痛撃",
-   "zh": "",
+   "zh": "痛击",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429669,7 +429669,7 @@
    "field": "c1",
    "type": "text",
    "jp": "毒々",
-   "zh": "",
+   "zh": "剧毒",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429691,7 +429691,7 @@
    "field": "c1",
    "type": "text",
    "jp": "猛毒",
-   "zh": "",
+   "zh": "猛毒",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429713,7 +429713,7 @@
    "field": "c1",
    "type": "text",
    "jp": "睡魔",
-   "zh": "",
+   "zh": "睡魔",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429735,7 +429735,7 @@
    "field": "c1",
    "type": "text",
    "jp": "春眠",
-   "zh": "",
+   "zh": "春眠",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429757,7 +429757,7 @@
    "field": "c1",
    "type": "text",
    "jp": "奇禍",
-   "zh": "",
+   "zh": "灾厄",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
@@ -429779,7 +429779,7 @@
    "field": "c1",
    "type": "text",
    "jp": "厄災",
-   "zh": "",
+   "zh": "天灾",
    "loc": {
     "file": "ItemTitleB.dat",
     "dstart": 448,
