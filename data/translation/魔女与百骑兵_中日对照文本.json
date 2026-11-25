@@ -241,7 +241,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ワンダー・ナイト",
-   "zh": "",
+   "zh": "漫游骑士",
    "loc": {
     "file": "AptitudeEquip.dat",
     "dstart": 288,
@@ -262,7 +262,7 @@
    "field": "c1",
    "type": "text",
    "jp": "パワー・フォートレス",
-   "zh": "",
+   "zh": "坚固要塞",
    "loc": {
     "file": "AptitudeEquip.dat",
     "dstart": 288,
@@ -283,7 +283,7 @@
    "field": "c1",
    "type": "text",
    "jp": "マージナル・ゲイズ",
-   "zh": "",
+   "zh": "边缘凝视",
    "loc": {
     "file": "AptitudeEquip.dat",
     "dstart": 288,
@@ -304,7 +304,7 @@
    "field": "c1",
    "type": "text",
    "jp": "シノビ・ザ・アサシン",
-   "zh": "",
+   "zh": "忍者暗杀者",
    "loc": {
     "file": "AptitudeEquip.dat",
     "dstart": 288,
@@ -325,7 +325,7 @@
    "field": "c1",
    "type": "text",
    "jp": "トリック・スクリーマー",
-   "zh": "",
+   "zh": "诡计呼啸者",
    "loc": {
     "file": "AptitudeEquip.dat",
     "dstart": 288,
@@ -346,7 +346,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ノーブル・ラプター",
-   "zh": "",
+   "zh": "高贵猛禽",
    "loc": {
     "file": "AptitudeEquip.dat",
     "dstart": 288,
