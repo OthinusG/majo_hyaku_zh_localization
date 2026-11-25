@@ -428701,7 +428701,7 @@
    "field": "c1",
    "type": "text",
    "jp": "刀剣",
-   "zh": "",
+   "zh": "刀剑",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,
@@ -428723,7 +428723,7 @@
    "field": "c1",
    "type": "text",
    "jp": "蝕台",
-   "zh": "",
+   "zh": "烛台",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,
@@ -428745,7 +428745,7 @@
    "field": "c1",
    "type": "text",
    "jp": "鈍槌",
-   "zh": "",
+   "zh": "钝槌",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,
@@ -428767,7 +428767,7 @@
    "field": "c1",
    "type": "text",
    "jp": "古塔",
-   "zh": "",
+   "zh": "古塔",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,
@@ -428789,7 +428789,7 @@
    "field": "c1",
    "type": "text",
    "jp": "槍鎌",
-   "zh": "",
+   "zh": "枪镰",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,
@@ -428811,7 +428811,7 @@
    "field": "c1",
    "type": "text",
    "jp": "防具",
-   "zh": "",
+   "zh": "防具",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,
@@ -428833,7 +428833,7 @@
    "field": "c1",
    "type": "text",
    "jp": "アクセサリ",
-   "zh": "",
+   "zh": "饰品",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,
@@ -428855,7 +428855,7 @@
    "field": "c1",
    "type": "text",
    "jp": "消費",
-   "zh": "",
+   "zh": "消耗品",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,
@@ -428877,7 +428877,7 @@
    "field": "c1",
    "type": "text",
    "jp": "収集品",
-   "zh": "",
+   "zh": "收集品",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,
@@ -428899,7 +428899,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ストマックアイテム",
-   "zh": "",
+   "zh": "胃袋道具",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,
@@ -428921,7 +428921,7 @@
    "field": "c1",
    "type": "text",
    "jp": "キーアイテム",
-   "zh": "",
+   "zh": "关键道具",
    "loc": {
     "file": "ItemGroupName.dat",
     "dstart": 128,

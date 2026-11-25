@@ -49,7 +49,7 @@
 - [x] **M3-11** ItemAbility.dat，序号 15168–15185（18 条），`ItemAbility.dat#00000.c1` → `ItemAbility.dat#00017.c1`
 - [x] **M3-12** ItemBase.dat，序号 15186–15587（402 条），`ItemBase.dat#00000.name` → `ItemBase.dat#00200.description`
 - [x] **M3-13** ItemFlavor.dat，序号 15588–15651（64 条），`ItemFlavor.dat#00000.name` → `ItemFlavor.dat#00031.description`
-- [ ] **M3-14** ItemGroupName.dat，序号 15652–15662（11 条），`ItemGroupName.dat#00000.c1` → `ItemGroupName.dat#00010.c1`
+- [x] **M3-14** ItemGroupName.dat，序号 15652–15662（11 条），`ItemGroupName.dat#00000.c1` → `ItemGroupName.dat#00010.c1`
 - [ ] **M3-15** ItemTitleA.dat，序号 15663–15681（19 条），`ItemTitleA.dat#00000.c1` → `ItemTitleA.dat#00018.c1`
 - [ ] **M3-16** ItemTitleB.dat，序号 15682–15701（20 条），`ItemTitleB.dat#00000.c1` → `ItemTitleB.dat#00019.c1`
 - [ ] **M3-17** MapBonusList.dat，序号 15702–15721（20 条），`MapBonusList.dat#00000.name` → `MapBonusList.dat#00012.name`
