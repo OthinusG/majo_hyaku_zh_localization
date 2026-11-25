@@ -69,7 +69,7 @@
 - [x] **M4-01** EBOOT_140.elf，序号 17776–17898（123 条），`EBOOT_140.elf#0x0E1D8C0` → `EBOOT_140.elf#0x0E60DB8`
 - [x] **M4-02** Game/Demo/episodeLoad.lua，序号 17899–17899（1 条），`Game/Demo/episodeLoad.lua#L0036_2` → `Game/Demo/episodeLoad.lua#L0036_2`
 - [x] **M4-03** Game/Demo/mainquest/demo9999_0000.lua，序号 17900–17904（5 条），`Game/Demo/mainquest/demo9999_0000.lua#L0455_1` → `Game/Demo/mainquest/demo9999_0000.lua#L0459_5`
-- [ ] **M4-04** Game/Demo/mainquest/episode13_demo.lua，序号 17905–17905（1 条），`Game/Demo/mainquest/episode13_demo.lua#L7945_1` → `Game/Demo/mainquest/episode13_demo.lua#L7945_1`
+- [x] **M4-04** Game/Demo/mainquest/episode13_demo.lua，序号 17905–17905（1 条），`Game/Demo/mainquest/episode13_demo.lua#L7945_1` → `Game/Demo/mainquest/episode13_demo.lua#L7945_1`
 - [ ] **M4-05** Map/mapScrLoad.lua，序号 17906–17906（1 条），`Map/mapScrLoad.lua#L0053_2` → `Map/mapScrLoad.lua#L0053_2`
 - [ ] **M4-06** PARAM.SFO，序号 17907–17907（1 条），`PARAM.SFO#TITLE` → `PARAM.SFO#TITLE`
 - [ ] **M4-07** TROP.SFM，序号 17908–18005（98 条），`TROPHY.TRP#title-name` → `TROPHY.TRP#047_detail`

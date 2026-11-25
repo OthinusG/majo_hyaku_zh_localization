@@ -475615,7 +475615,7 @@
    "context": "DemoSetDirectText3D(textWindow, text49240Buffer, \"\", \"メタリカ\")",
    "type": "text",
    "jp": "メタリカ",
-   "zh": "",
+   "zh": "梅塔莉卡",
    "loc": {
     "file": "Game/Demo/mainquest/episode13_demo.lua",
     "line": 7945
