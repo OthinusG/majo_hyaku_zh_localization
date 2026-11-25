@@ -427357,7 +427357,7 @@
    "field": "name",
    "type": "text",
    "jp": "媒介能力",
-   "zh": "",
+   "zh": "媒介能力",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427378,7 +427378,7 @@
    "field": "description",
    "type": "text",
    "jp": "媒介としてステータスを錬成できます",
-   "zh": "",
+   "zh": "可作为媒介炼成属性",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427399,7 +427399,7 @@
    "field": "name",
    "type": "text",
    "jp": "媒介能力",
-   "zh": "",
+   "zh": "媒介能力",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427420,7 +427420,7 @@
    "field": "description",
    "type": "text",
    "jp": "媒介としてステータスを錬成できます",
-   "zh": "",
+   "zh": "可作为媒介炼成属性",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427441,7 +427441,7 @@
    "field": "name",
    "type": "text",
    "jp": "風属性付与",
-   "zh": "",
+   "zh": "赋予风属性",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427462,7 +427462,7 @@
    "field": "description",
    "type": "text",
    "jp": "風属性をアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予风属性",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427483,7 +427483,7 @@
    "field": "name",
    "type": "text",
    "jp": "土属性付与",
-   "zh": "",
+   "zh": "赋予土属性",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427504,7 +427504,7 @@
    "field": "description",
    "type": "text",
    "jp": "土属性をアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予土属性",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427525,7 +427525,7 @@
    "field": "name",
    "type": "text",
    "jp": "謎の廃棄物化",
-   "zh": "",
+   "zh": "变为谜之废弃物",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427546,7 +427546,7 @@
    "field": "description",
    "type": "text",
    "jp": "謎の廃棄物化します",
-   "zh": "",
+   "zh": "道具会变为谜之废弃物",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427567,7 +427567,7 @@
    "field": "name",
    "type": "text",
    "jp": "アイテムレベルアップ",
-   "zh": "",
+   "zh": "道具等级提升",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427588,7 +427588,7 @@
    "field": "description",
    "type": "text",
    "jp": "アイテムレベルがレベルアップします",
-   "zh": "",
+   "zh": "提升道具等级",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427609,7 +427609,7 @@
    "field": "name",
    "type": "text",
    "jp": "炎属性付与",
-   "zh": "",
+   "zh": "赋予炎属性",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427630,7 +427630,7 @@
    "field": "description",
    "type": "text",
    "jp": "炎属性をアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予炎属性",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427651,7 +427651,7 @@
    "field": "name",
    "type": "text",
    "jp": "HP付与",
-   "zh": "",
+   "zh": "赋予HP",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427672,7 +427672,7 @@
    "field": "description",
    "type": "text",
    "jp": "HPをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予HP",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427693,7 +427693,7 @@
    "field": "name",
    "type": "text",
    "jp": "STR付与",
-   "zh": "",
+   "zh": "赋予STR",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427714,7 +427714,7 @@
    "field": "description",
    "type": "text",
    "jp": "STRをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予STR",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427735,7 +427735,7 @@
    "field": "name",
    "type": "text",
    "jp": "DEF付与",
-   "zh": "",
+   "zh": "赋予DEF",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427756,7 +427756,7 @@
    "field": "description",
    "type": "text",
    "jp": "DEFをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予DEF",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427777,7 +427777,7 @@
    "field": "name",
    "type": "text",
    "jp": "攻撃速度付与",
-   "zh": "",
+   "zh": "赋予攻击速度",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427798,7 +427798,7 @@
    "field": "description",
    "type": "text",
    "jp": "攻撃速度をアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予攻击速度",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427819,7 +427819,7 @@
    "field": "name",
    "type": "text",
    "jp": "溜め時間付与",
-   "zh": "",
+   "zh": "赋予蓄力时间",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427840,7 +427840,7 @@
    "field": "description",
    "type": "text",
    "jp": "溜め時間をアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予蓄力时间",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427861,7 +427861,7 @@
    "field": "name",
    "type": "text",
    "jp": "攻撃距離付与",
-   "zh": "",
+   "zh": "赋予攻击距离",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427882,7 +427882,7 @@
    "field": "description",
    "type": "text",
    "jp": "攻撃距離をアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予攻击距离",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427903,7 +427903,7 @@
    "field": "name",
    "type": "text",
    "jp": "クリティカル付与",
-   "zh": "",
+   "zh": "赋予暴击",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427924,7 +427924,7 @@
    "field": "description",
    "type": "text",
    "jp": "クリティカルをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予暴击",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427945,7 +427945,7 @@
    "field": "name",
    "type": "text",
    "jp": "怯みダメージ付与",
-   "zh": "",
+   "zh": "赋予硬直伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427966,7 +427966,7 @@
    "field": "description",
    "type": "text",
    "jp": "怯みダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予硬直伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -427987,7 +427987,7 @@
    "field": "name",
    "type": "text",
    "jp": "毒ダメージ付与",
-   "zh": "",
+   "zh": "赋予毒伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428008,7 +428008,7 @@
    "field": "description",
    "type": "text",
    "jp": "毒ダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予毒伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428029,7 +428029,7 @@
    "field": "name",
    "type": "text",
    "jp": "睡眠ダメージ付与",
-   "zh": "",
+   "zh": "赋予睡眠伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428050,7 +428050,7 @@
    "field": "description",
    "type": "text",
    "jp": "眠りダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予睡眠伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428071,7 +428071,7 @@
    "field": "name",
    "type": "text",
    "jp": "衰弱ダメージ付与",
-   "zh": "",
+   "zh": "赋予衰弱伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428092,7 +428092,7 @@
    "field": "description",
    "type": "text",
    "jp": "衰弱ダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予衰弱伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428113,7 +428113,7 @@
    "field": "name",
    "type": "text",
    "jp": "精神ダメージ付与",
-   "zh": "",
+   "zh": "赋予精神伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428134,7 +428134,7 @@
    "field": "description",
    "type": "text",
    "jp": "精神ダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予精神伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428155,7 +428155,7 @@
    "field": "name",
    "type": "text",
    "jp": "スタンダメージ付与",
-   "zh": "",
+   "zh": "赋予眩晕伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428176,7 +428176,7 @@
    "field": "description",
    "type": "text",
    "jp": "スタンダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予眩晕伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428197,7 +428197,7 @@
    "field": "name",
    "type": "text",
    "jp": "HP付与",
-   "zh": "",
+   "zh": "赋予HP",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428218,7 +428218,7 @@
    "field": "description",
    "type": "text",
    "jp": "HPをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予HP",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428239,7 +428239,7 @@
    "field": "name",
    "type": "text",
    "jp": "STR付与",
-   "zh": "",
+   "zh": "赋予STR",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428260,7 +428260,7 @@
    "field": "description",
    "type": "text",
    "jp": "STRをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予STR",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428281,7 +428281,7 @@
    "field": "name",
    "type": "text",
    "jp": "DEF付与",
-   "zh": "",
+   "zh": "赋予DEF",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428302,7 +428302,7 @@
    "field": "description",
    "type": "text",
    "jp": "DEFをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予DEF",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428323,7 +428323,7 @@
    "field": "name",
    "type": "text",
    "jp": "攻撃速度付与",
-   "zh": "",
+   "zh": "赋予攻击速度",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428344,7 +428344,7 @@
    "field": "description",
    "type": "text",
    "jp": "攻撃速度をアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予攻击速度",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428365,7 +428365,7 @@
    "field": "name",
    "type": "text",
    "jp": "溜め時間付与",
-   "zh": "",
+   "zh": "赋予蓄力时间",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428386,7 +428386,7 @@
    "field": "description",
    "type": "text",
    "jp": "溜め時間をアイテムに付与します",
-   "zh": "",
+   "zh": "为道具赋予蓄力时间",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428407,7 +428407,7 @@
    "field": "name",
    "type": "text",
    "jp": "攻撃距離付与",
-   "zh": "",
+   "zh": "附加攻击距离",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428428,7 +428428,7 @@
    "field": "description",
    "type": "text",
    "jp": "攻撃距離をアイテムに付与します",
-   "zh": "",
+   "zh": "为道具附加攻击距离效果",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428449,7 +428449,7 @@
    "field": "name",
    "type": "text",
    "jp": "クリティカル付与",
-   "zh": "",
+   "zh": "附加暴击",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428470,7 +428470,7 @@
    "field": "description",
    "type": "text",
    "jp": "クリティカルをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具附加暴击效果",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428491,7 +428491,7 @@
    "field": "name",
    "type": "text",
    "jp": "毒ダメージ付与",
-   "zh": "",
+   "zh": "附加毒伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428512,7 +428512,7 @@
    "field": "description",
    "type": "text",
    "jp": "毒ダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具附加毒伤害效果",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428533,7 +428533,7 @@
    "field": "name",
    "type": "text",
    "jp": "眠りダメージ付与",
-   "zh": "",
+   "zh": "附加睡眠伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428554,7 +428554,7 @@
    "field": "description",
    "type": "text",
    "jp": "眠りダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具附加睡眠伤害效果",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428575,7 +428575,7 @@
    "field": "name",
    "type": "text",
    "jp": "衰弱ダメージ付与",
-   "zh": "",
+   "zh": "附加衰弱伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428596,7 +428596,7 @@
    "field": "description",
    "type": "text",
    "jp": "衰弱ダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具附加衰弱伤害效果",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428617,7 +428617,7 @@
    "field": "name",
    "type": "text",
    "jp": "精神ダメージ付与",
-   "zh": "",
+   "zh": "附加精神伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428638,7 +428638,7 @@
    "field": "description",
    "type": "text",
    "jp": "精神ダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具附加精神伤害效果",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428659,7 +428659,7 @@
    "field": "name",
    "type": "text",
    "jp": "スタンダメージ付与",
-   "zh": "",
+   "zh": "附加眩晕伤害",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,
@@ -428680,7 +428680,7 @@
    "field": "description",
    "type": "text",
    "jp": "スタンダメージをアイテムに付与します",
-   "zh": "",
+   "zh": "为道具附加眩晕伤害效果",
    "loc": {
     "file": "ItemFlavor.dat",
     "dstart": 544,

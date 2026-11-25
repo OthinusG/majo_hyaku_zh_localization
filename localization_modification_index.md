@@ -31,3 +31,4 @@
 | M3-10 | `FieldHouseWitch.dat#00000.c1` → `FieldHouseWitch.dat#00001.c1` | 2 | FieldHouseWitch.dat 汉化与对齐校对 | PASS |
 | M3-11 | `ItemAbility.dat#00000.c1` → `ItemAbility.dat#00017.c1` | 18 | ItemAbility.dat 汉化与对齐校对 | PASS |
 | M3-12 | `ItemBase.dat#00000.name` → `ItemBase.dat#00200.description` | 402 | ItemBase.dat 汉化与对齐校对 | PASS |
+| M3-13 | `ItemFlavor.dat#00000.name` → `ItemFlavor.dat#00031.description` | 64 | ItemFlavor.dat 汉化与对齐校对 | PASS |
