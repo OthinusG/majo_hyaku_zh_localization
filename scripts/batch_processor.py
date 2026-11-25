@@ -406,7 +406,7 @@ def main():
   )
   parser.add_argument("--batch", type=str, help="Specific batch ID (e.g. M1-01)")
   parser.add_argument(
-      "--chunk-size", type=int, default=35, help="Items per chunk"
+      "--chunk-size", type=int, default=50, help="Items per chunk"
   )
   parser.add_argument(
       "--workers", type=int, default=2, help="Parallel worker threads"
@@ -444,6 +444,53 @@ def main():
       sys.exit(1)
 
   print("\nAll targeted batches completed successfully!")
+
+  # Check if all batches are complete to seal Milestone 5
+  all_batches = parse_plan_batches()
+  if all(b["status"] == "x" for b in all_batches):
+    print("\nAll 49 batches complete! Running final Milestone 5 verification...")
+    ok, v_out = run_verifier(require_complete=True)
+    if ok:
+      print(f"Final Acceptance Verification PASS: {v_out}")
+      plan_txt = PLAN_PATH.read_text(encoding="utf-8")
+      plan_txt = plan_txt.replace(
+          "- [ ] 运行 `python3 scripts/verify_alignment.py --require-complete`",
+          "- [x] 运行 `python3 scripts/verify_alignment.py --require-complete`",
+      )
+      PLAN_PATH.write_text(plan_txt, encoding="utf-8")
+      memory_path = ROOT / "MEMORY.md"
+      mem_txt = memory_path.read_text(encoding="utf-8")
+      record_line = (
+          "- Milestones 1 through 5 are 100% completed and sealed. All 18,005"
+          " entries are translated and verified with --require-complete.\n"
+      )
+      if record_line not in mem_txt:
+        mem_txt += record_line
+        memory_path.write_text(mem_txt, encoding="utf-8")
+
+      subprocess.run(
+          ["git", "add", str(PLAN_PATH), str(memory_path)], check=True
+      )
+      subprocess.run(
+          [
+              "git",
+              "commit",
+              "-m",
+              "feat(release): complete full text localization and seal"
+              " Milestone 5 (18,005 entries 100% complete)",
+          ],
+          check=True,
+      )
+      for attempt in range(3):
+        push_res = subprocess.run(
+            ["git", "push", "origin", "main"], capture_output=True, text=True
+        )
+        if push_res.returncode == 0:
+          print("Milestone 5 sealed and pushed to origin main!")
+          break
+        time.sleep(2)
+    else:
+      print(f"Milestone 5 verification FAILED:\n{v_out}")
 
 
 if __name__ == "__main__":
