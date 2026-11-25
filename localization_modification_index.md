@@ -18,3 +18,4 @@
 | M2-08 | `DemoText.dat#07000` → `DemoText.dat#07999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |
 | M2-09 | `DemoText.dat#08000` → `DemoText.dat#08999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |
 | M2-10 | `DemoText.dat#09000` → `DemoText.dat#09999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |
+| M2-11 | `DemoText.dat#10000` → `DemoText.dat#10641` | 632 | DemoText.dat 汉化与对齐校对 | PASS |

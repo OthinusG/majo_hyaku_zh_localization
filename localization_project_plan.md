@@ -32,7 +32,7 @@
 - [x] **M2-08** DemoText.dat，序号 8651–9650（1000 条），`DemoText.dat#07000` → `DemoText.dat#07999`
 - [x] **M2-09** DemoText.dat，序号 9651–10650（1000 条），`DemoText.dat#08000` → `DemoText.dat#08999`
 - [x] **M2-10** DemoText.dat，序号 10651–11650（1000 条），`DemoText.dat#09000` → `DemoText.dat#09999`
-- [ ] **M2-11** DemoText.dat，序号 11651–12282（632 条），`DemoText.dat#10000` → `DemoText.dat#10641`
+- [x] **M2-11** DemoText.dat，序号 11651–12282（632 条），`DemoText.dat#10000` → `DemoText.dat#10641`
 
 ## M3 — 据点 NPC 与其他 DAT 文本
 
