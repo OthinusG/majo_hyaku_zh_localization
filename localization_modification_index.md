@@ -50,3 +50,4 @@
 | M4-02 | `Game/Demo/episodeLoad.lua#L0036_2` → `Game/Demo/episodeLoad.lua#L0036_2` | 1 | Game/Demo/episodeLoad.lua 汉化与对齐校对 | PASS |
 | M4-03 | `Game/Demo/mainquest/demo9999_0000.lua#L0455_1` → `Game/Demo/mainquest/demo9999_0000.lua#L0459_5` | 5 | Game/Demo/mainquest/demo9999_0000.lua 汉化与对齐校对 | PASS |
 | M4-04 | `Game/Demo/mainquest/episode13_demo.lua#L7945_1` → `Game/Demo/mainquest/episode13_demo.lua#L7945_1` | 1 | Game/Demo/mainquest/episode13_demo.lua 汉化与对齐校对 | PASS |
+| M4-05 | `Map/mapScrLoad.lua#L0053_2` → `Map/mapScrLoad.lua#L0053_2` | 1 | Map/mapScrLoad.lua 汉化与对齐校对 | PASS |
