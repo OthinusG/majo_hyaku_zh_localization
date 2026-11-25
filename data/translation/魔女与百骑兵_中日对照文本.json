@@ -1090,7 +1090,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1111,7 +1111,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1132,7 +1132,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1153,7 +1153,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1174,7 +1174,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1195,7 +1195,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1216,7 +1216,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1237,7 +1237,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1258,7 +1258,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1279,7 +1279,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1300,7 +1300,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1321,7 +1321,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1342,7 +1342,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1363,7 +1363,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1384,7 +1384,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1405,7 +1405,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1426,7 +1426,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1447,7 +1447,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1468,7 +1468,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1489,7 +1489,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1510,7 +1510,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1531,7 +1531,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1552,7 +1552,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1573,7 +1573,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1594,7 +1594,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1615,7 +1615,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1636,7 +1636,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1657,7 +1657,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1678,7 +1678,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1699,7 +1699,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1720,7 +1720,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1741,7 +1741,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1762,7 +1762,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1783,7 +1783,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1804,7 +1804,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1825,7 +1825,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1846,7 +1846,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1867,7 +1867,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1888,7 +1888,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1909,7 +1909,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1930,7 +1930,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1951,7 +1951,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1972,7 +1972,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -1993,7 +1993,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2014,7 +2014,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2035,7 +2035,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2056,7 +2056,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2077,7 +2077,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2098,7 +2098,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2119,7 +2119,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2140,7 +2140,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2161,7 +2161,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2182,7 +2182,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2203,7 +2203,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2224,7 +2224,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2245,7 +2245,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2266,7 +2266,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2287,7 +2287,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2308,7 +2308,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2329,7 +2329,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2350,7 +2350,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2371,7 +2371,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2392,7 +2392,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2413,7 +2413,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2434,7 +2434,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2455,7 +2455,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2476,7 +2476,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2497,7 +2497,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2518,7 +2518,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2539,7 +2539,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2560,7 +2560,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2581,7 +2581,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2602,7 +2602,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2623,7 +2623,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2644,7 +2644,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2665,7 +2665,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2686,7 +2686,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2707,7 +2707,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2728,7 +2728,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2749,7 +2749,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2770,7 +2770,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2791,7 +2791,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2812,7 +2812,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2833,7 +2833,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2854,7 +2854,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2875,7 +2875,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2896,7 +2896,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2917,7 +2917,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2938,7 +2938,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2959,7 +2959,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -2980,7 +2980,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3001,7 +3001,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3022,7 +3022,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3043,7 +3043,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3064,7 +3064,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3085,7 +3085,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3106,7 +3106,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3127,7 +3127,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3148,7 +3148,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3169,7 +3169,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3190,7 +3190,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3211,7 +3211,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3232,7 +3232,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3253,7 +3253,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3274,7 +3274,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3295,7 +3295,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3316,7 +3316,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3337,7 +3337,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3358,7 +3358,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3379,7 +3379,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3400,7 +3400,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3421,7 +3421,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3442,7 +3442,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3463,7 +3463,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3484,7 +3484,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3505,7 +3505,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3526,7 +3526,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3547,7 +3547,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3568,7 +3568,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3589,7 +3589,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3610,7 +3610,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3631,7 +3631,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3652,7 +3652,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3673,7 +3673,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3694,7 +3694,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3715,7 +3715,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3736,7 +3736,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3757,7 +3757,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3778,7 +3778,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3799,7 +3799,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3820,7 +3820,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3841,7 +3841,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3862,7 +3862,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3883,7 +3883,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3904,7 +3904,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3925,7 +3925,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3946,7 +3946,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3967,7 +3967,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -3988,7 +3988,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4009,7 +4009,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4030,7 +4030,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4051,7 +4051,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4072,7 +4072,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4093,7 +4093,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4114,7 +4114,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4135,7 +4135,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4156,7 +4156,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4177,7 +4177,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4198,7 +4198,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4219,7 +4219,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4240,7 +4240,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4261,7 +4261,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4282,7 +4282,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4303,7 +4303,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4324,7 +4324,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4345,7 +4345,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4366,7 +4366,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4387,7 +4387,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4408,7 +4408,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4429,7 +4429,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4450,7 +4450,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4471,7 +4471,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4492,7 +4492,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4513,7 +4513,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4534,7 +4534,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4555,7 +4555,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4576,7 +4576,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4597,7 +4597,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4618,7 +4618,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4639,7 +4639,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4660,7 +4660,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4681,7 +4681,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4702,7 +4702,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4723,7 +4723,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4744,7 +4744,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4765,7 +4765,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4786,7 +4786,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4807,7 +4807,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4828,7 +4828,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4849,7 +4849,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4870,7 +4870,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4891,7 +4891,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4912,7 +4912,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4933,7 +4933,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4954,7 +4954,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4975,7 +4975,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -4996,7 +4996,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5017,7 +5017,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5038,7 +5038,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5059,7 +5059,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5080,7 +5080,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5101,7 +5101,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5122,7 +5122,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5143,7 +5143,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5164,7 +5164,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5185,7 +5185,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5206,7 +5206,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5227,7 +5227,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5248,7 +5248,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5269,7 +5269,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5290,7 +5290,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5311,7 +5311,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5332,7 +5332,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5353,7 +5353,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5374,7 +5374,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5395,7 +5395,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5416,7 +5416,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5437,7 +5437,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5458,7 +5458,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5479,7 +5479,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5500,7 +5500,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5521,7 +5521,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5542,7 +5542,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5563,7 +5563,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5584,7 +5584,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5605,7 +5605,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5626,7 +5626,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5647,7 +5647,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5668,7 +5668,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5689,7 +5689,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5710,7 +5710,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5731,7 +5731,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5752,7 +5752,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5773,7 +5773,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5794,7 +5794,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5815,7 +5815,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5836,7 +5836,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5857,7 +5857,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5878,7 +5878,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5899,7 +5899,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5920,7 +5920,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5941,7 +5941,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5962,7 +5962,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -5983,7 +5983,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6004,7 +6004,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6025,7 +6025,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6046,7 +6046,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6067,7 +6067,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6088,7 +6088,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6109,7 +6109,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6130,7 +6130,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6151,7 +6151,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6172,7 +6172,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6193,7 +6193,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6214,7 +6214,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6235,7 +6235,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6256,7 +6256,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6277,7 +6277,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6298,7 +6298,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6319,7 +6319,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6340,7 +6340,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6361,7 +6361,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6382,7 +6382,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6403,7 +6403,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6424,7 +6424,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6445,7 +6445,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6466,7 +6466,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6487,7 +6487,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6508,7 +6508,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6529,7 +6529,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6550,7 +6550,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6571,7 +6571,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6592,7 +6592,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6613,7 +6613,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6634,7 +6634,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6655,7 +6655,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6676,7 +6676,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6697,7 +6697,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6718,7 +6718,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6739,7 +6739,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6760,7 +6760,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6781,7 +6781,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6802,7 +6802,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6823,7 +6823,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6844,7 +6844,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6865,7 +6865,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6886,7 +6886,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6907,7 +6907,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6928,7 +6928,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6949,7 +6949,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6970,7 +6970,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -6991,7 +6991,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7012,7 +7012,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7033,7 +7033,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7054,7 +7054,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7075,7 +7075,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7096,7 +7096,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7117,7 +7117,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7138,7 +7138,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7159,7 +7159,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7180,7 +7180,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7201,7 +7201,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7222,7 +7222,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7243,7 +7243,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7264,7 +7264,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7285,7 +7285,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7306,7 +7306,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7327,7 +7327,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7348,7 +7348,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7369,7 +7369,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7390,7 +7390,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7411,7 +7411,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7432,7 +7432,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7453,7 +7453,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7474,7 +7474,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7495,7 +7495,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7516,7 +7516,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7537,7 +7537,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7558,7 +7558,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7579,7 +7579,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7600,7 +7600,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7621,7 +7621,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7642,7 +7642,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7663,7 +7663,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7684,7 +7684,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7705,7 +7705,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7726,7 +7726,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7747,7 +7747,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7768,7 +7768,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7789,7 +7789,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7810,7 +7810,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7831,7 +7831,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7852,7 +7852,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7873,7 +7873,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7894,7 +7894,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7915,7 +7915,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7936,7 +7936,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7957,7 +7957,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7978,7 +7978,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -7999,7 +7999,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8020,7 +8020,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8041,7 +8041,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8062,7 +8062,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8083,7 +8083,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8104,7 +8104,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8125,7 +8125,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8146,7 +8146,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8167,7 +8167,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8188,7 +8188,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8209,7 +8209,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8230,7 +8230,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8251,7 +8251,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8272,7 +8272,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8293,7 +8293,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8314,7 +8314,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8335,7 +8335,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8356,7 +8356,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8377,7 +8377,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8398,7 +8398,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8419,7 +8419,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8440,7 +8440,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8461,7 +8461,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8482,7 +8482,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8503,7 +8503,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8524,7 +8524,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8545,7 +8545,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8566,7 +8566,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8587,7 +8587,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8608,7 +8608,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8629,7 +8629,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8650,7 +8650,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8671,7 +8671,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8692,7 +8692,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8713,7 +8713,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8734,7 +8734,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8755,7 +8755,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8776,7 +8776,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8797,7 +8797,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8818,7 +8818,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8839,7 +8839,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8860,7 +8860,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8881,7 +8881,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8902,7 +8902,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8923,7 +8923,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8944,7 +8944,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8965,7 +8965,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -8986,7 +8986,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9007,7 +9007,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9028,7 +9028,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9049,7 +9049,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9070,7 +9070,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9091,7 +9091,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9112,7 +9112,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9133,7 +9133,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9154,7 +9154,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9175,7 +9175,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9196,7 +9196,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9217,7 +9217,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9238,7 +9238,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9259,7 +9259,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9280,7 +9280,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9301,7 +9301,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9322,7 +9322,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9343,7 +9343,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9364,7 +9364,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9385,7 +9385,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9406,7 +9406,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9427,7 +9427,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9448,7 +9448,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9469,7 +9469,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9490,7 +9490,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9511,7 +9511,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9532,7 +9532,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9553,7 +9553,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9574,7 +9574,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9595,7 +9595,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9616,7 +9616,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9637,7 +9637,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9658,7 +9658,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9679,7 +9679,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9700,7 +9700,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9721,7 +9721,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9742,7 +9742,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9763,7 +9763,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9784,7 +9784,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9805,7 +9805,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9826,7 +9826,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9847,7 +9847,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9868,7 +9868,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9889,7 +9889,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9910,7 +9910,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9931,7 +9931,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9952,7 +9952,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9973,7 +9973,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -9994,7 +9994,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10015,7 +10015,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10036,7 +10036,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10057,7 +10057,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10078,7 +10078,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10099,7 +10099,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10120,7 +10120,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10141,7 +10141,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10162,7 +10162,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10183,7 +10183,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10204,7 +10204,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10225,7 +10225,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10246,7 +10246,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10267,7 +10267,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10288,7 +10288,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10309,7 +10309,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10330,7 +10330,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10351,7 +10351,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10372,7 +10372,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10393,7 +10393,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10414,7 +10414,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10435,7 +10435,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10456,7 +10456,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10477,7 +10477,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10498,7 +10498,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10519,7 +10519,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10540,7 +10540,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10561,7 +10561,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10582,7 +10582,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10603,7 +10603,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10624,7 +10624,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10645,7 +10645,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10666,7 +10666,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10687,7 +10687,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10708,7 +10708,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10729,7 +10729,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10750,7 +10750,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10771,7 +10771,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10792,7 +10792,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10813,7 +10813,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10834,7 +10834,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10855,7 +10855,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10876,7 +10876,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10897,7 +10897,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10918,7 +10918,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10939,7 +10939,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10960,7 +10960,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -10981,7 +10981,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11002,7 +11002,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11023,7 +11023,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11044,7 +11044,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11065,7 +11065,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11086,7 +11086,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11107,7 +11107,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11128,7 +11128,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11149,7 +11149,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11170,7 +11170,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11191,7 +11191,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11212,7 +11212,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11233,7 +11233,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11254,7 +11254,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11275,7 +11275,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11296,7 +11296,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11317,7 +11317,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11338,7 +11338,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11359,7 +11359,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11380,7 +11380,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11401,7 +11401,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11422,7 +11422,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11443,7 +11443,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11464,7 +11464,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11485,7 +11485,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11506,7 +11506,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11527,7 +11527,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11548,7 +11548,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11569,7 +11569,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11590,7 +11590,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11611,7 +11611,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11632,7 +11632,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11653,7 +11653,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11674,7 +11674,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11695,7 +11695,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11716,7 +11716,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11737,7 +11737,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11758,7 +11758,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11779,7 +11779,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11800,7 +11800,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11821,7 +11821,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11842,7 +11842,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11863,7 +11863,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11884,7 +11884,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11905,7 +11905,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11926,7 +11926,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11947,7 +11947,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11968,7 +11968,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -11989,7 +11989,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12010,7 +12010,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12031,7 +12031,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12052,7 +12052,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12073,7 +12073,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12094,7 +12094,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12115,7 +12115,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12136,7 +12136,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12157,7 +12157,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12178,7 +12178,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12199,7 +12199,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12220,7 +12220,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12241,7 +12241,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12262,7 +12262,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12283,7 +12283,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12304,7 +12304,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12325,7 +12325,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12346,7 +12346,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12367,7 +12367,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12388,7 +12388,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12409,7 +12409,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12430,7 +12430,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12451,7 +12451,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12472,7 +12472,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12493,7 +12493,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12514,7 +12514,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12535,7 +12535,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12556,7 +12556,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12577,7 +12577,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12598,7 +12598,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12619,7 +12619,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12640,7 +12640,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12661,7 +12661,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12682,7 +12682,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12703,7 +12703,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12724,7 +12724,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12745,7 +12745,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12766,7 +12766,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12787,7 +12787,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12808,7 +12808,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12829,7 +12829,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12850,7 +12850,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12871,7 +12871,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12892,7 +12892,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12913,7 +12913,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12934,7 +12934,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12955,7 +12955,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12976,7 +12976,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -12997,7 +12997,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13018,7 +13018,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13039,7 +13039,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13060,7 +13060,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13081,7 +13081,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13102,7 +13102,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13123,7 +13123,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13144,7 +13144,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13165,7 +13165,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13186,7 +13186,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13207,7 +13207,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13228,7 +13228,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13249,7 +13249,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13270,7 +13270,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13291,7 +13291,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13312,7 +13312,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13333,7 +13333,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13354,7 +13354,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13375,7 +13375,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13396,7 +13396,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13417,7 +13417,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13438,7 +13438,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13459,7 +13459,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13480,7 +13480,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13501,7 +13501,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13522,7 +13522,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13543,7 +13543,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13564,7 +13564,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13585,7 +13585,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13606,7 +13606,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13627,7 +13627,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13648,7 +13648,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13669,7 +13669,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13690,7 +13690,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13711,7 +13711,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13732,7 +13732,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13753,7 +13753,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13774,7 +13774,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13795,7 +13795,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13816,7 +13816,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13837,7 +13837,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13858,7 +13858,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13879,7 +13879,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13900,7 +13900,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13921,7 +13921,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13942,7 +13942,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13963,7 +13963,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -13984,7 +13984,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14005,7 +14005,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14026,7 +14026,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14047,7 +14047,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14068,7 +14068,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14089,7 +14089,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14110,7 +14110,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14131,7 +14131,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14152,7 +14152,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14173,7 +14173,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14194,7 +14194,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14215,7 +14215,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14236,7 +14236,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14257,7 +14257,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14278,7 +14278,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14299,7 +14299,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14320,7 +14320,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14341,7 +14341,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14362,7 +14362,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14383,7 +14383,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14404,7 +14404,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14425,7 +14425,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14446,7 +14446,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14467,7 +14467,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14488,7 +14488,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14509,7 +14509,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14530,7 +14530,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14551,7 +14551,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14572,7 +14572,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14593,7 +14593,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14614,7 +14614,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14635,7 +14635,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14656,7 +14656,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14677,7 +14677,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14698,7 +14698,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14719,7 +14719,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14740,7 +14740,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14761,7 +14761,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14782,7 +14782,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14803,7 +14803,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14824,7 +14824,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14845,7 +14845,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14866,7 +14866,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14887,7 +14887,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14908,7 +14908,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14929,7 +14929,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14950,7 +14950,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14971,7 +14971,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -14992,7 +14992,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15013,7 +15013,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15034,7 +15034,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15055,7 +15055,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15076,7 +15076,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15097,7 +15097,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15118,7 +15118,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15139,7 +15139,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15160,7 +15160,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15181,7 +15181,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15202,7 +15202,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15223,7 +15223,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15244,7 +15244,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15265,7 +15265,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15286,7 +15286,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15307,7 +15307,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15328,7 +15328,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15349,7 +15349,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15370,7 +15370,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15391,7 +15391,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15412,7 +15412,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15433,7 +15433,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15454,7 +15454,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15475,7 +15475,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15496,7 +15496,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15517,7 +15517,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15538,7 +15538,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15559,7 +15559,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15580,7 +15580,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15601,7 +15601,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15622,7 +15622,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15643,7 +15643,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15664,7 +15664,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15685,7 +15685,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15706,7 +15706,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15727,7 +15727,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15748,7 +15748,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15769,7 +15769,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15790,7 +15790,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15811,7 +15811,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15832,7 +15832,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15853,7 +15853,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15874,7 +15874,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15895,7 +15895,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15916,7 +15916,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15937,7 +15937,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15958,7 +15958,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -15979,7 +15979,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16000,7 +16000,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16021,7 +16021,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16042,7 +16042,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16063,7 +16063,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16084,7 +16084,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16105,7 +16105,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16126,7 +16126,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16147,7 +16147,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16168,7 +16168,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16189,7 +16189,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16210,7 +16210,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16231,7 +16231,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16252,7 +16252,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16273,7 +16273,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16294,7 +16294,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16315,7 +16315,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16336,7 +16336,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16357,7 +16357,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16378,7 +16378,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16399,7 +16399,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16420,7 +16420,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16441,7 +16441,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16462,7 +16462,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16483,7 +16483,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16504,7 +16504,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16525,7 +16525,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16546,7 +16546,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16567,7 +16567,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16588,7 +16588,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16609,7 +16609,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16630,7 +16630,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16651,7 +16651,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16672,7 +16672,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16693,7 +16693,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16714,7 +16714,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16735,7 +16735,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16756,7 +16756,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16777,7 +16777,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16798,7 +16798,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16819,7 +16819,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16840,7 +16840,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16861,7 +16861,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16882,7 +16882,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16903,7 +16903,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16924,7 +16924,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16945,7 +16945,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16966,7 +16966,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -16987,7 +16987,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17008,7 +17008,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17029,7 +17029,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17050,7 +17050,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17071,7 +17071,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17092,7 +17092,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17113,7 +17113,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17134,7 +17134,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17155,7 +17155,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17176,7 +17176,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17197,7 +17197,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17218,7 +17218,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17239,7 +17239,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17260,7 +17260,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17281,7 +17281,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17302,7 +17302,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17323,7 +17323,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17344,7 +17344,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17365,7 +17365,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17386,7 +17386,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17407,7 +17407,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17428,7 +17428,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17449,7 +17449,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17470,7 +17470,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17491,7 +17491,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17512,7 +17512,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17533,7 +17533,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17554,7 +17554,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17575,7 +17575,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17596,7 +17596,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17617,7 +17617,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17638,7 +17638,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17659,7 +17659,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17680,7 +17680,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17701,7 +17701,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17722,7 +17722,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17743,7 +17743,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17764,7 +17764,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17785,7 +17785,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17806,7 +17806,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17827,7 +17827,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17848,7 +17848,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17869,7 +17869,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17890,7 +17890,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17911,7 +17911,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17932,7 +17932,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17953,7 +17953,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17974,7 +17974,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -17995,7 +17995,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18016,7 +18016,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18037,7 +18037,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18058,7 +18058,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18079,7 +18079,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18100,7 +18100,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18121,7 +18121,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18142,7 +18142,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18163,7 +18163,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18184,7 +18184,7 @@
    "field": "c1",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18205,7 +18205,7 @@
    "field": "c2",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18226,7 +18226,7 @@
    "field": "c3",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18247,7 +18247,7 @@
    "field": "c4",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18268,7 +18268,7 @@
    "field": "c5",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18289,7 +18289,7 @@
    "field": "c6",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18310,7 +18310,7 @@
    "field": "c7",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18331,7 +18331,7 @@
    "field": "c8",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18352,7 +18352,7 @@
    "field": "c9",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18373,7 +18373,7 @@
    "field": "c10",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18394,7 +18394,7 @@
    "field": "c11",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18415,7 +18415,7 @@
    "field": "c12",
    "type": "text",
    "jp": "！？",
-   "zh": "",
+   "zh": "！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18436,7 +18436,7 @@
    "field": "c13",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18457,7 +18457,7 @@
    "field": "c14",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18478,7 +18478,7 @@
    "field": "c15",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18499,7 +18499,7 @@
    "field": "c16",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18520,7 +18520,7 @@
    "field": "c17",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18541,7 +18541,7 @@
    "field": "c18",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18562,7 +18562,7 @@
    "field": "c19",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18583,7 +18583,7 @@
    "field": "c20",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18604,7 +18604,7 @@
    "field": "c21",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,
@@ -18625,7 +18625,7 @@
    "field": "c22",
    "type": "text",
    "jp": "！！！？",
-   "zh": "",
+   "zh": "！！！？",
    "loc": {
     "file": "CharacterRaceText.dat",
     "dstart": 3712,

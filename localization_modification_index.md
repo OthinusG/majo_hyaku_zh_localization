@@ -22,3 +22,4 @@
 | M3-01 | `AptitudeEquip.dat#00000.c1` → `AptitudeEquip.dat#00005.c1` | 6 | AptitudeEquip.dat 汉化与对齐校对 | PASS |
 | M3-02 | `AreaInfo.dat#00000.name` → `AreaInfo.dat#00015.description` | 31 | AreaInfo.dat 汉化与对齐校对 | PASS |
 | M3-03 | `CharacterInfo.dat#00000.c1` → `CharacterInfo.dat#00001.c1` | 2 | CharacterInfo.dat 汉化与对齐校对 | PASS |
+| M3-04 | `CharacterRaceText.dat#00001.c1` → `CharacterRaceText.dat#00038.c22` | 836 | CharacterRaceText.dat 汉化与对齐校对 | PASS |
