@@ -20,3 +20,4 @@
 | M2-10 | `DemoText.dat#09000` → `DemoText.dat#09999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |
 | M2-11 | `DemoText.dat#10000` → `DemoText.dat#10641` | 632 | DemoText.dat 汉化与对齐校对 | PASS |
 | M3-01 | `AptitudeEquip.dat#00000.c1` → `AptitudeEquip.dat#00005.c1` | 6 | AptitudeEquip.dat 汉化与对齐校对 | PASS |
+| M3-02 | `AreaInfo.dat#00000.name` → `AreaInfo.dat#00015.description` | 31 | AreaInfo.dat 汉化与对齐校对 | PASS |

@@ -367,7 +367,7 @@
    "field": "name",
    "type": "text",
    "jp": "ニブルヘンネの沼地",
-   "zh": "",
+   "zh": "尼布尔亨涅沼泽",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -389,7 +389,7 @@
    "field": "description",
    "type": "text",
    "jp": "沼の魔女メタリカの邸宅がある拠点。 ",
-   "zh": "",
+   "zh": "沼之魔女梅塔莉卡宅邸所在的据点。",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -410,7 +410,7 @@
    "field": "name",
    "type": "text",
    "jp": "古き魔女の森",
-   "zh": "",
+   "zh": "古老魔女之森",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -432,7 +432,7 @@
    "field": "description",
    "type": "text",
    "jp": "古き魔女の森説明文",
-   "zh": "",
+   "zh": "古老魔女之森说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -454,7 +454,7 @@
    "field": "name",
    "type": "text",
    "jp": "ドーエン地方",
-   "zh": "",
+   "zh": "多恩地区",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -476,7 +476,7 @@
    "field": "description",
    "type": "text",
    "jp": "ドーエン地方説明文",
-   "zh": "",
+   "zh": "多恩地区说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -498,7 +498,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヴァレンティーヌ領",
-   "zh": "",
+   "zh": "瓦伦蒂奴领地",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -520,7 +520,7 @@
    "field": "description",
    "type": "text",
    "jp": "ヴァレンティーヌ領説明文",
-   "zh": "",
+   "zh": "瓦伦蒂奴领地说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -542,7 +542,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヤプトラーカ峡",
-   "zh": "",
+   "zh": "亚普托拉卡峡谷",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -564,7 +564,7 @@
    "field": "description",
    "type": "text",
    "jp": "ヤプトラーカ峡説明文",
-   "zh": "",
+   "zh": "亚普托拉卡峡谷说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -586,7 +586,7 @@
    "field": "name",
    "type": "text",
    "jp": "テッタラ地方",
-   "zh": "",
+   "zh": "特塔拉地区",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -608,7 +608,7 @@
    "field": "description",
    "type": "text",
    "jp": "テッタラ地方説明文",
-   "zh": "",
+   "zh": "特塔拉地区说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -630,7 +630,7 @@
    "field": "name",
    "type": "text",
    "jp": "アズ・ブロッケン山脈",
-   "zh": "",
+   "zh": "阿兹·布罗肯山脉",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -652,7 +652,7 @@
    "field": "description",
    "type": "text",
    "jp": "アズ・ブロッケン山脈説明文",
-   "zh": "",
+   "zh": "阿兹·布罗肯山脉说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -674,7 +674,7 @@
    "field": "name",
    "type": "text",
    "jp": "紅嵐街道",
-   "zh": "",
+   "zh": "红岚街道",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -696,7 +696,7 @@
    "field": "description",
    "type": "text",
    "jp": "紅嵐街道説明文",
-   "zh": "",
+   "zh": "红岚街道说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -718,7 +718,7 @@
    "field": "description",
    "type": "text",
    "jp": "？？？？？説明文",
-   "zh": "",
+   "zh": "？？？？？说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -740,7 +740,7 @@
    "field": "name",
    "type": "text",
    "jp": "シシーテ大平野",
-   "zh": "",
+   "zh": "希西特大平原",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -762,7 +762,7 @@
    "field": "description",
    "type": "text",
    "jp": "シシーテ大平野説明文",
-   "zh": "",
+   "zh": "希西特大平原说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -784,7 +784,7 @@
    "field": "name",
    "type": "text",
    "jp": "アマタイア王国",
-   "zh": "",
+   "zh": "阿玛泰亚王国",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -806,7 +806,7 @@
    "field": "description",
    "type": "text",
    "jp": "アマタイア王国説明文",
-   "zh": "",
+   "zh": "阿玛泰亚王国说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -828,7 +828,7 @@
    "field": "name",
    "type": "text",
    "jp": "アマタイア王国・地下",
-   "zh": "",
+   "zh": "阿玛泰亚王国·地下",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -850,7 +850,7 @@
    "field": "description",
    "type": "text",
    "jp": "アマタイア王国・地下説明文",
-   "zh": "",
+   "zh": "阿玛泰亚王国·地下说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -872,7 +872,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔女都ヴァルプルギス",
-   "zh": "",
+   "zh": "魔女之都瓦尔普吉斯",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -894,7 +894,7 @@
    "field": "description",
    "type": "text",
    "jp": "魔女都ヴァルプルギス説明文",
-   "zh": "",
+   "zh": "魔女之都瓦尔普吉斯说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -916,7 +916,7 @@
    "field": "name",
    "type": "text",
    "jp": "異空間",
-   "zh": "",
+   "zh": "异空间",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -938,7 +938,7 @@
    "field": "description",
    "type": "text",
    "jp": "異空間説明文",
-   "zh": "",
+   "zh": "异空间说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -960,7 +960,7 @@
    "field": "name",
    "type": "text",
    "jp": "忘却のネアイデカ",
-   "zh": "",
+   "zh": "遗忘之内艾德卡",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -982,7 +982,7 @@
    "field": "description",
    "type": "text",
    "jp": "忘却のネアイデカ説明文",
-   "zh": "",
+   "zh": "遗忘之内艾德卡说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -1004,7 +1004,7 @@
    "field": "name",
    "type": "text",
    "jp": "古の封印牢",
-   "zh": "",
+   "zh": "古代封印牢",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,
@@ -1026,7 +1026,7 @@
    "field": "description",
    "type": "text",
    "jp": "古の封印牢説明文",
-   "zh": "",
+   "zh": "古代封印牢说明文",
    "loc": {
     "file": "AreaInfo.dat",
     "dstart": 768,

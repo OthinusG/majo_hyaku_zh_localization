@@ -37,7 +37,7 @@
 ## M3 — 据点 NPC 与其他 DAT 文本
 
 - [x] **M3-01** AptitudeEquip.dat，序号 1–6（6 条），`AptitudeEquip.dat#00000.c1` → `AptitudeEquip.dat#00005.c1`
-- [ ] **M3-02** AreaInfo.dat，序号 7–37（31 条），`AreaInfo.dat#00000.name` → `AreaInfo.dat#00015.description`
+- [x] **M3-02** AreaInfo.dat，序号 7–37（31 条），`AreaInfo.dat#00000.name` → `AreaInfo.dat#00015.description`
 - [ ] **M3-03** CharacterInfo.dat，序号 38–39（2 条），`CharacterInfo.dat#00000.c1` → `CharacterInfo.dat#00001.c1`
 - [ ] **M3-04** CharacterRaceText.dat，序号 40–875（836 条），`CharacterRaceText.dat#00001.c1` → `CharacterRaceText.dat#00038.c22`
 - [ ] **M3-05** FieldHouse.dat，序号 12283–12452（170 条），`FieldHouse.dat#00000.c1` → `FieldHouse.dat#00169.c1`
