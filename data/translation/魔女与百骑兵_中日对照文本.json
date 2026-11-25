@@ -430916,7 +430916,7 @@
    "field": "name",
    "type": "text",
    "jp": "闇世界",
-   "zh": "",
+   "zh": "暗黑世界",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -430938,7 +430938,7 @@
    "field": "description",
    "type": "text",
    "jp": "闇世界 説明",
-   "zh": "",
+   "zh": "暗黑世界 说明",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -430960,7 +430960,7 @@
    "field": "name",
    "type": "text",
    "jp": "闇世界",
-   "zh": "",
+   "zh": "暗黑世界",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -430982,7 +430982,7 @@
    "field": "description",
    "type": "text",
    "jp": "闇世界 説明",
-   "zh": "",
+   "zh": "暗黑世界 说明",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431004,7 +431004,7 @@
    "field": "name",
    "type": "text",
    "jp": "ウーズの森",
-   "zh": "",
+   "zh": "乌兹之森",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431026,7 +431026,7 @@
    "field": "description",
    "type": "text",
    "jp": "巨大な人食い芋虫が出没するという森。近づく者はいない。 ",
-   "zh": "",
+   "zh": "据说有巨大食人毛虫出没的森林。无人敢轻易涉足。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431047,7 +431047,7 @@
    "field": "name",
    "type": "text",
    "jp": "ウーズの森 深部",
-   "zh": "",
+   "zh": "乌兹之森 深部",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431069,7 +431069,7 @@
    "field": "description",
    "type": "text",
    "jp": "数百年に渡り、森の魔女が管理していると言われる神聖な森林。 ",
-   "zh": "",
+   "zh": "相传数百年来一直由森之魔女管辖的神圣森林。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431090,7 +431090,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヘッカヘンネの隠し森",
-   "zh": "",
+   "zh": "赫卡亨尼隐秘之森",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431112,7 +431112,7 @@
    "field": "description",
    "type": "text",
    "jp": "森の魔女が密かに育んだ、太古の自然の面影がある魔女の隠し森。",
-   "zh": "",
+   "zh": "森之魔女秘密培育、仍保留着远古自然风貌的魔女隐秘之森。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431133,7 +431133,7 @@
    "field": "name",
    "type": "text",
    "jp": "ドーエンの丘",
-   "zh": "",
+   "zh": "多恩之丘",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431155,7 +431155,7 @@
    "field": "description",
    "type": "text",
    "jp": "大自然の恵みに育まれた丘。野生の巨大ムカデが生息しているという。",
-   "zh": "",
+   "zh": "在大自然恩惠孕育下的丘陵。据说栖息着野生巨型蜈蚣。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431176,7 +431176,7 @@
    "field": "name",
    "type": "text",
    "jp": "ドーエンの森林",
-   "zh": "",
+   "zh": "多恩之森",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431198,7 +431198,7 @@
    "field": "description",
    "type": "text",
    "jp": "精霊が住まうとされる神秘に満ちた、深き森。",
-   "zh": "",
+   "zh": "相传有精灵栖居、充满神秘气息的幽深森林。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431219,7 +431219,7 @@
    "field": "name",
    "type": "text",
    "jp": "セント・ドルチェ近郊",
-   "zh": "",
+   "zh": "圣多尔切近郊",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431241,7 +431241,7 @@
    "field": "description",
    "type": "text",
    "jp": "大公爵ヴァレンティーヌの名を冠し栄えた街だが、現在では見る影もない。",
-   "zh": "",
+   "zh": "曾冠以大公爵瓦伦蒂奴之名而繁荣昌盛的城镇，如今早已风光不再。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431262,7 +431262,7 @@
    "field": "name",
    "type": "text",
    "jp": "チョコラータ花里",
-   "zh": "",
+   "zh": "巧克拉塔花乡",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431284,7 +431284,7 @@
    "field": "description",
    "type": "text",
    "jp": "水上楼閣が妖しい雰囲気を醸し出す、美しい花達が舞う里。",
-   "zh": "",
+   "zh": "水上楼阁散发着妖异氛围、繁花漫天飞舞的美丽乡里。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431305,7 +431305,7 @@
    "field": "name",
    "type": "text",
    "jp": "チョコラータ楼閣",
-   "zh": "",
+   "zh": "巧克拉塔楼阁",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431327,7 +431327,7 @@
    "field": "description",
    "type": "text",
    "jp": "大公爵ヴァレンティーヌの館にして、妖気に満ちた最大級の楼閣。",
-   "zh": "",
+   "zh": "大公爵瓦伦蒂奴的宅邸，也是充斥着妖气且规模最为宏大的水上楼阁。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431348,7 +431348,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヤプトラーカ渓谷",
-   "zh": "",
+   "zh": "亚普托拉卡峡谷",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431370,7 +431370,7 @@
    "field": "description",
    "type": "text",
    "jp": "かつて魔女達が異形のものと戦いを繰り広げたという伝説の残る渓谷。",
-   "zh": "",
+   "zh": "相传魔女们曾在此与异形之物展开激烈激战并留下传说的峡谷。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431391,7 +431391,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヤプトラーカ北渓谷",
-   "zh": "",
+   "zh": "北亚普托拉卡峡谷",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431413,7 +431413,7 @@
    "field": "description",
    "type": "text",
    "jp": "古の神の子孫を名乗る翼人族が住まう禁断の地。",
-   "zh": "",
+   "zh": "自称远古神明后裔的翼人族所栖居的禁忌之地。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431434,7 +431434,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヤプトラーカ風穴",
-   "zh": "",
+   "zh": "亚普托拉卡风穴",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431456,7 +431456,7 @@
    "field": "description",
    "type": "text",
    "jp": "妖気を漂わせつつも、美しく清んだ水に囲まれた風穴。何かの気配を感じる。",
-   "zh": "",
+   "zh": "虽弥漫着丝丝妖气，却环绕着澄澈清泉的风穴。能感受到某种气息。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431477,7 +431477,7 @@
    "field": "name",
    "type": "text",
    "jp": "南テッタラ砂漠",
-   "zh": "",
+   "zh": "南特塔拉沙漠",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431499,7 +431499,7 @@
    "field": "description",
    "type": "text",
    "jp": "巨大な谷と砂塵に囲まれた灼熱の台地。古の都市の水道橋が残っている。",
-   "zh": "",
+   "zh": "深谷与风沙环绕的灼热台地。残存着古老都市的高架引水道。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431520,7 +431520,7 @@
    "field": "name",
    "type": "text",
    "jp": "テッタラ大砂漠",
-   "zh": "",
+   "zh": "特塔拉大沙漠",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431542,7 +431542,7 @@
    "field": "description",
    "type": "text",
    "jp": "広大な灼熱の砂漠。頂点捕食者”砂食み”が出没したとの噂が絶えない。",
-   "zh": "",
+   "zh": "广袤无垠的灼热沙漠。有关顶级掠食者“噬沙兽”在此出没的传闻络绎不绝。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431563,7 +431563,7 @@
    "field": "name",
    "type": "text",
    "jp": "アズ・ブロッケン山",
-   "zh": "",
+   "zh": "阿兹·布罗肯山",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431585,7 +431585,7 @@
    "field": "description",
    "type": "text",
    "jp": "頂上には魔女の祭祀場があるとされる、伝統ある魔女の山峰。",
-   "zh": "",
+   "zh": "相传山顶建有魔女祭祀场、历史悠久的魔女之山峰。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431606,7 +431606,7 @@
    "field": "name",
    "type": "text",
    "jp": "異空間",
-   "zh": "",
+   "zh": "异空间",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431628,7 +431628,7 @@
    "field": "description",
    "type": "text",
    "jp": "魔女の流刑場としても、利用されていたとされる精神を蝕む恐るべき空間。",
-   "zh": "",
+   "zh": "据说曾被用作魔女流放之地的恐怖空间，会侵蚀踏入者的心智与精神。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431649,7 +431649,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔女都ヴァルプルギス",
-   "zh": "",
+   "zh": "魔女之都瓦尔普吉斯",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431671,7 +431671,7 @@
    "field": "description",
    "type": "text",
    "jp": "魔女でない者の進入を許さない魔女の都。年に一度、夜会が開かれている。",
-   "zh": "",
+   "zh": "绝不容许非魔女踏足的魔女之都。每年都会在此举办一次盛大的夜会。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431692,7 +431692,7 @@
    "field": "name",
    "type": "text",
    "jp": "ブロッケントゥルム",
-   "zh": "",
+   "zh": "布罗肯图尔姆",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431714,7 +431714,7 @@
    "field": "description",
    "type": "text",
    "jp": "議事塔ブロッケントゥルム。塔の内部は異空間になっている。",
-   "zh": "",
+   "zh": "议事塔布罗肯图尔姆。高塔的内部实为一片异空间。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431735,7 +431735,7 @@
    "field": "name",
    "type": "text",
    "jp": "チンクエの林道",
-   "zh": "",
+   "zh": "奇恩奎林道",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431757,7 +431757,7 @@
    "field": "description",
    "type": "text",
    "jp": "東のシシーテ方面から北の教皇庁方面へ続く、景観の美しい街道。",
-   "zh": "",
+   "zh": "由东侧的希西特方向通往北侧教廷方向、风景优美的街道。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431778,7 +431778,7 @@
    "field": "name",
    "type": "text",
    "jp": "綿蛍の谷",
-   "zh": "",
+   "zh": "棉萤之谷",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431800,7 +431800,7 @@
    "field": "description",
    "type": "text",
    "jp": "綿蛍と呼ばれる水生植物が群生する美しい谷。北部には雪も残る寒い土地。",
-   "zh": "",
+   "zh": "被称为棉萤的水生植物丛生繁衍的美丽峡谷。北部留有积雪，是一片严寒之地。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431821,7 +431821,7 @@
    "field": "name",
    "type": "text",
    "jp": "不明瞭な世界",
-   "zh": "",
+   "zh": "迷蒙世界",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431843,7 +431843,7 @@
    "field": "description",
    "type": "text",
    "jp": "不明瞭だがどこかで見たことがあるような、懐かしさを感じる世界。",
-   "zh": "",
+   "zh": "虽朦胧不清，却令人感到似曾相识且充满怀念之情的世界。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431864,7 +431864,7 @@
    "field": "name",
    "type": "text",
    "jp": "シシーテ戦場跡地",
-   "zh": "",
+   "zh": "希西特古战场遗址",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431886,7 +431886,7 @@
    "field": "description",
    "type": "text",
    "jp": "かつて大規模な合戦が行なわれた大平原で、亡霊が出るとの噂が絶えない。",
-   "zh": "",
+   "zh": "曾爆发过大规模交战的广阔平原，有关亡灵出没的传闻从未间断。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431907,7 +431907,7 @@
    "field": "name",
    "type": "text",
    "jp": "シシーテ・裏世界",
-   "zh": "",
+   "zh": "希西特·里世界",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431929,7 +431929,7 @@
    "field": "description",
    "type": "text",
    "jp": "シシーテ戦場跡地に隠された裏の空間。何かの気配を感じる。",
-   "zh": "",
+   "zh": "隐藏在希西特古战场遗址深处的表层背面空间。能感受到某种异样的气息。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431950,7 +431950,7 @@
    "field": "name",
    "type": "text",
    "jp": "王国城内",
-   "zh": "",
+   "zh": "王国城内",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431972,7 +431972,7 @@
    "field": "description",
    "type": "text",
    "jp": "王国兵士を訓練する為の修練場だが、地下には廃墟の牢獄があるらしい。",
-   "zh": "",
+   "zh": "本是用于训练王国士兵的修炼场，但据说其地下深处留有废弃的牢狱。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -431993,7 +431993,7 @@
    "field": "name",
    "type": "text",
    "jp": "王国下水道",
-   "zh": "",
+   "zh": "王国下水道",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432015,7 +432015,7 @@
    "field": "description",
    "type": "text",
    "jp": "アマタイア王国の地下に張り巡らされた下水道。",
-   "zh": "",
+   "zh": "纵横交错在阿玛泰亚王国地下的下水道。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432036,7 +432036,7 @@
    "field": "name",
    "type": "text",
    "jp": "旧市街遺跡",
-   "zh": "",
+   "zh": "旧市街遗迹",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432058,7 +432058,7 @@
    "field": "description",
    "type": "text",
    "jp": "王国の地下に広がる地底湖に沈んだ旧市街の遺跡。何かの気配を感じる。",
-   "zh": "",
+   "zh": "沉入王国地下广阔地底湖的旧市街遗迹。能感受到某种气息。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432079,7 +432079,7 @@
    "field": "name",
    "type": "text",
    "jp": "旧市街遺跡カタコンベ",
-   "zh": "",
+   "zh": "旧市街遗迹地下墓穴",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432101,7 +432101,7 @@
    "field": "description",
    "type": "text",
    "jp": "旧市街地の奥地にある、かつての祭壇であり地下墓所。",
-   "zh": "",
+   "zh": "位于旧市街深处曾经的祭坛与地下墓所。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432122,7 +432122,7 @@
    "field": "name",
    "type": "text",
    "jp": "碧の回廊",
-   "zh": "",
+   "zh": "碧之回廊",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432144,7 +432144,7 @@
    "field": "description",
    "type": "text",
    "jp": "ニブルヘンネの沼の地下に広がっている、マナに満ちた地下洞窟。",
-   "zh": "",
+   "zh": "延展在尼布尔亨涅沼泽地下、充盈着玛那的地下洞窟。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432165,7 +432165,7 @@
    "field": "name",
    "type": "text",
    "jp": "王国城下町・裏世界",
-   "zh": "",
+   "zh": "王国城下町·表里世界",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432187,7 +432187,7 @@
    "field": "description",
    "type": "text",
    "jp": "アマタイア王国城下町の虚像であり、灰汁の魔法で作られた闇の迷宮。",
-   "zh": "",
+   "zh": "阿玛泰亚王国城下町的虚像，由灰汁魔法构筑的黑暗迷宫。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432208,7 +432208,7 @@
    "field": "name",
    "type": "text",
    "jp": "王国城下町",
-   "zh": "",
+   "zh": "王国城下町",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432230,7 +432230,7 @@
    "field": "description",
    "type": "text",
    "jp": "アマタイア王国の城下に広がる市街地。活気ある人々で賑わっている。",
-   "zh": "",
+   "zh": "延展在阿玛泰亚王国城下的市街区。人群熙攘，充满活力。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432251,7 +432251,7 @@
    "field": "name",
    "type": "text",
    "jp": "古の封印牢",
-   "zh": "",
+   "zh": "远古封印牢",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432273,7 +432273,7 @@
    "field": "description",
    "type": "text",
    "jp": "王国の地下深くに、封じられていた謎の地下牢獄。",
-   "zh": "",
+   "zh": "深锁在王国地底深处、谜团重重的地下牢狱。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432294,7 +432294,7 @@
    "field": "name",
    "type": "text",
    "jp": "練武の氷雪",
-   "zh": "",
+   "zh": "练武冰雪地",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432316,7 +432316,7 @@
    "field": "description",
    "type": "text",
    "jp": "氷雪によって閉ざされた、人々の記憶から忘れられし土地。",
-   "zh": "",
+   "zh": "被冰雪所封冻、已被人们所遗忘的土地。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432337,7 +432337,7 @@
    "field": "name",
    "type": "text",
    "jp": "封印されし不浄の地",
-   "zh": "",
+   "zh": "被封印的不净之地",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432359,7 +432359,7 @@
    "field": "description",
    "type": "text",
    "jp": "時間と空間、思念が入り乱れる、混沌の空間であり、不浄の地。",
-   "zh": "",
+   "zh": "时间与空间、思念错综交织的混沌空间，不净之地。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432380,7 +432380,7 @@
    "field": "name",
    "type": "text",
    "jp": "城門橋",
-   "zh": "",
+   "zh": "城门桥",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432402,7 +432402,7 @@
    "field": "description",
    "type": "text",
    "jp": "アマタイア王国の市街地から、王城へと続く大きな橋。",
-   "zh": "",
+   "zh": "自阿玛泰亚王国市街通往王城的大桥。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432423,7 +432423,7 @@
    "field": "name",
    "type": "text",
    "jp": "ニブルヘンネの魔女邸",
-   "zh": "",
+   "zh": "尼布尔亨涅魔女宅邸",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432445,7 +432445,7 @@
    "field": "description",
    "type": "text",
    "jp": "沼の魔女メタリカの邸宅があるニブルヘンネの沼地であり、百騎兵の拠点。 ",
-   "zh": "",
+   "zh": "坐落着沼之魔女梅塔莉卡宅邸的尼布尔亨涅沼泽地，亦是百骑兵的据点。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432466,7 +432466,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔女邸地下室",
-   "zh": "",
+   "zh": "魔女宅邸地下室",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
@@ -432488,7 +432488,7 @@
    "field": "description",
    "type": "text",
    "jp": "魔女邸の地下研究室。儀式もするよ。",
-   "zh": "",
+   "zh": "魔女宅邸的地下研究室。也会用来进行仪式哦。",
    "loc": {
     "file": "MapInfo.dat",
     "dstart": 3136,
