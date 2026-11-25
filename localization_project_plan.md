@@ -72,7 +72,7 @@
 - [x] **M4-04** Game/Demo/mainquest/episode13_demo.lua，序号 17905–17905（1 条），`Game/Demo/mainquest/episode13_demo.lua#L7945_1` → `Game/Demo/mainquest/episode13_demo.lua#L7945_1`
 - [x] **M4-05** Map/mapScrLoad.lua，序号 17906–17906（1 条），`Map/mapScrLoad.lua#L0053_2` → `Map/mapScrLoad.lua#L0053_2`
 - [x] **M4-06** PARAM.SFO，序号 17907–17907（1 条），`PARAM.SFO#TITLE` → `PARAM.SFO#TITLE`
-- [ ] **M4-07** TROP.SFM，序号 17908–18005（98 条），`TROPHY.TRP#title-name` → `TROPHY.TRP#047_detail`
+- [x] **M4-07** TROP.SFM，序号 17908–18005（98 条），`TROPHY.TRP#title-name` → `TROPHY.TRP#047_detail`
 
 ## M5 — 全量文本验收
 

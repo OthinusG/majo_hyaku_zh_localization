@@ -475657,7 +475657,7 @@
    "ver": "1.00",
    "type": "text",
    "jp": "魔女と百騎兵",
-   "zh": "",
+   "zh": "魔女与百骑兵",
    "loc": {
     "file": "TROP.SFM",
     "tag": "title-name"
@@ -475670,7 +475670,7 @@
    "ver": "1.00",
    "type": "text",
    "jp": "魔女と百騎兵のトロフィーセット",
-   "zh": "",
+   "zh": "《魔女与百骑兵》奖杯组",
    "loc": {
     "file": "TROP.SFM",
     "tag": "title-detail"
@@ -475684,7 +475684,7 @@
    "type": "text",
    "context": "trophy_000_P_name",
    "jp": "グランドフィナーレ",
-   "zh": "",
+   "zh": "宏大谢幕",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "000",
@@ -475699,7 +475699,7 @@
    "type": "text",
    "context": "trophy_000_P_detail",
    "jp": "全てのトロフィーを取得しました。",
-   "zh": "",
+   "zh": "获得了所有奖杯。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "000",
@@ -475714,7 +475714,7 @@
    "type": "text",
    "context": "trophy_001_B_name",
    "jp": "序章『魔女と闇からの従者』クリア！",
-   "zh": "",
+   "zh": "序章《魔女与暗之随从》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "001",
@@ -475729,7 +475729,7 @@
    "type": "text",
    "context": "trophy_001_B_detail",
    "jp": "序章『魔女と闇からの従者』をクリアしました。",
-   "zh": "",
+   "zh": "通关了序章《魔女与暗之随从》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "001",
@@ -475744,7 +475744,7 @@
    "type": "text",
    "context": "trophy_002_B_name",
    "jp": "第１章『魔女と森の魔女（前半）』クリア！　",
-   "zh": "",
+   "zh": "第１章《魔女与森林魔女（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "002",
@@ -475759,7 +475759,7 @@
    "type": "text",
    "context": "trophy_002_B_detail",
    "jp": "第１章『魔女と森の魔女・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第１章《魔女与森林魔女·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "002",
@@ -475774,7 +475774,7 @@
    "type": "text",
    "context": "trophy_003_B_name",
    "jp": "第１章『魔女と森の魔女（後半）』クリア！",
-   "zh": "",
+   "zh": "第１章《魔女与森林魔女（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "003",
@@ -475789,7 +475789,7 @@
    "type": "text",
    "context": "trophy_003_B_detail",
    "jp": "第１章『魔女と森の魔女・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第１章《魔女与森林魔女·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "003",
@@ -475804,7 +475804,7 @@
    "type": "text",
    "context": "trophy_004_B_name",
    "jp": "第２章『魔女と異端審問官（前半）』クリア！",
-   "zh": "",
+   "zh": "第２章《魔女与异端审问官（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "004",
@@ -475819,7 +475819,7 @@
    "type": "text",
    "context": "trophy_004_B_detail",
    "jp": "第２章『魔女と異端審問官・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第２章《魔女与异端审问官·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "004",
@@ -475834,7 +475834,7 @@
    "type": "text",
    "context": "trophy_005_B_name",
    "jp": "第２章『魔女と異端審問官（後半）』クリア！",
-   "zh": "",
+   "zh": "第２章《魔女与异端审问官（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "005",
@@ -475849,7 +475849,7 @@
    "type": "text",
    "context": "trophy_005_B_detail",
    "jp": "第２章『魔女と異端審問官・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第２章《魔女与异端审问官·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "005",
@@ -475864,7 +475864,7 @@
    "type": "text",
    "context": "trophy_006_B_name",
    "jp": "第３章『魔女と華の大公爵（前半）』クリア！",
-   "zh": "",
+   "zh": "第３章《魔女与华丽大公爵（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "006",
@@ -475879,7 +475879,7 @@
    "type": "text",
    "context": "trophy_006_B_detail",
    "jp": "第３章『魔女と華の大公爵・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第３章《魔女与华丽大公爵·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "006",
@@ -475894,7 +475894,7 @@
    "type": "text",
    "context": "trophy_007_B_name",
    "jp": "第３章『魔女と華の大公爵（後半）』クリア！",
-   "zh": "",
+   "zh": "第３章《魔女与华丽大公爵（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "007",
@@ -475909,7 +475909,7 @@
    "type": "text",
    "context": "trophy_007_B_detail",
    "jp": "第３章『魔女と華の大公爵・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第３章《魔女与华丽大公爵·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "007",
@@ -475924,7 +475924,7 @@
    "type": "text",
    "context": "trophy_008_B_name",
    "jp": "第４章『魔女と古の渓谷（前半）』クリア！",
-   "zh": "",
+   "zh": "第４章《魔女与古老峡谷（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "008",
@@ -475939,7 +475939,7 @@
    "type": "text",
    "context": "trophy_008_B_detail",
    "jp": "第４章『魔女と古の渓谷・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第４章《魔女与古老峡谷·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "008",
@@ -475954,7 +475954,7 @@
    "type": "text",
    "context": "trophy_009_B_name",
    "jp": "第４章『魔女と古の渓谷（後半）』クリア！",
-   "zh": "",
+   "zh": "第４章《魔女与古老峡谷（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "009",
@@ -475969,7 +475969,7 @@
    "type": "text",
    "context": "trophy_009_B_detail",
    "jp": "第４章『魔女と古の渓谷・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第４章《魔女与古老峡谷·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "009",
@@ -475984,7 +475984,7 @@
    "type": "text",
    "context": "trophy_010_B_name",
    "jp": "第５章『魔女と星読み（前半）』クリア！",
-   "zh": "",
+   "zh": "第５章《魔女与观星师（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "010",
@@ -475999,7 +475999,7 @@
    "type": "text",
    "context": "trophy_010_B_detail",
    "jp": "第５章『魔女と星読み・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第５章《魔女与观星师·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "010",
@@ -476014,7 +476014,7 @@
    "type": "text",
    "context": "trophy_011_B_name",
    "jp": "第５章『魔女と星読み（後半）』クリア！",
-   "zh": "",
+   "zh": "第５章《魔女与观星师（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "011",
@@ -476029,7 +476029,7 @@
    "type": "text",
    "context": "trophy_011_B_detail",
    "jp": "第５章『魔女と星読み・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第５章《魔女与观星师·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "011",
@@ -476044,7 +476044,7 @@
    "type": "text",
    "context": "trophy_012_B_name",
    "jp": "第６章『魔女と魔女達の夜会（前半）』クリア！",
-   "zh": "",
+   "zh": "第６章《魔女与魔女们的夜会（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "012",
@@ -476059,7 +476059,7 @@
    "type": "text",
    "context": "trophy_012_B_detail",
    "jp": "第６章『魔女と魔女達の夜会・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第６章《魔女与魔女们的夜会·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "012",
@@ -476074,7 +476074,7 @@
    "type": "text",
    "context": "trophy_013_B_name",
    "jp": "第６章『魔女と魔女達の夜会（後半）』クリア！",
-   "zh": "",
+   "zh": "第６章《魔女与魔女们的夜会（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "013",
@@ -476089,7 +476089,7 @@
    "type": "text",
    "context": "trophy_013_B_detail",
    "jp": "第６章『魔女と魔女達の夜会・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第６章《魔女与魔女们的夜会·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "013",
@@ -476104,7 +476104,7 @@
    "type": "text",
    "context": "trophy_014_B_name",
    "jp": "第７章『魔女と虫姫（前半）』クリア！",
-   "zh": "",
+   "zh": "第７章《魔女与虫姬（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "014",
@@ -476119,7 +476119,7 @@
    "type": "text",
    "context": "trophy_014_B_detail",
    "jp": "第７章『魔女と虫姫・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第７章《魔女与虫姬·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "014",
@@ -476134,7 +476134,7 @@
    "type": "text",
    "context": "trophy_015_B_name",
    "jp": "第７章『魔女と虫姫（後半）』クリア！",
-   "zh": "",
+   "zh": "第７章《魔女与虫姬（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "015",
@@ -476149,7 +476149,7 @@
    "type": "text",
    "context": "trophy_015_B_detail",
    "jp": "第７章『魔女と虫姫・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第７章《魔女与虫姬·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "015",
@@ -476164,7 +476164,7 @@
    "type": "text",
    "context": "trophy_016_B_name",
    "jp": "第８章『魔女と小さな魔女（前半）』クリア！",
-   "zh": "",
+   "zh": "第８章《魔女与小魔女（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "016",
@@ -476179,7 +476179,7 @@
    "type": "text",
    "context": "trophy_016_B_detail",
    "jp": "第８章『魔女と小さな魔女・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第８章《魔女与小魔女·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "016",
@@ -476194,7 +476194,7 @@
    "type": "text",
    "context": "trophy_017_B_name",
    "jp": "第８章『魔女と小さな魔女（後半）』クリア！",
-   "zh": "",
+   "zh": "第８章《魔女与小魔女（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "017",
@@ -476209,7 +476209,7 @@
    "type": "text",
    "context": "trophy_017_B_detail",
    "jp": "第８章『魔女と小さな魔女・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第８章《魔女与小魔女·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "017",
@@ -476224,7 +476224,7 @@
    "type": "text",
    "context": "trophy_018_B_name",
    "jp": "第９章『魔女とさみしがり（前半）』クリア！",
-   "zh": "",
+   "zh": "第９章《魔女与寂寞之人（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "018",
@@ -476239,7 +476239,7 @@
    "type": "text",
    "context": "trophy_018_B_detail",
    "jp": "第９章『魔女とさみしがり・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第９章《魔女与寂寞之人·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "018",
@@ -476254,7 +476254,7 @@
    "type": "text",
    "context": "trophy_019_B_name",
    "jp": "第９章『魔女とさみしがり（後半）』クリア！",
-   "zh": "",
+   "zh": "第９章《魔女与寂寞之人（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "019",
@@ -476269,7 +476269,7 @@
    "type": "text",
    "context": "trophy_019_B_detail",
    "jp": "第９章『魔女とさみしがり・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第９章《魔女与寂寞之人·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "019",
@@ -476284,7 +476284,7 @@
    "type": "text",
    "context": "trophy_020_B_name",
    "jp": "第１０章『魔女と魔女裁判（前半）』クリア！",
-   "zh": "",
+   "zh": "第１０章《魔女与魔女审判（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "020",
@@ -476299,7 +476299,7 @@
    "type": "text",
    "context": "trophy_020_B_detail",
    "jp": "第１０章『魔女と魔女裁判・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第１０章《魔女与魔女审判·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "020",
@@ -476314,7 +476314,7 @@
    "type": "text",
    "context": "trophy_021_B_name",
    "jp": "第１０章『魔女と魔女裁判（後半）』クリア！",
-   "zh": "",
+   "zh": "第１０章《魔女与魔女审判（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "021",
@@ -476329,7 +476329,7 @@
    "type": "text",
    "context": "trophy_021_B_detail",
    "jp": "第１０章『魔女と魔女裁判・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第１０章《魔女与魔女审判·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "021",
@@ -476344,7 +476344,7 @@
    "type": "text",
    "context": "trophy_022_B_name",
    "jp": "第１１章『魔女と百騎兵（前半）』クリア！",
-   "zh": "",
+   "zh": "第１１章《魔女与百骑兵（前半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "022",
@@ -476359,7 +476359,7 @@
    "type": "text",
    "context": "trophy_022_B_detail",
    "jp": "第１１章『魔女と百騎兵・前半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第１１章《魔女与百骑兵·前半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "022",
@@ -476374,7 +476374,7 @@
    "type": "text",
    "context": "trophy_023_B_name",
    "jp": "第１１章『魔女と百騎兵（後半）』クリア！",
-   "zh": "",
+   "zh": "第１１章《魔女与百骑兵（后半）》通关！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "023",
@@ -476389,7 +476389,7 @@
    "type": "text",
    "context": "trophy_023_B_detail",
    "jp": "第１１章『魔女と百騎兵・後半』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第１１章《魔女与百骑兵·后半》。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "023",
@@ -476404,7 +476404,7 @@
    "type": "text",
    "context": "trophy_024_B_name",
    "jp": "『プリマヴェーラ学園編』クリア！",
-   "zh": "",
+   "zh": "通关『普莉玛维拉学园篇』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "024",
@@ -476419,7 +476419,7 @@
    "type": "text",
    "context": "trophy_024_B_detail",
    "jp": "『プリマヴェーラ学園編』をクリアしました。",
-   "zh": "",
+   "zh": "通关了『普莉玛维拉学园篇』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "024",
@@ -476434,7 +476434,7 @@
    "type": "text",
    "context": "trophy_025_B_name",
    "jp": "『ヴァレンティーヌ』の歪に潜む『編纂者』を撃破！",
-   "zh": "",
+   "zh": "击破潜藏于『瓦伦蒂奴』扭曲中的『编纂者』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "025",
@@ -476449,7 +476449,7 @@
    "type": "text",
    "context": "trophy_025_B_detail",
    "jp": "ひずみに潜む『編纂者』を撃破してワタシの世界に楔を打ち込みました。",
-   "zh": "",
+   "zh": "击破了潜藏于扭曲中的『编纂者』，向本大人的世界打入了楔子。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "025",
@@ -476464,7 +476464,7 @@
    "type": "text",
    "context": "trophy_026_B_name",
    "jp": "『パープルピールとラビィ』の歪に潜む『編纂者』を撃破！",
-   "zh": "",
+   "zh": "击破潜藏于『紫皮与拉比』扭曲中的『编纂者』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "026",
@@ -476479,7 +476479,7 @@
    "type": "text",
    "context": "trophy_026_B_detail",
    "jp": "ひずみに潜む『編纂者』を撃破してワタシの世界に楔を打ち込みました。",
-   "zh": "",
+   "zh": "击破了潜藏于扭曲中的『编纂者』，向本大人的世界打入了楔子。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "026",
@@ -476494,7 +476494,7 @@
    "type": "text",
    "context": "trophy_027_B_name",
    "jp": "『ベルダ』の歪に潜む『編纂者』を撃破！",
-   "zh": "",
+   "zh": "击破潜藏于『贝尔达』扭曲中的『编纂者』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "027",
@@ -476509,7 +476509,7 @@
    "type": "text",
    "context": "trophy_027_B_detail",
    "jp": "ひずみに潜む『編纂者』を撃破してワタシの世界に楔を打ち込みました。",
-   "zh": "",
+   "zh": "击破了潜藏于扭曲中的『编纂者』，向本大人的世界打入了楔子。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "027",
@@ -476524,7 +476524,7 @@
    "type": "text",
    "context": "trophy_028_B_name",
    "jp": "『ネザリア』の歪に潜む『編纂者』を撃破！",
-   "zh": "",
+   "zh": "击破潜藏于『涅扎莉亚』扭曲中的『编纂者』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "028",
@@ -476539,7 +476539,7 @@
    "type": "text",
    "context": "trophy_028_B_detail",
    "jp": "ひずみに潜む『編纂者』を撃破してワタシの世界に楔を打ち込みました。",
-   "zh": "",
+   "zh": "击破了潜藏于扭曲中的『编纂者』，向本大人的世界打入了楔子。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "028",
@@ -476554,7 +476554,7 @@
    "type": "text",
    "context": "trophy_029_B_name",
    "jp": "『リリー』の歪に潜む『編纂者』を撃破！",
-   "zh": "",
+   "zh": "击破潜藏于『莉莉』扭曲中的『编纂者』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "029",
@@ -476569,7 +476569,7 @@
    "type": "text",
    "context": "trophy_029_B_detail",
    "jp": "ひずみに潜む『編纂者』を撃破してワタシの世界に楔を打ち込みました。",
-   "zh": "",
+   "zh": "击破了潜藏于扭曲中的『编纂者』，向本大人的世界打入了楔子。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "029",
@@ -476584,7 +476584,7 @@
    "type": "text",
    "context": "trophy_030_B_name",
    "jp": "『ルッキーニィ』の歪に潜む『編纂者』を撃破！",
-   "zh": "",
+   "zh": "击破潜藏于『露琪妮』扭曲中的『编纂者』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "030",
@@ -476599,7 +476599,7 @@
    "type": "text",
    "context": "trophy_030_B_detail",
    "jp": "ひずみに潜む『編纂者』を撃破してワタシの世界に楔を打ち込みました。",
-   "zh": "",
+   "zh": "击破了潜藏于扭曲中的『编纂者』，向本大人的世界打入了楔子。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "030",
@@ -476614,7 +476614,7 @@
    "type": "text",
    "context": "trophy_031_B_name",
    "jp": "『ビスコ』の歪に潜む『編纂者』を撃破！",
-   "zh": "",
+   "zh": "击破潜藏于『比丝可』扭曲中的『编纂者』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "031",
@@ -476629,7 +476629,7 @@
    "type": "text",
    "context": "trophy_031_B_detail",
    "jp": "ひずみに潜む『編纂者』を撃破してワタシの世界に楔を打ち込みました。",
-   "zh": "",
+   "zh": "击破了潜藏于扭曲中的『编纂者』，向本大人的世界打入了楔子。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "031",
@@ -476644,7 +476644,7 @@
    "type": "text",
    "context": "trophy_032_B_name",
    "jp": "第１２章『魔女と黒キ勇者』クリア！",
-   "zh": "",
+   "zh": "通关第１２章『魔女与黑之勇者』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "032",
@@ -476659,7 +476659,7 @@
    "type": "text",
    "context": "trophy_032_B_detail",
    "jp": "第１２章『魔女と黒キ勇者』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第１２章『魔女与黑之勇者』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "032",
@@ -476674,7 +476674,7 @@
    "type": "text",
    "context": "trophy_033_B_name",
    "jp": "第１３章『魔女と魔女と魔女』クリア！",
-   "zh": "",
+   "zh": "通关第１３章『魔女与魔女与魔女』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "033",
@@ -476689,7 +476689,7 @@
    "type": "text",
    "context": "trophy_033_B_detail",
    "jp": "第１３章『魔女と魔女と魔女』をクリアしました。",
-   "zh": "",
+   "zh": "通关了第１３章『魔女与魔女与魔女』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "033",
@@ -476704,7 +476704,7 @@
    "type": "text",
    "context": "trophy_034_B_name",
    "jp": "百騎兵は『知性』と『判断する力』を得た！",
-   "zh": "",
+   "zh": "百骑兵获得了『知性』与『判断之力』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "034",
@@ -476719,7 +476719,7 @@
    "type": "text",
    "context": "trophy_034_B_detail",
    "jp": "百騎兵は『知性』と『判断する力』を得ました。",
-   "zh": "",
+   "zh": "百骑兵获得了『知性』与『判断之力』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "034",
@@ -476734,7 +476734,7 @@
    "type": "text",
    "context": "trophy_035_B_name",
    "jp": "百騎兵は『知性』と『戦う力』を得た！",
-   "zh": "",
+   "zh": "百骑兵获得了『知性』与『战斗之力』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "035",
@@ -476749,7 +476749,7 @@
    "type": "text",
    "context": "trophy_035_B_detail",
    "jp": "百騎兵は『知性』と『戦う力』を得ました。",
-   "zh": "",
+   "zh": "百骑兵获得了『知性』与『战斗之力』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "035",
@@ -476764,7 +476764,7 @@
    "type": "text",
    "context": "trophy_036_B_name",
    "jp": "百騎兵は『知性』と『否定と疑問』を得た！",
-   "zh": "",
+   "zh": "百骑兵获得了『知性』与『否定与疑问』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "036",
@@ -476779,7 +476779,7 @@
    "type": "text",
    "context": "trophy_036_B_detail",
    "jp": "百騎兵は『知性』と『否定と疑問』を得て、現世の住人となりました。",
-   "zh": "",
+   "zh": "百骑兵获得了『知性』与『否定与疑问』，成为了现世的居民。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "036",
@@ -476794,7 +476794,7 @@
    "type": "text",
    "context": "trophy_037_S_name",
    "jp": "『外道魔女キルケンビュート』撃破！",
-   "zh": "",
+   "zh": "击破『外道魔女基尔肯比尤特』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "037",
@@ -476809,7 +476809,7 @@
    "type": "text",
    "context": "trophy_037_S_detail",
    "jp": "『外道魔女キルケンビュート』を撃破しました。",
-   "zh": "",
+   "zh": "击破了『外道魔女基尔肯比尤特』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "037",
@@ -476824,7 +476824,7 @@
    "type": "text",
    "context": "trophy_038_S_name",
    "jp": "『外道魔女アラマシラ』撃破！",
-   "zh": "",
+   "zh": "击破『外道魔女荒真砂』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "038",
@@ -476839,7 +476839,7 @@
    "type": "text",
    "context": "trophy_038_S_detail",
    "jp": "『外道魔女アラマシラ』を撃破しました。",
-   "zh": "",
+   "zh": "击破了『外道魔女荒真砂』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "038",
@@ -476854,7 +476854,7 @@
    "type": "text",
    "context": "trophy_039_S_name",
    "jp": "『外道魔女ファーレンハイト』撃破！",
-   "zh": "",
+   "zh": "击破『外道魔女法伦海特』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "039",
@@ -476869,7 +476869,7 @@
    "type": "text",
    "context": "trophy_039_S_detail",
    "jp": "『外道魔女ファーレンハイト』を撃破しました。",
-   "zh": "",
+   "zh": "击破了『外道魔女法伦海特』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "039",
@@ -476884,7 +476884,7 @@
    "type": "text",
    "context": "trophy_040_S_name",
    "jp": "『古の外道魔女』３体を撃破！",
-   "zh": "",
+   "zh": "击破３尊『古代外道魔女』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "040",
@@ -476899,7 +476899,7 @@
    "type": "text",
    "context": "trophy_040_S_detail",
    "jp": "『古の外道魔女』３体すべてを撃破しました。",
-   "zh": "",
+   "zh": "击破了全部３尊『古代外道魔女』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "040",
@@ -476914,7 +476914,7 @@
    "type": "text",
    "context": "trophy_041_S_name",
    "jp": "全ての『ピラー』を咲かせた！",
-   "zh": "",
+   "zh": "令所有的『支柱』彻底绽放！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "041",
@@ -476929,7 +476929,7 @@
    "type": "text",
    "context": "trophy_041_S_detail",
    "jp": "全ての『ピラー』を咲かせました。",
-   "zh": "",
+   "zh": "令所有的『支柱』都彻底绽放了。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "041",
@@ -476944,7 +476944,7 @@
    "type": "text",
    "context": "trophy_042_S_name",
    "jp": "百騎兵は『本当の力』を取り戻した！",
-   "zh": "",
+   "zh": "百骑兵取回了『真正的力量』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "042",
@@ -476959,7 +476959,7 @@
    "type": "text",
    "context": "trophy_042_S_detail",
    "jp": "『運命を打ち破る』条件が整いました。",
-   "zh": "",
+   "zh": "达成了『打破命运』的条件。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "042",
@@ -476974,7 +476974,7 @@
    "type": "text",
    "context": "trophy_043_S_name",
    "jp": "『大百騎兵』を撃破！",
-   "zh": "",
+   "zh": "击破『大百骑兵』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "043",
@@ -476989,7 +476989,7 @@
    "type": "text",
    "context": "trophy_043_S_detail",
    "jp": "『大百騎兵』を撃破しました。",
-   "zh": "",
+   "zh": "击破了『大百骑兵』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "043",
@@ -477004,7 +477004,7 @@
    "type": "text",
    "context": "trophy_044_S_name",
    "jp": "『沼の魔女メタリカ』を撃破！",
-   "zh": "",
+   "zh": "击破『沼之魔女梅塔莉卡』！",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "044",
@@ -477019,7 +477019,7 @@
    "type": "text",
    "context": "trophy_044_S_detail",
    "jp": "『沼の魔女メタリカ』を撃破しました。",
-   "zh": "",
+   "zh": "击破了『沼之魔女梅塔莉卡』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "044",
@@ -477034,7 +477034,7 @@
    "type": "text",
    "context": "trophy_045_G_name",
    "jp": "『ノーマル・エンディング』",
-   "zh": "",
+   "zh": "『普通结局』",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "045",
@@ -477049,7 +477049,7 @@
    "type": "text",
    "context": "trophy_045_G_detail",
    "jp": "『ノーマル・エンディング』を見ました。",
-   "zh": "",
+   "zh": "观看了『普通结局』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "045",
@@ -477064,7 +477064,7 @@
    "type": "text",
    "context": "trophy_046_G_name",
    "jp": "『トゥルー・エンディング』",
-   "zh": "",
+   "zh": "『真结局』",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "046",
@@ -477079,7 +477079,7 @@
    "type": "text",
    "context": "trophy_046_G_detail",
    "jp": "『トゥルー・エンディング』を見ました。",
-   "zh": "",
+   "zh": "观看了『真结局』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "046",
@@ -477094,7 +477094,7 @@
    "type": "text",
    "context": "trophy_047_G_name",
    "jp": "『バッド・エンディング』",
-   "zh": "",
+   "zh": "『坏结局』",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "047",
@@ -477109,7 +477109,7 @@
    "type": "text",
    "context": "trophy_047_G_detail",
    "jp": "『バッド・エンディング』を見ました。",
-   "zh": "",
+   "zh": "观看了『坏结局』。",
    "loc": {
     "file": "TROP.SFM",
     "trophy_id": "047",

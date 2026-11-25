@@ -52,3 +52,4 @@
 | M4-04 | `Game/Demo/mainquest/episode13_demo.lua#L7945_1` → `Game/Demo/mainquest/episode13_demo.lua#L7945_1` | 1 | Game/Demo/mainquest/episode13_demo.lua 汉化与对齐校对 | PASS |
 | M4-05 | `Map/mapScrLoad.lua#L0053_2` → `Map/mapScrLoad.lua#L0053_2` | 1 | Map/mapScrLoad.lua 汉化与对齐校对 | PASS |
 | M4-06 | `PARAM.SFO#TITLE` → `PARAM.SFO#TITLE` | 1 | PARAM.SFO 汉化与对齐校对 | PASS |
+| M4-07 | `TROPHY.TRP#title-name` → `TROPHY.TRP#047_detail` | 98 | TROP.SFM 汉化与对齐校对 | PASS |
