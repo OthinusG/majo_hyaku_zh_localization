@@ -418513,7 +418513,7 @@
    "field": "name",
    "type": "text",
    "jp": "野草のガム",
-   "zh": "",
+   "zh": "野草口香糖",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418535,7 +418535,7 @@
    "field": "description",
    "type": "text",
    "jp": "【ＨＰ回復】野草をすり潰してガムと混ぜたもの。正直まずい。ＨＰを２０％回復。",
-   "zh": "",
+   "zh": "【ＨＰ回复】捣碎野草混入胶基制成。老实说很难吃。回复２０％的ＨＰ。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418557,7 +418557,7 @@
    "field": "name",
    "type": "text",
    "jp": "サカナ虫のポワレ",
-   "zh": "",
+   "zh": "嫩煎鱼虫",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418579,7 +418579,7 @@
    "field": "description",
    "type": "text",
    "jp": "【ＨＰ回復】サカナ虫の幼虫を蒸し焼きにしたもの。栄養満点。ＨＰを５０％回復。",
-   "zh": "",
+   "zh": "【ＨＰ回复】将鱼虫幼虫焖烤而成的料理。营养满分。回复５０％的ＨＰ。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418601,7 +418601,7 @@
    "field": "name",
    "type": "text",
    "jp": "碧の妖精",
-   "zh": "",
+   "zh": "碧绿妖精",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418623,7 +418623,7 @@
    "field": "description",
    "type": "text",
    "jp": "【ＨＰ回復】碧色の妖精。クセになる美味さ。ＨＰを１００％回復。",
-   "zh": "",
+   "zh": "【ＨＰ回复】碧绿色的妖精。令人上瘾的美味。回复１００％的ＨＰ。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418645,7 +418645,7 @@
    "field": "name",
    "type": "text",
    "jp": "こりこりニンニク",
-   "zh": "",
+   "zh": "嘎吱大蒜",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418667,7 +418667,7 @@
    "field": "description",
    "type": "text",
    "jp": "【ＡＰ回復】こりこり感が堪らないニンニク。こりっとＡＰを３メモリ増加。",
-   "zh": "",
+   "zh": "【ＡＰ回复】口感爽脆让人欲罢不能的大蒜。嘎吱一下增加３格ＡＰ。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418689,7 +418689,7 @@
    "field": "name",
    "type": "text",
    "jp": "ねばねばチーズ",
-   "zh": "",
+   "zh": "拉丝奶酪",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418711,7 +418711,7 @@
    "field": "description",
    "type": "text",
    "jp": "【ＡＰ回復】ねっとりねばねばの壷漬けチーズ。ねばっとＡＰを１０メモリ増加。",
-   "zh": "",
+   "zh": "【ＡＰ回复】黏稠拉丝的坛腌奶酪。黏糊糊增加１０格ＡＰ。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418733,7 +418733,7 @@
    "field": "name",
    "type": "text",
    "jp": "毒抜き小瓶",
-   "zh": "",
+   "zh": "去毒小瓶",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418755,7 +418755,7 @@
    "field": "description",
    "type": "text",
    "jp": "【毒回復】毒抜き草をすり潰した液体。毒状態からの回復を試みる。",
-   "zh": "",
+   "zh": "【解除中毒】捣碎解毒草制成的药液。尝试从中毒状态中解脱。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418777,7 +418777,7 @@
    "field": "name",
    "type": "text",
    "jp": "おやつクッキー",
-   "zh": "",
+   "zh": "零食饼干",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418799,7 +418799,7 @@
    "field": "description",
    "type": "text",
    "jp": "【ギガカロリー補給】探索のおとものおやつ。ギガカロリーを１０％回復。",
-   "zh": "",
+   "zh": "【吉伽卡路里补给】伴随探索的随身点心。回复１０％的吉伽卡路里。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418821,7 +418821,7 @@
    "field": "name",
    "type": "text",
    "jp": "１００日パン",
-   "zh": "",
+   "zh": "百日面包",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418843,7 +418843,7 @@
    "field": "description",
    "type": "text",
    "jp": "【ギガカロリー補給】遠出の必需品。日持ちするが硬い！ギガカロリーを３５％回復。",
-   "zh": "",
+   "zh": "【吉伽卡路里补给】远行的必需品。保质期长但极硬！回复３５％的吉伽卡路里。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418865,7 +418865,7 @@
    "field": "name",
    "type": "text",
    "jp": "名も無き枯骨",
-   "zh": "",
+   "zh": "无名枯骨",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418887,7 +418887,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】名も無き誰かの骨。呪われませんように。",
-   "zh": "",
+   "zh": "【换金】某个无名之人的骨头。但愿别被诅咒。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418909,7 +418909,7 @@
    "field": "name",
    "type": "text",
    "jp": "名も無き卵",
-   "zh": "",
+   "zh": "无名之卵",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418931,7 +418931,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】名も無き何かの卵。羽化途中をじゅるっといくのが美味らしい！",
-   "zh": "",
+   "zh": "【换金】某种未知生物的卵。据说在羽化途中吸溜一口最为鲜美！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418953,7 +418953,7 @@
    "field": "name",
    "type": "text",
    "jp": "名も無き南瓜",
-   "zh": "",
+   "zh": "无名南瓜",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418975,7 +418975,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】名も無き南瓜……な訳は無く、千年南瓜と呼ばれる貴重な逸品！名前ある！",
-   "zh": "",
+   "zh": "【换金】无名的南瓜……怎么可能，这可是被称为千年南瓜的贵重逸品！有名字的好吗！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -418997,7 +418997,7 @@
    "field": "name",
    "type": "text",
    "jp": "蒼石",
-   "zh": "",
+   "zh": "苍石",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419019,7 +419019,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】トーチの燃料に使われる蒼石。小さくてもこの価格！すごい！",
-   "zh": "",
+   "zh": "【换金】用作火炬燃料的苍石。虽小却值这个价！真厉害！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419041,7 +419041,7 @@
    "field": "name",
    "type": "text",
    "jp": "蒼塊岩",
-   "zh": "",
+   "zh": "苍块岩",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419063,7 +419063,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】トーチの燃料に使われる蒼石の巨大な原石。これは高値で売れる！",
-   "zh": "",
+   "zh": "【换金】用作火炬燃料的苍石的巨大原石。这能卖出天价！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419085,7 +419085,7 @@
    "field": "name",
    "type": "text",
    "jp": "愚者の石",
-   "zh": "",
+   "zh": "愚者之石",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419107,7 +419107,7 @@
    "field": "description",
    "type": "text",
    "jp": "【錬金】武器強化の際に必要になる貴重な石。これを捨てるなんてとんでもない！",
-   "zh": "",
+   "zh": "【炼金】强化武器时所需的贵重石头。把它扔掉简直太暴殄天物了！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419129,7 +419129,7 @@
    "field": "name",
    "type": "text",
    "jp": "食いカスの骨",
-   "zh": "",
+   "zh": "残羹骨渣",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419151,7 +419151,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】魔獣に捕食された動物の骨。店で売れば僅かな金にはなるだろう。",
-   "zh": "",
+   "zh": "【换金】被魔兽捕食后的动物残骨。拿到店里卖多少能换点小钱吧。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419173,7 +419173,7 @@
    "field": "name",
    "type": "text",
    "jp": "傷んだ生魚",
-   "zh": "",
+   "zh": "变质生鱼",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419195,7 +419195,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】森海の魚人のお弁当で、ハエが舞い出したらようやく食べ頃らしい。",
-   "zh": "",
+   "zh": "【换金】森海鱼人的便当，据说等苍蝇乱舞的时候才终于到了赏味期。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419217,7 +419217,7 @@
    "field": "name",
    "type": "text",
    "jp": "砂魚の丸焼き",
-   "zh": "",
+   "zh": "烤整条沙鱼",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419239,7 +419239,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】砂漠に生息する砂魚を丸焼きにしたもの。皮はパリッ！中はフワワッ！",
-   "zh": "",
+   "zh": "【换金】整条烤制栖息在沙漠中的沙鱼。外皮酥脆！内里松软！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419261,7 +419261,7 @@
    "field": "name",
    "type": "text",
    "jp": "桃味葡萄",
-   "zh": "",
+   "zh": "桃味葡萄",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419283,7 +419283,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】桃のような味の甘酸っぱいジューシーな葡萄。ドン・カプリの大好物。",
-   "zh": "",
+   "zh": "【换金】尝起来像水蜜桃般酸甜多汁的葡萄。顿·卡普里最爱吃的食物。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419305,7 +419305,7 @@
    "field": "name",
    "type": "text",
    "jp": "旅人の靴",
-   "zh": "",
+   "zh": "旅人之鞋",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419327,7 +419327,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】イワ・カプリの中から、何故、旅人の靴が出てくるかは想像にお任せ。",
-   "zh": "",
+   "zh": "【换金·饰品】为什么岩·卡普里体内会掏出旅人的鞋子，这就留给各位自行想象了。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419349,7 +419349,7 @@
    "field": "name",
    "type": "text",
    "jp": "エッグインエッグ",
-   "zh": "",
+   "zh": "蛋中蛋",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419371,7 +419371,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】卵で増える魔獣エッガーの卵。タンパク質が豊富で希少価値が高い。",
-   "zh": "",
+   "zh": "【换金】以蛋繁衍的魔兽埃戈尔产下的蛋。蛋白质丰富，极具稀有价值。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419393,7 +419393,7 @@
    "field": "name",
    "type": "text",
    "jp": "ボロのグリモア",
-   "zh": "",
+   "zh": "破烂的魔导书",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419415,7 +419415,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】カカシから元の人間に戻る方法が記されたボロボロの魔導書。",
-   "zh": "",
+   "zh": "【换金·饰品】记载着从稻草人变回人类方法的破破烂烂的魔导书。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419437,7 +419437,7 @@
    "field": "name",
    "type": "text",
    "jp": "パックンボール",
-   "zh": "",
+   "zh": "大嘴球",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419459,7 +419459,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】パックヤードの大好物であり、パックヤードの排泄物。ふーん。",
-   "zh": "",
+   "zh": "【换金】既是大嘴怪最爱吃的美食，也是大嘴怪的排泄物。原来如此。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419481,7 +419481,7 @@
    "field": "name",
    "type": "text",
    "jp": "キイロバナ",
-   "zh": "",
+   "zh": "黄花",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419503,7 +419503,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】花の精霊が、花子法師を名乗るための試験に合格した証のキイロバナ。",
-   "zh": "",
+   "zh": "【换金·饰品】花之精灵在通过考取花子法师之名的测试后，获赠作为凭证的黄花。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419525,7 +419525,7 @@
    "field": "name",
    "type": "text",
    "jp": "キノコベリー",
-   "zh": "",
+   "zh": "菇莓",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419547,7 +419547,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】キノコのようなベリー。甘いベリーは稀で、大半はシブイとされる。シブー！",
-   "zh": "",
+   "zh": "【换金】长得像蘑菇一样的浆果。甜味的极为罕见，绝大部分都很苦涩。好涩—！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419569,7 +419569,7 @@
    "field": "name",
    "type": "text",
    "jp": "怨念鳥の骨",
-   "zh": "",
+   "zh": "怨念鸟之骨",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419591,7 +419591,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】大半のグリムリーパーは、この怨念鳥の骨を元に魔女が作り出している。",
-   "zh": "",
+   "zh": "【换金·饰品】绝大部分死神，都是魔女以这种怨念鸟之骨为原材料制造出来的。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419613,7 +419613,7 @@
    "field": "name",
    "type": "text",
    "jp": "黄金の指輪",
-   "zh": "",
+   "zh": "黄金戒指",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419635,7 +419635,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】裏側には古の魔女文字で何かが記されている。現在は失われた魔術。",
-   "zh": "",
+   "zh": "【换金·饰品】内侧用古代魔女文字记载着什么。现已失传的魔术。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419657,7 +419657,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔女の帽子",
-   "zh": "",
+   "zh": "魔女之帽",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419679,7 +419679,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】ブロッケン魔女隊の証である魔女の帽子。魔力に満ちている。",
-   "zh": "",
+   "zh": "【换金·防具】象征布罗肯魔女小队的魔女之帽。蕴含充沛魔力。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419701,7 +419701,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔女の掻き混ぜ箒",
-   "zh": "",
+   "zh": "魔女的搅拌扫帚",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419723,7 +419723,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】拷問人形を造った魔女が忘れた箒。魔力に満ちている。",
-   "zh": "",
+   "zh": "【换金·防具】制作拷问人偶的魔女遗落的扫帚。蕴含充沛魔力。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419745,7 +419745,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔女のマント",
-   "zh": "",
+   "zh": "魔女披风",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419767,7 +419767,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】拷問人形を造った魔女が忘れたマント。魔力に満ちている。",
-   "zh": "",
+   "zh": "【换金·防具】制作拷问人偶的魔女遗落的披风。蕴含充沛魔力。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419789,7 +419789,7 @@
    "field": "name",
    "type": "text",
    "jp": "絶品ホットケーキ",
-   "zh": "",
+   "zh": "绝品松饼",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419811,7 +419811,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】美味バターと黄金蜂蜜をたっぷりかけたフワッと肉厚２段のホットケーキ。",
-   "zh": "",
+   "zh": "【换金】淋满美味黄油与黄金蜂蜜、口感松软厚实的两层松饼。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419833,7 +419833,7 @@
    "field": "name",
    "type": "text",
    "jp": "イモリの丸焼き",
-   "zh": "",
+   "zh": "烤整蝾螈",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419855,7 +419855,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】イモリを串に刺してカリっと焼いた香ばしい逸品。翼人の大好物でおやつ。",
-   "zh": "",
+   "zh": "【换金】将蝾螈穿串烤得焦香酥脆的绝品。翼人最爱的点心。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419877,7 +419877,7 @@
    "field": "name",
    "type": "text",
    "jp": "ティーセット",
-   "zh": "",
+   "zh": "茶具套件",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419899,7 +419899,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】午後の一服用に翼人が携帯するティーセット。カエル味が流行の兆し！",
-   "zh": "",
+   "zh": "【换金】翼人为了享用午后小憩而随身携带的茶具。青蛙风味正有流行之势！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419921,7 +419921,7 @@
    "field": "name",
    "type": "text",
    "jp": "ピンクのパンツ",
-   "zh": "",
+   "zh": "粉红内裤",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419943,7 +419943,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】脱ぎたてパンツでマニア垂涎の逸品。被ると防具にもなる！すごい！",
-   "zh": "",
+   "zh": "【换金·防具】刚脱下来的内裤，令狂热者垂涎的绝品。套在头上还能当防具！真厉害！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419965,7 +419965,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝙蝠羽",
-   "zh": "",
+   "zh": "蝙蝠翅膀",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -419987,7 +419987,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】根元から千切った丈夫なサキュロッカスの蝙蝠羽。魔力が強い！",
-   "zh": "",
+   "zh": "【换金·饰品】从根部整只扯下的坚韧魅魔蝙蝠翅膀。魔力极强！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420009,7 +420009,7 @@
    "field": "name",
    "type": "text",
    "jp": "純白ローズドレス",
-   "zh": "",
+   "zh": "纯白玫瑰礼服",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420031,7 +420031,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】絹のドレスで一流の縫製が施されている名品！防御力もなかなか。",
-   "zh": "",
+   "zh": "【换金·防具】采用顶级缝纫工艺制成的丝绸礼服名品！防御力也相当不错。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420053,7 +420053,7 @@
    "field": "name",
    "type": "text",
    "jp": "大人パンティ",
-   "zh": "",
+   "zh": "成熟内裤",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420075,7 +420075,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】大人パンティ。パンツでなくパンティ！被って良し売って良しの名品！",
-   "zh": "",
+   "zh": "【换金·防具】成熟女士内裤。不是普通裤头，是成熟内裤！能套头也能卖钱的名品！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420097,7 +420097,7 @@
    "field": "name",
    "type": "text",
    "jp": "ラブジュース",
-   "zh": "",
+   "zh": "爱液",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420119,7 +420119,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】とろとろエロいラブジュース。砂糖と一緒に煮詰めるとジャムもできる。",
-   "zh": "",
+   "zh": "【换金】黏稠诱人的爱液。和砂糖一起熬煮还能做成果酱。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420141,7 +420141,7 @@
    "field": "name",
    "type": "text",
    "jp": "ショートケーキ",
-   "zh": "",
+   "zh": "草莓鲜奶油蛋糕",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420163,7 +420163,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】たっぷり生クリームを使ったショートケーキ。赤いぽっちりがチャーミング！",
-   "zh": "",
+   "zh": "【换金】使用了大量鲜奶油的草莓蛋糕。上面点缀的红色小圆点分外迷人！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420185,7 +420185,7 @@
    "field": "name",
    "type": "text",
    "jp": "ペロキャン",
-   "zh": "",
+   "zh": "棒棒糖",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420207,7 +420207,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】舐めかけのペロキャン。舐めかけのペロキャン。二度言ってみました。",
-   "zh": "",
+   "zh": "【换金】舔过一半的棒棒糖。舔过一半的棒棒糖。因为很重要所以说了两遍。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420229,7 +420229,7 @@
    "field": "name",
    "type": "text",
    "jp": "金塊",
-   "zh": "",
+   "zh": "金块",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420251,7 +420251,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】ゴージャスな黄金の塊。ただし、金相場に影響されるのでご注意！ご注意！",
-   "zh": "",
+   "zh": "【换金】奢华的黄金块。不过价格会受黄金行情影响，请注意！请注意！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420273,7 +420273,7 @@
    "field": "name",
    "type": "text",
    "jp": "ピニャータの王冠",
-   "zh": "",
+   "zh": "皮纳塔的王冠",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420295,7 +420295,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】ピニャータの王冠で、何故か黄金獣箱が所持している。",
-   "zh": "",
+   "zh": "【换金】皮纳塔怪物的王冠，不知为何被黄金兽箱带在身上。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420317,7 +420317,7 @@
    "field": "name",
    "type": "text",
    "jp": "発酵薬草",
-   "zh": "",
+   "zh": "发酵草药",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420339,7 +420339,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】戦闘砂百足の体内で発酵した薬草。その薬効に注目する医者も多い。",
-   "zh": "",
+   "zh": "【换金】在战斗沙蜈蚣体内发酵的草药。许多医生都对其药效投以关注。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420361,7 +420361,7 @@
    "field": "name",
    "type": "text",
    "jp": "３番目の爪",
-   "zh": "",
+   "zh": "第３只爪",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420383,7 +420383,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】百年百足の３番目の右側の爪で幸運の証。左側だと不幸になると言われる。",
-   "zh": "",
+   "zh": "【换金·饰品】百年蜈蚣右侧第３只爪，象征着幸运。据说如果是左侧则会带来不幸。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420405,7 +420405,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔石",
-   "zh": "",
+   "zh": "魔石",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420427,7 +420427,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】マナプリンのコアである魔石。強い魔力が文字を刻んでいる。",
-   "zh": "",
+   "zh": "【换金·饰品】作为玛那布丁核心的魔石。强烈的魔力在表面刻下了文字。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420449,7 +420449,7 @@
    "field": "name",
    "type": "text",
    "jp": "金のトークン",
-   "zh": "",
+   "zh": "金代币",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420471,7 +420471,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】捕食した旅人が持っていた金のトークン。これは金になる！",
-   "zh": "",
+   "zh": "【换金·饰品】从被捕食的旅人身上搜出的金代币。这能值不少钱！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420493,7 +420493,7 @@
    "field": "name",
    "type": "text",
    "jp": "ボロ布",
-   "zh": "",
+   "zh": "破布",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420515,7 +420515,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】汗臭いボロ布。それ以上でも以下でもないボロ布。兎に角くさい。",
-   "zh": "",
+   "zh": "【换金·防具】满是汗臭味的破布。不多不少就是一块破布。总之臭不可闻。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420537,7 +420537,7 @@
    "field": "name",
    "type": "text",
    "jp": "ザ・パンティー",
-   "zh": "",
+   "zh": "至尊内裤",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420559,7 +420559,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】ここ一番の戦いに穿いて行く勝負下着。過去の勝率は百戦百勝ナリ！",
-   "zh": "",
+   "zh": "【换金·防具】在关键大战时穿上的决胜内衣。过去的胜率可是百战百胜是也！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420581,7 +420581,7 @@
    "field": "name",
    "type": "text",
    "jp": "マーダライセンス",
-   "zh": "",
+   "zh": "杀人执照",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420603,7 +420603,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】殺人許可証といわれる物騒な逸品。暗殺者として二流の証でもある。",
-   "zh": "",
+   "zh": "【换金·饰品】被称为杀人许可证的危险绝品。同时也是二流暗杀者的证明。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420625,7 +420625,7 @@
    "field": "name",
    "type": "text",
    "jp": "穢れた聖杯",
-   "zh": "",
+   "zh": "污秽圣杯",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420647,7 +420647,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】不死なる物が所持していた聖杯。被ると防具にもなりそうだ！",
-   "zh": "",
+   "zh": "【换金·防具】不死之物曾持有的圣杯。扣在头上好像还能当防具！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420669,7 +420669,7 @@
    "field": "name",
    "type": "text",
    "jp": "汗臭い下着",
-   "zh": "",
+   "zh": "汗臭内衣",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420691,7 +420691,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】汗臭くうす汚い下着。それ以上でも以下でもないボロ雑巾。くさい。",
-   "zh": "",
+   "zh": "【换金·防具】汗臭扑鼻且脏兮兮的内衣。不多不少就是块破抹布。臭死了。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420713,7 +420713,7 @@
    "field": "name",
    "type": "text",
    "jp": "黄金のエニグマ",
-   "zh": "",
+   "zh": "黄金之谜",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420735,7 +420735,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】蘇りし者が所持していた黄金のエニグマ。不死の秘密が書かれているらしい。",
-   "zh": "",
+   "zh": "【换金】复生者所持有的黄金之谜。上面似乎记载着不死的秘密。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420757,7 +420757,7 @@
    "field": "name",
    "type": "text",
    "jp": "兜角小蝿虫",
-   "zh": "",
+   "zh": "兜角小蝇虫",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420779,7 +420779,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】ティラミアの香りに釣られてやってくる、珍しい虫。コレクターがいる程人気！",
-   "zh": "",
+   "zh": "【换金】被提拉米亚的气味吸引而来的珍稀昆虫。甚至有专属的收藏家，颇具人气！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420801,7 +420801,7 @@
    "field": "name",
    "type": "text",
    "jp": "氷雪石",
-   "zh": "",
+   "zh": "冰雪石",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420823,7 +420823,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】ゴーランの中で氷と合わさり結晶化した、魔力の結晶。暖めると溶ける！",
-   "zh": "",
+   "zh": "【换金】在巨像体内与冰融合凝结而成的魔力结晶。受热就会融化！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420845,7 +420845,7 @@
    "field": "name",
    "type": "text",
    "jp": "天然の香木",
-   "zh": "",
+   "zh": "天然香木",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420867,7 +420867,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】ゴーランの中で良い具合に腐敗した香木。素朴な香りが人気。",
-   "zh": "",
+   "zh": "【换金】在巨像体内恰到好处腐熟的香木。朴素的香气广受好评。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420889,7 +420889,7 @@
    "field": "name",
    "type": "text",
    "jp": "低純度結晶",
-   "zh": "",
+   "zh": "低纯度结晶",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420911,7 +420911,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】マナの結晶だが低純度のため直ぐに壊れてしまう。価値も低い。残念！",
-   "zh": "",
+   "zh": "【换金】玛那的结晶，但由于纯度过低极易碎裂。价值也不高。真遗憾！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420933,7 +420933,7 @@
    "field": "name",
    "type": "text",
    "jp": "砂布",
-   "zh": "",
+   "zh": "砂布",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420955,7 +420955,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】砂羊の体毛を編み込んで作ったなめし皮のような逸品。高価なものだ！",
-   "zh": "",
+   "zh": "【换金·防具】混入砂羊体毛编织而成、宛如熟皮般的逸品。相当值钱！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420977,7 +420977,7 @@
    "field": "name",
    "type": "text",
    "jp": "自分プレゼント",
-   "zh": "",
+   "zh": "犒劳自己的礼物",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -420999,7 +420999,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】魔界指数が上昇すると噂の自分プレゼント。プレゼントは人に貰う物だ！",
-   "zh": "",
+   "zh": "【换金】传闻会提高魔界指数的犒劳自己的礼物。礼物可得别人送才对吧！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421021,7 +421021,7 @@
    "field": "name",
    "type": "text",
    "jp": "お塩",
-   "zh": "",
+   "zh": "食盐",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421043,7 +421043,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】お塩。",
-   "zh": "",
+   "zh": "【换金】食盐。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421065,7 +421065,7 @@
    "field": "name",
    "type": "text",
    "jp": "ロマンチック巻貝",
-   "zh": "",
+   "zh": "浪漫螺",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421087,7 +421087,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】耳に当てると小波の音が聞こえる巻貝。なんてロマンチックなんでしょう！",
-   "zh": "",
+   "zh": "【换金】贴在耳边能听到微波细浪声的卷螺。多么浪漫啊！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421109,7 +421109,7 @@
    "field": "name",
    "type": "text",
    "jp": "あつあつコロッケ",
-   "zh": "",
+   "zh": "热腾腾的可乐饼",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421131,7 +421131,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】小腹が空いたとき用に持ち歩いている、熱々の揚げたてビーフコロッケ！",
-   "zh": "",
+   "zh": "【换金】随身携带以备肚子饿时充饥、刚炸好的热腾腾牛肉可乐饼！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421153,7 +421153,7 @@
    "field": "name",
    "type": "text",
    "jp": "マジカルルージュ",
-   "zh": "",
+   "zh": "魔力口红",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421175,7 +421175,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】アマタイアの女子に大人気のマジカルルージュ。仕上げはコレで決まり！",
-   "zh": "",
+   "zh": "【换金】在阿玛泰亚年轻女性中极具人气的魔力口红。妆容收尾非它莫属！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421197,7 +421197,7 @@
    "field": "name",
    "type": "text",
    "jp": "スーパータン",
-   "zh": "",
+   "zh": "超级寄居蟹",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421219,7 +421219,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】宿主を操る寄生生物で司令塔。宿主が死んだら別の宿主を探して旅に出る！",
-   "zh": "",
+   "zh": "【换金】操纵宿主并充当指挥中枢的寄生生物。宿主死后便会踏上寻找新宿主的旅途！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421241,7 +421241,7 @@
    "field": "name",
    "type": "text",
    "jp": "すごい肉",
-   "zh": "",
+   "zh": "不得了的肉",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421263,7 +421263,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】絶対捕食者の肉を食すことは凄いことだ！オリーブオイルで食べよう！",
-   "zh": "",
+   "zh": "【换金】敢吃绝对捕食者的肉可真了不起！淋上橄榄油享用吧！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421285,7 +421285,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔女の石",
-   "zh": "",
+   "zh": "魔女之石",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421307,7 +421307,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】魔女が放った封印の石。不浄の欠片が食べることで封印が弱まっていた。",
-   "zh": "",
+   "zh": "【换金】魔女降下的封印之石。因不净碎片的分食导致封印有所减弱。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421329,7 +421329,7 @@
    "field": "name",
    "type": "text",
    "jp": "くろいくものいと",
-   "zh": "",
+   "zh": "黑蜘蛛丝",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421351,7 +421351,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】編みこむと黒色になる非常に丈夫な糸。高値で取引されている。",
-   "zh": "",
+   "zh": "【换金·防具】编织后会呈现深黑色的极其结实的丝线。交易价格颇高。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421373,7 +421373,7 @@
    "field": "name",
    "type": "text",
    "jp": "謎のペンデュラム",
-   "zh": "",
+   "zh": "谜之灵摆",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421395,7 +421395,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】魔女とは無関係の正体不明のペンデュラム。",
-   "zh": "",
+   "zh": "【换金·装饰】与魔女毫无瓜葛、来历不明的灵摆。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421417,7 +421417,7 @@
    "field": "name",
    "type": "text",
    "jp": "契約の秘文",
-   "zh": "",
+   "zh": "契约秘文",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421439,7 +421439,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】ヘッカヘンネの隠し森の管理を、森の魔女に委任された証である契約書。",
-   "zh": "",
+   "zh": "【换金】森之魔女委托其代管赫卡亨涅隐藏之森的契约凭据。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421461,7 +421461,7 @@
    "field": "name",
    "type": "text",
    "jp": "牛乳キッシュ",
-   "zh": "",
+   "zh": "牛奶法式咸派",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421483,7 +421483,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】まるでケーキのような牛乳キッシュ。日持ちするのが特徴。ほんのり甘い！",
-   "zh": "",
+   "zh": "【换金】宛如蛋糕般的牛奶法式咸派。特点是耐存放。带着微微的甜味！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421505,7 +421505,7 @@
    "field": "name",
    "type": "text",
    "jp": "熟練軟膏",
-   "zh": "",
+   "zh": "熟练软膏",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421527,7 +421527,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】軽いスリ傷に効くという軟膏。ミツロウと砂羊の油で出来ている。",
-   "zh": "",
+   "zh": "【换金】据说对轻微擦伤颇有疗效的软膏。由蜂蜡和砂羊油制成。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421549,7 +421549,7 @@
    "field": "name",
    "type": "text",
    "jp": "あらぶる秘薬",
-   "zh": "",
+   "zh": "暴烈秘药",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421571,7 +421571,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】謎の秘薬で成分不明。これは、たまに道端に落ちている軟めのアレだ！",
-   "zh": "",
+   "zh": "【换金】成分不明的神秘秘药。这就是偶尔能在路边捡到的质地偏软的那个！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421593,7 +421593,7 @@
    "field": "name",
    "type": "text",
    "jp": "ふわふわクッション",
-   "zh": "",
+   "zh": "蓬松抱枕",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421615,7 +421615,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・装飾】想像以上のふわふわさを誇るクッション！ふわふわ成分おおめだ！",
-   "zh": "",
+   "zh": "【换金·装饰】柔软蓬松度超乎想象的抱枕！蓬松成分加量！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421637,7 +421637,7 @@
    "field": "name",
    "type": "text",
    "jp": "とろとろ牛乳",
-   "zh": "",
+   "zh": "黏稠牛奶",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421659,7 +421659,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】とろとろとした乳白色の液体。残念！百騎兵の口には合わなさそうだ!",
-   "zh": "",
+   "zh": "【换金】质地黏稠的乳白色液体。真遗憾！百骑兵看起来完全下不了嘴！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421681,7 +421681,7 @@
    "field": "name",
    "type": "text",
    "jp": "あらぶる霊薬",
-   "zh": "",
+   "zh": "暴烈灵药",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421703,7 +421703,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金】謎の秘薬で成分不明。これは、たまに道端に落ちている固めのアレだ！",
-   "zh": "",
+   "zh": "【换金】成分不明的神秘秘药。这就是偶尔能在路边捡到的质地偏硬的那个！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421725,7 +421725,7 @@
    "field": "name",
    "type": "text",
    "jp": "しっぽの下毛",
-   "zh": "",
+   "zh": "尾巴底毛",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421747,7 +421747,7 @@
    "field": "description",
    "type": "text",
    "jp": "【換金・防具】謎の防具だが、これはなかなかどうして優れものだ！すごい！",
-   "zh": "",
+   "zh": "【换金·防具】虽然是来历不明的防具，但出人意料地十分优秀！太厉害了！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421769,7 +421769,7 @@
    "field": "name",
    "type": "text",
    "jp": "ガーベッジ",
-   "zh": "",
+   "zh": "垃圾",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421791,7 +421791,7 @@
    "field": "description",
    "type": "text",
    "jp": "【ゴミ】どうしようもない謎の廃棄物。とてもとてもイラナイものだ！",
-   "zh": "",
+   "zh": "【垃圾】无可救药的神秘废弃物。真是超级超级不需要的东西！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421813,7 +421813,7 @@
    "field": "name",
    "type": "text",
    "jp": "盗賊の鍵",
-   "zh": "",
+   "zh": "盗贼之钥",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421835,7 +421835,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】盗賊の手に渡ってしまった森の魔女の鍵で、盗賊の鍵ではない。",
-   "zh": "",
+   "zh": "【重要道具】落入盗贼之手的森林魔女之钥，并非盗贼的钥匙。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421857,7 +421857,7 @@
    "field": "name",
    "type": "text",
    "jp": "ずっしりの実",
-   "zh": "",
+   "zh": "沉甸果实",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421879,7 +421879,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】ずっしりと腹にたまるボリューミーな果実。食べ過ぎると危ない！",
-   "zh": "",
+   "zh": "【重要道具】分量十足、极其顶饱的果实。吃太多可是很危险的！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421901,7 +421901,7 @@
    "field": "name",
    "type": "text",
    "jp": "アロマニのキモ",
-   "zh": "",
+   "zh": "阿罗曼尼之肝",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421923,7 +421923,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】芳しい香りを漂わせるアロマニのキモ。でも正直キモイ！",
-   "zh": "",
+   "zh": "【重要道具】散发着诱人香气的阿罗曼尼之肝。但说实话真的很恶心！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421945,7 +421945,7 @@
    "field": "name",
    "type": "text",
    "jp": "手紙とペン",
-   "zh": "",
+   "zh": "信纸与笔",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421967,7 +421967,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】いたって普通の筆記用具。どこにでもあるいたって普通の筆記用具。",
-   "zh": "",
+   "zh": "【重要道具】极其普通的书写用具。随处可见、极其普通的书写用具。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -421989,7 +421989,7 @@
    "field": "name",
    "type": "text",
    "jp": "水瓶",
-   "zh": "",
+   "zh": "水瓶",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422011,7 +422011,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】とても貴重な水だが、ただの水。冷やすとうまい！",
-   "zh": "",
+   "zh": "【重要道具】非常珍贵的水，但也就是普通的水。冰镇后格外好喝！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422033,7 +422033,7 @@
    "field": "name",
    "type": "text",
    "jp": "スケアコッコ",
-   "zh": "",
+   "zh": "惊吓咕咕鸡",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422055,7 +422055,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】ニワトリのようでニワトリでない、変わった希少種。コケッ！",
-   "zh": "",
+   "zh": "【重要道具】似鸡非鸡的奇特珍稀品种。咕咕——！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422077,7 +422077,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヒゲが１３本あるネコ",
-   "zh": "",
+   "zh": "十三须猫",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422099,7 +422099,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】ヴァレンティーヌ大公爵の愛猫のホムンクルス。錬金術恐るべし。",
-   "zh": "",
+   "zh": "【重要道具】瓦伦蒂奴大公爵爱猫的人造人偶。炼金术当真可怕。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422121,7 +422121,7 @@
    "field": "name",
    "type": "text",
    "jp": "厚手の紙切れ",
-   "zh": "",
+   "zh": "厚纸片",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422143,7 +422143,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】何か文字の書かれた厚手の紙切れ。かすかな魔力を感じる。",
-   "zh": "",
+   "zh": "【重要道具】写有某些文字的厚纸片。能感受到微弱的魔力。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422165,7 +422165,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝶媚粉",
-   "zh": "",
+   "zh": "蝶媚粉",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422187,7 +422187,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】コリゴン達のハッピーパウダーで、蝶々さんの大好物！",
-   "zh": "",
+   "zh": "【重要道具】柯利岗们的快乐之粉，蝴蝶的最爱！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422209,7 +422209,7 @@
    "field": "name",
    "type": "text",
    "jp": "ねばねばチーズ(10話)",
-   "zh": "",
+   "zh": "黏糊糊奶酪(第10话)",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422231,7 +422231,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】",
-   "zh": "",
+   "zh": "【重要道具】",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422253,7 +422253,7 @@
    "field": "name",
    "type": "text",
    "jp": "じめじめ光苔",
-   "zh": "",
+   "zh": "阴湿光苔",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422275,7 +422275,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】じめじめと光る苔だが、本体はカラッと乾燥している。",
-   "zh": "",
+   "zh": "【重要道具】泛着潮湿光泽的苔藓，本体却意外地干爽干燥。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422297,7 +422297,7 @@
    "field": "name",
    "type": "text",
    "jp": "ネズミの尻尾",
-   "zh": "",
+   "zh": "老鼠尾巴",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422319,7 +422319,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】根元からプッツリといったネズミの尻尾。まだ動いている！",
-   "zh": "",
+   "zh": "【重要道具】从根部齐刷刷扯下的老鼠尾巴。居然还在动！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422341,7 +422341,7 @@
    "field": "name",
    "type": "text",
    "jp": "紅土蜘蛛の心臓",
-   "zh": "",
+   "zh": "红土蛛的心脏",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422363,7 +422363,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】脈打つ心臓。塩茹でにすると美味いらしい。",
-   "zh": "",
+   "zh": "【重要道具】跳动着的心脏。据说用盐水煮熟后味道极为鲜美。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422385,7 +422385,7 @@
    "field": "name",
    "type": "text",
    "jp": "碧の結晶石",
-   "zh": "",
+   "zh": "碧之结晶石",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422407,7 +422407,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】沼を圧縮し結晶化したもの。沼と同様の力を持つ便利グッズ。",
-   "zh": "",
+   "zh": "【重要道具】将沼泽泥浆压缩结晶化之物。蕴含着与沼泽同等力量的便利道具。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422429,7 +422429,7 @@
    "field": "name",
    "type": "text",
    "jp": "翠ノ実",
-   "zh": "",
+   "zh": "翠之果实",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422451,7 +422451,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】魔力を帯びた林檎のような果実。酸味と甘味のバランスが絶妙。",
-   "zh": "",
+   "zh": "【重要道具】宛如带有魔力的苹果一般的果实。酸味与甜味的平衡妙不可言。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422473,7 +422473,7 @@
    "field": "name",
    "type": "text",
    "jp": "スズの音草",
-   "zh": "",
+   "zh": "铃音草",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422495,7 +422495,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】人の恐怖に反応する、美しく清廉な花。月夜にはスズの音を奏でる。",
-   "zh": "",
+   "zh": "【重要道具】会对人类的恐惧产生反应、清丽纯洁的花朵。在月夜下会奏响清脆铃音。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422517,7 +422517,7 @@
    "field": "name",
    "type": "text",
    "jp": "リカの人形",
-   "zh": "",
+   "zh": "莉卡的玩偶",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422539,7 +422539,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】リカから貰ったちょっと不気味な人形。",
-   "zh": "",
+   "zh": "【重要道具】从莉卡那里得到的略显诡异的玩偶。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422561,7 +422561,7 @@
    "field": "name",
    "type": "text",
    "jp": "症状の書かれた手紙",
-   "zh": "",
+   "zh": "写有症状的信",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422583,7 +422583,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】メタリカの症状を伝えるための手紙。呪術師を見つけたら渡そう。",
-   "zh": "",
+   "zh": "【重要道具】用于说明梅塔莉卡症状的信。找到咒术师后就交给他吧。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422605,7 +422605,7 @@
    "field": "name",
    "type": "text",
    "jp": "翠ノ実の砂糖漬け",
-   "zh": "",
+   "zh": "蜜饯翠之果实",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422627,7 +422627,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】翠の実をまるごと星屑砂糖とラム酒に漬け込んだ逸品。魔女の好物。",
-   "zh": "",
+   "zh": "【重要道具】将整颗翠之果实浸渍在星屑砂糖与朗姆酒中腌制而成的绝品。魔女的挚爱。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422649,7 +422649,7 @@
    "field": "name",
    "type": "text",
    "jp": "捜し物メモ",
-   "zh": "",
+   "zh": "寻物便笺",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422671,7 +422671,7 @@
    "field": "description",
    "type": "text",
    "jp": "【キーアイテム】百騎兵のために用意された、探し物をメモした手紙。",
-   "zh": "",
+   "zh": "【重要道具】为百骑兵准备的、记录了寻找目标的便笺信件。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422693,7 +422693,7 @@
    "field": "name",
    "type": "text",
    "jp": "損ジノ刀剣Ⅰ",
-   "zh": "",
+   "zh": "残次之刀剑Ⅰ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422715,7 +422715,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・斬撃】鍛冶屋が、打ち損じた刀剣を小遣い稼ぎに安値で売ったもの。切れ味悪し。",
-   "zh": "",
+   "zh": "【刀剑·斩击】铁匠为了赚点零花钱而低价处理的锻造失败刀剑。锋利度极差。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422737,7 +422737,7 @@
    "field": "name",
    "type": "text",
    "jp": "蒼キ刀剣Ⅱ",
-   "zh": "",
+   "zh": "苍蓝之刀剑Ⅱ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422759,7 +422759,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・斬撃】家庭で使われている蒼き刀剣という名の包丁。青魚をおろすのに重宝。",
-   "zh": "",
+   "zh": "【刀剑·斩击】冠以“苍蓝刀剑”之名的家用菜刀。处理青皮鱼时极其得心应手。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422781,7 +422781,7 @@
    "field": "name",
    "type": "text",
    "jp": "征服ノ刀剣Ⅲ",
-   "zh": "",
+   "zh": "征服之刀剑Ⅲ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422803,7 +422803,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・斬撃】隣国を征服した記念に造ったされる大胆な形状の刀剣。ワイルド！",
-   "zh": "",
+   "zh": "【刀剑·斩击】据说为纪念征服邻国而铸造的外形粗犷的大刀。狂野十足！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422825,7 +422825,7 @@
    "field": "name",
    "type": "text",
    "jp": "血潮ノ刀剣Ⅳ",
-   "zh": "",
+   "zh": "血潮之刀剑Ⅳ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422847,7 +422847,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・斬撃・毒】クナイと呼ばれる異国の暗殺者が使う武器。毒が仕込まれている。",
-   "zh": "",
+   "zh": "【刀剑·斩击·毒】被称为苦无的异国暗杀者所用武器。内部淬有剧毒。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422869,7 +422869,7 @@
    "field": "name",
    "type": "text",
    "jp": "赤山羊ノ刀剣Ⅴ",
-   "zh": "",
+   "zh": "赤山羊之刀剑Ⅴ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422891,7 +422891,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・魔撃】蝙蝠の羽を模した赤い刀剣で魔女の護身用武器。魔撃属性を持つ。",
-   "zh": "",
+   "zh": "【刀剑·魔击】模仿蝙蝠之翼制成的红色刀剑，是魔女的防身武器。具有魔击属性。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422913,7 +422913,7 @@
    "field": "name",
    "type": "text",
    "jp": "青山羊ノ刀剣Ⅵ",
-   "zh": "",
+   "zh": "青山羊之刀剑Ⅵ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422935,7 +422935,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・打撃】刀身の長く青い斬馬刀だが、切るより叩き壊すことを目的とした武器。",
-   "zh": "",
+   "zh": "【刀剑・打击】虽是剑身修长的蓝色斩马刀，但比起劈斩，其设计初衷更偏向于砸碎目标的武器。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422957,7 +422957,7 @@
    "field": "name",
    "type": "text",
    "jp": "始マリノ刀剣Ⅶ",
-   "zh": "",
+   "zh": "起始之刀剑Ⅶ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -422979,7 +422979,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・斬撃】異国の刀剣で太刀と呼ばれる。切れ味鋭きこと、かつらむき余裕です。",
-   "zh": "",
+   "zh": "【刀剑・斩击】异国的刀剑，被称为太刀。锋利无比，削连刀薄皮都不在话下。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423001,7 +423001,7 @@
    "field": "name",
    "type": "text",
    "jp": "償イノ刀剣Ⅷ",
-   "zh": "",
+   "zh": "赎罪之刀剑Ⅷ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423023,7 +423023,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・斬撃】鎧の貫通を目的とした刺突剣で非常に軽量。威力はさほど高くない。",
-   "zh": "",
+   "zh": "【刀剑・斩击】旨在贯穿铠甲的突刺剑，非常轻盈。威力并不怎么高。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423045,7 +423045,7 @@
    "field": "name",
    "type": "text",
    "jp": "魂ノ欠片ノ刀剣Ⅸ",
-   "zh": "",
+   "zh": "灵魂碎片之刀剑Ⅸ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423067,7 +423067,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・魔撃】伝説の魔女ディディが命と引き換えに造ったとされる刀剣のレプリカ。",
-   "zh": "",
+   "zh": "【刀剑・魔击】据传是传说中的魔女迪迪用性命换取锻造而成的刀剑复制品。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423089,7 +423089,7 @@
    "field": "name",
    "type": "text",
    "jp": "ホノ暗キ刀剣Ⅹ",
-   "zh": "",
+   "zh": "幽暗之刀剑Ⅹ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423111,7 +423111,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・打撃・毒】魔女が鍛えた刀剣で、相手に痛みを与えることが目的の怨念剣。",
-   "zh": "",
+   "zh": "【刀剑・打击・毒】魔女锻造的刀剑，旨在给予敌人痛苦的怨念之剑。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423133,7 +423133,7 @@
    "field": "name",
    "type": "text",
    "jp": "虐殺ノ刀剣柩",
-   "zh": "",
+   "zh": "虐杀之刀剑柩",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423155,7 +423155,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・斬撃】異国の刀剣で太刀と呼ばれる。鍛冶師・虐殺ヨロズノ姫が打ったとされる。",
-   "zh": "",
+   "zh": "【刀剑・斩击】异国的刀剑，被称为太刀。据传是由铁匠·虐杀万之姬所锻造。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423177,7 +423177,7 @@
    "field": "name",
    "type": "text",
    "jp": "黒キ刀剣罍",
-   "zh": "",
+   "zh": "漆黑刀剑罍",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423199,7 +423199,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・魔撃】黒キ勇者が持つとされる黒ノ不可視刀身ナル魔撃刀剣……そのレプリカ。",
-   "zh": "",
+   "zh": "【刀剑・魔击】据传为黑之勇者所持有的漆黑不可见剑身之魔击刀剑……的复制品。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423221,7 +423221,7 @@
    "field": "name",
    "type": "text",
    "jp": "百鬼百命剣孳",
-   "zh": "",
+   "zh": "百鬼百命剑孳",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423243,7 +423243,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・斬撃】大魔女ウルカが鍛えた刀剣。数多世界翔る者の破片で造られたとされる。",
-   "zh": "",
+   "zh": "【刀剑・斩击】大魔女乌露卡锻造的刀剑。据传是由翱翔数多世界之人的碎片制成。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423265,7 +423265,7 @@
    "field": "name",
    "type": "text",
    "jp": "ボロノ刀剣α",
-   "zh": "",
+   "zh": "破旧刀剑α",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423287,7 +423287,7 @@
    "field": "description",
    "type": "text",
    "jp": "【刀剣・斬撃】正式名ボンクラロングソード。刃こぼれの多い、由緒正しきゴミクズ剣。",
-   "zh": "",
+   "zh": "【刀剑・斩击】正式名称为呆瓜长剑。刃口缺口繁多、货真价实的垃圾废剑。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423309,7 +423309,7 @@
    "field": "name",
    "type": "text",
    "jp": "ネズミの蝕台Ⅰ",
-   "zh": "",
+   "zh": "鼠之蚀台Ⅰ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423331,7 +423331,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・毒】蝕台と呼ばれる魔法のトーチで、毒の属性を持つ。攻撃力は低い。",
-   "zh": "",
+   "zh": "【蚀台・魔击・毒】被称为蚀台的魔法火炬，具有毒属性。攻击力较低。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423353,7 +423353,7 @@
    "field": "name",
    "type": "text",
    "jp": "カエルの蝕台Ⅱ",
-   "zh": "",
+   "zh": "蛙之蚀台Ⅱ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423375,7 +423375,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・拡散】魔撃属性の魔弾を散らす蝕台。下級魔女が愛用する武器。",
-   "zh": "",
+   "zh": "【蚀台・魔击・扩散】能够散射魔击属性魔弹的蚀台。深受下级魔女喜爱的武器。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423397,7 +423397,7 @@
    "field": "name",
    "type": "text",
    "jp": "クロネコの蝕台Ⅲ",
-   "zh": "",
+   "zh": "黑猫之蚀台Ⅲ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423419,7 +423419,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・眠り】眠り属性の蝕台。攻撃力は低く不眠症の魔女が愛用する、日用品。",
-   "zh": "",
+   "zh": "【蚀台・魔击・睡眠】具有睡眠属性的蚀台。攻击力较低，是饱受失眠困扰的魔女常备的日用品。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423441,7 +423441,7 @@
    "field": "name",
    "type": "text",
    "jp": "コウモリの蝕台Ⅳ",
-   "zh": "",
+   "zh": "蝙蝠之蚀台Ⅳ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423463,7 +423463,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・魔柱】魔柱型の蝕台。速度も速く、近接攻撃に優れるが、魔女には不評。",
-   "zh": "",
+   "zh": "【蚀台・魔击・魔柱】魔柱型的蚀台。施放速度快，擅长近距离攻击，但在魔女中口碑不佳。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423485,7 +423485,7 @@
    "field": "name",
    "type": "text",
    "jp": "オオカミの蝕台Ⅴ",
-   "zh": "",
+   "zh": "狼之蚀台Ⅴ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423507,7 +423507,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・拡散】魔弾を複数散らす蝕台。魔獣狩りに利用されることが多い。",
-   "zh": "",
+   "zh": "【蚀台・魔击・扩散】能散射多枚魔弹的蚀台。常用于魔兽狩猎。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423529,7 +423529,7 @@
    "field": "name",
    "type": "text",
    "jp": "ドクガの蝕台Ⅵ",
-   "zh": "",
+   "zh": "毒蛾之蚀台Ⅵ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423551,7 +423551,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・毒】毒属性の蝕台。毒蛾のりんぷんを三日三晩煮込んで造った民芸品。",
-   "zh": "",
+   "zh": "【蚀台・魔击・毒】具有毒属性的蚀台。将毒蛾鳞粉熬煮三天三夜制成的民间工艺品。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423573,7 +423573,7 @@
    "field": "name",
    "type": "text",
    "jp": "ケムシの蝕台Ⅶ",
-   "zh": "",
+   "zh": "毛虫之蚀台Ⅶ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423595,7 +423595,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・魔柱】金色の魔柱型の蝕台。装飾に凝っている上級魔女用の護身武器。",
-   "zh": "",
+   "zh": "【蚀台・魔击・魔柱】金色的魔柱型蚀台。装潢讲究，专供高级魔女使用的护身武器。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423617,7 +423617,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヤモリの蝕台Ⅷ",
-   "zh": "",
+   "zh": "壁虎之蚀台Ⅷ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423639,7 +423639,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・眠り】強い眠り属性を持つ。その威力たるやイタズラにもってこい！",
-   "zh": "",
+   "zh": "【蚀台・魔击・睡眠】具有极强的睡眠属性。这威力拿来恶作剧再合适不过！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423661,7 +423661,7 @@
    "field": "name",
    "type": "text",
    "jp": "ハエの蝕台Ⅸ",
-   "zh": "",
+   "zh": "蝇之蚀台Ⅸ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423683,7 +423683,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・拡散】魔弾を複数散らす蝕台。現在は作られていない骨董品。",
-   "zh": "",
+   "zh": "【蚀台・魔击・扩散】能散射多枚魔弹的蚀台。如今已不再生产的古董。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423705,7 +423705,7 @@
    "field": "name",
    "type": "text",
    "jp": "クモの蝕台Ⅹ",
-   "zh": "",
+   "zh": "蛛之蚀台Ⅹ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423727,7 +423727,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・毒】毒蜘蛛の力を宿した毒属性の蝕台。肉を腐らせ骨を蝕む恐ろしい武器。",
-   "zh": "",
+   "zh": "【蚀台・魔击・毒】寄宿着毒蜘蛛之力的毒属性蚀台。能腐蚀皮肉、侵蚀骨髓的可怖武器。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423749,7 +423749,7 @@
    "field": "name",
    "type": "text",
    "jp": "ムカデの蝕台柩",
-   "zh": "",
+   "zh": "蜈蚣之蚀台柩",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423771,7 +423771,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・魔柱】近接魔撃型の蝕台。魔女の中でも接近戦闘を好む者が愛用している。",
-   "zh": "",
+   "zh": "【蚀台・魔击・魔柱】近战魔击型的蚀台。深受魔女中崇尚近身肉搏者所偏爱。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423793,7 +423793,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヒルの蝕台罍",
-   "zh": "",
+   "zh": "水蛭之蚀台罍",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423815,7 +423815,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・眠り】非常に強い眠り属性を持つ。かつて王族が使ったとされる逸品。",
-   "zh": "",
+   "zh": "【蚀台・魔击・睡眠】具有极强的睡眠属性。据传曾由王族使用的绝品。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423837,7 +423837,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔女ノーラの灯孳",
-   "zh": "",
+   "zh": "魔女诺拉之灯孳",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423859,7 +423859,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・拡散】かつて古の魔女ノーラが使っていたとされる伝説の蝕台。最強！",
-   "zh": "",
+   "zh": "【蚀台・魔击・扩散】据传由昔日古代魔女诺拉曾使用过的传说蚀台。天下最强！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423881,7 +423881,7 @@
    "field": "name",
    "type": "text",
    "jp": "カボチャの蝕台α",
-   "zh": "",
+   "zh": "南瓜之蚀台α",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423903,7 +423903,7 @@
    "field": "description",
    "type": "text",
    "jp": "【蝕台・魔撃・拡散】南瓜型の特殊蝕台で、大魔女リューベンスが戯れに造ったとの噂。",
-   "zh": "",
+   "zh": "【蚀台・魔击・扩散】南瓜造型的特殊蚀台，传闻是大魔女琉宾斯一时兴起做着玩的手笔。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423925,7 +423925,7 @@
    "field": "name",
    "type": "text",
    "jp": "無骨な鈍槌Ⅰ",
-   "zh": "",
+   "zh": "粗犷钝槌Ⅰ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423947,7 +423947,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・打撃】木と鉄で作られた鈍槌。もっぱら、家を壊すときに使われる大工道具。",
-   "zh": "",
+   "zh": "【钝槌・打击】以木与铁制成的钝槌。通常是拆除房屋时使用的大工工具。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423969,7 +423969,7 @@
    "field": "name",
    "type": "text",
    "jp": "愚直な鈍槌Ⅱ",
-   "zh": "",
+   "zh": "笨拙钝槌Ⅱ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -423991,7 +423991,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・打撃】重いことが取り得の鈍槌。もっぱら杭を打つときに使われる大工道具。",
-   "zh": "",
+   "zh": "【钝槌・打击】唯一的长处就是沉重的钝槌。通常是打木桩时使用的大工工具。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424013,7 +424013,7 @@
    "field": "name",
    "type": "text",
    "jp": "煌びやかな鈍槌Ⅲ",
-   "zh": "",
+   "zh": "璀璨钝槌Ⅲ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424035,7 +424035,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・斬撃】煌びやかな刃が特徴の斬撃型鈍槌。蒔き割りに使われる日用製品。",
-   "zh": "",
+   "zh": "【钝槌・斩击】以璀璨锋刃为特征的斩击型钝槌。常用于劈柴的日常用具。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424057,7 +424057,7 @@
    "field": "name",
    "type": "text",
    "jp": "厄呼ぶ鈍槌Ⅳ",
-   "zh": "",
+   "zh": "招厄钝槌Ⅳ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424079,7 +424079,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・打撃】戦闘用の鈍槌だが、棘々が自分に当たると大変評判が悪い、厄を呼ぶ品。",
-   "zh": "",
+   "zh": "【钝槌・打击】虽为战斗用钝槌，却因尖刺容易伤及自身而极受诟病，实属招厄之物。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424101,7 +424101,7 @@
    "field": "name",
    "type": "text",
    "jp": "荒々しい鈍槌Ⅴ",
-   "zh": "",
+   "zh": "粗陋钝槌Ⅴ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424123,7 +424123,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・打撃】大量生産された戦闘用鈍槌だが、模造品も多く作りが大変荒々しい。",
-   "zh": "",
+   "zh": "【钝槌・打击】大量生产的战斗用钝槌，但仿制品极多且做工极其粗陋。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424145,7 +424145,7 @@
    "field": "name",
    "type": "text",
    "jp": "無法な鈍槌Ⅵ",
-   "zh": "",
+   "zh": "无法之钝槌Ⅵ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424167,7 +424167,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・打撃】傭兵崩れの山賊達が開発した鈍槌。見た目は無骨だが無慈悲な威力！",
-   "zh": "",
+   "zh": "【钝槌・打击】由落草为寇的佣兵们开发的钝槌。外表朴拙却拥有无情的破坏力！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424189,7 +424189,7 @@
    "field": "name",
    "type": "text",
    "jp": "逞しい鈍槌Ⅶ",
-   "zh": "",
+   "zh": "强健钝槌Ⅶ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424211,7 +424211,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・斬撃】貴族仕様の切れ味鋭い斬撃型鈍槌。装飾に似合わず堅実な実用品。",
-   "zh": "",
+   "zh": "【钝槌・斩击】贵族规格且锋芒锐利的斩击型钝槌。与华美装饰不相称的扎实用具。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424233,7 +424233,7 @@
    "field": "name",
    "type": "text",
    "jp": "禍根の鈍槌Ⅷ",
-   "zh": "",
+   "zh": "祸根钝槌Ⅷ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424255,7 +424255,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・打撃】相手に致命的な重症を負わせる鈍槌。ただし、振り回すには力が必要。",
-   "zh": "",
+   "zh": "【钝槌・打击】能给予对手致命重伤的钝槌。不过，想要挥动它需要过人力量。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424277,7 +424277,7 @@
    "field": "name",
    "type": "text",
    "jp": "愉快な鈍槌Ⅸ",
-   "zh": "",
+   "zh": "快意钝槌Ⅸ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424299,7 +424299,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・打撃】貴族が使う本格戦闘用の鈍槌。威力はあるが価格が高い高級武器。",
-   "zh": "",
+   "zh": "【钝槌・打击】贵族用于正式战斗的钝槌。虽具威力但价格昂贵的高级武器。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424321,7 +424321,7 @@
    "field": "name",
    "type": "text",
    "jp": "漲る鈍槌Ⅹ",
-   "zh": "",
+   "zh": "充盈钝槌Ⅹ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424343,7 +424343,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・魔撃】魔力を帯びさせて魔撃属性を持たせることに成功した鈍槌。凄く漲る！",
-   "zh": "",
+   "zh": "【钝槌・魔击】成功注入魔力并赋予魔击属性的钝槌。魔力极其充盈！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424365,7 +424365,7 @@
    "field": "name",
    "type": "text",
    "jp": "禍々しい鈍槌柩",
-   "zh": "",
+   "zh": "不祥钝槌柩",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424387,7 +424387,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・斬撃】実戦での利用に特化した斬撃型鈍槌。大型魔獣を真っ二つにする威力！",
-   "zh": "",
+   "zh": "【钝槌・斩击】专精于实战应用的斩击型钝槌。拥有能将大型魔兽劈成两半的威力！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424409,7 +424409,7 @@
    "field": "name",
    "type": "text",
    "jp": "荒涼たる鈍槌罍",
-   "zh": "",
+   "zh": "荒凉钝槌罍",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424431,7 +424431,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・斬撃】斬撃型の鈍槌。魔女が悪魔の力を借りて造ったといわれる。恐ろしい！",
-   "zh": "",
+   "zh": "【钝槌・斩击】斩击型钝槌。据传是魔女借助恶魔之力打造而成。令人毛骨悚然！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424453,7 +424453,7 @@
    "field": "name",
    "type": "text",
    "jp": "鉄鬼鉄塊丸孳",
-   "zh": "",
+   "zh": "铁鬼铁块丸孳",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424475,7 +424475,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・打撃】究極の破壊力を持つ最強の鈍槌にして、無骨な鉄塊。殴る殴る殴る！！",
-   "zh": "",
+   "zh": "【钝槌・打击】拥有终极破坏力的最强钝槌，亦是粗暴铁块。砸！砸！砸！！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424497,7 +424497,7 @@
    "field": "name",
    "type": "text",
    "jp": "形容し難き鈍鎚α",
-   "zh": "",
+   "zh": "难以名状之钝槌α",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424519,7 +424519,7 @@
    "field": "description",
    "type": "text",
    "jp": "【鈍槌・斬撃・毒】形容し難き形状の、形容し難き鈍槌。古の魔女が造ったと噂の逸品。",
-   "zh": "",
+   "zh": "【钝槌・斩击・毒】形状难以名状的难以名状之钝槌。传闻由古代魔女打造的逸品。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424541,7 +424541,7 @@
    "field": "name",
    "type": "text",
    "jp": "民の古塔Ⅰ",
-   "zh": "",
+   "zh": "平民之古塔Ⅰ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424563,7 +424563,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・斬撃】革命戦争で民が使った、古塔と呼ばれる突貫武器。無骨で重い。",
-   "zh": "",
+   "zh": "【古塔・斩击】革命战争时期平民所使用的名为古塔的突刺武器。粗重沉实。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424585,7 +424585,7 @@
    "field": "name",
    "type": "text",
    "jp": "騎士の古塔Ⅱ",
-   "zh": "",
+   "zh": "骑士之古塔Ⅱ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424607,7 +424607,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・斬撃】一般的な騎士が使う古塔。装飾が凝っておりその価格の大半は装飾費。",
-   "zh": "",
+   "zh": "【古塔・斩击】普通骑士所使用的古塔。雕饰精美，其价格大半源于装潢造价。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424629,7 +424629,7 @@
    "field": "name",
    "type": "text",
    "jp": "男爵の古塔Ⅲ",
-   "zh": "",
+   "zh": "男爵之古塔Ⅲ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424651,7 +424651,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・打撃】まるたんぼうで造られた古塔だが、これはどう見てもまるたんぼうだ。",
-   "zh": "",
+   "zh": "【古塔・打击】用圆木制成的古塔，但这怎么看都只是一根圆木吧。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424673,7 +424673,7 @@
    "field": "name",
    "type": "text",
    "jp": "子爵の古塔Ⅳ",
-   "zh": "",
+   "zh": "子爵之古塔Ⅳ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424695,7 +424695,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・斬撃】紅鉄と呼ばれる金属で作られた古塔。女性受けするフォルム！",
-   "zh": "",
+   "zh": "【古塔・斩击】以名为红铁的金属打造的古塔。深受女性青睐的外形！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424717,7 +424717,7 @@
    "field": "name",
    "type": "text",
    "jp": "伯爵の古塔Ⅴ",
-   "zh": "",
+   "zh": "伯爵之古塔Ⅴ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424739,7 +424739,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・斬撃】伯爵が王から賜ったとされる古塔。何故か市場に流れている……。",
-   "zh": "",
+   "zh": "【古塔・斩击】据传是国王赐予伯爵的古塔。不知为何流落到了市面上……",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424761,7 +424761,7 @@
    "field": "name",
    "type": "text",
    "jp": "侯爵の古塔Ⅵ",
-   "zh": "",
+   "zh": "侯爵之古塔Ⅵ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424783,7 +424783,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・打撃】先を尖らせずに打撃属性にした古塔で、攻城兵器。錆が酷い。",
-   "zh": "",
+   "zh": "【古塔・打击】未做锋锐处理而赋予打击属性的古塔，乃攻城兵器。锈迹斑斑。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424805,7 +424805,7 @@
    "field": "name",
    "type": "text",
    "jp": "公爵の古塔Ⅶ",
-   "zh": "",
+   "zh": "公爵之古塔Ⅶ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424827,7 +424827,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・打撃】ダイナミックでワイルドな打撃系古塔。相手を怯ませやすい。凄い！",
-   "zh": "",
+   "zh": "【古塔・打击】大开大合、刚猛狂野的打击系古塔。极易使对手畏缩。厉害！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424849,7 +424849,7 @@
    "field": "name",
    "type": "text",
    "jp": "大公爵の古塔Ⅷ",
-   "zh": "",
+   "zh": "大公爵之古塔Ⅷ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424871,7 +424871,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・魔撃】大公爵がコリゴンの為に造った古塔。非常に硬い天然石が原材料。",
-   "zh": "",
+   "zh": "【古塔・魔击】大公爵为柯利岗打造的古塔。原料采用极其坚硬的天然石材。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424893,7 +424893,7 @@
    "field": "name",
    "type": "text",
    "jp": "教皇の古塔Ⅸ",
-   "zh": "",
+   "zh": "教皇之古塔Ⅸ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424915,7 +424915,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・斬撃】教皇の古塔と呼ばれる異端審問官の武器。教皇庁の武装化に批判も多い。",
-   "zh": "",
+   "zh": "【古塔・斩击】被称为教皇古塔的异端审问官武器。对于教皇厅武装化的批判亦不在少数。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424937,7 +424937,7 @@
    "field": "name",
    "type": "text",
    "jp": "王女の古塔Ⅹ",
-   "zh": "",
+   "zh": "公主之古塔Ⅹ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424959,7 +424959,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・斬撃】王女様でも扱える軽さと、流麗なデザインを前面に押し出し大ヒット。",
-   "zh": "",
+   "zh": "【古塔・斩击】主打连娇弱公主也能轻松挥舞的轻盈度与流丽设计，大获成功。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -424981,7 +424981,7 @@
    "field": "name",
    "type": "text",
    "jp": "王子の古塔柩",
-   "zh": "",
+   "zh": "王子之古塔柩",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425003,7 +425003,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・斬撃】古の王子が、悪魔の山で見つけたとされる忌まわしい形状をした古塔。",
-   "zh": "",
+   "zh": "【古塔・斩击】相传是古代王子于恶魔之山寻获的古塔，外形极度不祥。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425025,7 +425025,7 @@
    "field": "name",
    "type": "text",
    "jp": "王妃の古塔罍",
-   "zh": "",
+   "zh": "王妃之古塔罍",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425047,7 +425047,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・打撃】かつての国王が王妃の誕生日に贈ったとされる立派な古塔。何故贈った！",
-   "zh": "",
+   "zh": "【古塔・打击】据传是往昔国王在王妃生日时赠予的气派古塔。为什么送这个啊！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425069,7 +425069,7 @@
    "field": "name",
    "type": "text",
    "jp": "神王の証たる峰孳",
-   "zh": "",
+   "zh": "神王之证宝峰孳",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425091,7 +425091,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・斬撃】王家に伝わる神器らしいが真偽の程は定かでない。神器の真偽を審議中。",
-   "zh": "",
+   "zh": "【古塔・斩击】似乎是王家代代相传的神器，但真伪不得而知。正在审议神器的真伪。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425113,7 +425113,7 @@
    "field": "name",
    "type": "text",
    "jp": "奴隷の古塔α",
-   "zh": "",
+   "zh": "奴隶的古塔α",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425135,7 +425135,7 @@
    "field": "description",
    "type": "text",
    "jp": "【古塔・打撃・毒】奴隷達の古塔。その怨念は猛毒となり相手の肉体を蝕み呪い殺す。",
-   "zh": "",
+   "zh": "【古塔·打击·毒】奴隶们的古塔。其怨念化为猛毒，侵蚀对手的肉体并咒杀之。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425157,7 +425157,7 @@
    "field": "name",
    "type": "text",
    "jp": "罪悪の槍鎌Ⅰ",
-   "zh": "",
+   "zh": "罪恶之枪镰Ⅰ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425179,7 +425179,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・斬撃】両刃が基本。振り回して使う為、広範囲への攻撃が可能。リーチ長し。",
-   "zh": "",
+   "zh": "【枪镰·斩击】以双刃为基础。由于是挥舞使用，可进行大范围攻击。攻击距离长。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425201,7 +425201,7 @@
    "field": "name",
    "type": "text",
    "jp": "悲哀の槍鎌Ⅱ",
-   "zh": "",
+   "zh": "悲哀之枪镰Ⅱ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425223,7 +425223,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・斬撃】刃先を厚くすることで攻撃力を増した槍鎌。槍でも鎌でもない槍鎌。",
-   "zh": "",
+   "zh": "【枪镰·斩击】通过加厚刀刃来提高攻击力的枪镰。非枪非镰之枪镰。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425245,7 +425245,7 @@
    "field": "name",
    "type": "text",
    "jp": "傲慢の槍鎌Ⅲ",
-   "zh": "",
+   "zh": "傲慢之枪镰Ⅲ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425267,7 +425267,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・打撃】刃の無い打撃タイプの槍鎌。相手を怯ませる効果を持つので重宝される。",
-   "zh": "",
+   "zh": "【枪镰·打击】无刃的打击型枪镰。因具备让对手怯步的效果而备受珍视。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425289,7 +425289,7 @@
    "field": "name",
    "type": "text",
    "jp": "強欲の槍鎌Ⅳ",
-   "zh": "",
+   "zh": "强欲之枪镰Ⅳ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425311,7 +425311,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・斬撃】鎌形状をした槍鎌。高い殺傷能力を持つので取り扱いには注意が必要。",
-   "zh": "",
+   "zh": "【枪镰·斩击】呈镰刀形状的枪镰。杀伤能力极高，使用时需格外注意。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425333,7 +425333,7 @@
    "field": "name",
    "type": "text",
    "jp": "狡猾の槍鎌Ⅴ",
-   "zh": "",
+   "zh": "狡黠之枪镰Ⅴ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425355,7 +425355,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・斬撃】古の魔女が造ったとされる槍鎌で、特殊な形状をしている。切れ味は鋭い。",
-   "zh": "",
+   "zh": "【枪镰·斩击】相传由古代魔女打造的枪镰，具有特殊的形状。锋利无比。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425377,7 +425377,7 @@
    "field": "name",
    "type": "text",
    "jp": "恐怖の槍鎌Ⅵ",
-   "zh": "",
+   "zh": "恐惧之枪镰Ⅵ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425399,7 +425399,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・魔撃・毒】キャタピオの腕をつけた魔女の槍鎌。魔撃属性を持つ。怖い！",
-   "zh": "",
+   "zh": "【枪镰·魔击·毒】装有毛毛虫手臂的魔女枪镰。带有魔击属性。好可怕！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425421,7 +425421,7 @@
    "field": "name",
    "type": "text",
    "jp": "憂鬱の槍鎌Ⅶ",
-   "zh": "",
+   "zh": "忧郁之枪镰Ⅶ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425443,7 +425443,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・斬撃】鎌形状をした槍鎌。魔獣の骨で造った刃の切れ味は凄い。凄いはず！",
-   "zh": "",
+   "zh": "【枪镰·斩击】呈镰刀形状的枪镰。用魔兽骨骼打造的利刃锋利绝伦。理应如此！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425465,7 +425465,7 @@
    "field": "name",
    "type": "text",
    "jp": "無実の槍鎌Ⅷ",
-   "zh": "",
+   "zh": "无辜之枪镰Ⅷ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425487,7 +425487,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・斬撃】両刃の槍鎌。ダマスカス鋼を魔力で強化した刃は鉄をも切断するという。",
-   "zh": "",
+   "zh": "【枪镰·斩击】双刃枪镰。据说用魔力强化后的大马士革钢刀刃，连钢铁都能斩断。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425509,7 +425509,7 @@
    "field": "name",
    "type": "text",
    "jp": "慈悲の槍鎌Ⅸ",
-   "zh": "",
+   "zh": "慈悲之枪镰Ⅸ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425531,7 +425531,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・斬撃】鎌形状をした輪型の槍鎌。相手の首にひっかけて落とすことが目的。",
-   "zh": "",
+   "zh": "【枪镰·斩击】呈镰刀形状的环形枪镰。旨在套住对手的脖子将其斩落。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425553,7 +425553,7 @@
    "field": "name",
    "type": "text",
    "jp": "嫉妬の槍鎌Ⅹ",
-   "zh": "",
+   "zh": "嫉妒之枪镰Ⅹ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425575,7 +425575,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・魔撃・眠り】魔女の護身用魔撃型槍鎌。希少なため非常に手に入り難い。",
-   "zh": "",
+   "zh": "【枪镰·魔击·睡眠】魔女护身用的魔击型枪镰。因数量稀少而极难入手。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425597,7 +425597,7 @@
    "field": "name",
    "type": "text",
    "jp": "簒奪の槍鎌柩",
-   "zh": "",
+   "zh": "篡夺之枪镰柩",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425619,7 +425619,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・打撃】焔を崇めるナハトの民が造った槍鎌。炎の様な見た目だが、実は鈍器。",
-   "zh": "",
+   "zh": "【枪镰·打击】由崇拜烈焰的纳哈特之民所造的枪镰。外观虽如烈火，实则为钝器。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425641,7 +425641,7 @@
    "field": "name",
    "type": "text",
    "jp": "絶望の槍鎌罍",
-   "zh": "",
+   "zh": "绝望之枪镰罍",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425663,7 +425663,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・斬撃】通称ゴシックデスサイズ。純白の装飾が目を引くナハトの姫の愛用品。",
-   "zh": "",
+   "zh": "【枪镰·斩击】通称哥特死神之镰。纯白装饰格外夺目的纳哈特公主心爱之物。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425685,7 +425685,7 @@
    "field": "name",
    "type": "text",
    "jp": "星嵐孳",
-   "zh": "",
+   "zh": "星岚孳",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425707,7 +425707,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・斬撃】星の力を凝縮した刃を持つ最強の槍鎌。一振り造るのに百年掛かる。",
-   "zh": "",
+   "zh": "【枪镰·斩击】拥有凝聚群星之力利刃的最强枪镰。打造一柄需耗时百年。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425729,7 +425729,7 @@
    "field": "name",
    "type": "text",
    "jp": "喜びの槍鎌α",
-   "zh": "",
+   "zh": "欢悦之枪镰α",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425751,7 +425751,7 @@
    "field": "description",
    "type": "text",
    "jp": "【槍鎌・魔撃・毒】妖精を硬化させて造った魔撃型の槍鎌。呪いの力がほとばしる。",
-   "zh": "",
+   "zh": "【枪镰·魔击·毒】将妖精硬化后打造而成的魔击型枪镰。诅咒之力喷薄而出。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425773,7 +425773,7 @@
    "field": "name",
    "type": "text",
    "jp": "泥の骸布Ⅰ",
-   "zh": "",
+   "zh": "泥之骸布Ⅰ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425795,7 +425795,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったと言われる骸布。厳しい環境で生き抜く力が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补而成的骸布。蕴含着在严酷环境中求生的力量。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425817,7 +425817,7 @@
    "field": "name",
    "type": "text",
    "jp": "陽の骸布Ⅱ",
-   "zh": "",
+   "zh": "阳之骸布Ⅱ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425839,7 +425839,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったと言われる骸布。毒を寄せ付けぬ高潔な精神が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补而成的骸布。蕴含着驱散剧毒的高洁精神。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425861,7 +425861,7 @@
    "field": "name",
    "type": "text",
    "jp": "華の骸布Ⅲ",
-   "zh": "",
+   "zh": "华之骸布Ⅲ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425883,7 +425883,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったと言われる骸布。悪しきを許さぬ強き精神力が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补而成的骸布。蕴含着绝不姑息罪恶的强大精神力。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425905,7 +425905,7 @@
    "field": "name",
    "type": "text",
    "jp": "木漏日の骸布Ⅳ",
-   "zh": "",
+   "zh": "漏光之骸布Ⅳ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425927,7 +425927,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったと言われる骸布。正しきを見極める瞳の力が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补而成的骸布。蕴含着看破正道之眼的力量。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425949,7 +425949,7 @@
    "field": "name",
    "type": "text",
    "jp": "宵闇の骸布Ⅴ",
-   "zh": "",
+   "zh": "暮色之骸布Ⅴ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425971,7 +425971,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったとされる骸布。力に屈服しない強い信念が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补而成的骸布。蕴含着绝不屈服于强权的坚定信念。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -425993,7 +425993,7 @@
    "field": "name",
    "type": "text",
    "jp": "焔の骸布Ⅵ",
-   "zh": "",
+   "zh": "焰之骸布Ⅵ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426015,7 +426015,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったとされる骸布。心の深くに根付く仁の思いが込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补而成的骸布。蕴含着深植于心底的仁慈之念。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426037,7 +426037,7 @@
    "field": "name",
    "type": "text",
    "jp": "香木の骸布Ⅶ",
-   "zh": "",
+   "zh": "香木之骸布Ⅶ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426059,7 +426059,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったとされる骸布。深き眠りを跳ね返す覚悟の力が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补而成的骸布。蕴含着能将深沉困意尽数驱散的觉悟之力。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426081,7 +426081,7 @@
    "field": "name",
    "type": "text",
    "jp": "朧の骸布Ⅷ",
-   "zh": "",
+   "zh": "朦胧之骸布Ⅷ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426103,7 +426103,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったとされる骸布。闇を照らし進む勇気が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补而成的骸布。蕴含着照亮黑暗奋勇前行的勇气。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426125,7 +426125,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕の骸布Ⅸ",
-   "zh": "",
+   "zh": "蚀之骸布Ⅸ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426147,7 +426147,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったとされる骸布。欲望に負けない義の力が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补而成的骸布。蕴含着不为欲望所动摇的正义之力。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426169,7 +426169,7 @@
    "field": "name",
    "type": "text",
    "jp": "腐葉の骸布Ⅹ",
-   "zh": "",
+   "zh": "腐叶之骸布Ⅹ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426191,7 +426191,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったとされる骸布。他者を慈しみ愛する情愛の念が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补而成的骸布。蕴含着体恤并深爱他人的怜爱之念。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426213,7 +426213,7 @@
    "field": "name",
    "type": "text",
    "jp": "霧の骸布柩",
-   "zh": "",
+   "zh": "雾之骸布柩",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426235,7 +426235,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったとされる骸布。知識と知恵を行使する知性の力が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补修缮的骸布。蕴含着行使知识与智慧的才智之力。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426257,7 +426257,7 @@
    "field": "name",
    "type": "text",
    "jp": "苔の骸布罍",
-   "zh": "",
+   "zh": "苔之骸布罍",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426279,7 +426279,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったとされる骸布。困難を打ち砕き押し通す意志の力が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补修缮的骸布。蕴含着击碎并穿透困难的意志之力。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426301,7 +426301,7 @@
    "field": "name",
    "type": "text",
    "jp": "白夜月の骸布驫",
-   "zh": "",
+   "zh": "白夜月之骸布驫",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426323,7 +426323,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】魔女が繕ったとされる骸布。諦め挫けない強い精神力が込められている。",
-   "zh": "",
+   "zh": "【防具】相传由魔女缝补修缮的骸布。蕴含着永不放弃、绝不气馁的坚强精神力。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426345,7 +426345,7 @@
    "field": "name",
    "type": "text",
    "jp": "百鬼百命鏡孳",
-   "zh": "",
+   "zh": "百鬼百命镜孳",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426367,7 +426367,7 @@
    "field": "description",
    "type": "text",
    "jp": "【防具】大魔女ウルカが磨いた鏡。数多世界翔る者の破片で造られたとされる。",
-   "zh": "",
+   "zh": "【防具】由大魔女乌露卡精心打磨的镜子。相传是用穿梭无数世界之人的碎片打造而成。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426389,7 +426389,7 @@
    "field": "name",
    "type": "text",
    "jp": "深緑の護符Ⅰ",
-   "zh": "",
+   "zh": "深绿护符Ⅰ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426411,7 +426411,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”ふかみどり”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“深绿”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426433,7 +426433,7 @@
    "field": "name",
    "type": "text",
    "jp": "藍の護符Ⅱ",
-   "zh": "",
+   "zh": "蓝之护符Ⅱ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426455,7 +426455,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”あい”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“靛蓝”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426477,7 +426477,7 @@
    "field": "name",
    "type": "text",
    "jp": "紅赤の護符Ⅲ",
-   "zh": "",
+   "zh": "红赤护符Ⅲ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426499,7 +426499,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”べにあか”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“红赤”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426521,7 +426521,7 @@
    "field": "name",
    "type": "text",
    "jp": "墨の護符Ⅳ",
-   "zh": "",
+   "zh": "墨之护符Ⅳ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426543,7 +426543,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”すみ”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“墨”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426565,7 +426565,7 @@
    "field": "name",
    "type": "text",
    "jp": "赤の護符Ⅴ",
-   "zh": "",
+   "zh": "赤之护符Ⅴ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426587,7 +426587,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”あか”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“赤红”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426609,7 +426609,7 @@
    "field": "name",
    "type": "text",
    "jp": "群青色の護符Ⅵ",
-   "zh": "",
+   "zh": "群青色护符Ⅵ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426631,7 +426631,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”ぐんじょう”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“群青”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426653,7 +426653,7 @@
    "field": "name",
    "type": "text",
    "jp": "瑠璃色の護符Ⅶ",
-   "zh": "",
+   "zh": "琉璃色护符Ⅶ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426675,7 +426675,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”るり”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“琉璃”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426697,7 +426697,7 @@
    "field": "name",
    "type": "text",
    "jp": "萌葱の護符Ⅷ",
-   "zh": "",
+   "zh": "萌葱护符Ⅷ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426719,7 +426719,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”もえぎ”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“萌葱”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426741,7 +426741,7 @@
    "field": "name",
    "type": "text",
    "jp": "黄丹の護符Ⅸ",
-   "zh": "",
+   "zh": "黄丹护符Ⅸ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426763,7 +426763,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”おうに”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“黄丹”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426785,7 +426785,7 @@
    "field": "name",
    "type": "text",
    "jp": "杏の護符Ⅹ",
-   "zh": "",
+   "zh": "杏之护符Ⅹ",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426807,7 +426807,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”あんず”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“杏”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426829,7 +426829,7 @@
    "field": "name",
    "type": "text",
    "jp": "銀鼠の護符柩",
-   "zh": "",
+   "zh": "银鼠护符柩",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426851,7 +426851,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”ぎんねず”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“银鼠”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426873,7 +426873,7 @@
    "field": "name",
    "type": "text",
    "jp": "鉄黒の護符罍",
-   "zh": "",
+   "zh": "铁黑护符罍",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426895,7 +426895,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”てつぐろ”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“铁黑”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426917,7 +426917,7 @@
    "field": "name",
    "type": "text",
    "jp": "赤錆の護符驫",
-   "zh": "",
+   "zh": "赤锈护符驫",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426939,7 +426939,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】各種の耐性防御が上昇する”あかさび”色の護符。",
-   "zh": "",
+   "zh": "【装饰】能够提升各种抗性防御的“赤锈”色护符。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426961,7 +426961,7 @@
    "field": "name",
    "type": "text",
    "jp": "百鬼百命玉孳",
-   "zh": "",
+   "zh": "百鬼百命玉孳",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -426983,7 +426983,7 @@
    "field": "description",
    "type": "text",
    "jp": "【装飾】大魔女ウルカが細工を施した曲玉。数多世界翔る者の破片で造られたとされる。",
-   "zh": "",
+   "zh": "【装饰】由大魔女乌露卡精心雕琢的勾玉。相传是用穿梭无数世界之人的碎片打造而成。",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427005,7 +427005,7 @@
    "field": "name",
    "type": "text",
    "jp": "ゴミキエール",
-   "zh": "",
+   "zh": "垃圾消消清",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427027,7 +427027,7 @@
    "field": "description",
    "type": "text",
    "jp": "【胃薬】ストックストマック内にある「ガーベッジ」をどっさり破壊！すっきり爽快！",
-   "zh": "",
+   "zh": "【胃药】将库存胃袋中的「垃圾」大批量彻底破坏！一身轻松，神清气爽！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427049,7 +427049,7 @@
    "field": "name",
    "type": "text",
    "jp": "ストマックスロット＋1",
-   "zh": "",
+   "zh": "胃袋槽＋1",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427071,7 +427071,7 @@
    "field": "description",
    "type": "text",
    "jp": "システム内部使用アイテム",
-   "zh": "",
+   "zh": "系统内部使用道具",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427093,7 +427093,7 @@
    "field": "name",
    "type": "text",
    "jp": "コモンキエール",
-   "zh": "",
+   "zh": "普通消消清",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427115,7 +427115,7 @@
    "field": "description",
    "type": "text",
    "jp": "【胃薬】ストックストマック内にあるレアリティ「コモン」のアイテムを残さず破壊！",
-   "zh": "",
+   "zh": "【胃药】将库存胃袋中稀有度为「普通」的道具全部破坏，一个不留！",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427137,7 +427137,7 @@
    "field": "name",
    "type": "text",
    "jp": "10系ディアロー",
-   "zh": "",
+   "zh": "10系 射手引弓",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427159,7 +427159,7 @@
    "field": "description",
    "type": "text",
    "jp": "システム内部使用アイテム",
-   "zh": "",
+   "zh": "系统内部使用道具",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427181,7 +427181,7 @@
    "field": "name",
    "type": "text",
    "jp": "16系デコイモ",
-   "zh": "",
+   "zh": "16系 诱饵木偶",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427203,7 +427203,7 @@
    "field": "description",
    "type": "text",
    "jp": "システム内部使用アイテム",
-   "zh": "",
+   "zh": "系统内部使用道具",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427225,7 +427225,7 @@
    "field": "name",
    "type": "text",
    "jp": "42系プロテム",
-   "zh": "",
+   "zh": "42系 护卫装甲",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427247,7 +427247,7 @@
    "field": "description",
    "type": "text",
    "jp": "システム内部使用アイテム",
-   "zh": "",
+   "zh": "系统内部使用道具",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427269,7 +427269,7 @@
    "field": "name",
    "type": "text",
    "jp": "42系キャセリオ",
-   "zh": "",
+   "zh": "42系 坚固炮台",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427291,7 +427291,7 @@
    "field": "description",
    "type": "text",
    "jp": "システム内部使用アイテム",
-   "zh": "",
+   "zh": "系统内部使用道具",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427313,7 +427313,7 @@
    "field": "name",
    "type": "text",
    "jp": "72系ヴィクック",
-   "zh": "",
+   "zh": "72式维库克",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
@@ -427335,7 +427335,7 @@
    "field": "description",
    "type": "text",
    "jp": "システム内部使用アイテム",
-   "zh": "",
+   "zh": "系统内部使用道具",
    "loc": {
     "file": "ItemBase.dat",
     "dstart": 35568,
