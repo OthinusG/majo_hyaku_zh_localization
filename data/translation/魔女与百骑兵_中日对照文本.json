@@ -1048,7 +1048,7 @@
    "field": "c1",
    "type": "text",
    "jp": "メタリカ",
-   "zh": "",
+   "zh": "梅塔莉卡",
    "loc": {
     "file": "CharacterInfo.dat",
     "dstart": 112,
@@ -1069,7 +1069,7 @@
    "field": "c1",
    "type": "text",
    "jp": "百騎兵",
-   "zh": "",
+   "zh": "百骑兵",
    "loc": {
     "file": "CharacterInfo.dat",
     "dstart": 112,
