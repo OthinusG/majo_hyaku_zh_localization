@@ -440396,7 +440396,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アーカード",
-   "zh": "",
+   "zh": "阿卡多",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440417,7 +440417,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アーリア",
-   "zh": "",
+   "zh": "阿莉亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440438,7 +440438,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アーチボルド",
-   "zh": "",
+   "zh": "阿奇博尔德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440459,7 +440459,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アーリア",
-   "zh": "",
+   "zh": "阿莉亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440480,7 +440480,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アイザック",
-   "zh": "",
+   "zh": "艾萨克",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440501,7 +440501,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アイラ",
-   "zh": "",
+   "zh": "艾拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440522,7 +440522,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アキト",
-   "zh": "",
+   "zh": "秋人",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440543,7 +440543,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アイリーン",
-   "zh": "",
+   "zh": "艾琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440564,7 +440564,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アスリッド",
-   "zh": "",
+   "zh": "阿斯利德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440585,7 +440585,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アイリス",
-   "zh": "",
+   "zh": "爱丽丝",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440606,7 +440606,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アデライト",
-   "zh": "",
+   "zh": "阿德莱特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440627,7 +440627,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アウレーリア",
-   "zh": "",
+   "zh": "奥蕾莉亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440648,7 +440648,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アドニス",
-   "zh": "",
+   "zh": "阿多尼斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440669,7 +440669,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アゲハ",
-   "zh": "",
+   "zh": "扬羽",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440690,7 +440690,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アハメンティ",
-   "zh": "",
+   "zh": "阿哈门提",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440711,7 +440711,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アゲハ",
-   "zh": "",
+   "zh": "扬羽",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440732,7 +440732,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アビロット",
-   "zh": "",
+   "zh": "阿比洛特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440753,7 +440753,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アシュリー",
-   "zh": "",
+   "zh": "阿什莉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440774,7 +440774,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アポロニア",
-   "zh": "",
+   "zh": "阿波罗尼亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440795,7 +440795,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アトー",
-   "zh": "",
+   "zh": "阿托",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440816,7 +440816,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アルヴァ",
-   "zh": "",
+   "zh": "阿尔瓦",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440837,7 +440837,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アドリエンヌ",
-   "zh": "",
+   "zh": "阿德丽安娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440858,7 +440858,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アルセーヌ",
-   "zh": "",
+   "zh": "阿尔塞纳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440879,7 +440879,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アトレイシア",
-   "zh": "",
+   "zh": "阿特蕾西亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440900,7 +440900,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アルダス",
-   "zh": "",
+   "zh": "阿尔达斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440921,7 +440921,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アマンダ",
-   "zh": "",
+   "zh": "阿曼达",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440942,7 +440942,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アルノン",
-   "zh": "",
+   "zh": "阿尔农",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440963,7 +440963,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アメリー",
-   "zh": "",
+   "zh": "艾米莉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -440984,7 +440984,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アレクシー",
-   "zh": "",
+   "zh": "阿列克谢",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441005,7 +441005,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アヤノ",
-   "zh": "",
+   "zh": "绫乃",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441026,7 +441026,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アレス",
-   "zh": "",
+   "zh": "阿瑞斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441047,7 +441047,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アリア",
-   "zh": "",
+   "zh": "阿莉雅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441068,7 +441068,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アレス",
-   "zh": "",
+   "zh": "阿瑞斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441089,7 +441089,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アリーヌ",
-   "zh": "",
+   "zh": "阿莉娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441110,7 +441110,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アロイス",
-   "zh": "",
+   "zh": "阿洛伊斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441131,7 +441131,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アリッサ",
-   "zh": "",
+   "zh": "阿莉莎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441152,7 +441152,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アロンソ",
-   "zh": "",
+   "zh": "阿隆索",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441173,7 +441173,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アルシア",
-   "zh": "",
+   "zh": "阿尔西亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441194,7 +441194,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アンスヘルム",
-   "zh": "",
+   "zh": "安斯赫姆",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441215,7 +441215,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アルバータ",
-   "zh": "",
+   "zh": "阿尔伯塔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441236,7 +441236,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アントニオ",
-   "zh": "",
+   "zh": "安东尼奥",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441257,7 +441257,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アンジェラ",
-   "zh": "",
+   "zh": "安洁拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441278,7 +441278,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "アントン",
-   "zh": "",
+   "zh": "安东",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441299,7 +441299,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アンジェリーナ",
-   "zh": "",
+   "zh": "安洁莉娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441320,7 +441320,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イーヴ",
-   "zh": "",
+   "zh": "伊夫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441341,7 +441341,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "あんず",
-   "zh": "",
+   "zh": "杏",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441362,7 +441362,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イーノス",
-   "zh": "",
+   "zh": "伊诺斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441383,7 +441383,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アントワネット",
-   "zh": "",
+   "zh": "安托瓦内特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441404,7 +441404,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イカスヒップ",
-   "zh": "",
+   "zh": "潮臀",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441425,7 +441425,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "アンリ",
-   "zh": "",
+   "zh": "昂利",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441446,7 +441446,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イグゼルエ",
-   "zh": "",
+   "zh": "伊格泽尔埃",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441467,7 +441467,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "イーミル",
-   "zh": "",
+   "zh": "伊米尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441488,7 +441488,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イゴール",
-   "zh": "",
+   "zh": "伊戈尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441509,7 +441509,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "イヴェット",
-   "zh": "",
+   "zh": "伊芙特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441530,7 +441530,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イシドール",
-   "zh": "",
+   "zh": "伊西多尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441551,7 +441551,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "イヴリン",
-   "zh": "",
+   "zh": "伊芙琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441572,7 +441572,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イシャーン",
-   "zh": "",
+   "zh": "伊夏恩",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441593,7 +441593,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "イザベラ",
-   "zh": "",
+   "zh": "伊莎贝拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441614,7 +441614,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イプシロン",
-   "zh": "",
+   "zh": "普西隆",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441635,7 +441635,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "イボンヌ",
-   "zh": "",
+   "zh": "伊冯娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441656,7 +441656,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イリヤー",
-   "zh": "",
+   "zh": "伊利亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441677,7 +441677,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "イライザ",
-   "zh": "",
+   "zh": "伊莱扎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441698,7 +441698,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イリューシャ",
-   "zh": "",
+   "zh": "伊留夏",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441719,7 +441719,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "イリア",
-   "zh": "",
+   "zh": "伊莉亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441740,7 +441740,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イルス",
-   "zh": "",
+   "zh": "伊尔斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441761,7 +441761,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "イレーネ",
-   "zh": "",
+   "zh": "艾琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441782,7 +441782,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イングヴェイ",
-   "zh": "",
+   "zh": "英格威",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441803,7 +441803,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "イングリッド",
-   "zh": "",
+   "zh": "英格丽德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441824,7 +441824,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "イングベルト",
-   "zh": "",
+   "zh": "英格贝尔特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441845,7 +441845,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヴァレリー",
-   "zh": "",
+   "zh": "瓦莱丽",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441866,7 +441866,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヴァジーヌ",
-   "zh": "",
+   "zh": "瓦吉努",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441887,7 +441887,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヴィオラ",
-   "zh": "",
+   "zh": "维奥拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441908,7 +441908,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヴァレンティン",
-   "zh": "",
+   "zh": "瓦伦丁",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441929,7 +441929,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヴィクトリア",
-   "zh": "",
+   "zh": "维多利亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441950,7 +441950,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ウィリアム",
-   "zh": "",
+   "zh": "威廉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441971,7 +441971,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヴィクトワール",
-   "zh": "",
+   "zh": "维克托瓦尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -441992,7 +441992,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ウィル",
-   "zh": "",
+   "zh": "威尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442013,7 +442013,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "うるるん",
-   "zh": "",
+   "zh": "润润",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442034,7 +442034,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ウェイン",
-   "zh": "",
+   "zh": "韦恩",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442055,7 +442055,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エイプリル",
-   "zh": "",
+   "zh": "阿普丽尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442076,7 +442076,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヴェチカトーゼ",
-   "zh": "",
+   "zh": "韦奇卡托泽",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442097,7 +442097,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エヴァリーン",
-   "zh": "",
+   "zh": "艾芙琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442118,7 +442118,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヴェルンヘル",
-   "zh": "",
+   "zh": "维恩赫尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442139,7 +442139,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エヴァンジェリン",
-   "zh": "",
+   "zh": "伊万杰琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442160,7 +442160,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヴォルカッツェ",
-   "zh": "",
+   "zh": "沃尔卡策",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442181,7 +442181,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エクリュ",
-   "zh": "",
+   "zh": "埃克吕",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442202,7 +442202,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ウォルドー",
-   "zh": "",
+   "zh": "沃尔多",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442223,7 +442223,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エステル",
-   "zh": "",
+   "zh": "艾丝特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442244,7 +442244,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ウシワカ",
-   "zh": "",
+   "zh": "牛若",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442265,7 +442265,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エスペランサ",
-   "zh": "",
+   "zh": "埃斯佩兰萨",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442286,7 +442286,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ウラジミール",
-   "zh": "",
+   "zh": "弗拉基米尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442307,7 +442307,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エディス",
-   "zh": "",
+   "zh": "伊迪丝",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442328,7 +442328,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エインジェ",
-   "zh": "",
+   "zh": "艾恩杰",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442349,7 +442349,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エメリア",
-   "zh": "",
+   "zh": "艾蜜莉亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442370,7 +442370,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エーベルハルト",
-   "zh": "",
+   "zh": "埃伯哈德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442391,7 +442391,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エリカ",
-   "zh": "",
+   "zh": "艾莉卡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442412,7 +442412,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エクス",
-   "zh": "",
+   "zh": "艾克斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442433,7 +442433,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エルシー",
-   "zh": "",
+   "zh": "艾尔西",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442454,7 +442454,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エクライツ",
-   "zh": "",
+   "zh": "埃克莱茨",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442475,7 +442475,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エルナ",
-   "zh": "",
+   "zh": "艾尔娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442496,7 +442496,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エドヴァルト",
-   "zh": "",
+   "zh": "爱德华",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442517,7 +442517,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エルフィ",
-   "zh": "",
+   "zh": "艾尔菲",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442538,7 +442538,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エドムント",
-   "zh": "",
+   "zh": "埃德蒙",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442559,7 +442559,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エレアノール",
-   "zh": "",
+   "zh": "埃莉诺",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442580,7 +442580,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エミール",
-   "zh": "",
+   "zh": "埃米尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442601,7 +442601,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エレナ",
-   "zh": "",
+   "zh": "埃莱娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442622,7 +442622,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エリオット",
-   "zh": "",
+   "zh": "埃利奥特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442643,7 +442643,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "エレン",
-   "zh": "",
+   "zh": "艾伦",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442664,7 +442664,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エルヴェ",
-   "zh": "",
+   "zh": "埃尔韦",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442685,7 +442685,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "オーガスタ",
-   "zh": "",
+   "zh": "奥古斯塔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442706,7 +442706,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エルザード",
-   "zh": "",
+   "zh": "埃尔扎德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442727,7 +442727,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "オードリー",
-   "zh": "",
+   "zh": "奥黛丽",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442748,7 +442748,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エルシアス",
-   "zh": "",
+   "zh": "埃尔西亚斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442769,7 +442769,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "オキク",
-   "zh": "",
+   "zh": "阿菊",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442790,7 +442790,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エルンスト",
-   "zh": "",
+   "zh": "恩斯特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442811,7 +442811,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "オリアーナ",
-   "zh": "",
+   "zh": "奥莉安娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442832,7 +442832,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "エレウテリオス",
-   "zh": "",
+   "zh": "埃莱夫塞里奥斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442853,7 +442853,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "オリーヴ",
-   "zh": "",
+   "zh": "奥莉芙",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442874,7 +442874,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "オーランド",
-   "zh": "",
+   "zh": "奥兰多",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442895,7 +442895,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "オリビア",
-   "zh": "",
+   "zh": "奥利维娅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442916,7 +442916,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "オーレル",
-   "zh": "",
+   "zh": "奥雷尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442937,7 +442937,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "オルフィネ",
-   "zh": "",
+   "zh": "奥尔菲涅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442958,7 +442958,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "オスカル",
-   "zh": "",
+   "zh": "奥斯卡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -442979,7 +442979,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "カズネ",
-   "zh": "",
+   "zh": "一音",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443000,7 +443000,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "オズワルド",
-   "zh": "",
+   "zh": "奥斯瓦尔德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443021,7 +443021,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "かすみ",
-   "zh": "",
+   "zh": "霞",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443042,7 +443042,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "おっさん",
-   "zh": "",
+   "zh": "大叔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443063,7 +443063,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "カチューシャ",
-   "zh": "",
+   "zh": "喀秋莎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443084,7 +443084,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "オディロン",
-   "zh": "",
+   "zh": "奥迪隆",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443105,7 +443105,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "カティーナ",
-   "zh": "",
+   "zh": "卡蒂娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443126,7 +443126,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "鬼丸",
-   "zh": "",
+   "zh": "鬼丸",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443147,7 +443147,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "カトリーナ",
-   "zh": "",
+   "zh": "卡特里娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443168,7 +443168,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "オラウス",
-   "zh": "",
+   "zh": "奥劳斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443189,7 +443189,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "カトレア",
-   "zh": "",
+   "zh": "卡特兰",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443210,7 +443210,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "オリバー",
-   "zh": "",
+   "zh": "奥利弗",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443231,7 +443231,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ガブリエル",
-   "zh": "",
+   "zh": "加百列",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443252,7 +443252,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "オルトヴィーン",
-   "zh": "",
+   "zh": "奥尔特温",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443273,7 +443273,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "カミラ",
-   "zh": "",
+   "zh": "卡米拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443294,7 +443294,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ガイゼリック",
-   "zh": "",
+   "zh": "盖萨里克",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443315,7 +443315,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "カヤノ",
-   "zh": "",
+   "zh": "萱野",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443336,7 +443336,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "カイン",
-   "zh": "",
+   "zh": "该隐",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443357,7 +443357,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "カラメル",
-   "zh": "",
+   "zh": "焦糖",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443378,7 +443378,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "カジミール",
-   "zh": "",
+   "zh": "卡齐米日",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443399,7 +443399,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "キャシー",
-   "zh": "",
+   "zh": "凯茜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443420,7 +443420,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "カスパル",
-   "zh": "",
+   "zh": "卡斯帕",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443441,7 +443441,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "キャスン",
-   "zh": "",
+   "zh": "凯瑟琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443462,7 +443462,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "カティサーク",
-   "zh": "",
+   "zh": "卡蒂萨克",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443483,7 +443483,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "キャロライン",
-   "zh": "",
+   "zh": "卡罗琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443504,7 +443504,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "カリュト",
-   "zh": "",
+   "zh": "卡律托",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443525,7 +443525,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "キョトン",
-   "zh": "",
+   "zh": "呆滞",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443546,7 +443546,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "カロル",
-   "zh": "",
+   "zh": "卡罗尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443567,7 +443567,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "キリノ",
-   "zh": "",
+   "zh": "雾野",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443588,7 +443588,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "キーファー",
-   "zh": "",
+   "zh": "基弗",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443609,7 +443609,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "クー",
-   "zh": "",
+   "zh": "库",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443630,7 +443630,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ギコムント",
-   "zh": "",
+   "zh": "吉科蒙特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443651,7 +443651,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "クララ",
-   "zh": "",
+   "zh": "克拉拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443672,7 +443672,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "きっちょむ",
-   "zh": "",
+   "zh": "吉四六",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443693,7 +443693,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "クラリッサ",
-   "zh": "",
+   "zh": "克拉丽莎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443714,7 +443714,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "きっちょむ",
-   "zh": "",
+   "zh": "吉四六",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443735,7 +443735,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "クリスティアナ",
-   "zh": "",
+   "zh": "克里斯蒂安娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443756,7 +443756,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ギュスターヴ",
-   "zh": "",
+   "zh": "居斯塔夫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443777,7 +443777,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "クレア",
-   "zh": "",
+   "zh": "克莱尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443798,7 +443798,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ギュンター",
-   "zh": "",
+   "zh": "金特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443819,7 +443819,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "クレオラーナ",
-   "zh": "",
+   "zh": "克莱奥拉娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443840,7 +443840,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ギヨーム",
-   "zh": "",
+   "zh": "纪尧姆",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443861,7 +443861,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "クレメンタイン",
-   "zh": "",
+   "zh": "克莱门汀",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443882,7 +443882,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "キリク",
-   "zh": "",
+   "zh": "奇立克",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443903,7 +443903,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "クローディア",
-   "zh": "",
+   "zh": "克劳迪娅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443924,7 +443924,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ギル",
-   "zh": "",
+   "zh": "吉尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443945,7 +443945,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "クロス",
-   "zh": "",
+   "zh": "克洛斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443966,7 +443966,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "キルヴァイト",
-   "zh": "",
+   "zh": "基尔怀特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -443987,7 +443987,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ケイ",
-   "zh": "",
+   "zh": "凯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444008,7 +444008,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "グイド",
-   "zh": "",
+   "zh": "圭多",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444029,7 +444029,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ケイリー",
-   "zh": "",
+   "zh": "凯莉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444050,7 +444050,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "グスタフ",
-   "zh": "",
+   "zh": "古斯塔夫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444071,7 +444071,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "コーデリア",
-   "zh": "",
+   "zh": "柯迪莉亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444092,7 +444092,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "クライヴ",
-   "zh": "",
+   "zh": "克莱夫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444113,7 +444113,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ココア",
-   "zh": "",
+   "zh": "可可",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444134,7 +444134,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "クラウディオ",
-   "zh": "",
+   "zh": "克劳迪奥",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444155,7 +444155,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "コニー",
-   "zh": "",
+   "zh": "康妮",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444176,7 +444176,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "グランツ",
-   "zh": "",
+   "zh": "格兰茨",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444197,7 +444197,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "コハク",
-   "zh": "",
+   "zh": "琥珀",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444218,7 +444218,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "グリエルモ",
-   "zh": "",
+   "zh": "格列尔莫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444239,7 +444239,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "コリーン",
-   "zh": "",
+   "zh": "科琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444260,7 +444260,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "クリストフ",
-   "zh": "",
+   "zh": "克里斯托夫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444281,7 +444281,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "コリンヌ",
-   "zh": "",
+   "zh": "科琳娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444302,7 +444302,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "グリフィス",
-   "zh": "",
+   "zh": "格里菲斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444323,7 +444323,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "コルディナ",
-   "zh": "",
+   "zh": "科尔迪娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444344,7 +444344,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "グレゴワール",
-   "zh": "",
+   "zh": "格雷瓜尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444365,7 +444365,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "コレニア",
-   "zh": "",
+   "zh": "科莱妮亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444386,7 +444386,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "クロード",
-   "zh": "",
+   "zh": "克劳德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444407,7 +444407,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "コンスタンティア",
-   "zh": "",
+   "zh": "康斯坦西娅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444428,7 +444428,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "グンナー",
-   "zh": "",
+   "zh": "贡纳尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444449,7 +444449,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "サーヤ",
-   "zh": "",
+   "zh": "纱矢",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444470,7 +444470,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ケヴィン",
-   "zh": "",
+   "zh": "凯文",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444491,7 +444491,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "サイネリア",
-   "zh": "",
+   "zh": "塞涅丽娅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444512,7 +444512,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ゲオルク",
-   "zh": "",
+   "zh": "格奥尔格",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444533,7 +444533,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "サキ",
-   "zh": "",
+   "zh": "咲",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444554,7 +444554,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ゲルト",
-   "zh": "",
+   "zh": "格尔特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444575,7 +444575,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "さくら",
-   "zh": "",
+   "zh": "樱",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444596,7 +444596,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ゲレーゲンハイト",
-   "zh": "",
+   "zh": "盖莱根海特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444617,7 +444617,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "サマンサ",
-   "zh": "",
+   "zh": "萨曼莎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444638,7 +444638,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ゴードン",
-   "zh": "",
+   "zh": "戈登",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444659,7 +444659,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "サリー",
-   "zh": "",
+   "zh": "萨莉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444680,7 +444680,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "コジロウ",
-   "zh": "",
+   "zh": "小次郎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444701,7 +444701,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "サンゴ",
-   "zh": "",
+   "zh": "珊瑚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444722,7 +444722,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "コタロウ２Ｇ",
-   "zh": "",
+   "zh": "小太郎2G",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444743,7 +444743,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "しぃ",
-   "zh": "",
+   "zh": "诗伊",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444764,7 +444764,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "権左衛門",
-   "zh": "",
+   "zh": "权左卫门",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444785,7 +444785,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "シィネスト",
-   "zh": "",
+   "zh": "希内斯特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444806,7 +444806,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ゴンダグレ",
-   "zh": "",
+   "zh": "冈达古雷",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444827,7 +444827,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "シェーラ",
-   "zh": "",
+   "zh": "希拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444848,7 +444848,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "サイレス",
-   "zh": "",
+   "zh": "赛勒斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444869,7 +444869,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "しぐれ",
-   "zh": "",
+   "zh": "时雨",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444890,7 +444890,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "サブロー",
-   "zh": "",
+   "zh": "三郎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444911,7 +444911,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ジスカ",
-   "zh": "",
+   "zh": "吉丝卡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444932,7 +444932,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "サミュエル",
-   "zh": "",
+   "zh": "萨缪尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444953,7 +444953,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "シドニー",
-   "zh": "",
+   "zh": "悉尼",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444974,7 +444974,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "サモハン",
-   "zh": "",
+   "zh": "洪金宝",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -444995,7 +444995,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "シトロン",
-   "zh": "",
+   "zh": "希特隆",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445016,7 +445016,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジェームズ",
-   "zh": "",
+   "zh": "詹姆斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445037,7 +445037,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "シャクナゲ",
-   "zh": "",
+   "zh": "石楠花",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445058,7 +445058,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジェラルド",
-   "zh": "",
+   "zh": "杰拉尔德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445079,7 +445079,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ジャクリーン",
-   "zh": "",
+   "zh": "杰奎琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445100,7 +445100,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "シオン",
-   "zh": "",
+   "zh": "紫苑",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445121,7 +445121,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "シャルロット",
-   "zh": "",
+   "zh": "夏洛特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445142,7 +445142,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "シキア",
-   "zh": "",
+   "zh": "希基亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445163,7 +445163,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ジュリス",
-   "zh": "",
+   "zh": "朱莉斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445184,7 +445184,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "シグリッド",
-   "zh": "",
+   "zh": "西格丽德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445205,7 +445205,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ジョゼフィーヌ",
-   "zh": "",
+   "zh": "约瑟芬",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445226,7 +445226,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "シシマル",
-   "zh": "",
+   "zh": "狮子丸",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445247,7 +445247,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "シンシア",
-   "zh": "",
+   "zh": "辛西娅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445268,7 +445268,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "シモン",
-   "zh": "",
+   "zh": "西蒙",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445289,7 +445289,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "シンディ",
-   "zh": "",
+   "zh": "辛迪",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445310,7 +445310,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジャコモ",
-   "zh": "",
+   "zh": "贾科莫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445331,7 +445331,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "スゥ",
-   "zh": "",
+   "zh": "苏",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445352,7 +445352,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジャスティン",
-   "zh": "",
+   "zh": "贾斯汀",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445373,7 +445373,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "スーザン",
-   "zh": "",
+   "zh": "苏珊",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445394,7 +445394,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジャスパー",
-   "zh": "",
+   "zh": "贾斯珀",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445415,7 +445415,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "スザンナ",
-   "zh": "",
+   "zh": "苏珊娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445436,7 +445436,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジャム",
-   "zh": "",
+   "zh": "果酱",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445457,7 +445457,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ステファニー",
-   "zh": "",
+   "zh": "斯蒂芬妮",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445478,7 +445478,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "シャルル",
-   "zh": "",
+   "zh": "夏尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445499,7 +445499,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ステラ",
-   "zh": "",
+   "zh": "斯特拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445520,7 +445520,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジャン",
-   "zh": "",
+   "zh": "让",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445541,7 +445541,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "すみれ",
-   "zh": "",
+   "zh": "堇",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445562,7 +445562,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジュール",
-   "zh": "",
+   "zh": "儒勒",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445583,7 +445583,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "セイディ",
-   "zh": "",
+   "zh": "赛迪",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445604,7 +445604,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジュゼッペ",
-   "zh": "",
+   "zh": "朱塞佩",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445625,7 +445625,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "セクハラですっ",
-   "zh": "",
+   "zh": "这是性骚扰啦",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445646,7 +445646,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジョエル",
-   "zh": "",
+   "zh": "乔尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445667,7 +445667,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "セツナ",
-   "zh": "",
+   "zh": "刹那",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445688,7 +445688,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジョバンニ",
-   "zh": "",
+   "zh": "乔瓦尼",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445709,7 +445709,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "セラフィーナ",
-   "zh": "",
+   "zh": "塞拉菲娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445730,7 +445730,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジョルジュ",
-   "zh": "",
+   "zh": "乔治",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445751,7 +445751,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "セレステ",
-   "zh": "",
+   "zh": "塞莱斯特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445772,7 +445772,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ジョルダノ",
-   "zh": "",
+   "zh": "乔尔达诺",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445793,7 +445793,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "セレニア",
-   "zh": "",
+   "zh": "塞莱妮亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445814,7 +445814,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ズィーマー",
-   "zh": "",
+   "zh": "齐默",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445835,7 +445835,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "セレン",
-   "zh": "",
+   "zh": "塞伦",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445856,7 +445856,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "スイフリー",
-   "zh": "",
+   "zh": "斯威夫利",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445877,7 +445877,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ソニア",
-   "zh": "",
+   "zh": "索尼娅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445898,7 +445898,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "スヴェン",
-   "zh": "",
+   "zh": "斯文",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445919,7 +445919,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ソニン",
-   "zh": "",
+   "zh": "索宁",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445940,7 +445940,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "スタンレー",
-   "zh": "",
+   "zh": "斯坦利",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445961,7 +445961,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ソフィー",
-   "zh": "",
+   "zh": "索菲",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -445982,7 +445982,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "スメタナ",
-   "zh": "",
+   "zh": "斯美塔那",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446003,7 +446003,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ソランジュ",
-   "zh": "",
+   "zh": "索朗热",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446024,7 +446024,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "セヴラン",
-   "zh": "",
+   "zh": "塞芙兰",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446045,7 +446045,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ソルビアンカ",
-   "zh": "",
+   "zh": "索尔比安卡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446066,7 +446066,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "セシル",
-   "zh": "",
+   "zh": "塞西尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446087,7 +446087,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ソワレ",
-   "zh": "",
+   "zh": "索瓦蕾",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446108,7 +446108,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "セドリック",
-   "zh": "",
+   "zh": "塞德里克",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446129,7 +446129,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ダイアナ",
-   "zh": "",
+   "zh": "戴安娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446150,7 +446150,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ゼリク",
-   "zh": "",
+   "zh": "泽里克",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446171,7 +446171,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "たえこ",
-   "zh": "",
+   "zh": "妙子",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446192,7 +446192,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "セレスティン",
-   "zh": "",
+   "zh": "塞莱斯汀",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446213,7 +446213,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "タバサ",
-   "zh": "",
+   "zh": "塔芭莎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446234,7 +446234,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ソウタ",
-   "zh": "",
+   "zh": "苍太",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446255,7 +446255,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "たみこ",
-   "zh": "",
+   "zh": "民子",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446276,7 +446276,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ソルトドゥーン",
-   "zh": "",
+   "zh": "索尔特杜恩",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446297,7 +446297,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "チエ",
-   "zh": "",
+   "zh": "千惠",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446318,7 +446318,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ダグワドルジ",
-   "zh": "",
+   "zh": "达格瓦道尔吉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446339,7 +446339,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "チェスカ",
-   "zh": "",
+   "zh": "切斯卡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446360,7 +446360,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "タッツェルヴル",
-   "zh": "",
+   "zh": "塔泽尔 wurm",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446381,7 +446381,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "チェリー",
-   "zh": "",
+   "zh": "雪莉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446402,7 +446402,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ダニエル",
-   "zh": "",
+   "zh": "丹尼尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446423,7 +446423,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "チェルシー",
-   "zh": "",
+   "zh": "切尔西",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446444,7 +446444,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ダリウス",
-   "zh": "",
+   "zh": "大流士",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446465,7 +446465,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "チコーリア",
-   "zh": "",
+   "zh": "奇科莉亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446486,7 +446486,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ダリオ",
-   "zh": "",
+   "zh": "达里奥",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446507,7 +446507,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ツー",
-   "zh": "",
+   "zh": "楚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446528,7 +446528,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "チェザリス",
-   "zh": "",
+   "zh": "切扎里斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446549,7 +446549,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ツカサ",
-   "zh": "",
+   "zh": "司",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446570,7 +446570,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "チェスター",
-   "zh": "",
+   "zh": "切斯特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446591,7 +446591,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ツデレイラ",
-   "zh": "",
+   "zh": "茨黛蕾拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446612,7 +446612,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ツゥーレ",
-   "zh": "",
+   "zh": "图勒",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446633,7 +446633,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ティレイファ",
-   "zh": "",
+   "zh": "蒂莱法",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446654,7 +446654,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ツェッペーニ",
-   "zh": "",
+   "zh": "齐佩尼",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446675,7 +446675,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "テリーサ",
-   "zh": "",
+   "zh": "特丽莎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446696,7 +446696,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "デイ",
-   "zh": "",
+   "zh": "戴伊",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446717,7 +446717,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "トミー",
-   "zh": "",
+   "zh": "汤米",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446738,7 +446738,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ディエゴ",
-   "zh": "",
+   "zh": "迭戈",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446759,7 +446759,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "トモエ",
-   "zh": "",
+   "zh": "巴",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446780,7 +446780,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "テオフィール",
-   "zh": "",
+   "zh": "泰奥菲尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446801,7 +446801,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "トリエラ",
-   "zh": "",
+   "zh": "崔耶拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446822,7 +446822,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "テクラ",
-   "zh": "",
+   "zh": "泰克拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446843,7 +446843,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ナディーン",
-   "zh": "",
+   "zh": "娜丁",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446864,7 +446864,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "デスサタン",
-   "zh": "",
+   "zh": "死亡撒旦",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446885,7 +446885,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ナンシー",
-   "zh": "",
+   "zh": "南希",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446906,7 +446906,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "デニス",
-   "zh": "",
+   "zh": "丹尼斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446927,7 +446927,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ナンナ",
-   "zh": "",
+   "zh": "南娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446948,7 +446948,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "デメトリオ",
-   "zh": "",
+   "zh": "德梅特里奥",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446969,7 +446969,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ニーナ",
-   "zh": "",
+   "zh": "妮娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -446990,7 +446990,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "テランザ",
-   "zh": "",
+   "zh": "泰兰扎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447011,7 +447011,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ニコール",
-   "zh": "",
+   "zh": "妮可",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447032,7 +447032,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "デリック",
-   "zh": "",
+   "zh": "德里克",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447053,7 +447053,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ニップレス",
-   "zh": "",
+   "zh": "乳贴",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447074,7 +447074,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "どす恋",
-   "zh": "",
+   "zh": "沉溺之恋",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447095,7 +447095,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "にぽ",
-   "zh": "",
+   "zh": "妮波",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447116,7 +447116,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ドッフェイ",
-   "zh": "",
+   "zh": "多菲",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447137,7 +447137,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ネイ",
-   "zh": "",
+   "zh": "内伊",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447158,7 +447158,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ドナト",
-   "zh": "",
+   "zh": "多纳托",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447179,7 +447179,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ネネ",
-   "zh": "",
+   "zh": "宁宁",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447200,7 +447200,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "トマス",
-   "zh": "",
+   "zh": "托马斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447221,7 +447221,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ネリー",
-   "zh": "",
+   "zh": "奈莉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447242,7 +447242,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "トムキャット",
-   "zh": "",
+   "zh": "雄猫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447263,7 +447263,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ノエル",
-   "zh": "",
+   "zh": "诺埃尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447284,7 +447284,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "トリィ",
-   "zh": "",
+   "zh": "托利",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447305,7 +447305,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ノエル",
-   "zh": "",
+   "zh": "诺埃尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447326,7 +447326,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ドレ",
-   "zh": "",
+   "zh": "多雷",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447347,7 +447347,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ノーリーン",
-   "zh": "",
+   "zh": "诺琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447368,7 +447368,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ナザール",
-   "zh": "",
+   "zh": "纳扎尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447389,7 +447389,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ハーネット",
-   "zh": "",
+   "zh": "哈内特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447410,7 +447410,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ナサニエル",
-   "zh": "",
+   "zh": "纳撒尼尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447431,7 +447431,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ハーマイオニー",
-   "zh": "",
+   "zh": "赫敏",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447452,7 +447452,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ナルシス",
-   "zh": "",
+   "zh": "纳西索斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447473,7 +447473,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "パス",
-   "zh": "",
+   "zh": "帕斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447494,7 +447494,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ニール",
-   "zh": "",
+   "zh": "尼尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447515,7 +447515,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ハルカ",
-   "zh": "",
+   "zh": "遥",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447536,7 +447536,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ニキータ",
-   "zh": "",
+   "zh": "尼基塔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447557,7 +447557,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヒスイ",
-   "zh": "",
+   "zh": "翡翠",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447578,7 +447578,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ニコラス刑事",
-   "zh": "",
+   "zh": "尼古拉斯警探",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447599,7 +447599,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ピチカート",
-   "zh": "",
+   "zh": "拨弦",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447620,7 +447620,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヌァザ",
-   "zh": "",
+   "zh": "努阿达",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447641,7 +447641,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヒトリカモネム",
-   "zh": "",
+   "zh": "独眠夜合",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447662,7 +447662,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ネスター",
-   "zh": "",
+   "zh": "内斯特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447683,7 +447683,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ビビアン",
-   "zh": "",
+   "zh": "薇薇安",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447704,7 +447704,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ネロ",
-   "zh": "",
+   "zh": "尼禄",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447725,7 +447725,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヒューポクライテ",
-   "zh": "",
+   "zh": "伪善者",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447746,7 +447746,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ノーマン",
-   "zh": "",
+   "zh": "诺曼",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447767,7 +447767,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヒラリー",
-   "zh": "",
+   "zh": "希拉里",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447788,7 +447788,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ノブナーガ",
-   "zh": "",
+   "zh": "信长",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447809,7 +447809,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヒルダ",
-   "zh": "",
+   "zh": "希尔达",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447830,7 +447830,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ハーヴェイ",
-   "zh": "",
+   "zh": "哈维",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447851,7 +447851,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ファイーナ",
-   "zh": "",
+   "zh": "法伊娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447872,7 +447872,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "バーンシュタイン",
-   "zh": "",
+   "zh": "伯恩斯坦",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447893,7 +447893,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ファテリカ",
-   "zh": "",
+   "zh": "法特莉卡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447914,7 +447914,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "バッカス",
-   "zh": "",
+   "zh": "巴克斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447935,7 +447935,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ファニアット",
-   "zh": "",
+   "zh": "法妮亚特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447956,7 +447956,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ハナカミ王子",
-   "zh": "",
+   "zh": "花纸王子",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447977,7 +447977,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ファニス",
-   "zh": "",
+   "zh": "法妮丝",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -447998,7 +447998,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ハミルトン",
-   "zh": "",
+   "zh": "汉密尔顿",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448019,7 +448019,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "フィービー",
-   "zh": "",
+   "zh": "菲比",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448040,7 +448040,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "バラン",
-   "zh": "",
+   "zh": "巴兰",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448061,7 +448061,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "フィール",
-   "zh": "",
+   "zh": "菲尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448082,7 +448082,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ハンス",
-   "zh": "",
+   "zh": "汉斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448103,7 +448103,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ブーゲンビリア",
-   "zh": "",
+   "zh": "九重葛",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448124,7 +448124,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ハンゾウ",
-   "zh": "",
+   "zh": "半藏",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448145,7 +448145,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "フォルテュナ",
-   "zh": "",
+   "zh": "福尔图娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448166,7 +448166,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヒゲジジョジージ",
-   "zh": "",
+   "zh": "大胡子老爹",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448187,7 +448187,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "フライア",
-   "zh": "",
+   "zh": "芙蕾雅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448208,7 +448208,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヒゴモッコス",
-   "zh": "",
+   "zh": "肥后壮汉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448229,7 +448229,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "プラチナ",
-   "zh": "",
+   "zh": "白金",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448250,7 +448250,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ピックリマン",
-   "zh": "",
+   "zh": "吓跳人",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448271,7 +448271,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "フランシス",
-   "zh": "",
+   "zh": "弗朗西斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448292,7 +448292,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ビッヒリンスキー",
-   "zh": "",
+   "zh": "比希林斯基",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448313,7 +448313,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "フランソワーズ",
-   "zh": "",
+   "zh": "弗朗索瓦丝",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448334,7 +448334,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヒューゴー",
-   "zh": "",
+   "zh": "雨果",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448355,7 +448355,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ブリジット",
-   "zh": "",
+   "zh": "布丽吉特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448376,7 +448376,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ファウスト",
-   "zh": "",
+   "zh": "浮士德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448397,7 +448397,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "プリシラ",
-   "zh": "",
+   "zh": "普莉希拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448418,7 +448418,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "フィリス",
-   "zh": "",
+   "zh": "菲利斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448439,7 +448439,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "プリンベリー",
-   "zh": "",
+   "zh": "布丁莓",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448460,7 +448460,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "フィリップ",
-   "zh": "",
+   "zh": "菲利普",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448481,7 +448481,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ブルーベリー",
-   "zh": "",
+   "zh": "蓝莓",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448502,7 +448502,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "フウタ",
-   "zh": "",
+   "zh": "枫太",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448523,7 +448523,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "フレレル",
-   "zh": "",
+   "zh": "芙莱蕾尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448544,7 +448544,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ブーム",
-   "zh": "",
+   "zh": "热潮",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448565,7 +448565,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "フローラ",
-   "zh": "",
+   "zh": "芙洛拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448586,7 +448586,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ブーン",
-   "zh": "",
+   "zh": "嗡嗡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448607,7 +448607,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヘーゼル",
-   "zh": "",
+   "zh": "黑兹尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448628,7 +448628,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "フェリックス",
-   "zh": "",
+   "zh": "菲利克斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448649,7 +448649,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヘスター",
-   "zh": "",
+   "zh": "海丝特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448670,7 +448670,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "フォーマルハウト",
-   "zh": "",
+   "zh": "北落师门",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448691,7 +448691,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ベティ",
-   "zh": "",
+   "zh": "贝蒂",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448712,7 +448712,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "フォルク",
-   "zh": "",
+   "zh": "福尔克",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448733,7 +448733,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ペネロペー",
-   "zh": "",
+   "zh": "佩涅罗珀",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448754,7 +448754,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "フッサール",
-   "zh": "",
+   "zh": "胡塞尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448775,7 +448775,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ベリーメロン",
-   "zh": "",
+   "zh": "浆果甜瓜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448796,7 +448796,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "プライス",
-   "zh": "",
+   "zh": "普莱斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448817,7 +448817,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヘレン",
-   "zh": "",
+   "zh": "海伦",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448838,7 +448838,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ブランク",
-   "zh": "",
+   "zh": "布兰克",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448859,7 +448859,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ベロニカ",
-   "zh": "",
+   "zh": "维罗妮卡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448880,7 +448880,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "フリッツ",
-   "zh": "",
+   "zh": "弗里茨",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448901,7 +448901,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヘンリエッタ",
-   "zh": "",
+   "zh": "亨丽埃塔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448922,7 +448922,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ブルーノ",
-   "zh": "",
+   "zh": "布鲁诺",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448943,7 +448943,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ほたる",
-   "zh": "",
+   "zh": "萤",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448964,7 +448964,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ブントゥン",
-   "zh": "",
+   "zh": "布恩图恩",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -448985,7 +448985,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ホルモンヌ",
-   "zh": "",
+   "zh": "霍尔蒙奴",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449006,7 +449006,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ふんどし一丁",
-   "zh": "",
+   "zh": "只穿兜裆布",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449027,7 +449027,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "マーガレット",
-   "zh": "",
+   "zh": "玛格丽特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449048,7 +449048,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ベーブ",
-   "zh": "",
+   "zh": "贝布",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449069,7 +449069,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "マーシェル",
-   "zh": "",
+   "zh": "玛谢尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449090,7 +449090,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ベルセイス",
-   "zh": "",
+   "zh": "贝尔塞斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449111,7 +449111,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "マイラ",
-   "zh": "",
+   "zh": "迈拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449132,7 +449132,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヘルダイバー",
-   "zh": "",
+   "zh": "地狱潜者",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449153,7 +449153,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ましゅまろ",
-   "zh": "",
+   "zh": "棉花糖",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449174,7 +449174,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ベルティル",
-   "zh": "",
+   "zh": "贝尔蒂尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449195,7 +449195,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "マチルダ",
-   "zh": "",
+   "zh": "玛蒂尔达",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449216,7 +449216,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヘルマン",
-   "zh": "",
+   "zh": "赫尔曼",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449237,7 +449237,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "マディン",
-   "zh": "",
+   "zh": "玛丁",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449258,7 +449258,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ベン",
-   "zh": "",
+   "zh": "本",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449279,7 +449279,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "マデリン",
-   "zh": "",
+   "zh": "玛德琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449300,7 +449300,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ホアキム",
-   "zh": "",
+   "zh": "若阿金",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449321,7 +449321,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "マリグリッド",
-   "zh": "",
+   "zh": "玛丽格丽德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449342,7 +449342,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ボスティーノ",
-   "zh": "",
+   "zh": "波斯蒂诺",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449363,7 +449363,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "マリリン",
-   "zh": "",
+   "zh": "玛丽莲",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449384,7 +449384,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ホセ",
-   "zh": "",
+   "zh": "何塞",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449405,7 +449405,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "マルヴィナ",
-   "zh": "",
+   "zh": "玛尔维娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449426,7 +449426,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ホレス",
-   "zh": "",
+   "zh": "霍勒斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449447,7 +449447,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ミーシャ",
-   "zh": "",
+   "zh": "米夏",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449468,7 +449468,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "マーティン",
-   "zh": "",
+   "zh": "马丁",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449489,7 +449489,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ミズキ",
-   "zh": "",
+   "zh": "瑞树",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449510,7 +449510,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "マーティン",
-   "zh": "",
+   "zh": "马丁",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449531,7 +449531,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "みつこ",
-   "zh": "",
+   "zh": "光子",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449552,7 +449552,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "マイルス",
-   "zh": "",
+   "zh": "迈尔斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449573,7 +449573,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ミューア",
-   "zh": "",
+   "zh": "缪尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449594,7 +449594,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "マインデルト",
-   "zh": "",
+   "zh": "迈因德特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449615,7 +449615,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ミュリエル",
-   "zh": "",
+   "zh": "缪丽尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449636,7 +449636,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "マクシム",
-   "zh": "",
+   "zh": "马克西姆",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449657,7 +449657,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ミラ",
-   "zh": "",
+   "zh": "米拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449678,7 +449678,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "マッカローニ",
-   "zh": "",
+   "zh": "通心粉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449699,7 +449699,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ミラベル",
-   "zh": "",
+   "zh": "米拉贝尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449720,7 +449720,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "マックス",
-   "zh": "",
+   "zh": "马克斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449741,7 +449741,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ミリアム",
-   "zh": "",
+   "zh": "米莉亚姆",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449762,7 +449762,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "マトヴェイ",
-   "zh": "",
+   "zh": "马特维",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449783,7 +449783,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ミルキー",
-   "zh": "",
+   "zh": "米尔琪",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449804,7 +449804,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "マルコム",
-   "zh": "",
+   "zh": "马尔科姆",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449825,7 +449825,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ミレ",
-   "zh": "",
+   "zh": "米蕾",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449846,7 +449846,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ミース",
-   "zh": "",
+   "zh": "米斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449867,7 +449867,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ムチムチプリン",
-   "zh": "",
+   "zh": "丰满布丁",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449888,7 +449888,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ミゲル",
-   "zh": "",
+   "zh": "米格尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449909,7 +449909,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "メイジー",
-   "zh": "",
+   "zh": "梅西",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449930,7 +449930,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ミスターカミカゼ",
-   "zh": "",
+   "zh": "神风先生",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449951,7 +449951,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "メイファ",
-   "zh": "",
+   "zh": "美华",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449972,7 +449972,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ミック",
-   "zh": "",
+   "zh": "米克",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -449993,7 +449993,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "メイプル",
-   "zh": "",
+   "zh": "梅普尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450014,7 +450014,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ミトロファン",
-   "zh": "",
+   "zh": "米特罗凡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450035,7 +450035,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "メイリン",
-   "zh": "",
+   "zh": "美玲",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450056,7 +450056,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "無回転ボーイ",
-   "zh": "",
+   "zh": "无旋转男孩",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450077,7 +450077,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "メリッサ",
-   "zh": "",
+   "zh": "梅丽莎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450098,7 +450098,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ムサシ",
-   "zh": "",
+   "zh": "武藏",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450119,7 +450119,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "メリンダ",
-   "zh": "",
+   "zh": "美琳达",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450140,7 +450140,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "メルヒェン",
-   "zh": "",
+   "zh": "梅尔兴",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450161,7 +450161,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "メル",
-   "zh": "",
+   "zh": "梅儿",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450182,7 +450182,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "メレディス",
-   "zh": "",
+   "zh": "梅雷迪思",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450203,7 +450203,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "メレディス",
-   "zh": "",
+   "zh": "梅雷迪思",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450224,7 +450224,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "モーゼス",
-   "zh": "",
+   "zh": "摩西",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450245,7 +450245,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "メロディ",
-   "zh": "",
+   "zh": "梅洛蒂",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450266,7 +450266,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "モデスト",
-   "zh": "",
+   "zh": "莫德斯特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450287,7 +450287,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "モードリン",
-   "zh": "",
+   "zh": "莫德琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450308,7 +450308,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "モナス",
-   "zh": "",
+   "zh": "莫纳斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450329,7 +450329,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "モテ子",
-   "zh": "",
+   "zh": "受欢迎子",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450350,7 +450350,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "モリス",
-   "zh": "",
+   "zh": "莫里斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450371,7 +450371,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "モニカ",
-   "zh": "",
+   "zh": "莫妮卡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450392,7 +450392,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ユーグ",
-   "zh": "",
+   "zh": "于格",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450413,7 +450413,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "モリー",
-   "zh": "",
+   "zh": "莫莉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450434,7 +450434,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ユウリィ",
-   "zh": "",
+   "zh": "尤里",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450455,7 +450455,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヤエ",
-   "zh": "",
+   "zh": "八重",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450476,7 +450476,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ユベール",
-   "zh": "",
+   "zh": "于贝尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450497,7 +450497,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヤナ",
-   "zh": "",
+   "zh": "雅娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450518,7 +450518,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ユリウス",
-   "zh": "",
+   "zh": "尤利乌斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450539,7 +450539,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ユイ",
-   "zh": "",
+   "zh": "结衣",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450560,7 +450560,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヨシュア",
-   "zh": "",
+   "zh": "约书亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450581,7 +450581,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ユーニス",
-   "zh": "",
+   "zh": "尤妮斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450602,7 +450602,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヨゼフ",
-   "zh": "",
+   "zh": "约瑟夫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450623,7 +450623,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ユーフェミア",
-   "zh": "",
+   "zh": "尤菲米娅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450644,7 +450644,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "与兵衛",
-   "zh": "",
+   "zh": "与兵卫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450665,7 +450665,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ユリエット",
-   "zh": "",
+   "zh": "尤丽叶特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450686,7 +450686,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ヨルゲン",
-   "zh": "",
+   "zh": "约尔根",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450707,7 +450707,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ゆりっぺ",
-   "zh": "",
+   "zh": "百合佩",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450728,7 +450728,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ライズ",
-   "zh": "",
+   "zh": "莱兹",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450749,7 +450749,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ユリヤ",
-   "zh": "",
+   "zh": "尤利娅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450770,7 +450770,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ライタ",
-   "zh": "",
+   "zh": "雷太",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450791,7 +450791,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ヨウキ",
-   "zh": "",
+   "zh": "阳葵",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450812,7 +450812,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ライナス",
-   "zh": "",
+   "zh": "莱纳斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450833,7 +450833,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ライサ",
-   "zh": "",
+   "zh": "莱莎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450854,7 +450854,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ラウル",
-   "zh": "",
+   "zh": "拉乌尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450875,7 +450875,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ラヴィニア",
-   "zh": "",
+   "zh": "拉维妮娅",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450896,7 +450896,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ラッシュ",
-   "zh": "",
+   "zh": "拉什",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450917,7 +450917,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ラズベリー",
-   "zh": "",
+   "zh": "拉兹贝莉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450938,7 +450938,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ラファエル",
-   "zh": "",
+   "zh": "拉斐尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450959,7 +450959,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ラナ",
-   "zh": "",
+   "zh": "拉娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -450980,7 +450980,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ラルド",
-   "zh": "",
+   "zh": "拉尔多",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451001,7 +451001,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ラプソル",
-   "zh": "",
+   "zh": "拉普索尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451022,7 +451022,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ランクード",
-   "zh": "",
+   "zh": "兰库德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451043,7 +451043,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ラモーナ",
-   "zh": "",
+   "zh": "拉莫娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451064,7 +451064,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ランティス",
-   "zh": "",
+   "zh": "兰提斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451085,7 +451085,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ララ",
-   "zh": "",
+   "zh": "拉拉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451106,7 +451106,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "リオ",
-   "zh": "",
+   "zh": "里奥",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451127,7 +451127,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ラン",
-   "zh": "",
+   "zh": "兰",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451148,7 +451148,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "リチャード",
-   "zh": "",
+   "zh": "理查德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451169,7 +451169,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "リース",
-   "zh": "",
+   "zh": "莉丝",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451190,7 +451190,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "リックス",
-   "zh": "",
+   "zh": "里克斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451211,7 +451211,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "りお",
-   "zh": "",
+   "zh": "莉绪",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451232,7 +451232,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "リュウキ",
-   "zh": "",
+   "zh": "龙骑",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451253,7 +451253,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "リコリス",
-   "zh": "",
+   "zh": "利可丽丝",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451274,7 +451274,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ルイス",
-   "zh": "",
+   "zh": "路易斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451295,7 +451295,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "リネア",
-   "zh": "",
+   "zh": "莉妮亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451316,7 +451316,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ルー",
-   "zh": "",
+   "zh": "卢",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451337,7 +451337,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "リミティア",
-   "zh": "",
+   "zh": "莉米蒂亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451358,7 +451358,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ルーウェン",
-   "zh": "",
+   "zh": "卢温",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451379,7 +451379,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "リリアーナ",
-   "zh": "",
+   "zh": "莉莉安娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451400,7 +451400,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ルーン",
-   "zh": "",
+   "zh": "鲁恩",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451421,7 +451421,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "リリアン",
-   "zh": "",
+   "zh": "莉莉安",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451442,7 +451442,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ルカ",
-   "zh": "",
+   "zh": "卢卡",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451463,7 +451463,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "リリー",
-   "zh": "",
+   "zh": "莉莉",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451484,7 +451484,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ルキノ",
-   "zh": "",
+   "zh": "卢基诺",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451505,7 +451505,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "リン",
-   "zh": "",
+   "zh": "琳",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451526,7 +451526,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ルパート",
-   "zh": "",
+   "zh": "鲁珀特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451547,7 +451547,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ルクセニア",
-   "zh": "",
+   "zh": "卢克塞尼亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451568,7 +451568,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "レイフ",
-   "zh": "",
+   "zh": "雷夫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451589,7 +451589,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ルクレーシャ",
-   "zh": "",
+   "zh": "卢克蕾莎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451610,7 +451610,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "レオシュ",
-   "zh": "",
+   "zh": "莱奥什",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451631,7 +451631,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ルシール",
-   "zh": "",
+   "zh": "露希尔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451652,7 +451652,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "レオニード",
-   "zh": "",
+   "zh": "列昂尼德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451673,7 +451673,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ルシンダ",
-   "zh": "",
+   "zh": "露辛达",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451694,7 +451694,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "レオン",
-   "zh": "",
+   "zh": "莱昂",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451715,7 +451715,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ルリ",
-   "zh": "",
+   "zh": "琉璃",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451736,7 +451736,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "レンゾ",
-   "zh": "",
+   "zh": "伦佐",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451757,7 +451757,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "レイナ",
-   "zh": "",
+   "zh": "蕾娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451778,7 +451778,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "レンナルト",
-   "zh": "",
+   "zh": "伦纳特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451799,7 +451799,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "レジーナ",
-   "zh": "",
+   "zh": "雷吉娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451820,7 +451820,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ロイド",
-   "zh": "",
+   "zh": "劳埃德",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451841,7 +451841,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "レティーシア",
-   "zh": "",
+   "zh": "莱蒂西亚",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451862,7 +451862,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ローマン",
-   "zh": "",
+   "zh": "罗曼",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451883,7 +451883,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "レンカ",
-   "zh": "",
+   "zh": "莲华",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451904,7 +451904,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ローレンス",
-   "zh": "",
+   "zh": "劳伦斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451925,7 +451925,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "レンレン",
-   "zh": "",
+   "zh": "莲莲",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451946,7 +451946,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ロジャー",
-   "zh": "",
+   "zh": "罗杰",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451967,7 +451967,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ローレン",
-   "zh": "",
+   "zh": "劳伦",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -451988,7 +451988,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ロドリゲス",
-   "zh": "",
+   "zh": "罗德里格斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452009,7 +452009,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ロミー",
-   "zh": "",
+   "zh": "罗米",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452030,7 +452030,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ワーベルグ",
-   "zh": "",
+   "zh": "瓦伯格",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452051,7 +452051,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ロランナ",
-   "zh": "",
+   "zh": "洛兰娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452072,7 +452072,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ワット",
-   "zh": "",
+   "zh": "瓦特",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452093,7 +452093,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ロリーナ",
-   "zh": "",
+   "zh": "洛丽娜",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452114,7 +452114,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ワトキンス",
-   "zh": "",
+   "zh": "沃特金斯",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452135,7 +452135,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ロリエッタ",
-   "zh": "",
+   "zh": "洛丽埃塔",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452156,7 +452156,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "ワトサップ",
-   "zh": "",
+   "zh": "沃特萨普",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452177,7 +452177,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "わっこ",
-   "zh": "",
+   "zh": "若子",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452198,7 +452198,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "寿太郎",
-   "zh": "",
+   "zh": "寿太郎",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452219,7 +452219,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "ワンダ",
-   "zh": "",
+   "zh": "旺达",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452240,7 +452240,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "心はオトメ",
-   "zh": "",
+   "zh": "心怀少女心",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452261,7 +452261,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "妻です",
-   "zh": "",
+   "zh": "是妻子",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452282,7 +452282,7 @@
    "field": "name_male",
    "type": "text",
    "jp": "夫です",
-   "zh": "",
+   "zh": "是丈夫",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
@@ -452303,7 +452303,7 @@
    "field": "name_female",
    "type": "text",
    "jp": "桃色吐息",
-   "zh": "",
+   "zh": "桃色叹息",
    "loc": {
     "file": "RandomName.dat",
     "dstart": 3440,
