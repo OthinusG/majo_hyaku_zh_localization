@@ -62,7 +62,7 @@
 - [x] **M3-24** ShopList.dat，序号 16759–16789（31 条），`ShopList.dat#00000.c1` → `ShopList.dat#00030.c1`
 - [x] **M3-25** ShopLvUpPrize.dat，序号 16790–16830（41 条），`ShopLvUpPrize.dat#00000.c4` → `ShopLvUpPrize.dat#00086.c10`
 - [x] **M3-26** ShopSkill.dat，序号 16831–17278（448 条），`ShopSkill.dat#00000.name` → `ShopSkill.dat#00223.description`
-- [ ] **M3-27** WitchToken.dat，序号 17279–17775（497 条），`WitchToken.dat#00000.c1` → `WitchToken.dat#00496.c1`
+- [x] **M3-27** WitchToken.dat，序号 17279–17775（497 条），`WitchToken.dat#00000.c1` → `WitchToken.dat#00496.c1`
 
 ## M4 — 程序、Lua、奖杯与光盘标题
 
