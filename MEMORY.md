@@ -8,3 +8,4 @@
 - The handoff description documents image extraction and video scanning. The local material delivered for setup consists of the text corpus and delivery note. Preserve those asset findings as provenance until files can be inspected locally.
 - Milestone 1 (M1-01 through M1-04, 1,894 entries) covering character status, speakers, and game strings is fully localized, verified via `scripts/verify_alignment.py`, and pushed to `main`.
 - Tooling in `scripts/batch_processor.py` supports chunked localization with strict format token and placeholder preservation, automated structural verification, modification index updates, and push pipelines.
+- Milestones 1 through 5 are 100% completed and sealed. All 18,005 entries are translated and verified with --require-complete.

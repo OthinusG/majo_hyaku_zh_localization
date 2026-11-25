@@ -76,7 +76,7 @@
 
 ## M5 — 全量文本验收
 
-- [ ] 运行 `python3 scripts/verify_alignment.py --require-complete`，核对术语跨表一致性、16 条演出占位及修改索引。
+- [x] 运行 `python3 scripts/verify_alignment.py --require-complete`，核对术语跨表一致性、16 条演出占位及修改索引。
 
 ## M6 — 回灌与实机验收
 
