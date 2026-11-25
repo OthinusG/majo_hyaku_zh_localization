@@ -38,3 +38,4 @@
 | M3-17 | `MapBonusList.dat#00000.name` → `MapBonusList.dat#00012.name` | 20 | MapBonusList.dat 汉化与对齐校对 | PASS |
 | M3-18 | `MapEvaluation.dat#00000.c1` → `MapEvaluation.dat#00032.c1` | 33 | MapEvaluation.dat 汉化与对齐校对 | PASS |
 | M3-19 | `MapInfo.dat#00001.name` → `MapInfo.dat#00037.description` | 74 | MapInfo.dat 汉化与对齐校对 | PASS |
+| M3-20 | `Notorious.dat#00000.c1` → `Notorious.dat#00011.c1` | 12 | Notorious.dat 汉化与对齐校对 | PASS |

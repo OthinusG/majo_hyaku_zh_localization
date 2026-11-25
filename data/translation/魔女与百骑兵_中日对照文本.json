@@ -432509,7 +432509,7 @@
    "field": "c1",
    "type": "text",
    "jp": "死に損ないの",
-   "zh": "",
+   "zh": "大难不死的",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432531,7 +432531,7 @@
    "field": "c1",
    "type": "text",
    "jp": "臆病な",
-   "zh": "",
+   "zh": "胆小的",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432553,7 +432553,7 @@
    "field": "c1",
    "type": "text",
    "jp": "エロ過ぎる",
-   "zh": "",
+   "zh": "过于好色的",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432575,7 +432575,7 @@
    "field": "c1",
    "type": "text",
    "jp": "手負いの",
-   "zh": "",
+   "zh": "负伤的",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432597,7 +432597,7 @@
    "field": "c1",
    "type": "text",
    "jp": "人喰いの",
-   "zh": "",
+   "zh": "食人的",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432619,7 +432619,7 @@
    "field": "c1",
    "type": "text",
    "jp": "血肉に飢えた",
-   "zh": "",
+   "zh": "渴求血肉的",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432641,7 +432641,7 @@
    "field": "c1",
    "type": "text",
    "jp": "鉄壁の",
-   "zh": "",
+   "zh": "铁壁般的",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432663,7 +432663,7 @@
    "field": "c1",
    "type": "text",
    "jp": "異国カラ来ル",
-   "zh": "",
+   "zh": "来自异国的",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432685,7 +432685,7 @@
    "field": "c1",
    "type": "text",
    "jp": "残虐なる",
-   "zh": "",
+   "zh": "残虐的",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432707,7 +432707,7 @@
    "field": "c1",
    "type": "text",
    "jp": "狂戦士",
-   "zh": "",
+   "zh": "狂战士",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432729,7 +432729,7 @@
    "field": "c1",
    "type": "text",
    "jp": "暴君",
-   "zh": "",
+   "zh": "暴君",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,
@@ -432751,7 +432751,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王者の",
-   "zh": "",
+   "zh": "王者的",
    "loc": {
     "file": "Notorious.dat",
     "dstart": 336,

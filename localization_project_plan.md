@@ -55,7 +55,7 @@
 - [x] **M3-17** MapBonusList.dat，序号 15702–15721（20 条），`MapBonusList.dat#00000.name` → `MapBonusList.dat#00012.name`
 - [x] **M3-18** MapEvaluation.dat，序号 15722–15754（33 条），`MapEvaluation.dat#00000.c1` → `MapEvaluation.dat#00032.c1`
 - [x] **M3-19** MapInfo.dat，序号 15755–15828（74 条），`MapInfo.dat#00001.name` → `MapInfo.dat#00037.description`
-- [ ] **M3-20** Notorious.dat，序号 15829–15840（12 条），`Notorious.dat#00000.c1` → `Notorious.dat#00011.c1`
+- [x] **M3-20** Notorious.dat，序号 15829–15840（12 条），`Notorious.dat#00000.c1` → `Notorious.dat#00011.c1`
 - [ ] **M3-21** Petition.dat，序号 15841–15860（20 条），`Petition.dat#00000.title` → `Petition.dat#00009.description`
 - [ ] **M3-22** PillarList.dat，序号 15861–16190（330 条），`PillarList.dat#00000.name` → `PillarList.dat#00164.description`
 - [ ] **M3-23** RandomName.dat，序号 16191–16758（568 条），`RandomName.dat#00000.name_male` → `RandomName.dat#00283.name_female`
