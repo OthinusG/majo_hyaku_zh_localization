@@ -475525,7 +475525,7 @@
    "context": "local message = \"スクリプトファイル\\\"\"..path..\".lua(sdat)\\\"が見つかりませんでした\"",
    "type": "text",
    "jp": ".lua(sdat)\"が見つかりませんでした",
-   "zh": "",
+   "zh": ".lua(sdat)\"未找到",
    "loc": {
     "file": "Game/Demo/episodeLoad.lua",
     "line": 36

@@ -67,7 +67,7 @@
 ## M4 — 程序、Lua、奖杯与光盘标题
 
 - [x] **M4-01** EBOOT_140.elf，序号 17776–17898（123 条），`EBOOT_140.elf#0x0E1D8C0` → `EBOOT_140.elf#0x0E60DB8`
-- [ ] **M4-02** Game/Demo/episodeLoad.lua，序号 17899–17899（1 条），`Game/Demo/episodeLoad.lua#L0036_2` → `Game/Demo/episodeLoad.lua#L0036_2`
+- [x] **M4-02** Game/Demo/episodeLoad.lua，序号 17899–17899（1 条），`Game/Demo/episodeLoad.lua#L0036_2` → `Game/Demo/episodeLoad.lua#L0036_2`
 - [ ] **M4-03** Game/Demo/mainquest/demo9999_0000.lua，序号 17900–17904（5 条），`Game/Demo/mainquest/demo9999_0000.lua#L0455_1` → `Game/Demo/mainquest/demo9999_0000.lua#L0459_5`
 - [ ] **M4-04** Game/Demo/mainquest/episode13_demo.lua，序号 17905–17905（1 条），`Game/Demo/mainquest/episode13_demo.lua#L7945_1` → `Game/Demo/mainquest/episode13_demo.lua#L7945_1`
 - [ ] **M4-05** Map/mapScrLoad.lua，序号 17906–17906（1 条），`Map/mapScrLoad.lua#L0053_2` → `Map/mapScrLoad.lua#L0053_2`
