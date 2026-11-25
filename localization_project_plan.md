@@ -23,7 +23,7 @@
 ## M2 — 主线与过场对白
 
 - [x] **M2-01** DemoText.dat，序号 1651–2650（1000 条），`DemoText.dat#00000` → `DemoText.dat#00999`
-- [ ] **M2-02** DemoText.dat，序号 2651–3650（1000 条），`DemoText.dat#01000` → `DemoText.dat#01999`
+- [x] **M2-02** DemoText.dat，序号 2651–3650（1000 条），`DemoText.dat#01000` → `DemoText.dat#01999`
 - [ ] **M2-03** DemoText.dat，序号 3651–4650（1000 条），`DemoText.dat#02000` → `DemoText.dat#02999`
 - [ ] **M2-04** DemoText.dat，序号 4651–5650（1000 条），`DemoText.dat#03000` → `DemoText.dat#03999`
 - [ ] **M2-05** DemoText.dat，序号 5651–6650（1000 条），`DemoText.dat#04000` → `DemoText.dat#04999`
