@@ -46,3 +46,4 @@
 | M3-25 | `ShopLvUpPrize.dat#00000.c4` → `ShopLvUpPrize.dat#00086.c10` | 41 | ShopLvUpPrize.dat 汉化与对齐校对 | PASS |
 | M3-26 | `ShopSkill.dat#00000.name` → `ShopSkill.dat#00223.description` | 448 | ShopSkill.dat 汉化与对齐校对 | PASS |
 | M3-27 | `WitchToken.dat#00000.c1` → `WitchToken.dat#00496.c1` | 497 | WitchToken.dat 汉化与对齐校对 | PASS |
+| M4-01 | `EBOOT_140.elf#0x0E1D8C0` → `EBOOT_140.elf#0x0E60DB8` | 123 | EBOOT_140.elf 汉化与对齐校对 | PASS |
