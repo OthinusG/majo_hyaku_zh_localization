@@ -381172,7 +381172,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "キミも同じ口なんだろ！",
-   "zh": "",
+   "zh": "你也是同一路货色吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381194,7 +381194,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "お互い様といこうじゃないか！",
-   "zh": "",
+   "zh": "咱们就当彼此彼此如何！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381216,7 +381216,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "なあ、見逃してくれよ！",
-   "zh": "",
+   "zh": "喂，放我一马吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381238,7 +381238,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ちぇ、見つかるなんてついてないな！",
-   "zh": "",
+   "zh": "切，被发现了真倒霉！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381260,7 +381260,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "がっかり泥棒兄",
-   "zh": "",
+   "zh": "垂头丧气的小偷哥哥",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381281,7 +381281,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "み、みつかった！？",
-   "zh": "",
+   "zh": "被、被发现了！？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381303,7 +381303,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ど、どどど……どろぼー！！",
-   "zh": "",
+   "zh": "抓、抓抓抓……抓小偷啊！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381325,7 +381325,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "あばばばば！",
-   "zh": "",
+   "zh": "啊吧吧吧吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381347,7 +381347,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ワ、ワンワン！い、犬ですよ！",
-   "zh": "",
+   "zh": "汪、汪汪！我、我是狗哦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381369,7 +381369,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "あ、怪しい者ではありませぬ！",
-   "zh": "",
+   "zh": "我、我可不是可疑分子！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381391,7 +381391,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "飲んだくれオヤジ",
-   "zh": "",
+   "zh": "醉鬼大叔",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381412,7 +381412,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ヒィックゥ！ななんだぁ？",
-   "zh": "",
+   "zh": "嗝～！干干干嘛啊？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381434,7 +381434,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ウィ～！酔ってませんよぉ～！",
-   "zh": "",
+   "zh": "呜～！我才没醉呢～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381456,7 +381456,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "砂食みが～何だってんだ！ウプっ！",
-   "zh": "",
+   "zh": "食沙者又～算个什么东西啊！呕！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381478,7 +381478,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "オロロロロロロ……！！",
-   "zh": "",
+   "zh": "呕恶恶恶恶恶……！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381500,7 +381500,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ウヒッゥ！の、飲み過ぎた……！",
-   "zh": "",
+   "zh": "呜嗝！喝、喝太多了……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381522,7 +381522,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "耳の遠い魔女",
-   "zh": "",
+   "zh": "重听的魔女",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381543,7 +381543,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ヒッヒッヒ！",
-   "zh": "",
+   "zh": "嘻嘻嘻！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381565,7 +381565,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ヒ～ッヒッヒッヒッヒ！",
-   "zh": "",
+   "zh": "嘻～嘻嘻嘻嘻！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381587,7 +381587,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "あ～ん？何だねあんた？",
-   "zh": "",
+   "zh": "啊～嗯？你谁啊？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381609,7 +381609,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "あたしゃを舐めるんじゃないよ。",
-   "zh": "",
+   "zh": "可别小瞧老娘我啊。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381631,7 +381631,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "イタタタ！",
-   "zh": "",
+   "zh": "好痛痛痛！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381653,7 +381653,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "泣き虫魔女見習い",
-   "zh": "",
+   "zh": "爱哭的见习魔女",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381674,7 +381674,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "あ、あんたどこの子よ！",
-   "zh": "",
+   "zh": "你、你是谁家的小孩啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381696,7 +381696,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "見習いだからってバカにして！",
-   "zh": "",
+   "zh": "少拿见习不当回事嘲弄人！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381718,7 +381718,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "や、やめてよ！",
-   "zh": "",
+   "zh": "住、住手啦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381740,7 +381740,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "な、泣いてないわよ！",
-   "zh": "",
+   "zh": "我、我才没哭呢！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381762,7 +381762,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "うぅ……ばかあぁ！！",
-   "zh": "",
+   "zh": "呜呜……大笨蛋！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381784,7 +381784,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "高飛車な魔女",
-   "zh": "",
+   "zh": "高傲的魔女",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381805,7 +381805,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "オホホホホ！さあ、覚悟おし！",
-   "zh": "",
+   "zh": "哦呵呵呵！觉悟吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381827,7 +381827,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "後悔させてあげますわ！",
-   "zh": "",
+   "zh": "我会让你后悔莫及的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381849,7 +381849,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "そこに跪くがいいですわ！",
-   "zh": "",
+   "zh": "老老实实给我跪下吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381871,7 +381871,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "無礼なっ！",
-   "zh": "",
+   "zh": "无礼之徒！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381893,7 +381893,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "許せませんわよ！",
-   "zh": "",
+   "zh": "不可饶恕！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381915,7 +381915,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "お風呂中の魔女",
-   "zh": "",
+   "zh": "沐浴中的魔女",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381936,7 +381936,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "きゃっ！",
-   "zh": "",
+   "zh": "呀！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381958,7 +381958,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "えっち！",
-   "zh": "",
+   "zh": "色狼！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -381980,7 +381980,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "このスケベ！",
-   "zh": "",
+   "zh": "大色鬼！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382002,7 +382002,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "覗いたら呪うわよ！",
-   "zh": "",
+   "zh": "敢偷看就诅咒你！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382024,7 +382024,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "いやん！",
-   "zh": "",
+   "zh": "讨厌啦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382046,7 +382046,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "惰眠むさぼる魔女",
-   "zh": "",
+   "zh": "贪睡的魔女",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382067,7 +382067,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "んあ～？",
-   "zh": "",
+   "zh": "嗯啊～？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382089,7 +382089,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ふわぁ～あ……。",
-   "zh": "",
+   "zh": "呼啊～啊……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382111,7 +382111,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "むにゃむにゃ……。",
-   "zh": "",
+   "zh": "唔哝唔哝……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382133,7 +382133,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "勝手にやってて頂戴……むにゃ。",
-   "zh": "",
+   "zh": "你自便吧……唔哝。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382155,7 +382155,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ふあ～あ……。",
-   "zh": "",
+   "zh": "哈～啊……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382177,7 +382177,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "甘物好きな魔女",
-   "zh": "",
+   "zh": "喜好甜食的魔女",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382198,7 +382198,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "あら、お菓子の香りに惹かれたのね？",
-   "zh": "",
+   "zh": "哎呀，是被点心的香味引过来的吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382220,7 +382220,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "いくらでも食べていいわよ！",
-   "zh": "",
+   "zh": "想吃多少都可以哦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382242,7 +382242,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "私の特製お菓子、食べてみる？",
-   "zh": "",
+   "zh": "要尝尝看我的特制点心吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382264,7 +382264,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ちょっとしびれるわよ！",
-   "zh": "",
+   "zh": "会有点麻酥酥的哦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382286,7 +382286,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "うふふふふ！",
-   "zh": "",
+   "zh": "唔呵呵呵呵！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382308,7 +382308,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "挙動不審な魔女",
-   "zh": "",
+   "zh": "举止可疑的魔女",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382329,7 +382329,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ひゃあ！だ、誰！",
-   "zh": "",
+   "zh": "呀！谁、谁啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382351,7 +382351,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "な、何だ魔法生物か……！",
-   "zh": "",
+   "zh": "什、什么啊，是魔法生物吗……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382373,7 +382373,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "いい、今見たことは忘れて！",
-   "zh": "",
+   "zh": "听好了，把刚才看到的给我忘了！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382395,7 +382395,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "今見たことは忘れるのよ！",
-   "zh": "",
+   "zh": "给我把刚才看到的忘了听到没有！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382417,7 +382417,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "あなたは何も見てない……いいわね？",
-   "zh": "",
+   "zh": "你什么都没看到……听懂了吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382439,7 +382439,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "怪しげな店主",
-   "zh": "",
+   "zh": "古怪的店主",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382460,7 +382460,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "フフフ、用件は口でお言い！",
-   "zh": "",
+   "zh": "呵呵呵，有何贵干开口说呀！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382482,7 +382482,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "こら、待ちな！",
-   "zh": "",
+   "zh": "喂，站住！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382504,7 +382504,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "店の物を壊すんじゃないよ！",
-   "zh": "",
+   "zh": "别砸店里的东西啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382526,7 +382526,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "やれやれ……！",
-   "zh": "",
+   "zh": "哎呀呀……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382548,7 +382548,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "アグッ！",
-   "zh": "",
+   "zh": "呃啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382570,7 +382570,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "常連の魔女",
-   "zh": "",
+   "zh": "常客魔女",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382591,7 +382591,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "躾のなっていない使い魔ですこと！",
-   "zh": "",
+   "zh": "真是个没教养的使魔！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382613,7 +382613,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "主人の魔女の程度が知れますわ！",
-   "zh": "",
+   "zh": "真是一眼就能看出你那魔女主人的水平！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382635,7 +382635,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ちょ、ちょっと危ないですわよ！",
-   "zh": "",
+   "zh": "等等，很危险的啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382657,7 +382657,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "何ですの？まったく！",
-   "zh": "",
+   "zh": "想干什么啊？真是的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382679,7 +382679,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "きゃあ！",
-   "zh": "",
+   "zh": "呀啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382701,7 +382701,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "魔女の店主",
-   "zh": "",
+   "zh": "魔女店主",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382722,7 +382722,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ヒッヒッヒ！",
-   "zh": "",
+   "zh": "嘻嘻嘻！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382744,7 +382744,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "舐めるんじゃないよ！",
-   "zh": "",
+   "zh": "别小看我啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382766,7 +382766,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "実験台にしてやる！",
-   "zh": "",
+   "zh": "把你抓来当实验品！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382788,7 +382788,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ちょこまかと！",
-   "zh": "",
+   "zh": "窜来窜去的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382810,7 +382810,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ヒィーッヒッヒッヒ！！！",
-   "zh": "",
+   "zh": "嘻——嘻嘻嘻！！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382832,7 +382832,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "謎の気配",
-   "zh": "",
+   "zh": "神秘的气息",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382853,7 +382853,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ガタガタッ！（サレ……）",
-   "zh": "",
+   "zh": "咔嗒咔嗒！（快滚……）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382875,7 +382875,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ガタッ！（ヤメテクレ……）",
-   "zh": "",
+   "zh": "咔嗒！（住手啊……）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382897,7 +382897,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ガタガタガタ！（ウワァァァァ！）",
-   "zh": "",
+   "zh": "咔嗒咔嗒咔嗒！（哇啊啊啊啊！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382919,7 +382919,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ッ……！（ノロウ……）",
-   "zh": "",
+   "zh": "啧……！（咒死你……）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382941,7 +382941,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ガタ……！（ダレダ……）",
-   "zh": "",
+   "zh": "咔嗒……！（是谁……）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382963,7 +382963,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "ゲスな成金",
-   "zh": "",
+   "zh": "下流的暴发户",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -382984,7 +382984,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "か、金か！金ならあるぞ！",
-   "zh": "",
+   "zh": "要、要钱吗！钱的话老子有的是！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383006,7 +383006,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ぶ、ぶひぃぃ！",
-   "zh": "",
+   "zh": "噗、噗咿咿！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383028,7 +383028,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "た、助けてー！！",
-   "zh": "",
+   "zh": "救、救命啊——！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383050,7 +383050,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "こ、ここは金で解決しようじゃないか！",
-   "zh": "",
+   "zh": "这、这里用钱来解决不行吗！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383072,7 +383072,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "か。金が好きなんじゃろう？",
-   "zh": "",
+   "zh": "你。你很喜欢钱对吧？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383094,7 +383094,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383115,7 +383115,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "な、何よ！お金があるんだから贅沢したっていいでしょ！",
-   "zh": "",
+   "zh": "干、干嘛啊！我有钱挥霍一下不行吗！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383137,7 +383137,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "羨ましいのね？そうなんでしょ！！",
-   "zh": "",
+   "zh": "你在嫉妒对吧？绝对是这样吧！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383159,7 +383159,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "お、お金はあげないわよ！",
-   "zh": "",
+   "zh": "我、我才不会给你钱呢！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383181,7 +383181,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "きゃあ！",
-   "zh": "",
+   "zh": "呀啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383203,7 +383203,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ち、治療代を請求するわよ！",
-   "zh": "",
+   "zh": "我、我要向你索赔医疗费！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383225,7 +383225,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383246,7 +383246,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "な、何よ！",
-   "zh": "",
+   "zh": "干、干什么啦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383268,7 +383268,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ぶ、不細工だからって、顔を殴ることないでしょ！",
-   "zh": "",
+   "zh": "就、就算长得丑，也不用往脸上揍吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383290,7 +383290,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ぎゃあ！",
-   "zh": "",
+   "zh": "哇啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383312,7 +383312,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "もういや！不細工な女は生きてちゃだめなわけ！？",
-   "zh": "",
+   "zh": "受够了！丑女难道就不配活在这世上了吗！？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383334,7 +383334,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "どうせ、殴りたくなるような不細工女ですよ……！",
-   "zh": "",
+   "zh": "反正我就是长了张让人想揍的丑八怪脸啦……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383356,7 +383356,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "大工が趣味の男",
-   "zh": "",
+   "zh": "以木工为爱好的男人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383377,7 +383377,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "せっかくなおした家が！",
-   "zh": "",
+   "zh": "我好不容易修好的房子啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383399,7 +383399,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "家は傷つけないでくれ！",
-   "zh": "",
+   "zh": "别破坏我的房子啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383421,7 +383421,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "おれの大事な家が……！",
-   "zh": "",
+   "zh": "我心爱的房子……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383443,7 +383443,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "うわあああああ！",
-   "zh": "",
+   "zh": "哇啊啊啊啊啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383465,7 +383465,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "やめろー！やめてくれーーー！！！",
-   "zh": "",
+   "zh": "住手啊！快给我住手——！！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383487,7 +383487,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "農家の主人",
-   "zh": "",
+   "zh": "农家男主人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383508,7 +383508,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ん～だ？こいつは！？",
-   "zh": "",
+   "zh": "啥啊？这家伙是干嘛的！？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383530,7 +383530,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "勝手に人ん家に入りやがってから！",
-   "zh": "",
+   "zh": "竟敢擅自闯进别人家里！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383552,7 +383552,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "灸をすえてやんだ！",
-   "zh": "",
+   "zh": "看我不给你点颜色瞧瞧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383574,7 +383574,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "くそ！ちょこますんでねえ！",
-   "zh": "",
+   "zh": "可恶！别到处乱窜啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383596,7 +383596,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "おいおい、家は壊すでねえ！",
-   "zh": "",
+   "zh": "喂喂，别拆我房子啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383618,7 +383618,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383639,7 +383639,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "な、何？このこ？",
-   "zh": "",
+   "zh": "什、什么？这孩子是？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383661,7 +383661,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "きゃあ！",
-   "zh": "",
+   "zh": "呀啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383683,7 +383683,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "だ、駄目よ！出て行ってちょうだい！",
-   "zh": "",
+   "zh": "不、不行！请你出去！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383705,7 +383705,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "あああ……家が……！",
-   "zh": "",
+   "zh": "啊啊啊……房子……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383727,7 +383727,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "もうやめてえ！！",
-   "zh": "",
+   "zh": "快住手啊！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383749,7 +383749,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "親しみのある領主",
-   "zh": "",
+   "zh": "和蔼可亲的领主",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383770,7 +383770,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "おやめなさい！",
-   "zh": "",
+   "zh": "请住手！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383792,7 +383792,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "家の者には手を上げないで頂きたい！",
-   "zh": "",
+   "zh": "请不要对我的家人动手！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383814,7 +383814,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "まずは、話し合いましょう！",
-   "zh": "",
+   "zh": "我们先心平气和地谈谈吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383836,7 +383836,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "おっと、お茶の時間！",
-   "zh": "",
+   "zh": "哎呀，喝茶的时间到了！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383858,7 +383858,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "やむをえません！お覚悟！",
-   "zh": "",
+   "zh": "迫不得已了！准备受死吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383880,7 +383880,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383901,7 +383901,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "おさめください……。",
-   "zh": "",
+   "zh": "请息怒……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383923,7 +383923,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "お引き取り下さい……。",
-   "zh": "",
+   "zh": "请回吧……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383945,7 +383945,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "お、お客様といえど、見過ごせません……！",
-   "zh": "",
+   "zh": "虽、虽然您是客人，但也绝不能坐视不管……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383967,7 +383967,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "はあっ！",
-   "zh": "",
+   "zh": "喝啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -383989,7 +383989,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "くっ！",
-   "zh": "",
+   "zh": "咕！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384011,7 +384011,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384032,7 +384032,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "やめてくださいまし！",
-   "zh": "",
+   "zh": "请住手啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384054,7 +384054,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "だ、旦那さま！早くお逃げ下さい！",
-   "zh": "",
+   "zh": "老、老爷！请快点逃跑！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384076,7 +384076,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "こ、ここは通しません！",
-   "zh": "",
+   "zh": "我、我绝不会让你过去的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384098,7 +384098,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "あうっ！",
-   "zh": "",
+   "zh": "呜啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384120,7 +384120,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "えいっ！",
-   "zh": "",
+   "zh": "嘿呀！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384142,7 +384142,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "黄昏の詩人",
-   "zh": "",
+   "zh": "黄昏诗人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384163,7 +384163,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "お金は……おっかねえな！",
-   "zh": "",
+   "zh": "金钱……真是令人心惊胆战呢！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384185,7 +384185,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "畑で……はたけ！",
-   "zh": "",
+   "zh": "在农田里……狠狠干农活！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384207,7 +384207,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ニワトリ……二羽盗れ！",
-   "zh": "",
+   "zh": "抓鸡……一口气偷抓两只！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384229,7 +384229,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ブタを……ぶった！",
-   "zh": "",
+   "zh": "把猪……揍了一顿！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384251,7 +384251,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "占いは……売らない！",
-   "zh": "",
+   "zh": "占卜……概不出售！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384273,7 +384273,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "花好きの主婦",
-   "zh": "",
+   "zh": "喜爱鲜花的家庭主妇",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384294,7 +384294,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "あらあら！",
-   "zh": "",
+   "zh": "哎呀呀！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384316,7 +384316,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "元気がいっぱいね！",
-   "zh": "",
+   "zh": "可真是有精神呢！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384338,7 +384338,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "お花には気をつけてね！",
-   "zh": "",
+   "zh": "小心别踩到花哦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384360,7 +384360,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "もしかしてお花が欲しいの？",
-   "zh": "",
+   "zh": "难道是想要花吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384382,7 +384382,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "お花をわけてあげましょうか？",
-   "zh": "",
+   "zh": "要我分你一些花吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384404,7 +384404,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "貧乏な男",
-   "zh": "",
+   "zh": "贫穷的男人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384425,7 +384425,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "さ、寒い！",
-   "zh": "",
+   "zh": "好、好冷！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384447,7 +384447,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "オレに戦う元気があるとでも……？",
-   "zh": "",
+   "zh": "你觉得我还有力气打架吗……？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384469,7 +384469,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "金をくれ！金をくれ！",
-   "zh": "",
+   "zh": "给我钱！给我钱！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384491,7 +384491,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "金ならないぞ！",
-   "zh": "",
+   "zh": "要钱没有！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384513,7 +384513,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "敵はオレじゃない！貧乏だ！",
-   "zh": "",
+   "zh": "你的敌人不是我！是贫穷啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384535,7 +384535,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "にこやかな店主",
-   "zh": "",
+   "zh": "笑眯眯的店主",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384556,7 +384556,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "いらっしゃいませ！",
-   "zh": "",
+   "zh": "欢迎光临！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384578,7 +384578,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "こ、困りますようお客さん！",
-   "zh": "",
+   "zh": "客、客人，您这样我很困扰的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384600,7 +384600,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "クレームならあちらで伺います！",
-   "zh": "",
+   "zh": "投诉的话请去那边！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384622,7 +384622,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "お、お静かに！",
-   "zh": "",
+   "zh": "请、请安静一点！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384644,7 +384644,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "あわわわわ……！！",
-   "zh": "",
+   "zh": "哇哇哇哇……！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384666,7 +384666,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "観光に来てた客",
-   "zh": "",
+   "zh": "前来观光的客人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384687,7 +384687,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "きゃ！",
-   "zh": "",
+   "zh": "呀！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384709,7 +384709,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "なんですの！",
-   "zh": "",
+   "zh": "搞什么啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384731,7 +384731,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "は、はいってこないで！",
-   "zh": "",
+   "zh": "别、别进来！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384753,7 +384753,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "きゃあ、きゃああ！！",
-   "zh": "",
+   "zh": "呀啊，呀啊啊！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384775,7 +384775,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "こ、こんな宿、二度ときませんわ！",
-   "zh": "",
+   "zh": "这、这种破旅店，我再也不会来了！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384797,7 +384797,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "村長を狙う老人",
-   "zh": "",
+   "zh": "觊觎村长之位的老人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384818,7 +384818,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ワシが次期村長じゃ！",
-   "zh": "",
+   "zh": "老夫就是下一任村长！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384840,7 +384840,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ワシを応援するんじゃ！",
-   "zh": "",
+   "zh": "还不快给老夫加油助威！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384862,7 +384862,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "さては村長に雇われた刺客か！",
-   "zh": "",
+   "zh": "莫非你是村长雇来的刺客？！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384884,7 +384884,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "なんなんじゃぁ～！",
-   "zh": "",
+   "zh": "搞什么鬼啊～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384906,7 +384906,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ボウズ！村長を舐めるなよ！",
-   "zh": "",
+   "zh": "小鬼！可别小看村长啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384928,7 +384928,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384949,7 +384949,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "あらー、なんてことかしら……。",
-   "zh": "",
+   "zh": "哎呀，这可怎么得了……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384971,7 +384971,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "困ったわねぇ……。",
-   "zh": "",
+   "zh": "真是伤脑筋呢……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -384993,7 +384993,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "黙って見てられないわね！",
-   "zh": "",
+   "zh": "可不能坐视不管呢！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385015,7 +385015,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "それっ！",
-   "zh": "",
+   "zh": "看招！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385037,7 +385037,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "きゃ！",
-   "zh": "",
+   "zh": "呀！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385059,7 +385059,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "もれそうな男",
-   "zh": "",
+   "zh": "快要憋不住的男人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385080,7 +385080,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "うおおおお！",
-   "zh": "",
+   "zh": "呜喔喔喔喔！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385102,7 +385102,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "うぎいいい！",
-   "zh": "",
+   "zh": "呜唧唧唧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385124,7 +385124,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ひぎいいいい！",
-   "zh": "",
+   "zh": "噫唧唧唧唧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385146,7 +385146,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "な、なんじゃこりゃあ！？",
-   "zh": "",
+   "zh": "这、这是搞什么鬼啊！？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385168,7 +385168,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "隠れるクサカプリ",
-   "zh": "",
+   "zh": "藏起来的草卡布利",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385189,7 +385189,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "グガッ！",
-   "zh": "",
+   "zh": "咕嘎！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385211,7 +385211,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "グガーゴ！",
-   "zh": "",
+   "zh": "咕嘎—果！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385233,7 +385233,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "フギャ！！",
-   "zh": "",
+   "zh": "呼嘎！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385255,7 +385255,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "グギュウウウ……！",
-   "zh": "",
+   "zh": "咕纠呜呜……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385277,7 +385277,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "クギイィーッ！！！",
-   "zh": "",
+   "zh": "苦唧咿——！！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385299,7 +385299,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "柴刈りじいさん",
-   "zh": "",
+   "zh": "打柴老汉",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385320,7 +385320,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "なんじゃ、なんじゃ。",
-   "zh": "",
+   "zh": "怎么啦，怎么啦？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385342,7 +385342,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "薪作りを手伝ってくれるんかいの？",
-   "zh": "",
+   "zh": "是要来帮老汉劈柴火吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385364,7 +385364,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ついでにそこの丸太も割っとくれ。",
-   "zh": "",
+   "zh": "顺便把那边的圆木也劈了吧。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385386,7 +385386,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "お主やるのぉ……。",
-   "zh": "",
+   "zh": "阁下挺能干的嘛……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385408,7 +385408,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "これが薪割り流じゃ！",
-   "zh": "",
+   "zh": "这就是劈柴流奥义！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385430,7 +385430,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "きしむ音",
-   "zh": "",
+   "zh": "嘎吱作响声",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385451,7 +385451,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ギシギシ……",
-   "zh": "",
+   "zh": "嘎吱嘎吱……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385473,7 +385473,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ギギギ……",
-   "zh": "",
+   "zh": "嘎唧唧……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385495,7 +385495,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ギ……ゴ……",
-   "zh": "",
+   "zh": "嘎……果……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385517,7 +385517,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ギギィ……",
-   "zh": "",
+   "zh": "嘎唧……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385539,7 +385539,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ィィィ……",
-   "zh": "",
+   "zh": "咦咦咦……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385561,7 +385561,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "誰もいない",
-   "zh": "",
+   "zh": "空无一人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385582,7 +385582,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "誰もいない",
-   "zh": "",
+   "zh": "空无一人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385603,7 +385603,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "キィーッヒッヒ！！！！",
-   "zh": "",
+   "zh": "嘻嘻嘻嘻！！！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385625,7 +385625,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "頼もしい嫡男",
-   "zh": "",
+   "zh": "可靠的长子",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385646,7 +385646,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "やるきか！坊主！",
-   "zh": "",
+   "zh": "想打架吗！小鬼！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385668,7 +385668,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "イタズラ坊主め！",
-   "zh": "",
+   "zh": "恶作剧的小鬼！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385690,7 +385690,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "くっそ！くっそ！",
-   "zh": "",
+   "zh": "可恶！可恶！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385712,7 +385712,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "おりゃあ！！",
-   "zh": "",
+   "zh": "喝啊！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385734,7 +385734,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "どらッ！",
-   "zh": "",
+   "zh": "看招！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385756,7 +385756,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是Bug",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385777,7 +385777,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "あらら……。",
-   "zh": "",
+   "zh": "哎呀呀……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385799,7 +385799,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "まあまあ。",
-   "zh": "",
+   "zh": "好啦好啦。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385821,7 +385821,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "どうしたものかしらね。",
-   "zh": "",
+   "zh": "这该如何是好呢。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385843,7 +385843,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "新築なのに、困ったわあ。",
-   "zh": "",
+   "zh": "明明是新盖的房子，真伤脑筋啊。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385865,7 +385865,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "きゃ！",
-   "zh": "",
+   "zh": "呀！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385887,7 +385887,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "パンを作る女",
-   "zh": "",
+   "zh": "做面包的女人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385908,7 +385908,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "つまみぐいは許さないよ！",
-   "zh": "",
+   "zh": "可不许偷吃！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385930,7 +385930,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "こら！ほこりが立つだろ！",
-   "zh": "",
+   "zh": "喂！扬起灰尘来了吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385952,7 +385952,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "イースト菌をくらいなっ！",
-   "zh": "",
+   "zh": "吃我一记酵母菌吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385974,7 +385974,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "あああ！焼きたてのパンが！",
-   "zh": "",
+   "zh": "啊啊啊！刚烤好的面包！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -385996,7 +385996,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "せっかく仕込んだのに！",
-   "zh": "",
+   "zh": "好不容易才备好料的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386018,7 +386018,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "魔法のパン",
-   "zh": "",
+   "zh": "魔法面包",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386039,7 +386039,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "パパ～ン！（ふんわりふわふわ！）",
-   "zh": "",
+   "zh": "面～包！（蓬蓬松松！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386061,7 +386061,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "パッパン！（バターに合うよ！）",
-   "zh": "",
+   "zh": "面包！（配黄油很香哦！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386083,7 +386083,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "パンパン！？（蜂蜜もいいね！）",
-   "zh": "",
+   "zh": "面包面包！？（加蜂蜜也很棒呢！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386105,7 +386105,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "パンパーンパ！（かまどで焼いてね！）",
-   "zh": "",
+   "zh": "面～面包！（放进烤炉里烤吧！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386127,7 +386127,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "パンッパ！（さあ、食べてよ！）",
-   "zh": "",
+   "zh": "面包！（来，快吃吧！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386149,7 +386149,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "風呂上りの夫",
-   "zh": "",
+   "zh": "刚洗完澡的丈夫",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386170,7 +386170,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ごぶれい！",
-   "zh": "",
+   "zh": "失礼了！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386192,7 +386192,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "風呂上りにケンカ売るのはやめてくれ！",
-   "zh": "",
+   "zh": "别在刚洗完澡的时候找茬啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386214,7 +386214,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "よっ！とくらぁ～！",
-   "zh": "",
+   "zh": "嗨！看招～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386236,7 +386236,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "濡れタオルを食らいやがれ！",
-   "zh": "",
+   "zh": "尝尝湿毛巾的厉害吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386258,7 +386258,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "良い湯でしたよっ！とくらぁ～！",
-   "zh": "",
+   "zh": "真是好汤啊！看招～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386280,7 +386280,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是Bug",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386301,7 +386301,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "こらっ！！！",
-   "zh": "",
+   "zh": "喂！！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386323,7 +386323,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ゆるさないよ！",
-   "zh": "",
+   "zh": "我可不会原谅你！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386345,7 +386345,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "お仕置きが必要みたいだね！",
-   "zh": "",
+   "zh": "看来有必要惩罚你一下呢！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386367,7 +386367,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ほらよ！",
-   "zh": "",
+   "zh": "看招！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386389,7 +386389,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "もういっちょ！！",
-   "zh": "",
+   "zh": "再来一下！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386411,7 +386411,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "近所のガキ大将",
-   "zh": "",
+   "zh": "附近的孩子王",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386432,7 +386432,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "バーカ！バーカ！",
-   "zh": "",
+   "zh": "大笨蛋！大笨蛋！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386454,7 +386454,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "オレ様にそんな攻撃効くかよ！",
-   "zh": "",
+   "zh": "这种攻击怎么可能伤得到本大爷！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386476,7 +386476,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "おらおらおら！",
-   "zh": "",
+   "zh": "欧拉欧拉欧拉！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386498,7 +386498,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "オレ様に逆らうってのか！",
-   "zh": "",
+   "zh": "竟敢反抗本大爷！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386520,7 +386520,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "服従させてやる！",
-   "zh": "",
+   "zh": "让你服服帖帖的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386542,7 +386542,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "ノンビリした大男",
-   "zh": "",
+   "zh": "悠哉的大汉",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386563,7 +386563,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "うへへ、やめろよ～！",
-   "zh": "",
+   "zh": "唔嘿嘿，住手啦～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386585,7 +386585,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "そこ痒かったんだな！",
-   "zh": "",
+   "zh": "那里很痒的啦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386607,7 +386607,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ぼへ～！",
-   "zh": "",
+   "zh": "喔嘿～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386629,7 +386629,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "いたいじゃないかぁ～！",
-   "zh": "",
+   "zh": "好痛啊～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386651,7 +386651,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ブッ！",
-   "zh": "",
+   "zh": "噗！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386673,7 +386673,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386694,7 +386694,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "やめるざます！",
-   "zh": "",
+   "zh": "快住手扎玛斯！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386716,7 +386716,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "お仕置きざますよ",
-   "zh": "",
+   "zh": "要给你点惩罚扎玛斯！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386738,7 +386738,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "きえええええ！",
-   "zh": "",
+   "zh": "噫呀啊啊啊啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386760,7 +386760,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ぐえ！",
-   "zh": "",
+   "zh": "呃啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386782,7 +386782,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "許さないざます……！",
-   "zh": "",
+   "zh": "绝不饶你扎玛斯……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386804,7 +386804,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "ガキ大将の腰巾着",
-   "zh": "",
+   "zh": "孩子王的跟班",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386825,7 +386825,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ひえええ！",
-   "zh": "",
+   "zh": "噫呀啊啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386847,7 +386847,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "お、怒ったぞ！……母さんが。",
-   "zh": "",
+   "zh": "我、我生气了！……我妈要生气了！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386869,7 +386869,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "懲らしめてやる！……父さんが。",
-   "zh": "",
+   "zh": "看我怎么收拾你！……我爸会收拾你的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386891,7 +386891,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "うわああん！",
-   "zh": "",
+   "zh": "呜哇啊啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386913,7 +386913,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "うう……何もしてないのに！",
-   "zh": "",
+   "zh": "呜呜……我明明什么都没做！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386935,7 +386935,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "気合の入った店主",
-   "zh": "",
+   "zh": "干劲十足的店主",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386956,7 +386956,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "らっしゃああああい！！！",
-   "zh": "",
+   "zh": "欢迎光临啊啊啊！！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -386978,7 +386978,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "何かご入り用ですかい！！",
-   "zh": "",
+   "zh": "客人需要点什么吗！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387000,7 +387000,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "何でもいってくんなせい！",
-   "zh": "",
+   "zh": "有什么需求尽管说！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387022,7 +387022,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "こいつはどうですかい、お客さん！",
-   "zh": "",
+   "zh": "客人，看看这个怎么样！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387044,7 +387044,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "まいどっ！",
-   "zh": "",
+   "zh": "多谢惠顾！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387066,7 +387066,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387087,7 +387087,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ちょっと、今手が離せないの！",
-   "zh": "",
+   "zh": "等一下，我现在腾不出手！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387109,7 +387109,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "どいてどいて～！",
-   "zh": "",
+   "zh": "让开让开～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387131,7 +387131,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "もう、危ないわよ！",
-   "zh": "",
+   "zh": "真是的，很危险啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387153,7 +387153,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "あ、ごめんなさい！踏んじゃった？",
-   "zh": "",
+   "zh": "啊，抱歉！踩到你了吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387175,7 +387175,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "もう、邪魔するからよ！！",
-   "zh": "",
+   "zh": "真是的，谁让你妨碍我！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387197,7 +387197,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "整備中の旦那",
-   "zh": "",
+   "zh": "检修中的丈夫",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387218,7 +387218,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "おう、あぶねぇぞ！",
-   "zh": "",
+   "zh": "喂，危险啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387240,7 +387240,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "鍬や鎌置いてんだ！気を付けな！",
-   "zh": "",
+   "zh": "这里放着锄头和镰刀呢！小心点！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387262,7 +387262,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "何だってんだ！",
-   "zh": "",
+   "zh": "搞什么鬼啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387284,7 +387284,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "良い度胸だ！表に出な！",
-   "zh": "",
+   "zh": "胆子不小啊！给我出来！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387306,7 +387306,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "おららぁ！",
-   "zh": "",
+   "zh": "喝啊啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387328,7 +387328,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "使い魔のネズミ",
-   "zh": "",
+   "zh": "使魔老鼠",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387349,7 +387349,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "へっ、やるでチュか？",
-   "zh": "",
+   "zh": "嘿，想打架吱？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387371,7 +387371,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "あまいでチュ！",
-   "zh": "",
+   "zh": "太嫩了吱！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387393,7 +387393,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "なかなかやるでチュね！",
-   "zh": "",
+   "zh": "挺能干的嘛吱！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387415,7 +387415,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "チューチュッチュッチュ！！",
-   "zh": "",
+   "zh": "吱——吱吱吱吱！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387437,7 +387437,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "おとといくるでチュ！",
-   "zh": "",
+   "zh": "再回去练练吧吱！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387459,7 +387459,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "空飛ぶ家具",
-   "zh": "",
+   "zh": "飞天家具",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387480,7 +387480,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "（家具が百騎兵に体当たりした！）",
-   "zh": "",
+   "zh": "（家具猛撞了百骑兵！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387502,7 +387502,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "（空中に家具が浮いている！不気味だ！）",
-   "zh": "",
+   "zh": "（空中有家具在漂浮！好诡异！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387524,7 +387524,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "（ドカッ！！百騎兵の脳天直撃！）",
-   "zh": "",
+   "zh": "（咚的一声！！直击百骑兵的脑门！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387546,7 +387546,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "（家具が一斉に中を舞う！！）",
-   "zh": "",
+   "zh": "（家具一齐在空中飞舞！！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387568,7 +387568,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "（屋敷から凄まじい憎悪を感じる！）",
-   "zh": "",
+   "zh": "（从宅邸中感受到了强烈的憎恶！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387590,7 +387590,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "生気の抜けた店主",
-   "zh": "",
+   "zh": "毫无生气的店主",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387611,7 +387611,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "へ～い、らっしゃ～い……",
-   "zh": "",
+   "zh": "好～的，欢迎光～临……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387633,7 +387633,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "イヒ～ヒ……",
-   "zh": "",
+   "zh": "嘻～嘻……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387655,7 +387655,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "イヒッ！",
-   "zh": "",
+   "zh": "嘻！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387677,7 +387677,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "まいどぉ～……",
-   "zh": "",
+   "zh": "多谢惠～顾……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387699,7 +387699,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "イヒッ……イヒヒヒヒ……",
-   "zh": "",
+   "zh": "嘻……嘻嘻嘻嘻……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387721,7 +387721,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "山高帽の紳士",
-   "zh": "",
+   "zh": "圆顶礼帽绅士",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387742,7 +387742,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "よろしい！やってやりましょうぞ！",
-   "zh": "",
+   "zh": "很好！就让我来会会你！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387764,7 +387764,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "これ紳士の嗜みなり！",
-   "zh": "",
+   "zh": "这才是绅士的教养！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387786,7 +387786,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "おトイレの後はお手洗い！",
-   "zh": "",
+   "zh": "上完厕所要洗手！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387808,7 +387808,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "勝つまで辞めませんぞ！",
-   "zh": "",
+   "zh": "不赢下来在下绝不罢休！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387830,7 +387830,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "これ粘着必勝の極意なり！",
-   "zh": "",
+   "zh": "死缠烂打乃必胜之奥义！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387852,7 +387852,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387873,7 +387873,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "きゃ！",
-   "zh": "",
+   "zh": "呀！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387895,7 +387895,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "あ……っ！",
-   "zh": "",
+   "zh": "啊……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387917,7 +387917,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "なにをするのです……！",
-   "zh": "",
+   "zh": "你要做什么……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387939,7 +387939,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "およしになって……！",
-   "zh": "",
+   "zh": "快住手……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387961,7 +387961,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "なんということ……！",
-   "zh": "",
+   "zh": "怎会如此……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -387983,7 +387983,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "叫ぶレディ",
-   "zh": "",
+   "zh": "尖叫贵妇",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388004,7 +388004,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ワタクシのペットちゃんに何するの！",
-   "zh": "",
+   "zh": "你对我家宠物宝贝做什么呢！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388026,7 +388026,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "このひとでなしー！",
-   "zh": "",
+   "zh": "你这个没良心的——！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388048,7 +388048,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "このひとでなしー！",
-   "zh": "",
+   "zh": "你这个没良心的——！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388070,7 +388070,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "このひとでなしー！",
-   "zh": "",
+   "zh": "你这个没良心的——！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388092,7 +388092,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "このひとでなしー！",
-   "zh": "",
+   "zh": "你这个没良心的——！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388114,7 +388114,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "ザマスおばさん",
-   "zh": "",
+   "zh": "扎玛斯大婶",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388135,7 +388135,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "何ザマスか！",
-   "zh": "",
+   "zh": "搞什么扎玛斯！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388157,7 +388157,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "やめるザマス！",
-   "zh": "",
+   "zh": "快住手扎玛斯！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388179,7 +388179,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "許さないザマスよ！！",
-   "zh": "",
+   "zh": "饶不了你扎玛斯！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388201,7 +388201,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "きゃーザマス！！",
-   "zh": "",
+   "zh": "呀——扎玛斯！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388223,7 +388223,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "お仕置きザマス！！",
-   "zh": "",
+   "zh": "看我惩罚你扎玛斯！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388245,7 +388245,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "ペットのわわは",
-   "zh": "",
+   "zh": "宠物哇哇哈",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388266,7 +388266,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "わわは～！痛いですぅ！",
-   "zh": "",
+   "zh": "哇哇哈～！好痛的说！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388288,7 +388288,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "わわは～！やめろですぅ！",
-   "zh": "",
+   "zh": "哇哇哈～！快住手的说！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388310,7 +388310,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "わわは～！ブチ殺してやるですぅ！",
-   "zh": "",
+   "zh": "哇哇哈～！宰了你的说！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388332,7 +388332,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "わわは～！わわは～ですぅ！",
-   "zh": "",
+   "zh": "哇哇哈～！是哇哇哈的说！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388354,7 +388354,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "わわは～！かかって来いですぅ！",
-   "zh": "",
+   "zh": "哇哇哈～！放马过来的说！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388376,7 +388376,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "普通の青年",
-   "zh": "",
+   "zh": "普通的青年",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388397,7 +388397,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "何です、あなたは？",
-   "zh": "",
+   "zh": "你是谁，有什么事吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388419,7 +388419,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "な、何もないですよ、うちには！",
-   "zh": "",
+   "zh": "我、我们家可什么都没有啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388441,7 +388441,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "な、何も持ってませんよ！",
-   "zh": "",
+   "zh": "我、我身上什么都没带啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388463,7 +388463,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "あいたっ！",
-   "zh": "",
+   "zh": "好痛！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388485,7 +388485,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "何でこんな目に！",
-   "zh": "",
+   "zh": "为什么会碰上这种倒霉事！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388507,7 +388507,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388528,7 +388528,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "く、クレームですか？",
-   "zh": "",
+   "zh": "是、是要投诉吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388550,7 +388550,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "お、おいしくなかったですか……？",
-   "zh": "",
+   "zh": "难、难道很难吃吗……？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388572,7 +388572,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "や、やっぱり私なんかの腕じゃ駄目なのかな……。",
-   "zh": "",
+   "zh": "果然以我这点手艺还是不行吗……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388594,7 +388594,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ま、まずいもの食べさせて恥ずかしいです……！",
-   "zh": "",
+   "zh": "让、让您吃到这么难吃的东西真是太丢人了……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388616,7 +388616,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "こ、これはお詫びの品です……！",
-   "zh": "",
+   "zh": "这、这是赔罪的礼物……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388638,7 +388638,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388659,7 +388659,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "おうおうおう、文句あんのか！",
-   "zh": "",
+   "zh": "喂喂喂，你有意见啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388681,7 +388681,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "なんだあ、やるか！？",
-   "zh": "",
+   "zh": "干嘛啊，想干架吗！？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388703,7 +388703,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "俺の最高傑作でも食ってろ！",
-   "zh": "",
+   "zh": "给我把老子这最棒的杰作吃下去！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388725,7 +388725,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "まずいなんて言わせねえぞ！",
-   "zh": "",
+   "zh": "老子可不准你说难吃！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388747,7 +388747,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "師匠！何びびってんですか！",
-   "zh": "",
+   "zh": "师父！您在怂个什么劲啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388769,7 +388769,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "这是BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388790,7 +388790,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "おう、腹減ってんのかお前？",
-   "zh": "",
+   "zh": "喂，小子，你肚子饿了吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388812,7 +388812,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "お腹が空いてちゃ力が出ねえぞ！",
-   "zh": "",
+   "zh": "肚子空空可使不出劲来啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388834,7 +388834,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ほら、こいつを食いな！",
-   "zh": "",
+   "zh": "来，把这个吃了吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388856,7 +388856,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "うちのパンはうまいぞ！食ってみな！",
-   "zh": "",
+   "zh": "我们家的面包可好吃了！尝尝看吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388878,7 +388878,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "これをやるから持って帰りな！",
-   "zh": "",
+   "zh": "这个给你，拿回家去吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388900,7 +388900,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "マダムスイーツ",
-   "zh": "",
+   "zh": "甜点夫人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388921,7 +388921,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "んま！何か御用かしらン？",
-   "zh": "",
+   "zh": "哎呀！有什么事吗～？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388943,7 +388943,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "極上のスイーツをお召し上がれ！",
-   "zh": "",
+   "zh": "快请享用这极品甜点吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388965,7 +388965,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "あらやだ！もうこんな時間！",
-   "zh": "",
+   "zh": "哎呀讨厌！都这个时间了！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -388987,7 +388987,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "究極の甘味が呼んでるわぁ～！",
-   "zh": "",
+   "zh": "终极甜品在呼唤我啊～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389009,7 +389009,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "究極ゥゥゥゥゥゥゥ！！",
-   "zh": "",
+   "zh": "终～极～～～～～～！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389031,7 +389031,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "程序BUG",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389052,7 +389052,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ちょっと、マダムに何するのよ！",
-   "zh": "",
+   "zh": "喂，你对夫人做什么呢！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389074,7 +389074,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "早く出て行って！",
-   "zh": "",
+   "zh": "快点给我出去！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389096,7 +389096,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "それは今日作ったマダム特製オムライス……！",
-   "zh": "",
+   "zh": "那可是夫人今天特制的蛋包饭……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389118,7 +389118,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ま、マダムー！",
-   "zh": "",
+   "zh": "夫、夫人——！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389140,7 +389140,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "どうしてこうなったの……？",
-   "zh": "",
+   "zh": "怎么会变成这样……？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389162,7 +389162,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "偉そうな店主",
-   "zh": "",
+   "zh": "神气十足的店主",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389183,7 +389183,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "店であばれるでないわ！",
-   "zh": "",
+   "zh": "别在店里撒野！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389205,7 +389205,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ええい！店主を呼べ！",
-   "zh": "",
+   "zh": "可恶！快把店主叫来！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389227,7 +389227,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "こわっぱめが！",
-   "zh": "",
+   "zh": "黄毛小儿！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389249,7 +389249,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "身の程しらずが！",
-   "zh": "",
+   "zh": "不知天高地厚的家伙！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389271,7 +389271,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "かかってこんかい！",
-   "zh": "",
+   "zh": "尽管放马过来吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389293,7 +389293,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "武器オタクの青年",
-   "zh": "",
+   "zh": "武器宅青年",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389314,7 +389314,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ふひっ！な、何事でござる？",
-   "zh": "",
+   "zh": "噗嘻！是、是有何贵干在下？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389336,7 +389336,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "そ、それは僕が先に目を付けてたんだな！",
-   "zh": "",
+   "zh": "那、那是我先看中的说！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389358,7 +389358,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ぼ、暴力はいけないんだな！",
-   "zh": "",
+   "zh": "暴、暴力是不对的说！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389380,7 +389380,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "こ、この武器は譲れないんだな！",
-   "zh": "",
+   "zh": "这、这把武器我是不会让给你的说！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389402,7 +389402,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ふひっ！",
-   "zh": "",
+   "zh": "噗嘻！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389424,7 +389424,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "とがった美術家",
-   "zh": "",
+   "zh": "特立独行的美术家",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389445,7 +389445,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "うおォォォ！！",
-   "zh": "",
+   "zh": "喔喔喔喔！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389467,7 +389467,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "待ってくれ！今インスピレーションがッ！",
-   "zh": "",
+   "zh": "等一下！现在灵感正涌上来呢ッ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389489,7 +389489,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "これは新境地！新境地ィィ！！",
-   "zh": "",
+   "zh": "这是全新的境界！新境界啊啊！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389511,7 +389511,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "最っ高ッのアイデアが浮かんだぞッ！",
-   "zh": "",
+   "zh": "我涌现出无与伦比的绝妙灵感啦ッ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389533,7 +389533,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "芸術は暴発だァァ！",
-   "zh": "",
+   "zh": "艺术就是暴走爆发啊啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389555,7 +389555,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "美術家の弟子",
-   "zh": "",
+   "zh": "美术家的徒弟",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389576,7 +389576,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "先生！落ち着いてください！",
-   "zh": "",
+   "zh": "老师！请冷静一点！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389598,7 +389598,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "キャー！",
-   "zh": "",
+   "zh": "呀啊——！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389620,7 +389620,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "だ、誰かー！！",
-   "zh": "",
+   "zh": "来、来人啊——！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389642,7 +389642,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "先生！服を着てください！",
-   "zh": "",
+   "zh": "老师！请把衣服穿上！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389664,7 +389664,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "え、えーい！",
-   "zh": "",
+   "zh": "喝、喝呀！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389686,7 +389686,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "哲学家",
-   "zh": "",
+   "zh": "哲学家",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389707,7 +389707,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "我思うゆえに！我、腹減り！",
-   "zh": "",
+   "zh": "我思故！我肚饿！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389729,7 +389729,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "我思うゆえに！我、眠たし！",
-   "zh": "",
+   "zh": "我思故！我犯困！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389751,7 +389751,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "我思うゆえに！我、遊びたし！",
-   "zh": "",
+   "zh": "我思故！我想玩！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389773,7 +389773,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "我思うゆえに！我、ゴロゴロしたいし！",
-   "zh": "",
+   "zh": "我思故！我想躺平！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389795,7 +389795,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "我思うゆえに！我、金欲っしたし！",
-   "zh": "",
+   "zh": "我思故！我想发财！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389817,7 +389817,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "王都のエリート",
-   "zh": "",
+   "zh": "王都精英",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389838,7 +389838,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "この田舎ッペが！",
-   "zh": "",
+   "zh": "你这乡巴佬！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389860,7 +389860,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "このおのぼりさんめ！",
-   "zh": "",
+   "zh": "你这进城的土包子！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389882,7 +389882,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "汚い手で家具にさわるな！",
-   "zh": "",
+   "zh": "别用脏手碰家具！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389904,7 +389904,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "もうゆるさんぞー！",
-   "zh": "",
+   "zh": "绝不饶你——！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389926,7 +389926,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ムカつく野郎だぜ！",
-   "zh": "",
+   "zh": "真让人火大的混账东西！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389948,7 +389948,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "優しいおばちゃん",
-   "zh": "",
+   "zh": "温和的大婶",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389969,7 +389969,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "おやおや、元気だねえ。",
-   "zh": "",
+   "zh": "哎呀呀，真有精神呢。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -389991,7 +389991,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "そこは危ないよ、気を付けな。",
-   "zh": "",
+   "zh": "那里很危险哦，当心点。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390013,7 +390013,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "お菓子を分けてあげようかねぇ。",
-   "zh": "",
+   "zh": "分你点点心吃吧。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390035,7 +390035,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "暗くなる前に帰るんだよ。",
-   "zh": "",
+   "zh": "天黑前可要回家去哦。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390057,7 +390057,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "もしかして迷子かい？",
-   "zh": "",
+   "zh": "难道是迷路了吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390079,7 +390079,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "みーちゃん",
-   "zh": "",
+   "zh": "咪酱",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390100,7 +390100,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "にゃんにゃ？",
-   "zh": "",
+   "zh": "喵呜喵？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390122,7 +390122,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "にゃにゃーん！",
-   "zh": "",
+   "zh": "喵喵——！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390144,7 +390144,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "にゃにゃにゃっ！",
-   "zh": "",
+   "zh": "喵喵喵！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390166,7 +390166,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ギニャァァァァ！",
-   "zh": "",
+   "zh": "嘶喵呜呜呜！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390188,7 +390188,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ギニャアア！！！",
-   "zh": "",
+   "zh": "嘶喵嗷！！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390210,7 +390210,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "るーちゃん",
-   "zh": "",
+   "zh": "噜酱",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390231,7 +390231,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "にぃゃ～ん？",
-   "zh": "",
+   "zh": "喵～呜？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390253,7 +390253,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ににゃ～ん！",
-   "zh": "",
+   "zh": "喵呜～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390275,7 +390275,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "にゃっにゃにゃ！",
-   "zh": "",
+   "zh": "喵喵喵！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390297,7 +390297,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ギニィャァァァァァ！",
-   "zh": "",
+   "zh": "嘶喵呜呜呜呜！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390319,7 +390319,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "フッシャァァァァ！！！",
-   "zh": "",
+   "zh": "嘶嘶嘶嗷嗷嗷！！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390341,7 +390341,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "何でもいい男",
-   "zh": "",
+   "zh": "怎样都行的男人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390362,7 +390362,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "いいんじゃない？",
-   "zh": "",
+   "zh": "不挺好的吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390384,7 +390384,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "別にいいと思うよ？",
-   "zh": "",
+   "zh": "我觉得没什么不好吧？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390406,7 +390406,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "どっちでもいいよ？",
-   "zh": "",
+   "zh": "哪边都行哦？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390428,7 +390428,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "それでいいんじゃない？",
-   "zh": "",
+   "zh": "那样不也挺好的吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390450,7 +390450,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "どうでもいいけどね！",
-   "zh": "",
+   "zh": "虽然我都无所谓就是了！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390472,7 +390472,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "かわいい人妻",
-   "zh": "",
+   "zh": "可爱的人妻",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390493,7 +390493,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "おかえりニャン♪",
-   "zh": "",
+   "zh": "欢迎回家喵♪",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390515,7 +390515,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ニャンニャンっ♪",
-   "zh": "",
+   "zh": "喵喵♪",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390537,7 +390537,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "やめようニャンっ♪",
-   "zh": "",
+   "zh": "快住手喵♪",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390559,7 +390559,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ご飯にするニャン？",
-   "zh": "",
+   "zh": "先吃饭喵？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390581,7 +390581,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "お風呂にするにゃん？",
-   "zh": "",
+   "zh": "先洗澡喵？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390603,7 +390603,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "バグです",
-   "zh": "",
+   "zh": "是Bug",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390624,7 +390624,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "し、新築なんだ……大事に扱ってくれよ……！",
-   "zh": "",
+   "zh": "这、这可是新盖的房子……轻点对待它啊……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390646,7 +390646,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "やめろ！傷をつけるなよ！",
-   "zh": "",
+   "zh": "住手！别给它弄出划痕啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390668,7 +390668,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "頼むから、丁寧に扱ってくれ……！",
-   "zh": "",
+   "zh": "求求你，手下留情啊……！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390690,7 +390690,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "あわわわわ俺の家がー！！",
-   "zh": "",
+   "zh": "哇啊啊啊我的房子啊——！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390712,7 +390712,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "傷なんて見てない、見てないぞおおお！",
-   "zh": "",
+   "zh": "划痕什么的没看见、我没看见啊啊啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390734,7 +390734,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "後ろ暗い男",
-   "zh": "",
+   "zh": "做贼心虚的男人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390755,7 +390755,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ひいっ！",
-   "zh": "",
+   "zh": "噫！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390777,7 +390777,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "お、俺は何もしてない！無実だ！",
-   "zh": "",
+   "zh": "我、我什么都没做！我是清白的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390799,7 +390799,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "俺は悪くない、悪くないんだ！",
-   "zh": "",
+   "zh": "不是我的错，真的不是我的错啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390821,7 +390821,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "許してくれえぇぇぇ！",
-   "zh": "",
+   "zh": "饶了我吧啊啊啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390843,7 +390843,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "うぅ……うぅぅ……。",
-   "zh": "",
+   "zh": "呜……呜呜……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390865,7 +390865,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "真面目な店主",
-   "zh": "",
+   "zh": "认真的店主",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390886,7 +390886,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "何かお探しですかぁ！",
-   "zh": "",
+   "zh": "您在找些什么吗！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390908,7 +390908,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "お求めの品はこれでしょう！",
-   "zh": "",
+   "zh": "您要找的东西就是这个吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390930,7 +390930,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "こちらもお値打ちになっております！",
-   "zh": "",
+   "zh": "这个也很划算哦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390952,7 +390952,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "在庫も豊富ですよ！",
-   "zh": "",
+   "zh": "库存也很充裕哦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390974,7 +390974,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "お求めには全力で答えますとも！",
-   "zh": "",
+   "zh": "定会全力满足您的需求！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -390996,7 +390996,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "聖人のような男",
-   "zh": "",
+   "zh": "宛如圣人的男子",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391017,7 +391017,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "友愛こそが至上！",
-   "zh": "",
+   "zh": "友爱才是至高无上的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391039,7 +391039,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "友愛してますか？",
-   "zh": "",
+   "zh": "你有心怀友爱吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391061,7 +391061,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "友愛はお金では買えません！",
-   "zh": "",
+   "zh": "友爱可是金钱买不来的！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391083,7 +391083,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "友愛してあげましょう！",
-   "zh": "",
+   "zh": "让我赐予你友爱吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391105,7 +391105,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "友愛は世界を救う！",
-   "zh": "",
+   "zh": "友爱将拯救世界！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391127,7 +391127,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "エセ思想家な男",
-   "zh": "",
+   "zh": "冒牌思想家男子",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391148,7 +391148,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "王政反対～！",
-   "zh": "",
+   "zh": "反对王政～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391170,7 +391170,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "私の声こそが民の声である！",
-   "zh": "",
+   "zh": "我的呼声才是万民的呼声！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391192,7 +391192,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "私が王国民の代弁者である！",
-   "zh": "",
+   "zh": "我才是王国人民的代言人！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391214,7 +391214,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "自由と平等の名の下に！",
-   "zh": "",
+   "zh": "以自由与平等之名！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391236,7 +391236,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "我々は搾取されているのである！",
-   "zh": "",
+   "zh": "我们正在被剥削啊！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391258,7 +391258,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "ゆるい女店主",
-   "zh": "",
+   "zh": "懒散的女店主",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391279,7 +391279,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "お店を壊さないでください～。",
-   "zh": "",
+   "zh": "请不要砸我的店啊～",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391301,7 +391301,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "やめてくださいよぅ～。",
-   "zh": "",
+   "zh": "快住手啦～",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391323,7 +391323,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "痛いですぅ～。",
-   "zh": "",
+   "zh": "好痛哦～",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391345,7 +391345,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "こうしてやりますよぅ。",
-   "zh": "",
+   "zh": "看我给你点颜色瞧瞧～",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391367,7 +391367,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "どいひぃ～！どいひぃ～ですぅ！",
-   "zh": "",
+   "zh": "过奋～！太过奋了啦～！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391389,7 +391389,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "着膨れした男",
-   "zh": "",
+   "zh": "穿得臃肿的男子",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391410,7 +391410,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "もごもご！",
-   "zh": "",
+   "zh": "唔唔唔！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391432,7 +391432,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "もごもごもご！",
-   "zh": "",
+   "zh": "唔唔唔唔唔！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391454,7 +391454,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ももっふ！",
-   "zh": "",
+   "zh": "唔噗！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391476,7 +391476,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "もごごごお！",
-   "zh": "",
+   "zh": "唔嗷嗷嗷！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391498,7 +391498,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "もふう……。",
-   "zh": "",
+   "zh": "唔呼……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391520,7 +391520,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "暖かそうな男の子",
-   "zh": "",
+   "zh": "穿得很暖和的小男孩",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391541,7 +391541,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "モゴゴ！",
-   "zh": "",
+   "zh": "唔喔！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391563,7 +391563,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "モゴモゴゴ！",
-   "zh": "",
+   "zh": "唔喔唔喔！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391585,7 +391585,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "モフウ！",
-   "zh": "",
+   "zh": "呼呜！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391607,7 +391607,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "モゴオ！",
-   "zh": "",
+   "zh": "唔喔嗷！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391629,7 +391629,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "モフッフウ……。",
-   "zh": "",
+   "zh": "呼噗呜……",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391651,7 +391651,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "魔女の末裔",
-   "zh": "",
+   "zh": "魔女的后裔",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391672,7 +391672,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ひひひ……なかなかやるね！",
-   "zh": "",
+   "zh": "嘻嘻嘻……挺能干的嘛！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391694,7 +391694,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "流石……とでも言っておこうかい！",
-   "zh": "",
+   "zh": "真不愧是……就当是夸你一句吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391716,7 +391716,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "まだまだ、その程度じゃ！",
-   "zh": "",
+   "zh": "还早着呢，就凭这点本事！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391738,7 +391738,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "おお、怖い怖い！ひっひっひ！",
-   "zh": "",
+   "zh": "哎呀好怕好怕！嘻嘻嘻！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391760,7 +391760,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ほらほら！どうしたね！",
-   "zh": "",
+   "zh": "来呀来呀！怎么啦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391782,7 +391782,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "東の国の女",
-   "zh": "",
+   "zh": "东方之国的女子",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391803,7 +391803,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "……追っ手！？",
-   "zh": "",
+   "zh": "……追兵！？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391825,7 +391825,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "何？このちんちくりんは……！？",
-   "zh": "",
+   "zh": "什么？这小矮子是……！？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391847,7 +391847,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "この子、サビーナの匂いがする！？",
-   "zh": "",
+   "zh": "这孩子身上，有萨比娜的气味！？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391869,7 +391869,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "一宿一飯の恩義により助太刀します！",
-   "zh": "",
+   "zh": "蒙受一宿一饭之恩，在下前来助阵！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391891,7 +391891,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "関わらない方が身のためよ！",
-   "zh": "",
+   "zh": "不想惹祸上身的话，最好别多管闲事！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391913,7 +391913,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "優しい店主",
-   "zh": "",
+   "zh": "温柔的店主",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391934,7 +391934,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "暖かい飲み物はどうだい？",
-   "zh": "",
+   "zh": "来杯热饮暖暖身子怎么样？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391956,7 +391956,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "毛布を貸してあげよう！",
-   "zh": "",
+   "zh": "借你一条毛毯吧！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -391978,7 +391978,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "マッサージでもしようか？",
-   "zh": "",
+   "zh": "要不要给你做个按摩呢？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392000,7 +392000,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "たっぷりのシチューなんてどうだい？",
-   "zh": "",
+   "zh": "来一份满满的炖菜怎么样？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392022,7 +392022,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ふかふかなベッドもあるよ！",
-   "zh": "",
+   "zh": "这里还有软绵绵的床哦！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392044,7 +392044,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "意味深な男",
-   "zh": "",
+   "zh": "意味深长的男子",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392065,7 +392065,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "……こんなところにいていいのか？",
-   "zh": "",
+   "zh": "……待在那种地方真的好吗？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392087,7 +392087,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "その程度か！",
-   "zh": "",
+   "zh": "その程度か！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392109,7 +392109,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "逃げていても何も始まらんぞ！",
-   "zh": "",
+   "zh": "逃げていても何も始まらんぞ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392131,7 +392131,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "何も分かっていないようだな！",
-   "zh": "",
+   "zh": "何も分かっていないようだな！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392153,7 +392153,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "……覚悟が足りぬわ！",
-   "zh": "",
+   "zh": "……覚悟が足りぬわ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392175,7 +392175,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "裏歴史研究家",
-   "zh": "",
+   "zh": "裏歴史研究家",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392196,7 +392196,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "魔女の伝説を知っている？",
-   "zh": "",
+   "zh": "魔女の伝説を知っている？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392218,7 +392218,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ウルカの仲間は１３人！",
-   "zh": "",
+   "zh": "ウルカの仲間は１３人！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392240,7 +392240,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "裏切り者はアマタイア！",
-   "zh": "",
+   "zh": "裏切り者はアマタイア！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392262,7 +392262,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ニケを守るはイデカの村人！",
-   "zh": "",
+   "zh": "ニケを守るはイデカの村人！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392284,7 +392284,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "悲しみのアグニ！何処に眠る？",
-   "zh": "",
+   "zh": "悲しみのアグニ！何処に眠る？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392306,7 +392306,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "静かな女の子",
-   "zh": "",
+   "zh": "静かな女の子",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392327,7 +392327,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "……危ないよ！",
-   "zh": "",
+   "zh": "……危ないよ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392349,7 +392349,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "……大きな音は雪崩が起きるの！",
-   "zh": "",
+   "zh": "……大きな音は雪崩が起きるの！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392371,7 +392371,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "……つららが落ちて危ないよ！",
-   "zh": "",
+   "zh": "……つららが落ちて危ないよ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392393,7 +392393,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "……家が壊れちゃう！",
-   "zh": "",
+   "zh": "……家が壊れちゃう！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392415,7 +392415,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "……やめて！",
-   "zh": "",
+   "zh": "……やめて！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392437,7 +392437,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "厳格な老人",
-   "zh": "",
+   "zh": "厳格な老人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392458,7 +392458,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "お前、出来るな！",
-   "zh": "",
+   "zh": "お前、出来るな！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392480,7 +392480,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "力の使い道を誤るでないわ！",
-   "zh": "",
+   "zh": "力の使い道を誤るでないわ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392502,7 +392502,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ぐぬう！",
-   "zh": "",
+   "zh": "ぐぬう！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392524,7 +392524,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "老いには勝てぬか！",
-   "zh": "",
+   "zh": "老いには勝てぬか！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392546,7 +392546,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "無駄じゃ！",
-   "zh": "",
+   "zh": "無駄じゃ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392568,7 +392568,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "寒さに弱い男",
-   "zh": "",
+   "zh": "寒さに弱い男",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392589,7 +392589,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "……寒いいいぃぃぃ！",
-   "zh": "",
+   "zh": "……寒いいいぃぃぃ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392611,7 +392611,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "早くドアを閉めて！",
-   "zh": "",
+   "zh": "早くドアを閉めて！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392633,7 +392633,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "火を消さないでくれ！",
-   "zh": "",
+   "zh": "火を消さないでくれ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392655,7 +392655,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ブルッっときたぁ！",
-   "zh": "",
+   "zh": "ブルッっときたぁ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392677,7 +392677,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "寒いぃぃギギギ！！",
-   "zh": "",
+   "zh": "寒いぃぃギギギ！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392699,7 +392699,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "下膨れの女",
-   "zh": "",
+   "zh": "下膨れの女",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392720,7 +392720,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "はー寒い！",
-   "zh": "",
+   "zh": "はー寒い！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392742,7 +392742,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "あんた、元気ねえ！",
-   "zh": "",
+   "zh": "あんた、元気ねえ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392764,7 +392764,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "頭の炎があったかそう！",
-   "zh": "",
+   "zh": "頭の炎があったかそう！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392786,7 +392786,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "元気があるなら畑でも耕してよ！",
-   "zh": "",
+   "zh": "元気があるなら畑でも耕してよ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392808,7 +392808,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "寒い寒い！！",
-   "zh": "",
+   "zh": "寒い寒い！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392830,7 +392830,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "氷雪の大豪傑",
-   "zh": "",
+   "zh": "氷雪の大豪傑",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392851,7 +392851,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "フンッ！バフッ！",
-   "zh": "",
+   "zh": "フンッ！バフッ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392873,7 +392873,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "掛かってこんかっ！",
-   "zh": "",
+   "zh": "掛かってこんかっ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392895,7 +392895,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ほうら！どうした！！",
-   "zh": "",
+   "zh": "ほうら！どうした！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392917,7 +392917,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "どうした！どうした！",
-   "zh": "",
+   "zh": "どうした！どうした！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392939,7 +392939,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "お前のようなチビは大好物だぞ！",
-   "zh": "",
+   "zh": "お前のようなチビは大好物だぞ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392961,7 +392961,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "眼帯の闇商人",
-   "zh": "",
+   "zh": "眼帯の闇商人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -392982,7 +392982,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "おふっ！なかなか硬てえ兜じゃねーか！",
-   "zh": "",
+   "zh": "おふっ！なかなか硬てえ兜じゃねーか！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393004,7 +393004,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "やる気か！クソガキが！",
-   "zh": "",
+   "zh": "やる気か！クソガキが！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393026,7 +393026,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "坊主！オレ様を甘く見たな！",
-   "zh": "",
+   "zh": "坊主！オレ様を甘く見たな！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393048,7 +393048,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ドラララァ！",
-   "zh": "",
+   "zh": "ドラララァ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393070,7 +393070,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ドッセイッ！！",
-   "zh": "",
+   "zh": "ドッセイッ！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393092,7 +393092,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "病弱な魔女",
-   "zh": "",
+   "zh": "病弱な魔女",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393113,7 +393113,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ごほっ！",
-   "zh": "",
+   "zh": "ごほっ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393135,7 +393135,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ごほごほっ！",
-   "zh": "",
+   "zh": "ごほごほっ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393157,7 +393157,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ぶえっくしょおい！！！",
-   "zh": "",
+   "zh": "ぶえっくしょおい！！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393179,7 +393179,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "く、薬、薬……。",
-   "zh": "",
+   "zh": "く、薬、薬……。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393201,7 +393201,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "うげぇぇぇ……。",
-   "zh": "",
+   "zh": "うげぇぇぇ……。",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393223,7 +393223,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "魔女ノーラ",
-   "zh": "",
+   "zh": "魔女ノーラ",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393244,7 +393244,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ヒヒッ！なっちゃいないね！",
-   "zh": "",
+   "zh": "ヒヒッ！なっちゃいないね！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393266,7 +393266,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "アンタ見てると何故か血が騒ぐんだよ！",
-   "zh": "",
+   "zh": "アンタ見てると何故か血が騒ぐんだよ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393288,7 +393288,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "坊や……相手を間違えたようだね！",
-   "zh": "",
+   "zh": "坊や……相手を間違えたようだね！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393310,7 +393310,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "伊達に千年、生きてんじゃないよッ！",
-   "zh": "",
+   "zh": "伊達に千年、生きてんじゃないよッ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393332,7 +393332,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ヒヒヒッ！！",
-   "zh": "",
+   "zh": "ヒヒヒッ！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393354,7 +393354,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "闇商人の老人",
-   "zh": "",
+   "zh": "闇商人の老人",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393375,7 +393375,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ほっほっほ！",
-   "zh": "",
+   "zh": "ほっほっほ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393397,7 +393397,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ほいさっ！",
-   "zh": "",
+   "zh": "ほいさっ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393419,7 +393419,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ほれほれ！どうした！",
-   "zh": "",
+   "zh": "ほれほれ！どうした！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393441,7 +393441,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "武道の真髄、みせてやろう！",
-   "zh": "",
+   "zh": "武道の真髄、みせてやろう！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393463,7 +393463,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "どうじゃっ！",
-   "zh": "",
+   "zh": "どうじゃっ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393485,7 +393485,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "魔女のまじない札",
-   "zh": "",
+   "zh": "魔女のまじない札",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393506,7 +393506,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "ガガッ！（紙切れが飛び回っている！）",
-   "zh": "",
+   "zh": "ガガッ！（紙切れが飛び回っている！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393528,7 +393528,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ゴトッ！（これは強い！）",
-   "zh": "",
+   "zh": "ゴトッ！（これは強い！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393550,7 +393550,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ガタガタッ！（まじない札が宙を舞う！）",
-   "zh": "",
+   "zh": "ガタガタッ！（まじない札が宙を舞う！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393572,7 +393572,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ドガッ！（体当たりだ！）",
-   "zh": "",
+   "zh": "ドガッ！（体当たりだ！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393594,7 +393594,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ドゴッ！（強力な魔力を帯びている！）",
-   "zh": "",
+   "zh": "ドゴッ！（強力な魔力を帯びている！）",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393616,7 +393616,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "影人形",
-   "zh": "",
+   "zh": "影人形",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393637,7 +393637,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "キキッ！",
-   "zh": "",
+   "zh": "キキッ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393659,7 +393659,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "キッキッキ！",
-   "zh": "",
+   "zh": "キッキッキ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393681,7 +393681,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ギャビッ！",
-   "zh": "",
+   "zh": "ギャビッ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393703,7 +393703,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "キッキキキ！！",
-   "zh": "",
+   "zh": "キッキキキ！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393725,7 +393725,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "キキ……！？",
-   "zh": "",
+   "zh": "キキ……！？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393747,7 +393747,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "メタリカの影",
-   "zh": "",
+   "zh": "メタリカの影",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393768,7 +393768,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "カゲ……サリトテ……カゲ！！",
-   "zh": "",
+   "zh": "カゲ……サリトテ……カゲ！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393790,7 +393790,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ヒヒッ！ドコヲミテイル？",
-   "zh": "",
+   "zh": "ヒヒッ！ドコヲミテイル？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393812,7 +393812,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ヒヒッ！コッチダゾ！！",
-   "zh": "",
+   "zh": "ヒヒッ！コッチダゾ！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393834,7 +393834,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "ワタシニカテルトオモッタカ？",
-   "zh": "",
+   "zh": "ワタシニカテルトオモッタカ？",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393856,7 +393856,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ミノホドシラズガ！！",
-   "zh": "",
+   "zh": "ミノホドシラズガ！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393878,7 +393878,7 @@
    "field": "npc_name",
    "type": "text",
    "jp": "ミールさん",
-   "zh": "",
+   "zh": "ミールさん",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393899,7 +393899,7 @@
    "field": "line_normal",
    "type": "text",
    "jp": "やいやい！どこ見てあるいてんでえ！",
-   "zh": "",
+   "zh": "やいやい！どこ見てあるいてんでえ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393921,7 +393921,7 @@
    "field": "line_angry1",
    "type": "text",
    "jp": "ペッ！てやんでえ！",
-   "zh": "",
+   "zh": "ペッ！てやんでえ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393943,7 +393943,7 @@
    "field": "line_angry2",
    "type": "text",
    "jp": "ミールさんを舐めんじゃねえや！",
-   "zh": "",
+   "zh": "ミールさんを舐めんじゃねえや！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393965,7 +393965,7 @@
    "field": "line_raid1",
    "type": "text",
    "jp": "天下御免の五寸釘！！",
-   "zh": "",
+   "zh": "天下御免の五寸釘！！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
@@ -393987,7 +393987,7 @@
    "field": "line_raid2",
    "type": "text",
    "jp": "ひぐぅ！",
-   "zh": "",
+   "zh": "ひぐぅ！",
    "loc": {
     "file": "FieldHouseNPC.dat",
     "dstart": 20464,
