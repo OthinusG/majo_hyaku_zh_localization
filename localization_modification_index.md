@@ -10,3 +10,4 @@
 | M1-04 | `GameString.dat#01623.c1` → `GameString.dat#01786.c1` | 119 | GameString.dat 汉化与对齐校对 | PASS |
 | M2-01 | `DemoText.dat#00000` → `DemoText.dat#00999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |
 | M2-02 | `DemoText.dat#01000` → `DemoText.dat#01999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |
+| M2-03 | `DemoText.dat#02000` → `DemoText.dat#02999` | 1000 | DemoText.dat 汉化与对齐校对 | PASS |
