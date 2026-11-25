@@ -452975,7 +452975,7 @@
    "field": "c4",
    "type": "text",
    "jp": "景品を手に入れた！",
-   "zh": "",
+   "zh": "获得了奖品！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -452996,7 +452996,7 @@
    "field": "c4",
    "type": "text",
    "jp": "斧販売スキルを手に入れた！",
-   "zh": "",
+   "zh": "获得了斧头售卖技能！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453017,7 +453017,7 @@
    "field": "c4",
    "type": "text",
    "jp": "景品を手に入れた！",
-   "zh": "",
+   "zh": "获得了奖品！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453038,7 +453038,7 @@
    "field": "c4",
    "type": "text",
    "jp": "槍販売スキルを手に入れた！",
-   "zh": "",
+   "zh": "获得了长枪售卖技能！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453059,7 +453059,7 @@
    "field": "c4",
    "type": "text",
    "jp": "景品を手に入れた！",
-   "zh": "",
+   "zh": "获得了奖品！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453080,7 +453080,7 @@
    "field": "c4",
    "type": "text",
    "jp": "景品を手に入れた！",
-   "zh": "",
+   "zh": "获得了奖品！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453101,7 +453101,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453122,7 +453122,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453143,7 +453143,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453164,7 +453164,7 @@
    "field": "c4",
    "type": "text",
    "jp": "景品を手に入れた！",
-   "zh": "",
+   "zh": "获得了奖品！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453185,7 +453185,7 @@
    "field": "c4",
    "type": "text",
    "jp": "景品を手に入れた！",
-   "zh": "",
+   "zh": "获得了奖品！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453206,7 +453206,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453227,7 +453227,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453248,7 +453248,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453269,7 +453269,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453290,7 +453290,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453311,7 +453311,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453332,7 +453332,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453353,7 +453353,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453374,7 +453374,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453395,7 +453395,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453416,7 +453416,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453437,7 +453437,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453458,7 +453458,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453479,7 +453479,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453500,7 +453500,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453521,7 +453521,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453542,7 +453542,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453563,7 +453563,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453584,7 +453584,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453605,7 +453605,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453626,7 +453626,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453647,7 +453647,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453668,7 +453668,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453689,7 +453689,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453710,7 +453710,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453731,7 +453731,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453752,7 +453752,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453773,7 +453773,7 @@
    "field": "c4",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453794,7 +453794,7 @@
    "field": "c7",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
@@ -453815,7 +453815,7 @@
    "field": "c10",
    "type": "text",
    "jp": "お得意様ランクがレベルアップした！！",
-   "zh": "",
+   "zh": "熟客等级提升了！！",
    "loc": {
     "file": "ShopLvUpPrize.dat",
     "dstart": 4384,
