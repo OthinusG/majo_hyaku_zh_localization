@@ -42,3 +42,4 @@
 | M3-21 | `Petition.dat#00000.title` → `Petition.dat#00009.description` | 20 | Petition.dat 汉化与对齐校对 | PASS |
 | M3-22 | `PillarList.dat#00000.name` → `PillarList.dat#00164.description` | 330 | PillarList.dat 汉化与对齐校对 | PASS |
 | M3-23 | `RandomName.dat#00000.name_male` → `RandomName.dat#00283.name_female` | 568 | RandomName.dat 汉化与对齐校对 | PASS |
+| M3-24 | `ShopList.dat#00000.c1` → `ShopList.dat#00030.c1` | 31 | ShopList.dat 汉化与对齐校对 | PASS |

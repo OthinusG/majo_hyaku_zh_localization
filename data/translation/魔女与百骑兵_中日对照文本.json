@@ -452324,7 +452324,7 @@
    "field": "c1",
    "type": "text",
    "jp": "雑貨屋1",
-   "zh": "",
+   "zh": "杂货店1",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452345,7 +452345,7 @@
    "field": "c1",
    "type": "text",
    "jp": "雑貨屋2",
-   "zh": "",
+   "zh": "杂货店2",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452366,7 +452366,7 @@
    "field": "c1",
    "type": "text",
    "jp": "雑貨屋3",
-   "zh": "",
+   "zh": "杂货店3",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452387,7 +452387,7 @@
    "field": "c1",
    "type": "text",
    "jp": "雑貨屋4",
-   "zh": "",
+   "zh": "杂货店4",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452408,7 +452408,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズのショップ",
-   "zh": "",
+   "zh": "乌兹商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452429,7 +452429,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンのショップ1",
-   "zh": "",
+   "zh": "多恩商店1",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452450,7 +452450,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンのショップ2",
-   "zh": "",
+   "zh": "多恩商店2",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452471,7 +452471,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェのショップ1",
-   "zh": "",
+   "zh": "圣多尔切商店1",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452492,7 +452492,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェのショップ2",
-   "zh": "",
+   "zh": "圣多尔切商店2",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452513,7 +452513,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェのショップ3",
-   "zh": "",
+   "zh": "圣多尔切商店3",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452534,7 +452534,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコラータ城下町のショップ1",
-   "zh": "",
+   "zh": "巧克拉塔城下町商店1",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452555,7 +452555,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコラータ城下町のショップ2",
-   "zh": "",
+   "zh": "巧克拉塔城下町商店2",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452576,7 +452576,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人のショップ1",
-   "zh": "",
+   "zh": "翼人商店1",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452597,7 +452597,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人のショップ2",
-   "zh": "",
+   "zh": "翼人商店2",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452618,7 +452618,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヤプトラーカの南のショップ",
-   "zh": "",
+   "zh": "亚普托拉卡南部商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452639,7 +452639,7 @@
    "field": "c1",
    "type": "text",
    "jp": "獣人村のショップ",
-   "zh": "",
+   "zh": "兽人村商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452660,7 +452660,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都のショップ1",
-   "zh": "",
+   "zh": "魔女都商店1",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452681,7 +452681,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都のショップ2",
-   "zh": "",
+   "zh": "魔女都商店2",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452702,7 +452702,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエのショップ",
-   "zh": "",
+   "zh": "奇恩奎商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452723,7 +452723,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭なショップ",
-   "zh": "",
+   "zh": "不明晰的商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452744,7 +452744,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭な盗賊のショップ",
-   "zh": "",
+   "zh": "不明晰的盗贼商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452765,7 +452765,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都のショップ1",
-   "zh": "",
+   "zh": "王都商店1",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452786,7 +452786,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都のショップ2",
-   "zh": "",
+   "zh": "王都商店2",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452807,7 +452807,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都のショップ3",
-   "zh": "",
+   "zh": "王都商店3",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452828,7 +452828,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都のショップ4",
-   "zh": "",
+   "zh": "王都商店4",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452849,7 +452849,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪のラストショップ",
-   "zh": "",
+   "zh": "冰雪最终商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452870,7 +452870,7 @@
    "field": "c1",
    "type": "text",
    "jp": "テッタラ砂漠の闇ショップ",
-   "zh": "",
+   "zh": "特塔拉沙漠黑市商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452891,7 +452891,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの闇ショップ",
-   "zh": "",
+   "zh": "奇恩奎黑市商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452912,7 +452912,7 @@
    "field": "c1",
    "type": "text",
    "jp": "旧市街の闇ショップ",
-   "zh": "",
+   "zh": "老城区黑市商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452933,7 +452933,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の闇ショップ",
-   "zh": "",
+   "zh": "冰雪黑市商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
@@ -452954,7 +452954,7 @@
    "field": "c1",
    "type": "text",
    "jp": "拠点ショップ",
-   "zh": "",
+   "zh": "据点商店",
    "loc": {
     "file": "ShopList.dat",
     "dstart": 6944,
