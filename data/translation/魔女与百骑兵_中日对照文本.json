@@ -418135,7 +418135,7 @@
    "field": "c1",
    "type": "text",
    "jp": "STRボーナス",
-   "zh": "",
+   "zh": "STR加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418156,7 +418156,7 @@
    "field": "c1",
    "type": "text",
    "jp": "STRボーナス",
-   "zh": "",
+   "zh": "STR加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418177,7 +418177,7 @@
    "field": "c1",
    "type": "text",
    "jp": "STRボーナス",
-   "zh": "",
+   "zh": "STR加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418198,7 +418198,7 @@
    "field": "c1",
    "type": "text",
    "jp": "STRボーナス",
-   "zh": "",
+   "zh": "STR加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418219,7 +418219,7 @@
    "field": "c1",
    "type": "text",
    "jp": "STRボーナス",
-   "zh": "",
+   "zh": "STR加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418240,7 +418240,7 @@
    "field": "c1",
    "type": "text",
    "jp": "DEFボーナス",
-   "zh": "",
+   "zh": "DEF加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418261,7 +418261,7 @@
    "field": "c1",
    "type": "text",
    "jp": "DEFボーナス",
-   "zh": "",
+   "zh": "DEF加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418282,7 +418282,7 @@
    "field": "c1",
    "type": "text",
    "jp": "DEFボーナス",
-   "zh": "",
+   "zh": "DEF加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418303,7 +418303,7 @@
    "field": "c1",
    "type": "text",
    "jp": "DEFボーナス",
-   "zh": "",
+   "zh": "DEF加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418324,7 +418324,7 @@
    "field": "c1",
    "type": "text",
    "jp": "DEFボーナス",
-   "zh": "",
+   "zh": "DEF加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418345,7 +418345,7 @@
    "field": "c1",
    "type": "text",
    "jp": "クリティカルボーナス",
-   "zh": "",
+   "zh": "暴击加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418366,7 +418366,7 @@
    "field": "c1",
    "type": "text",
    "jp": "怯みダメージボーナス",
-   "zh": "",
+   "zh": "硬直伤害加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418387,7 +418387,7 @@
    "field": "c1",
    "type": "text",
    "jp": "毒ダメージボーナス",
-   "zh": "",
+   "zh": "中毒伤害加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418408,7 +418408,7 @@
    "field": "c1",
    "type": "text",
    "jp": "睡眠ダメージボーナス",
-   "zh": "",
+   "zh": "睡眠伤害加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418429,7 +418429,7 @@
    "field": "c1",
    "type": "text",
    "jp": "スタンダメージボーナス",
-   "zh": "",
+   "zh": "眩晕伤害加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418450,7 +418450,7 @@
    "field": "c1",
    "type": "text",
    "jp": "斬撃耐性ボーナス",
-   "zh": "",
+   "zh": "斩击抗性加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418471,7 +418471,7 @@
    "field": "c1",
    "type": "text",
    "jp": "打撃耐性ボーナス",
-   "zh": "",
+   "zh": "打击抗性加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,
@@ -418492,7 +418492,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔撃耐性ボーナス",
-   "zh": "",
+   "zh": "魔击抗性加成",
    "loc": {
     "file": "ItemAbility.dat",
     "dstart": 416,

@@ -29,3 +29,4 @@
 | M3-08 | `FieldHouseNPC.dat#00000.npc_name` → `FieldHouseNPC.dat#00168.line_normal` | 1000 | FieldHouseNPC.dat 汉化与对齐校对 | PASS |
 | M3-09 | `FieldHouseNPC.dat#00168.line_angry1` → `FieldHouseNPC.dat#00267.line_raid2` | 588 | FieldHouseNPC.dat 汉化与对齐校对 | PASS |
 | M3-10 | `FieldHouseWitch.dat#00000.c1` → `FieldHouseWitch.dat#00001.c1` | 2 | FieldHouseWitch.dat 汉化与对齐校对 | PASS |
+| M3-11 | `ItemAbility.dat#00000.c1` → `ItemAbility.dat#00017.c1` | 18 | ItemAbility.dat 汉化与对齐校对 | PASS |
