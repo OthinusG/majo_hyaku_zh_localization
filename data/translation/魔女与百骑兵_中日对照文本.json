@@ -359222,7 +359222,7 @@
    "field": "c1",
    "type": "text",
    "jp": "森",
-   "zh": "",
+   "zh": "森林",
    "loc": {
     "file": "FieldHouseArea.dat",
     "dstart": 64,
@@ -359243,7 +359243,7 @@
    "field": "c1",
    "type": "text",
    "jp": "森",
-   "zh": "",
+   "zh": "森林",
    "loc": {
     "file": "FieldHouseArea.dat",
     "dstart": 64,
@@ -359264,7 +359264,7 @@
    "field": "c1",
    "type": "text",
    "jp": "拠点",
-   "zh": "",
+   "zh": "据点",
    "loc": {
     "file": "FieldHouseArea.dat",
     "dstart": 64,

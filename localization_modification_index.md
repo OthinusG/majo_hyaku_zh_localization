@@ -24,3 +24,4 @@
 | M3-03 | `CharacterInfo.dat#00000.c1` → `CharacterInfo.dat#00001.c1` | 2 | CharacterInfo.dat 汉化与对齐校对 | PASS |
 | M3-04 | `CharacterRaceText.dat#00001.c1` → `CharacterRaceText.dat#00038.c22` | 836 | CharacterRaceText.dat 汉化与对齐校对 | PASS |
 | M3-05 | `FieldHouse.dat#00000.c1` → `FieldHouse.dat#00169.c1` | 170 | FieldHouse.dat 汉化与对齐校对 | PASS |
+| M3-06 | `FieldHouseArea.dat#00000.c1` → `FieldHouseArea.dat#00002.c1` | 3 | FieldHouseArea.dat 汉化与对齐校对 | PASS |
