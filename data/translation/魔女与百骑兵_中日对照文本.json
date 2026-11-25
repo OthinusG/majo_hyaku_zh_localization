@@ -355482,7 +355482,7 @@
    "field": "c1",
    "type": "text",
    "jp": "民家",
-   "zh": "",
+   "zh": "民居",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355504,7 +355504,7 @@
    "field": "c1",
    "type": "text",
    "jp": "幻の民家1【Lv1】",
-   "zh": "",
+   "zh": "幻之民居1【Lv1】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355526,7 +355526,7 @@
    "field": "c1",
    "type": "text",
    "jp": "幻の民家2",
-   "zh": "",
+   "zh": "幻之民居2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355548,7 +355548,7 @@
    "field": "c1",
    "type": "text",
    "jp": "幻の民家3",
-   "zh": "",
+   "zh": "幻之民居3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355570,7 +355570,7 @@
    "field": "c1",
    "type": "text",
    "jp": "幻の民家4",
-   "zh": "",
+   "zh": "幻之民居4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355592,7 +355592,7 @@
    "field": "c1",
    "type": "text",
    "jp": "幻の民家5",
-   "zh": "",
+   "zh": "幻之民居5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355614,7 +355614,7 @@
    "field": "c1",
    "type": "text",
    "jp": "幻の民家6",
-   "zh": "",
+   "zh": "幻之民居6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355636,7 +355636,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズの民家1【Lv3】",
-   "zh": "",
+   "zh": "乌兹民居1【Lv3】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355658,7 +355658,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズの民家2",
-   "zh": "",
+   "zh": "乌兹民居2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355680,7 +355680,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズの民家3（村長）",
-   "zh": "",
+   "zh": "乌兹民居3（村长）",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355702,7 +355702,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズのショップ",
-   "zh": "",
+   "zh": "乌兹商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355724,7 +355724,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズの民家4",
-   "zh": "",
+   "zh": "乌兹民居4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355746,7 +355746,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズの民家5",
-   "zh": "",
+   "zh": "乌兹民居5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355768,7 +355768,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズの民家6",
-   "zh": "",
+   "zh": "乌兹民居6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355790,7 +355790,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウーズの貯蔵塔",
-   "zh": "",
+   "zh": "乌兹储藏塔",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355812,7 +355812,7 @@
    "field": "c1",
    "type": "text",
    "jp": "盗賊の賭博テント【Lv3】",
-   "zh": "",
+   "zh": "盗贼赌博帐篷【Lv3】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355834,7 +355834,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンの民家1（奥の家）【Lv7】",
-   "zh": "",
+   "zh": "多恩民居1（深处的家）【Lv7】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355856,7 +355856,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンの民家2",
-   "zh": "",
+   "zh": "多恩民居2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355878,7 +355878,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンの民家3",
-   "zh": "",
+   "zh": "多恩民居3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355900,7 +355900,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンのショップ1",
-   "zh": "",
+   "zh": "多恩商店1",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355922,7 +355922,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンの民家5",
-   "zh": "",
+   "zh": "多恩民居5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355944,7 +355944,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンの貯蔵塔",
-   "zh": "",
+   "zh": "多恩储藏塔",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355966,7 +355966,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンのショップ2",
-   "zh": "",
+   "zh": "多恩商店2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -355988,7 +355988,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンの民家8",
-   "zh": "",
+   "zh": "多恩民居8",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356010,7 +356010,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ドーエンの民家9",
-   "zh": "",
+   "zh": "多恩民居9",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356032,7 +356032,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家1【Lv8】",
-   "zh": "",
+   "zh": "圣多尔切民居1【Lv8】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356054,7 +356054,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家2",
-   "zh": "",
+   "zh": "圣多尔切民居2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356076,7 +356076,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家3",
-   "zh": "",
+   "zh": "圣多尔切民居3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356098,7 +356098,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家4",
-   "zh": "",
+   "zh": "圣多尔切民居4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356120,7 +356120,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家5",
-   "zh": "",
+   "zh": "圣多尔切民居5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356142,7 +356142,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家6",
-   "zh": "",
+   "zh": "圣多尔切民居6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356164,7 +356164,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェのショップ1",
-   "zh": "",
+   "zh": "圣多尔切商店1",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356186,7 +356186,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家7",
-   "zh": "",
+   "zh": "圣多尔切民居7",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356208,7 +356208,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家8",
-   "zh": "",
+   "zh": "圣多尔切民居8",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356230,7 +356230,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェのショップ2",
-   "zh": "",
+   "zh": "圣多尔切商店2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356252,7 +356252,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家10",
-   "zh": "",
+   "zh": "圣多尔切民居10",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356274,7 +356274,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家11",
-   "zh": "",
+   "zh": "圣多尔切民居11",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356296,7 +356296,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェのショップ3",
-   "zh": "",
+   "zh": "圣多尔切商店3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356318,7 +356318,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家13",
-   "zh": "",
+   "zh": "圣多尔切民居13",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356340,7 +356340,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家14",
-   "zh": "",
+   "zh": "圣多尔切民居14",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356362,7 +356362,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家15",
-   "zh": "",
+   "zh": "圣多尔切民居15",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356384,7 +356384,7 @@
    "field": "c1",
    "type": "text",
    "jp": "セント・ドルチェの民家16",
-   "zh": "",
+   "zh": "圣多尔切民居16",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356406,7 +356406,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の庭家（ドルチェ）",
-   "zh": "",
+   "zh": "魔女庭院之屋（多尔切）",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356428,7 +356428,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家1【Lv9】",
-   "zh": "",
+   "zh": "巧克力城下町民居1【Lv9】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356450,7 +356450,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家2",
-   "zh": "",
+   "zh": "巧克力城下町民居2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356472,7 +356472,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家3",
-   "zh": "",
+   "zh": "巧克力城下町民居3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356494,7 +356494,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家4",
-   "zh": "",
+   "zh": "巧克力城下町民居4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356516,7 +356516,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家5",
-   "zh": "",
+   "zh": "巧克力城下町民居5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356538,7 +356538,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家6",
-   "zh": "",
+   "zh": "巧克力城下町民居6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356560,7 +356560,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家7",
-   "zh": "",
+   "zh": "巧克力城下町民居7",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356582,7 +356582,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家8",
-   "zh": "",
+   "zh": "巧克力城下町的民家8",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356604,7 +356604,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家9",
-   "zh": "",
+   "zh": "巧克力城下町的民家9",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356626,7 +356626,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家10",
-   "zh": "",
+   "zh": "巧克力城下町的民家10",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356648,7 +356648,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家11",
-   "zh": "",
+   "zh": "巧克力城下町的民家11",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356670,7 +356670,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家12",
-   "zh": "",
+   "zh": "巧克力城下町的民家12",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356692,7 +356692,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家13",
-   "zh": "",
+   "zh": "巧克力城下町的民家13",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356714,7 +356714,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ城下町の民家14",
-   "zh": "",
+   "zh": "巧克力城下町的民家14",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356736,7 +356736,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ大通りの民家1",
-   "zh": "",
+   "zh": "巧克力大街的民家1",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356758,7 +356758,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ大通りの民家2",
-   "zh": "",
+   "zh": "巧克力大街的民家2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356780,7 +356780,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ大通りの民家3",
-   "zh": "",
+   "zh": "巧克力大街的民家3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356802,7 +356802,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ大通りの民家4",
-   "zh": "",
+   "zh": "巧克力大街的民家4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356824,7 +356824,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ大通りの民家5",
-   "zh": "",
+   "zh": "巧克力大街的民家5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356846,7 +356846,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ大通りの民家6",
-   "zh": "",
+   "zh": "巧克力大街的民家6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356868,7 +356868,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ大通りの民家7",
-   "zh": "",
+   "zh": "巧克力大街的民家7",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356890,7 +356890,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ大通りの民家8",
-   "zh": "",
+   "zh": "巧克力大街的民家8",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356912,7 +356912,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ大通りの民家9",
-   "zh": "",
+   "zh": "巧克力大街的民家9",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356934,7 +356934,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チョコ大通りの民家10",
-   "zh": "",
+   "zh": "巧克力大街的民家10",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356956,7 +356956,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ナハブの小屋【Lv13】",
-   "zh": "",
+   "zh": "纳哈布的小屋【Lv13】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -356978,7 +356978,7 @@
    "field": "c1",
    "type": "text",
    "jp": "南のテント【Lv14】",
-   "zh": "",
+   "zh": "南方的帐篷【Lv14】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357000,7 +357000,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家1【Lv19】",
-   "zh": "",
+   "zh": "翼人的民家1【Lv19】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357022,7 +357022,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家2",
-   "zh": "",
+   "zh": "翼人的民家2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357044,7 +357044,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家3",
-   "zh": "",
+   "zh": "翼人的民家3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357066,7 +357066,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家4",
-   "zh": "",
+   "zh": "翼人的民家4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357088,7 +357088,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家5",
-   "zh": "",
+   "zh": "翼人的民家5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357110,7 +357110,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家6",
-   "zh": "",
+   "zh": "翼人的民家6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357132,7 +357132,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家7",
-   "zh": "",
+   "zh": "翼人的民家7",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357154,7 +357154,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家8",
-   "zh": "",
+   "zh": "翼人的民家8",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357176,7 +357176,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家9",
-   "zh": "",
+   "zh": "翼人的民家9",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357198,7 +357198,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家10",
-   "zh": "",
+   "zh": "翼人的民家10",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357220,7 +357220,7 @@
    "field": "c1",
    "type": "text",
    "jp": "翼人の民家11",
-   "zh": "",
+   "zh": "翼人的民家11",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357242,7 +357242,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砂漠のテント1の1【Lv17】",
-   "zh": "",
+   "zh": "沙漠帐篷1之1【Lv17】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357264,7 +357264,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砂漠のテント1の2",
-   "zh": "",
+   "zh": "沙漠帐篷1之2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357286,7 +357286,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砂漠のテント1の3",
-   "zh": "",
+   "zh": "沙漠帐篷1之3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357308,7 +357308,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砂漠のテント2の1【Lv17】",
-   "zh": "",
+   "zh": "沙漠帐篷2之1【Lv17】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357330,7 +357330,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砂漠のテント2の2",
-   "zh": "",
+   "zh": "沙漠帐篷2之2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357352,7 +357352,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砂漠のテント2の3",
-   "zh": "",
+   "zh": "沙漠帐篷2之3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357374,7 +357374,7 @@
    "field": "c1",
    "type": "text",
    "jp": "砂漠のテント3の1【Lv17】",
-   "zh": "",
+   "zh": "沙漠帐篷3之1【Lv17】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357396,7 +357396,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニ村民家1【Lv17】",
-   "zh": "",
+   "zh": "露琪妮村民家1【Lv17】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357418,7 +357418,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニ村民家2",
-   "zh": "",
+   "zh": "露琪妮村民家2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357440,7 +357440,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニ村民家3",
-   "zh": "",
+   "zh": "露琪妮村民家3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357462,7 +357462,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニ村民家4",
-   "zh": "",
+   "zh": "露琪妮村民家4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357484,7 +357484,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニ村民家5",
-   "zh": "",
+   "zh": "露琪妮村民家5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357506,7 +357506,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニ村民家6",
-   "zh": "",
+   "zh": "露琪妮村民家6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357528,7 +357528,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニ村民家7",
-   "zh": "",
+   "zh": "露琪妮村民家7",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357550,7 +357550,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニ村貯蔵塔1",
-   "zh": "",
+   "zh": "露琪妮村储藏塔1",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357572,7 +357572,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニ村貯蔵塔2",
-   "zh": "",
+   "zh": "露琪妮村储藏塔2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357594,7 +357594,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ルッキーニ村民家10",
-   "zh": "",
+   "zh": "露琪妮村民家10",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357616,7 +357616,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都の路地民家1【Lv24】",
-   "zh": "",
+   "zh": "魔女都小巷民家1【Lv24】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357638,7 +357638,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都の路地民家2",
-   "zh": "",
+   "zh": "魔女都小巷民家2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357660,7 +357660,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都の路地民家3",
-   "zh": "",
+   "zh": "魔女都小巷民家3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357682,7 +357682,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都のショップ",
-   "zh": "",
+   "zh": "魔女都的商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357704,7 +357704,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都の路地民家4",
-   "zh": "",
+   "zh": "魔女都的小巷民宅4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357726,7 +357726,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都の路地民家5",
-   "zh": "",
+   "zh": "魔女都的小巷民宅5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357748,7 +357748,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都の路地民家6",
-   "zh": "",
+   "zh": "魔女都的小巷民宅6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357770,7 +357770,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都のショップ",
-   "zh": "",
+   "zh": "魔女都的商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357792,7 +357792,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女都の路地民家8",
-   "zh": "",
+   "zh": "魔女都的小巷民宅8",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357814,7 +357814,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエ墓守【Lv27】",
-   "zh": "",
+   "zh": "奇恩奎守墓人之家【Lv27】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357836,7 +357836,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家1【Lv27】",
-   "zh": "",
+   "zh": "奇恩奎的民宅1【Lv27】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357858,7 +357858,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家2",
-   "zh": "",
+   "zh": "奇恩奎的民宅2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357880,7 +357880,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエのショップ",
-   "zh": "",
+   "zh": "奇恩奎的商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357902,7 +357902,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家3",
-   "zh": "",
+   "zh": "奇恩奎的民宅3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357924,7 +357924,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家4",
-   "zh": "",
+   "zh": "奇恩奎的民宅4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357946,7 +357946,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家5",
-   "zh": "",
+   "zh": "奇恩奎的民宅5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357968,7 +357968,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家6",
-   "zh": "",
+   "zh": "奇恩奎的民宅6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -357990,7 +357990,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家7",
-   "zh": "",
+   "zh": "奇恩奎的民宅7",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358012,7 +358012,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家8",
-   "zh": "",
+   "zh": "奇恩奎的民宅8",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358034,7 +358034,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家9",
-   "zh": "",
+   "zh": "奇恩奎的民宅9",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358056,7 +358056,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家10",
-   "zh": "",
+   "zh": "奇恩奎的民宅10",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358078,7 +358078,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの民家11",
-   "zh": "",
+   "zh": "奇恩奎的民宅11",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358100,7 +358100,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの貯蔵塔1",
-   "zh": "",
+   "zh": "奇恩奎的贮藏塔1",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358122,7 +358122,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの貯蔵塔2",
-   "zh": "",
+   "zh": "奇恩奎的贮藏塔2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358144,7 +358144,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭な民家1【Lv30】",
-   "zh": "",
+   "zh": "不明晰的民宅1【Lv30】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358166,7 +358166,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭な民家2",
-   "zh": "",
+   "zh": "不明晰的民宅2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358188,7 +358188,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭な民家3",
-   "zh": "",
+   "zh": "不明晰的民宅3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358210,7 +358210,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭な民家4",
-   "zh": "",
+   "zh": "不明晰的民宅4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358232,7 +358232,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭なショップ",
-   "zh": "",
+   "zh": "不明晰的商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358254,7 +358254,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭な民家5",
-   "zh": "",
+   "zh": "不明晰的民宅5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358276,7 +358276,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭な貯蔵塔1",
-   "zh": "",
+   "zh": "不明晰的贮藏塔1",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358298,7 +358298,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭な貯蔵塔2",
-   "zh": "",
+   "zh": "不明晰的贮藏塔2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358320,7 +358320,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ウルカ",
-   "zh": "",
+   "zh": "乌鲁卡",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358342,7 +358342,7 @@
    "field": "c1",
    "type": "text",
    "jp": "戦場跡民家【Lv32】",
-   "zh": "",
+   "zh": "战场遗迹民宅【Lv32】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358364,7 +358364,7 @@
    "field": "c1",
    "type": "text",
    "jp": "不明瞭な盗賊のショップ",
-   "zh": "",
+   "zh": "不明晰的盗贼商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358386,7 +358386,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家1【Lv34（9）37（10）】",
-   "zh": "",
+   "zh": "王都的民宅1【Lv34（9）37（10）】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358408,7 +358408,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家2",
-   "zh": "",
+   "zh": "王都的民宅2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358430,7 +358430,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家3",
-   "zh": "",
+   "zh": "王都的民宅3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358452,7 +358452,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都のショップ1",
-   "zh": "",
+   "zh": "王都的商店1",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358474,7 +358474,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家4",
-   "zh": "",
+   "zh": "王都的民宅4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358496,7 +358496,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都のショップ4",
-   "zh": "",
+   "zh": "王都的商店4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358518,7 +358518,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家6",
-   "zh": "",
+   "zh": "王都的民宅6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358540,7 +358540,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家7",
-   "zh": "",
+   "zh": "王都的民宅7",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358562,7 +358562,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都のショップ2",
-   "zh": "",
+   "zh": "王都的商店2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358584,7 +358584,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家8",
-   "zh": "",
+   "zh": "王都的民宅8",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358606,7 +358606,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家9",
-   "zh": "",
+   "zh": "王都的民宅9",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358628,7 +358628,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家10",
-   "zh": "",
+   "zh": "王都的民宅10",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358650,7 +358650,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家11",
-   "zh": "",
+   "zh": "王都的民宅11",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358672,7 +358672,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家12",
-   "zh": "",
+   "zh": "王都的民宅12",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358694,7 +358694,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都のショップ3",
-   "zh": "",
+   "zh": "王都的商店3",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358716,7 +358716,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家13",
-   "zh": "",
+   "zh": "王都的民宅13",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358738,7 +358738,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家14",
-   "zh": "",
+   "zh": "王都的民宅14",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358760,7 +358760,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家15",
-   "zh": "",
+   "zh": "王都的民宅15",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358782,7 +358782,7 @@
    "field": "c1",
    "type": "text",
    "jp": "王都の民家16（路地奥）",
-   "zh": "",
+   "zh": "王都民宅16（小巷深处）",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358804,7 +358804,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家1【Lv75】",
-   "zh": "",
+   "zh": "冰雪民宅1【Lv75】",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358826,7 +358826,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家2",
-   "zh": "",
+   "zh": "冰雪民宅2",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358848,7 +358848,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家3（1軒集落）",
-   "zh": "",
+   "zh": "冰雪民宅3（单户村落）",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358870,7 +358870,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家4",
-   "zh": "",
+   "zh": "冰雪民宅4",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358892,7 +358892,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家ショップ",
-   "zh": "",
+   "zh": "冰雪民宅商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358914,7 +358914,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家5",
-   "zh": "",
+   "zh": "冰雪民宅5",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358936,7 +358936,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家6",
-   "zh": "",
+   "zh": "冰雪民宅6",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358958,7 +358958,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家7",
-   "zh": "",
+   "zh": "冰雪民宅7",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -358980,7 +358980,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家8",
-   "zh": "",
+   "zh": "冰雪民宅8",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -359002,7 +359002,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家9",
-   "zh": "",
+   "zh": "冰雪民宅9",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -359024,7 +359024,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の民家10",
-   "zh": "",
+   "zh": "冰雪民宅10",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -359046,7 +359046,7 @@
    "field": "c1",
    "type": "text",
    "jp": "テッタラ砂漠の闇ショップ",
-   "zh": "",
+   "zh": "特塔拉沙漠黑市商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -359068,7 +359068,7 @@
    "field": "c1",
    "type": "text",
    "jp": "チンクエの闇ショップ",
-   "zh": "",
+   "zh": "奇恩奎黑市商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -359090,7 +359090,7 @@
    "field": "c1",
    "type": "text",
    "jp": "旧市街の闇ショップ",
-   "zh": "",
+   "zh": "老城区黑市商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -359112,7 +359112,7 @@
    "field": "c1",
    "type": "text",
    "jp": "氷雪の闇ショップ",
-   "zh": "",
+   "zh": "冰雪黑市商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -359134,7 +359134,7 @@
    "field": "c1",
    "type": "text",
    "jp": "リカの家",
-   "zh": "",
+   "zh": "莉卡之家",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -359156,7 +359156,7 @@
    "field": "c1",
    "type": "text",
    "jp": "拠点のショップ",
-   "zh": "",
+   "zh": "据点商店",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -359178,7 +359178,7 @@
    "field": "c1",
    "type": "text",
    "jp": "魔女の家",
-   "zh": "",
+   "zh": "魔女之家",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,
@@ -359200,7 +359200,7 @@
    "field": "c1",
    "type": "text",
    "jp": "ヴァンダーカンマー",
-   "zh": "",
+   "zh": "游荡商人",
    "loc": {
     "file": "FieldHouse.dat",
     "dstart": 20544,

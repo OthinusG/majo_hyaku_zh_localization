@@ -40,7 +40,7 @@
 - [x] **M3-02** AreaInfo.dat，序号 7–37（31 条），`AreaInfo.dat#00000.name` → `AreaInfo.dat#00015.description`
 - [x] **M3-03** CharacterInfo.dat，序号 38–39（2 条），`CharacterInfo.dat#00000.c1` → `CharacterInfo.dat#00001.c1`
 - [x] **M3-04** CharacterRaceText.dat，序号 40–875（836 条），`CharacterRaceText.dat#00001.c1` → `CharacterRaceText.dat#00038.c22`
-- [ ] **M3-05** FieldHouse.dat，序号 12283–12452（170 条），`FieldHouse.dat#00000.c1` → `FieldHouse.dat#00169.c1`
+- [x] **M3-05** FieldHouse.dat，序号 12283–12452（170 条），`FieldHouse.dat#00000.c1` → `FieldHouse.dat#00169.c1`
 - [ ] **M3-06** FieldHouseArea.dat，序号 12453–12455（3 条），`FieldHouseArea.dat#00000.c1` → `FieldHouseArea.dat#00002.c1`
 - [ ] **M3-07** FieldHouseBlock.dat，序号 12456–12458（3 条），`FieldHouseBlock.dat#00000.c1` → `FieldHouseBlock.dat#00002.c1`
 - [ ] **M3-08** FieldHouseNPC.dat，序号 12459–13458（1000 条），`FieldHouseNPC.dat#00000.npc_name` → `FieldHouseNPC.dat#00168.line_normal`
