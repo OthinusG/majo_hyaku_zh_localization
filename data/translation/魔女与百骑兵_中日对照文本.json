@@ -433213,7 +433213,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433234,7 +433234,7 @@
    "field": "description",
    "type": "text",
    "jp": "闇世界の開始地点",
-   "zh": "",
+   "zh": "暗黑世界的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433255,7 +433255,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433276,7 +433276,7 @@
    "field": "description",
    "type": "text",
    "jp": "ウーズの森の開始地点",
-   "zh": "",
+   "zh": "乌兹之森的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433297,7 +433297,7 @@
    "field": "name",
    "type": "text",
    "jp": "南東の柱",
-   "zh": "",
+   "zh": "东南之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433319,7 +433319,7 @@
    "field": "description",
    "type": "text",
    "jp": "初めて咲かせた記念すべきピラー。",
-   "zh": "",
+   "zh": "首次使其绽放、值得纪念的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433341,7 +433341,7 @@
    "field": "name",
    "type": "text",
    "jp": "中央の柱",
-   "zh": "",
+   "zh": "中央之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433363,7 +433363,7 @@
    "field": "description",
    "type": "text",
    "jp": "蟲の住まう森の西端に位置するピラー。 ",
-   "zh": "",
+   "zh": "位于栖虫森林西端的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433385,7 +433385,7 @@
    "field": "name",
    "type": "text",
    "jp": "蟲の巣の柱",
-   "zh": "",
+   "zh": "虫巢之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433407,7 +433407,7 @@
    "field": "description",
    "type": "text",
    "jp": "蟲の住処にもっとも近い、邪気に満ちた場所にあるピラー。 ",
-   "zh": "",
+   "zh": "离虫子巢穴最近、位于充满邪气之地的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433429,7 +433429,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433450,7 +433450,7 @@
    "field": "description",
    "type": "text",
    "jp": "ウーズの森深部の開始地点",
-   "zh": "",
+   "zh": "乌兹之森深部的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433471,7 +433471,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヘネアの柱",
-   "zh": "",
+   "zh": "赫内亚之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433493,7 +433493,7 @@
    "field": "description",
    "type": "text",
    "jp": "ヘネアの村の南に位置するピラー。 ",
-   "zh": "",
+   "zh": "位于赫内亚村南方的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433515,7 +433515,7 @@
    "field": "name",
    "type": "text",
    "jp": "東の集落の柱",
-   "zh": "",
+   "zh": "东侧聚落之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433537,7 +433537,7 @@
    "field": "description",
    "type": "text",
    "jp": "東にある盗賊達の集落の近くにあるピラー。",
-   "zh": "",
+   "zh": "位于东侧盗贼聚落附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433559,7 +433559,7 @@
    "field": "name",
    "type": "text",
    "jp": "結界の柱",
-   "zh": "",
+   "zh": "结界之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433581,7 +433581,7 @@
    "field": "description",
    "type": "text",
    "jp": "森の魔女の結界近くに位置するピラー。 ",
-   "zh": "",
+   "zh": "位于森之魔女结界附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433603,7 +433603,7 @@
    "field": "name",
    "type": "text",
    "jp": "森の庭園の柱",
-   "zh": "",
+   "zh": "森林庭园之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433625,7 +433625,7 @@
    "field": "description",
    "type": "text",
    "jp": "森の魔女の庭園付近のピラー。",
-   "zh": "",
+   "zh": "森之魔女庭园附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433647,7 +433647,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433668,7 +433668,7 @@
    "field": "description",
    "type": "text",
    "jp": "ヘッカヘンネの隠し森の開始地点",
-   "zh": "",
+   "zh": "赫卡亨尼隐秘之森的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433689,7 +433689,7 @@
    "field": "name",
    "type": "text",
    "jp": "庭園門の柱",
-   "zh": "",
+   "zh": "庭园门之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433711,7 +433711,7 @@
    "field": "description",
    "type": "text",
    "jp": "庭園門を抜けた先にあるピラー。",
-   "zh": "",
+   "zh": "穿过庭园门后前方的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433733,7 +433733,7 @@
    "field": "name",
    "type": "text",
    "jp": "駅前柱",
-   "zh": "",
+   "zh": "站前柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433755,7 +433755,7 @@
    "field": "description",
    "type": "text",
    "jp": "夜光列車停車駅近くのピラー。",
-   "zh": "",
+   "zh": "夜光列车停靠站附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433777,7 +433777,7 @@
    "field": "name",
    "type": "text",
    "jp": "守り人の柱",
-   "zh": "",
+   "zh": "守望者之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433799,7 +433799,7 @@
    "field": "description",
    "type": "text",
    "jp": "キノコ生茂るうっそうとした森の中央にあるピラー。",
-   "zh": "",
+   "zh": "位于蕈菇丛生、郁郁葱葱的森林中央的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433821,7 +433821,7 @@
    "field": "name",
    "type": "text",
    "jp": "北東の柱",
-   "zh": "",
+   "zh": "东北之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433843,7 +433843,7 @@
    "field": "description",
    "type": "text",
    "jp": "木漏れ日が差し込む、祈りの高台付近にあるピラー。",
-   "zh": "",
+   "zh": "位于阳光自树梢倾泻的祈祷高台附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433865,7 +433865,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433886,7 +433886,7 @@
    "field": "description",
    "type": "text",
    "jp": "ドーエンの丘の開始地点",
-   "zh": "",
+   "zh": "多恩之丘的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433907,7 +433907,7 @@
    "field": "name",
    "type": "text",
    "jp": "迷い人の柱",
-   "zh": "",
+   "zh": "迷茫者之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433929,7 +433929,7 @@
    "field": "description",
    "type": "text",
    "jp": "複雑に道が分岐する、廻り道のそばにあるピラー。",
-   "zh": "",
+   "zh": "位于道路错综分岔的回转道旁的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433951,7 +433951,7 @@
    "field": "name",
    "type": "text",
    "jp": "南の虫柱",
-   "zh": "",
+   "zh": "南之虫柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433973,7 +433973,7 @@
    "field": "description",
    "type": "text",
    "jp": "南の行き止まりにある虫の住処のピラー。",
-   "zh": "",
+   "zh": "位于南方死路尽头虫之巢穴的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -433995,7 +433995,7 @@
    "field": "name",
    "type": "text",
    "jp": "中央の柱",
-   "zh": "",
+   "zh": "中央之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434017,7 +434017,7 @@
    "field": "description",
    "type": "text",
    "jp": "ドーエンの丘の中央に位置するピラー。",
-   "zh": "",
+   "zh": "位于多恩之丘中央的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434039,7 +434039,7 @@
    "field": "name",
    "type": "text",
    "jp": "北の柱",
-   "zh": "",
+   "zh": "北之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434061,7 +434061,7 @@
    "field": "description",
    "type": "text",
    "jp": "丘の北方、ドーエンの森林へと向かう場所にあるピラー。",
-   "zh": "",
+   "zh": "位于山丘北方、通往多恩之森处的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434083,7 +434083,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434104,7 +434104,7 @@
    "field": "description",
    "type": "text",
    "jp": "ドーエンの森林の開始地点",
-   "zh": "",
+   "zh": "多恩之森的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434125,7 +434125,7 @@
    "field": "name",
    "type": "text",
    "jp": "村の東門の柱",
-   "zh": "",
+   "zh": "村庄东门之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434147,7 +434147,7 @@
    "field": "description",
    "type": "text",
    "jp": "ドーエン村の東口にあるピラー。",
-   "zh": "",
+   "zh": "位于多恩村东口的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434169,7 +434169,7 @@
    "field": "name",
    "type": "text",
    "jp": "村の西門の柱",
-   "zh": "",
+   "zh": "村庄西门之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434191,7 +434191,7 @@
    "field": "description",
    "type": "text",
    "jp": "ドーエン村の西口にあるピラー。",
-   "zh": "",
+   "zh": "位于多恩村西口的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434213,7 +434213,7 @@
    "field": "name",
    "type": "text",
    "jp": "ドーエンの柱",
-   "zh": "",
+   "zh": "多恩之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434235,7 +434235,7 @@
    "field": "description",
    "type": "text",
    "jp": "ヴァレンティーヌ領へ続く、分岐路付近のピラー。",
-   "zh": "",
+   "zh": "通往瓦伦蒂奴领地岔路附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434257,7 +434257,7 @@
    "field": "name",
    "type": "text",
    "jp": "西の精霊柱",
-   "zh": "",
+   "zh": "西之精灵柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434279,7 +434279,7 @@
    "field": "description",
    "type": "text",
    "jp": "森の精霊の監視下にある、ドーエンの森林奥地のピラー。",
-   "zh": "",
+   "zh": "处于森之精灵监视下、位于多恩之森深处的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434301,7 +434301,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434322,7 +434322,7 @@
    "field": "description",
    "type": "text",
    "jp": "センド・ドルチェ近郊の開始地点",
-   "zh": "",
+   "zh": "圣多尔切近郊的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434343,7 +434343,7 @@
    "field": "name",
    "type": "text",
    "jp": "洗礼の柱",
-   "zh": "",
+   "zh": "洗礼之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434365,7 +434365,7 @@
    "field": "description",
    "type": "text",
    "jp": "セント・ドルチェへ向かう道の脇にあるピラー。",
-   "zh": "",
+   "zh": "位于前往圣多尔切道路旁的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434387,7 +434387,7 @@
    "field": "name",
    "type": "text",
    "jp": "人知れずの柱",
-   "zh": "",
+   "zh": "隐秘之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434409,7 +434409,7 @@
    "field": "description",
    "type": "text",
    "jp": "西の木陰に隠れたピラー。",
-   "zh": "",
+   "zh": "隐藏在西方树荫下的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434431,7 +434431,7 @@
    "field": "name",
    "type": "text",
    "jp": "外壁の柱",
-   "zh": "",
+   "zh": "外壁之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434453,7 +434453,7 @@
    "field": "description",
    "type": "text",
    "jp": "セント・ドルチェ外壁内にあるピラー。",
-   "zh": "",
+   "zh": "位于圣多尔切外壁内的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434475,7 +434475,7 @@
    "field": "name",
    "type": "text",
    "jp": "東壁の柱",
-   "zh": "",
+   "zh": "东壁之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434497,7 +434497,7 @@
    "field": "description",
    "type": "text",
    "jp": "セント・ドルチェ東壁の先にあるピラー。",
-   "zh": "",
+   "zh": "位于圣多尔切东壁前方的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434519,7 +434519,7 @@
    "field": "name",
    "type": "text",
    "jp": "花里門前柱",
-   "zh": "",
+   "zh": "花乡门前柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434541,7 +434541,7 @@
    "field": "description",
    "type": "text",
    "jp": "チョコラータ花里に続く門前にあるピラー。",
-   "zh": "",
+   "zh": "位于通往巧克拉塔花乡门前的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434563,7 +434563,7 @@
    "field": "name",
    "type": "text",
    "jp": "大公爵の柱",
-   "zh": "",
+   "zh": "大公爵之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434585,7 +434585,7 @@
    "field": "description",
    "type": "text",
    "jp": "大公爵の隠し邸宅近くにあるピラー。",
-   "zh": "",
+   "zh": "位于大公爵秘密宅邸附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434607,7 +434607,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434628,7 +434628,7 @@
    "field": "description",
    "type": "text",
    "jp": "チョコラータ花里の開始地点",
-   "zh": "",
+   "zh": "巧克拉塔花乡的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434649,7 +434649,7 @@
    "field": "name",
    "type": "text",
    "jp": "華街の柱",
-   "zh": "",
+   "zh": "花街之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434671,7 +434671,7 @@
    "field": "description",
    "type": "text",
    "jp": "チョコラータ花里に入って最初に見つけるピラー。",
-   "zh": "",
+   "zh": "进入巧克拉塔花乡后最先发现的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434693,7 +434693,7 @@
    "field": "name",
    "type": "text",
    "jp": "西の庭の柱",
-   "zh": "",
+   "zh": "西庭之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434715,7 +434715,7 @@
    "field": "description",
    "type": "text",
    "jp": "華街から離れた西の庭に位置するピラー。",
-   "zh": "",
+   "zh": "位于远离花街的西侧庭园中的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434737,7 +434737,7 @@
    "field": "name",
    "type": "text",
    "jp": "楼閣門前街の柱",
-   "zh": "",
+   "zh": "楼阁门前街之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434759,7 +434759,7 @@
    "field": "description",
    "type": "text",
    "jp": "チョコラータ楼閣門前街の奥に鎮座するピラー。",
-   "zh": "",
+   "zh": "坐落于巧克拉塔楼阁门前街深处的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434781,7 +434781,7 @@
    "field": "name",
    "type": "text",
    "jp": "離れ庭の柱",
-   "zh": "",
+   "zh": "偏庭之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434803,7 +434803,7 @@
    "field": "description",
    "type": "text",
    "jp": "歩いて到達できない離れ庭にあるピラー。",
-   "zh": "",
+   "zh": "位于步行无法抵达的独立偏庭中的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434825,7 +434825,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434846,7 +434846,7 @@
    "field": "description",
    "type": "text",
    "jp": "チョコラータ楼閣の開始地点",
-   "zh": "",
+   "zh": "巧克拉塔楼阁的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434867,7 +434867,7 @@
    "field": "name",
    "type": "text",
    "jp": "第１階層の柱",
-   "zh": "",
+   "zh": "第１阶层之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434889,7 +434889,7 @@
    "field": "description",
    "type": "text",
    "jp": "チョコラータ楼閣の１階層目にあるピラー。",
-   "zh": "",
+   "zh": "位于巧克拉塔楼阁第１层的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434911,7 +434911,7 @@
    "field": "name",
    "type": "text",
    "jp": "第２階層の柱",
-   "zh": "",
+   "zh": "第２阶层之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434933,7 +434933,7 @@
    "field": "description",
    "type": "text",
    "jp": "チョコラータ楼閣の２階層目にあるピラー。",
-   "zh": "",
+   "zh": "位于巧克拉塔楼阁第２层的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434955,7 +434955,7 @@
    "field": "name",
    "type": "text",
    "jp": "第３階層の柱",
-   "zh": "",
+   "zh": "第３阶层之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434977,7 +434977,7 @@
    "field": "description",
    "type": "text",
    "jp": "チョコラータ楼閣の３階層目にあるピラー。",
-   "zh": "",
+   "zh": "位于巧克拉塔楼阁第３层的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -434999,7 +434999,7 @@
    "field": "name",
    "type": "text",
    "jp": "第４階層の柱",
-   "zh": "",
+   "zh": "第４阶层之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435021,7 +435021,7 @@
    "field": "description",
    "type": "text",
    "jp": "チョコラータ楼閣の４階層目にあるピラー。",
-   "zh": "",
+   "zh": "位于巧克拉塔楼阁第４层的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435043,7 +435043,7 @@
    "field": "name",
    "type": "text",
    "jp": "第５階層の柱",
-   "zh": "",
+   "zh": "第５阶层之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435065,7 +435065,7 @@
    "field": "description",
    "type": "text",
    "jp": "最上層にある、ヴァレンティーヌの寝所直前のピラー。",
-   "zh": "",
+   "zh": "位于最上层、瓦伦蒂奴寝所正前方的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435087,7 +435087,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435108,7 +435108,7 @@
    "field": "description",
    "type": "text",
    "jp": "ヤプトラーカ渓谷の開始地点",
-   "zh": "",
+   "zh": "亚普托拉卡峡谷的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435129,7 +435129,7 @@
    "field": "name",
    "type": "text",
    "jp": "中央断崖の柱",
-   "zh": "",
+   "zh": "中央断崖之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435151,7 +435151,7 @@
    "field": "description",
    "type": "text",
    "jp": "渓谷中央部の狭い地形にそびえるピラー。",
-   "zh": "",
+   "zh": "耸立在峡谷中央狭窄地形上的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435173,7 +435173,7 @@
    "field": "name",
    "type": "text",
    "jp": "西部の柱",
-   "zh": "",
+   "zh": "西部之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435195,7 +435195,7 @@
    "field": "description",
    "type": "text",
    "jp": "門を越えた西の端にあるピラー。",
-   "zh": "",
+   "zh": "穿过大门后位于西侧尽头的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435217,7 +435217,7 @@
    "field": "name",
    "type": "text",
    "jp": "化石回廊の柱",
-   "zh": "",
+   "zh": "化石回廊之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435239,7 +435239,7 @@
    "field": "description",
    "type": "text",
    "jp": "古の化石がある回廊の先にあるピラー。",
-   "zh": "",
+   "zh": "位于存有古老化石的回廊前方的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435261,7 +435261,7 @@
    "field": "name",
    "type": "text",
    "jp": "呪術師の柱",
-   "zh": "",
+   "zh": "咒术师之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435283,7 +435283,7 @@
    "field": "description",
    "type": "text",
    "jp": "呪術師ナハブの領地内にあるピラー。",
-   "zh": "",
+   "zh": "位于咒术师纳哈布领地内的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435305,7 +435305,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435326,7 +435326,7 @@
    "field": "description",
    "type": "text",
    "jp": "ヤプトラーカ北渓谷の開始地点",
-   "zh": "",
+   "zh": "北亚普托拉卡峡谷的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435347,7 +435347,7 @@
    "field": "name",
    "type": "text",
    "jp": "南の柱",
-   "zh": "",
+   "zh": "南方之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435369,7 +435369,7 @@
    "field": "description",
    "type": "text",
    "jp": "北渓谷に入って直ぐにあるピラー。",
-   "zh": "",
+   "zh": "进入北峡谷后紧接着就能看到的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435391,7 +435391,7 @@
    "field": "name",
    "type": "text",
    "jp": "突風の柱",
-   "zh": "",
+   "zh": "突风之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435413,7 +435413,7 @@
    "field": "description",
    "type": "text",
    "jp": "切り立つ渓谷の突風に耐えてきたピラー。",
-   "zh": "",
+   "zh": "经受住了陡峭峡谷突风侵袭的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435435,7 +435435,7 @@
    "field": "name",
    "type": "text",
    "jp": "北渓谷の柱",
-   "zh": "",
+   "zh": "北峡谷之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435457,7 +435457,7 @@
    "field": "description",
    "type": "text",
    "jp": "北渓谷のほぼ中央に位置するピラー。",
-   "zh": "",
+   "zh": "位于北峡谷近乎中央位置的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435479,7 +435479,7 @@
    "field": "name",
    "type": "text",
    "jp": "万年雨の柱",
-   "zh": "",
+   "zh": "万年雨之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435501,7 +435501,7 @@
    "field": "description",
    "type": "text",
    "jp": "万年雨の地域にあるピラー。",
-   "zh": "",
+   "zh": "位于常年阴雨连绵区域的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435523,7 +435523,7 @@
    "field": "name",
    "type": "text",
    "jp": "風穴の柱",
-   "zh": "",
+   "zh": "风穴之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435545,7 +435545,7 @@
    "field": "description",
    "type": "text",
    "jp": "聖ニーケの村が見渡せる高台にあるピラー。",
-   "zh": "",
+   "zh": "位于能够俯瞰圣尼刻之村的高台上的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435567,7 +435567,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435588,7 +435588,7 @@
    "field": "description",
    "type": "text",
    "jp": "ヤプトラーカ風穴の開始地点",
-   "zh": "",
+   "zh": "亚普托拉卡风穴的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435609,7 +435609,7 @@
    "field": "name",
    "type": "text",
    "jp": "風穴裏口の柱",
-   "zh": "",
+   "zh": "风穴后门之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435631,7 +435631,7 @@
    "field": "description",
    "type": "text",
    "jp": "風穴裏口から入って直ぐにあるピラー。",
-   "zh": "",
+   "zh": "从风穴后门进入后立即可见的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435653,7 +435653,7 @@
    "field": "name",
    "type": "text",
    "jp": "蒼水の柱",
-   "zh": "",
+   "zh": "苍水之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435675,7 +435675,7 @@
    "field": "description",
    "type": "text",
    "jp": "風穴中央部にあるピラー。",
-   "zh": "",
+   "zh": "位于风穴中央部位的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435697,7 +435697,7 @@
    "field": "name",
    "type": "text",
    "jp": "風穴表口の柱",
-   "zh": "",
+   "zh": "风穴正门之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435719,7 +435719,7 @@
    "field": "description",
    "type": "text",
    "jp": "落石によって塞がれた、風穴表口の付近にあるピラー。",
-   "zh": "",
+   "zh": "位于被落石堵塞的风穴正门附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435741,7 +435741,7 @@
    "field": "name",
    "type": "text",
    "jp": "風の柱",
-   "zh": "",
+   "zh": "风之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435763,7 +435763,7 @@
    "field": "description",
    "type": "text",
    "jp": "風穴深部、外へ通じる通路にあるピラー。",
-   "zh": "",
+   "zh": "位于风穴深处、通往外部通道上的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435785,7 +435785,7 @@
    "field": "name",
    "type": "text",
    "jp": "東奥の柱",
-   "zh": "",
+   "zh": "东侧深处之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435807,7 +435807,7 @@
    "field": "description",
    "type": "text",
    "jp": "風穴の中でも東側の奥地にあるピラー。",
-   "zh": "",
+   "zh": "位于风穴东侧深处腹地的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435829,7 +435829,7 @@
    "field": "name",
    "type": "text",
    "jp": "厄花咲く地の柱",
-   "zh": "",
+   "zh": "厄花绽放之地之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435851,7 +435851,7 @@
    "field": "description",
    "type": "text",
    "jp": "黄色い厄花が咲き乱れ、悪しき瘴気に包まれた地にあるピラー。",
-   "zh": "",
+   "zh": "位于黄色厄花盛开、被险恶瘴气笼罩之地的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435873,7 +435873,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435894,7 +435894,7 @@
    "field": "description",
    "type": "text",
    "jp": "南テッタラ砂漠の開始地点",
-   "zh": "",
+   "zh": "南特塔拉沙漠的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435915,7 +435915,7 @@
    "field": "name",
    "type": "text",
    "jp": "砂漠の東柱",
-   "zh": "",
+   "zh": "沙漠东之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435937,7 +435937,7 @@
    "field": "description",
    "type": "text",
    "jp": "学者の観測拠点の、さらに東にあるピラー。",
-   "zh": "",
+   "zh": "位于学者观测据点更东面的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435959,7 +435959,7 @@
    "field": "name",
    "type": "text",
    "jp": "砂漠の西柱",
-   "zh": "",
+   "zh": "沙漠西之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -435981,7 +435981,7 @@
    "field": "description",
    "type": "text",
    "jp": "南テッタラ砂漠の西外れにあるピラー。",
-   "zh": "",
+   "zh": "位于南特塔拉沙漠西侧偏僻边缘的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436003,7 +436003,7 @@
    "field": "name",
    "type": "text",
    "jp": "ノーラ遺跡の柱",
-   "zh": "",
+   "zh": "诺拉遗迹之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436025,7 +436025,7 @@
    "field": "description",
    "type": "text",
    "jp": "ノーラ遺跡の先、テッタラ大砂漠に通じる門前にあるピラー。",
-   "zh": "",
+   "zh": "位于诺拉遗迹前方、通往特塔拉大沙漠的大门前的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436047,7 +436047,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436068,7 +436068,7 @@
    "field": "description",
    "type": "text",
    "jp": "アズ・ブロッケン山の開始地点",
-   "zh": "",
+   "zh": "阿兹·布罗肯山的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436089,7 +436089,7 @@
    "field": "name",
    "type": "text",
    "jp": "１合目の柱",
-   "zh": "",
+   "zh": "一合目之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436111,7 +436111,7 @@
    "field": "description",
    "type": "text",
    "jp": "１合目あたりにあるピラー。",
-   "zh": "",
+   "zh": "位于一合目附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436133,7 +436133,7 @@
    "field": "name",
    "type": "text",
    "jp": "３合目の柱",
-   "zh": "",
+   "zh": "三合目之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436155,7 +436155,7 @@
    "field": "description",
    "type": "text",
    "jp": "３合目あたりにあるピラー。",
-   "zh": "",
+   "zh": "位于三合目附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436177,7 +436177,7 @@
    "field": "name",
    "type": "text",
    "jp": "４合目の柱",
-   "zh": "",
+   "zh": "四合目之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436199,7 +436199,7 @@
    "field": "description",
    "type": "text",
    "jp": "４合目あたりにあるピラー。",
-   "zh": "",
+   "zh": "位于四合目附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436221,7 +436221,7 @@
    "field": "name",
    "type": "text",
    "jp": "山頂の柱",
-   "zh": "",
+   "zh": "山顶之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436243,7 +436243,7 @@
    "field": "description",
    "type": "text",
    "jp": "アズ・ブロッケン山、山頂にあるピラー。",
-   "zh": "",
+   "zh": "位于阿兹·布罗肯山山顶的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436265,7 +436265,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436286,7 +436286,7 @@
    "field": "description",
    "type": "text",
    "jp": "異空間の開始地点",
-   "zh": "",
+   "zh": "异空间的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436307,7 +436307,7 @@
    "field": "name",
    "type": "text",
    "jp": "狭道の柱",
-   "zh": "",
+   "zh": "狭道之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436329,7 +436329,7 @@
    "field": "description",
    "type": "text",
    "jp": "異空間の狭道にあるピラー。",
-   "zh": "",
+   "zh": "位于异空间狭窄通道上的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436351,7 +436351,7 @@
    "field": "name",
    "type": "text",
    "jp": "大空洞の柱",
-   "zh": "",
+   "zh": "大空洞之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436373,7 +436373,7 @@
    "field": "description",
    "type": "text",
    "jp": "異空間大空洞の端にあるピラー。",
-   "zh": "",
+   "zh": "位于异空间大空洞边缘的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436395,7 +436395,7 @@
    "field": "name",
    "type": "text",
    "jp": "楽園の柱",
-   "zh": "",
+   "zh": "乐园之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436417,7 +436417,7 @@
    "field": "description",
    "type": "text",
    "jp": "魔女でも重度の精神汚染を受ける、異空間深部にあるピラー。",
-   "zh": "",
+   "zh": "位于异空间深处、连魔女都会遭受重度精神污染之地的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436439,7 +436439,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436460,7 +436460,7 @@
    "field": "description",
    "type": "text",
    "jp": "魔女都ヴァルプルギスの開始地点",
-   "zh": "",
+   "zh": "魔女之都瓦尔普吉斯的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436481,7 +436481,7 @@
    "field": "name",
    "type": "text",
    "jp": "裏路地の柱",
-   "zh": "",
+   "zh": "小巷之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436503,7 +436503,7 @@
    "field": "description",
    "type": "text",
    "jp": "裏路地に咲いた一輪のピラー。（転移不能）",
-   "zh": "",
+   "zh": "绽放在小巷深处的一株支柱。（无法转移）",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436525,7 +436525,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436546,7 +436546,7 @@
    "field": "description",
    "type": "text",
    "jp": "ブロッケントゥルムの開始地点",
-   "zh": "",
+   "zh": "布罗肯图尔姆的起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436567,7 +436567,7 @@
    "field": "name",
    "type": "text",
    "jp": "見習い魔女の柱",
-   "zh": "",
+   "zh": "见习魔女之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436589,7 +436589,7 @@
    "field": "description",
    "type": "text",
    "jp": "見習い魔女なら立ち入れる低層にあるピラー。",
-   "zh": "",
+   "zh": "位于见习魔女方可踏足的低层支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436611,7 +436611,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔術熟練者の柱",
-   "zh": "",
+   "zh": "魔术熟练者之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436633,7 +436633,7 @@
    "field": "description",
    "type": "text",
    "jp": "魔術の熟練者が立ち入ることを許される中間層のピラー。",
-   "zh": "",
+   "zh": "位于仅允许魔术熟练者涉足的中层支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436655,7 +436655,7 @@
    "field": "name",
    "type": "text",
    "jp": "賢者の柱",
-   "zh": "",
+   "zh": "贤者之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436677,7 +436677,7 @@
    "field": "description",
    "type": "text",
    "jp": "賢者しか立ち入れない上層にあるピラー。",
-   "zh": "",
+   "zh": "位于仅有贤者方可踏足的高层支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436699,7 +436699,7 @@
    "field": "name",
    "type": "text",
    "jp": "選ばれし魔女の柱",
-   "zh": "",
+   "zh": "天选魔女之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436721,7 +436721,7 @@
    "field": "description",
    "type": "text",
    "jp": "選ばれた魔女のみが集う議会塔最上層にあるピラー。",
-   "zh": "",
+   "zh": "位于仅有天选魔女齐聚的议事塔最顶层的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436743,7 +436743,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436764,7 +436764,7 @@
    "field": "description",
    "type": "text",
    "jp": "チンクエの林道の開始地点",
-   "zh": "",
+   "zh": "奇恩奎林道的起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436785,7 +436785,7 @@
    "field": "name",
    "type": "text",
    "jp": "ゴミ山の柱",
-   "zh": "",
+   "zh": "垃圾山之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436807,7 +436807,7 @@
    "field": "description",
    "type": "text",
    "jp": "チンクエにあるゴミ山付近のピラー。",
-   "zh": "",
+   "zh": "位于奇恩奎垃圾山附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436829,7 +436829,7 @@
    "field": "name",
    "type": "text",
    "jp": "中央街道の柱",
-   "zh": "",
+   "zh": "中央街道之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436851,7 +436851,7 @@
    "field": "description",
    "type": "text",
    "jp": "街道の中間付近にあるピラー。",
-   "zh": "",
+   "zh": "位于街道中段附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436873,7 +436873,7 @@
    "field": "name",
    "type": "text",
    "jp": "西の隠れ柱",
-   "zh": "",
+   "zh": "西方隐秘之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436895,7 +436895,7 @@
    "field": "description",
    "type": "text",
    "jp": "西にある小高い丘の影に隠れたピラー。",
-   "zh": "",
+   "zh": "隐匿在西面小山丘阴影处的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436917,7 +436917,7 @@
    "field": "name",
    "type": "text",
    "jp": "北への柱",
-   "zh": "",
+   "zh": "通往北方之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436939,7 +436939,7 @@
    "field": "description",
    "type": "text",
    "jp": "街道の北にある、綿蛍の谷へ通じる橋付近にあるピラー。",
-   "zh": "",
+   "zh": "位于街道北面、通往棉萤之谷的桥梁附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436961,7 +436961,7 @@
    "field": "name",
    "type": "text",
    "jp": "見晴らしの柱",
-   "zh": "",
+   "zh": "远眺之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -436983,7 +436983,7 @@
    "field": "description",
    "type": "text",
    "jp": "辺りを見渡せる小高い丘の上にあるピラー。",
-   "zh": "",
+   "zh": "位于能饱览四周景致的小山丘上的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437005,7 +437005,7 @@
    "field": "name",
    "type": "text",
    "jp": "粘着柱",
-   "zh": "",
+   "zh": "粘着之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437027,7 +437027,7 @@
    "field": "description",
    "type": "text",
    "jp": "何故かドロドロとした液体が付着しているピラー。",
-   "zh": "",
+   "zh": "不知为何附着着黏稠液体的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437049,7 +437049,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437070,7 +437070,7 @@
    "field": "description",
    "type": "text",
    "jp": "綿蛍の谷の開始地点",
-   "zh": "",
+   "zh": "棉萤之谷的起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437091,7 +437091,7 @@
    "field": "name",
    "type": "text",
    "jp": "三湖の柱",
-   "zh": "",
+   "zh": "三湖之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437113,7 +437113,7 @@
    "field": "description",
    "type": "text",
    "jp": "三つの湖に囲まれた場所にあるピラー。",
-   "zh": "",
+   "zh": "位于被三座湖泊环绕之地的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437135,7 +437135,7 @@
    "field": "name",
    "type": "text",
    "jp": "西平野の柱",
-   "zh": "",
+   "zh": "西平原之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437157,7 +437157,7 @@
    "field": "description",
    "type": "text",
    "jp": "街道から大きく外れた西の平野にあるピラー。",
-   "zh": "",
+   "zh": "位于大幅偏离街道的西面平原上的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437179,7 +437179,7 @@
    "field": "name",
    "type": "text",
    "jp": "チンクエの柱",
-   "zh": "",
+   "zh": "奇恩奎之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437201,7 +437201,7 @@
    "field": "description",
    "type": "text",
    "jp": "チンクエの村にある由緒正しきピラー。",
-   "zh": "",
+   "zh": "耸立在奇恩奎村中历史悠久的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437223,7 +437223,7 @@
    "field": "name",
    "type": "text",
    "jp": "街道の柱",
-   "zh": "",
+   "zh": "街道之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437245,7 +437245,7 @@
    "field": "description",
    "type": "text",
    "jp": "街道の始めであり、終わりであるピラー。",
-   "zh": "",
+   "zh": "既是街道起点，亦是街道终点的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437267,7 +437267,7 @@
    "field": "name",
    "type": "text",
    "jp": "死者の柱",
-   "zh": "",
+   "zh": "死者之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437289,7 +437289,7 @@
    "field": "description",
    "type": "text",
    "jp": "墓地裏手にある丘の上にあるピラー。",
-   "zh": "",
+   "zh": "位于墓地后方山丘之上的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437311,7 +437311,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437332,7 +437332,7 @@
    "field": "description",
    "type": "text",
    "jp": "不明瞭な世界の開始地点",
-   "zh": "",
+   "zh": "迷蒙世界的起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437353,7 +437353,7 @@
    "field": "name",
    "type": "text",
    "jp": "ヘネアの柱",
-   "zh": "",
+   "zh": "赫内亚之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437375,7 +437375,7 @@
    "field": "description",
    "type": "text",
    "jp": "ヘネアの村の南口を出たところにあるピラー。",
-   "zh": "",
+   "zh": "位于走出赫内亚村南出口处的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437397,7 +437397,7 @@
    "field": "name",
    "type": "text",
    "jp": "沼の柱",
-   "zh": "",
+   "zh": "沼泽之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437419,7 +437419,7 @@
    "field": "description",
    "type": "text",
    "jp": "沼から最も近い平野にあるピラー。",
-   "zh": "",
+   "zh": "位于距离沼泽最近的平原上的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437441,7 +437441,7 @@
    "field": "name",
    "type": "text",
    "jp": "結界の柱",
-   "zh": "",
+   "zh": "结界之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437463,7 +437463,7 @@
    "field": "description",
    "type": "text",
    "jp": "森の入り口にそびえたつピラー。",
-   "zh": "",
+   "zh": "耸立在森林入口处的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437485,7 +437485,7 @@
    "field": "name",
    "type": "text",
    "jp": "魔女の柱",
-   "zh": "",
+   "zh": "魔女之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437507,7 +437507,7 @@
    "field": "description",
    "type": "text",
    "jp": "老魔女の邸宅近くにあるピラー。",
-   "zh": "",
+   "zh": "位于老魔女宅邸附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437529,7 +437529,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437550,7 +437550,7 @@
    "field": "description",
    "type": "text",
    "jp": "シシーテ戦場跡地の開始地点",
-   "zh": "",
+   "zh": "希西特古战场遗址的起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437571,7 +437571,7 @@
    "field": "name",
    "type": "text",
    "jp": "南のはずれの柱",
-   "zh": "",
+   "zh": "南端偏僻之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437593,7 +437593,7 @@
    "field": "description",
    "type": "text",
    "jp": "戦場跡の外れにひっそりとたたずむピラー。",
-   "zh": "",
+   "zh": "静静伫立在古战场遗迹边陲的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437615,7 +437615,7 @@
    "field": "name",
    "type": "text",
    "jp": "村跡の柱",
-   "zh": "",
+   "zh": "村落遗址之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437637,7 +437637,7 @@
    "field": "description",
    "type": "text",
    "jp": "戦争以前には、村があったであろう場所の広場にあるピラー。",
-   "zh": "",
+   "zh": "位于战前曾是村落所在之地的广场上的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437659,7 +437659,7 @@
    "field": "name",
    "type": "text",
    "jp": "亡霊の柱",
-   "zh": "",
+   "zh": "亡灵之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437681,7 +437681,7 @@
    "field": "description",
    "type": "text",
    "jp": "怪しい影の、不気味な噂が耐えない場所にあるピラー。",
-   "zh": "",
+   "zh": "位于可疑黑影与阴森传闻未曾间断之地的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437703,7 +437703,7 @@
    "field": "name",
    "type": "text",
    "jp": "北の村跡の柱",
-   "zh": "",
+   "zh": "北村落遗址之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437725,7 +437725,7 @@
    "field": "description",
    "type": "text",
    "jp": "戦場跡地の北に位置するピラー。",
-   "zh": "",
+   "zh": "位于古战场遗址北侧的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437747,7 +437747,7 @@
    "field": "name",
    "type": "text",
    "jp": "砦門前の柱",
-   "zh": "",
+   "zh": "要塞门前之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437769,7 +437769,7 @@
    "field": "description",
    "type": "text",
    "jp": "砦門の前に鎮座する、王国の監視下にあるピラー。",
-   "zh": "",
+   "zh": "坐落于要塞大门前、处于王国监视之下的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437791,7 +437791,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437812,7 +437812,7 @@
    "field": "description",
    "type": "text",
    "jp": "シシーテ・裏世界の開始地点",
-   "zh": "",
+   "zh": "西希泰·里世界的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437833,7 +437833,7 @@
    "field": "name",
    "type": "text",
    "jp": "亡の柱",
-   "zh": "",
+   "zh": "亡之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437855,7 +437855,7 @@
    "field": "description",
    "type": "text",
    "jp": "怪しい影の、不気味な噂が耐えない場所にあるピラー。",
-   "zh": "",
+   "zh": "位于可疑黑影与阴森传闻未曾间断之地的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437877,7 +437877,7 @@
    "field": "name",
    "type": "text",
    "jp": "怨の柱",
-   "zh": "",
+   "zh": "怨之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437899,7 +437899,7 @@
    "field": "description",
    "type": "text",
    "jp": "戦場跡地の北に位置するピラー。",
-   "zh": "",
+   "zh": "位于古战场遗址北侧的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437921,7 +437921,7 @@
    "field": "name",
    "type": "text",
    "jp": "闇の柱",
-   "zh": "",
+   "zh": "暗之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437943,7 +437943,7 @@
    "field": "description",
    "type": "text",
    "jp": "東の砦門近くにあるピラー。",
-   "zh": "",
+   "zh": "位于东侧要塞大门附近的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437965,7 +437965,7 @@
    "field": "name",
    "type": "text",
    "jp": "偽の柱",
-   "zh": "",
+   "zh": "伪之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -437987,7 +437987,7 @@
    "field": "description",
    "type": "text",
    "jp": "戦場跡の外れにひっそりとたたずむピラー。",
-   "zh": "",
+   "zh": "静静伫立在古战场遗迹边陲的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438009,7 +438009,7 @@
    "field": "name",
    "type": "text",
    "jp": "恐の柱",
-   "zh": "",
+   "zh": "恐之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438031,7 +438031,7 @@
    "field": "description",
    "type": "text",
    "jp": "西の隔離された平野、瘴気漂う場所に位置するピラー。",
-   "zh": "",
+   "zh": "位于西侧与世隔绝的平原、瘴气弥漫之地的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438053,7 +438053,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438074,7 +438074,7 @@
    "field": "description",
    "type": "text",
    "jp": "王国城内の開始地点",
-   "zh": "",
+   "zh": "王国城内的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438095,7 +438095,7 @@
    "field": "name",
    "type": "text",
    "jp": "１階の間の柱",
-   "zh": "",
+   "zh": "１楼大厅之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438117,7 +438117,7 @@
    "field": "description",
    "type": "text",
    "jp": "王国城内の１階にあるピラー。",
-   "zh": "",
+   "zh": "位于王国城堡１楼的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438139,7 +438139,7 @@
    "field": "name",
    "type": "text",
    "jp": "地下監獄の柱",
-   "zh": "",
+   "zh": "地下牢狱之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438161,7 +438161,7 @@
    "field": "description",
    "type": "text",
    "jp": "地下にある廃監獄にたたずむ不気味なピラー。",
-   "zh": "",
+   "zh": "伫立在地下废弃牢狱中的阴森魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438183,7 +438183,7 @@
    "field": "name",
    "type": "text",
    "jp": "２階の間の柱",
-   "zh": "",
+   "zh": "２楼大厅之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438205,7 +438205,7 @@
    "field": "description",
    "type": "text",
    "jp": "城内修練場の２階に位置するピラー。",
-   "zh": "",
+   "zh": "位于城内修炼场２楼的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438227,7 +438227,7 @@
    "field": "name",
    "type": "text",
    "jp": "４階の間の柱",
-   "zh": "",
+   "zh": "４楼大厅之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438249,7 +438249,7 @@
    "field": "description",
    "type": "text",
    "jp": "城内４階、祭儀場につながる間にあるピラー。",
-   "zh": "",
+   "zh": "位于城内４楼、通往祭仪场的大厅中的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438271,7 +438271,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438292,7 +438292,7 @@
    "field": "description",
    "type": "text",
    "jp": "王国下水道の開始地点",
-   "zh": "",
+   "zh": "王国下水道的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438313,7 +438313,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438334,7 +438334,7 @@
    "field": "description",
    "type": "text",
    "jp": "旧市街遺跡の開始地点",
-   "zh": "",
+   "zh": "旧市区遗迹的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438355,7 +438355,7 @@
    "field": "name",
    "type": "text",
    "jp": "朽ちた柱",
-   "zh": "",
+   "zh": "朽损之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438377,7 +438377,7 @@
    "field": "description",
    "type": "text",
    "jp": "百騎兵が落下した場所の近くにあったピラー。",
-   "zh": "",
+   "zh": "位于百骑兵坠落地点附近的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438399,7 +438399,7 @@
    "field": "name",
    "type": "text",
    "jp": "瓦礫の街の柱",
-   "zh": "",
+   "zh": "瓦砾之街之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438421,7 +438421,7 @@
    "field": "description",
    "type": "text",
    "jp": "旧市街中央部最上階に位置するピラー。",
-   "zh": "",
+   "zh": "位于旧市区中央部最高层的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438443,7 +438443,7 @@
    "field": "name",
    "type": "text",
    "jp": "南斎場橋の柱",
-   "zh": "",
+   "zh": "南祭场桥之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438465,7 +438465,7 @@
    "field": "description",
    "type": "text",
    "jp": "強力な瘴気ただよう結界内にあるピラー。",
-   "zh": "",
+   "zh": "位于弥漫着浓烈瘴气的结界内的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438487,7 +438487,7 @@
    "field": "name",
    "type": "text",
    "jp": "西部連絡橋の柱",
-   "zh": "",
+   "zh": "西部联络桥之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438509,7 +438509,7 @@
    "field": "description",
    "type": "text",
    "jp": "旧市街地より離れた西の位置にあるピラー。",
-   "zh": "",
+   "zh": "位于远离旧市区西侧位置的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438531,7 +438531,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438552,7 +438552,7 @@
    "field": "description",
    "type": "text",
    "jp": "旧市街遺跡カタコンベの開始地点",
-   "zh": "",
+   "zh": "旧市区遗迹地下墓穴的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438573,7 +438573,7 @@
    "field": "name",
    "type": "text",
    "jp": "鎮魂の柱",
-   "zh": "",
+   "zh": "镇魂之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438595,7 +438595,7 @@
    "field": "description",
    "type": "text",
    "jp": "死者を弔うため鎮座するといわれるピラー。",
-   "zh": "",
+   "zh": "相传为了悼念死者而供奉于此的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438617,7 +438617,7 @@
    "field": "name",
    "type": "text",
    "jp": "滅魂の柱",
-   "zh": "",
+   "zh": "灭魂之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438639,7 +438639,7 @@
    "field": "description",
    "type": "text",
    "jp": "魂を吸い尽くし、滅するといわれるピラー。",
-   "zh": "",
+   "zh": "相传会将灵魂吸食殆尽并加以消灭的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438661,7 +438661,7 @@
    "field": "name",
    "type": "text",
    "jp": "偽魂の柱",
-   "zh": "",
+   "zh": "伪魂之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438683,7 +438683,7 @@
    "field": "description",
    "type": "text",
    "jp": "偽りの魂を生み出すといわれるピラー。",
-   "zh": "",
+   "zh": "据说会孕育出虚伪灵魂的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438705,7 +438705,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438726,7 +438726,7 @@
    "field": "description",
    "type": "text",
    "jp": "碧の回廊の開始地点",
-   "zh": "",
+   "zh": "碧之回廊的起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438747,7 +438747,7 @@
    "field": "name",
    "type": "text",
    "jp": "地下１層の柱",
-   "zh": "",
+   "zh": "地下1层的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438769,7 +438769,7 @@
    "field": "description",
    "type": "text",
    "jp": "地下１層の入り口付近に位置するピラー。",
-   "zh": "",
+   "zh": "位于地下1层入口附近的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438791,7 +438791,7 @@
    "field": "name",
    "type": "text",
    "jp": "地下２層の柱",
-   "zh": "",
+   "zh": "地下2层的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438813,7 +438813,7 @@
    "field": "description",
    "type": "text",
    "jp": "地下２層の東に位置するピラー。",
-   "zh": "",
+   "zh": "位于地下2层东侧的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438835,7 +438835,7 @@
    "field": "name",
    "type": "text",
    "jp": "地下３層の柱",
-   "zh": "",
+   "zh": "地下3层的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438857,7 +438857,7 @@
    "field": "description",
    "type": "text",
    "jp": "地下３層の窪地にあるピラー。",
-   "zh": "",
+   "zh": "位于地下3层洼地中的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438879,7 +438879,7 @@
    "field": "name",
    "type": "text",
    "jp": "地下４層中央の柱",
-   "zh": "",
+   "zh": "地下4层中央的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438901,7 +438901,7 @@
    "field": "description",
    "type": "text",
    "jp": "地下４層、マナの海がある地下空洞の中央にあるピラー。",
-   "zh": "",
+   "zh": "地下4层，位于玛那之海地下空洞中央的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438923,7 +438923,7 @@
    "field": "name",
    "type": "text",
    "jp": "地下４層東の柱",
-   "zh": "",
+   "zh": "地下4层东部的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438945,7 +438945,7 @@
    "field": "description",
    "type": "text",
    "jp": "地下４層、マナの海がある地下空洞の東側にあるピラー。",
-   "zh": "",
+   "zh": "地下4层，位于玛那之海地下空洞东侧的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438967,7 +438967,7 @@
    "field": "name",
    "type": "text",
    "jp": "地下４層深部の柱",
-   "zh": "",
+   "zh": "地下4层深部的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -438989,7 +438989,7 @@
    "field": "description",
    "type": "text",
    "jp": "地下４層、マナの海がある地下空洞の深部にあるピラー。",
-   "zh": "",
+   "zh": "地下4层，位于玛那之海地下空洞深处的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439011,7 +439011,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439032,7 +439032,7 @@
    "field": "description",
    "type": "text",
    "jp": "王国城下町・裏世界の開始地点",
-   "zh": "",
+   "zh": "王国城下町·里世界的起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439053,7 +439053,7 @@
    "field": "name",
    "type": "text",
    "jp": "闇の第１区の柱",
-   "zh": "",
+   "zh": "暗之第1区的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439075,7 +439075,7 @@
    "field": "description",
    "type": "text",
    "jp": "迷宮化した第１区域、平民街の大通りにあるピラー。",
-   "zh": "",
+   "zh": "位于迷宫化的第1区域，平民街大路上的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439097,7 +439097,7 @@
    "field": "name",
    "type": "text",
    "jp": "闇の王国街西の柱",
-   "zh": "",
+   "zh": "暗之王国街西部的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439119,7 +439119,7 @@
    "field": "description",
    "type": "text",
    "jp": "迷宮化した王国街の裏手にあるピラー。",
-   "zh": "",
+   "zh": "位于迷宫化的王国街后方的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439141,7 +439141,7 @@
    "field": "name",
    "type": "text",
    "jp": "闇の中央公園の柱",
-   "zh": "",
+   "zh": "暗之中央公园的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439163,7 +439163,7 @@
    "field": "description",
    "type": "text",
    "jp": "迷宮化した第２区域の中央公園そばにあるピラー。",
-   "zh": "",
+   "zh": "位于迷宫化的第2区域中央公园旁的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439185,7 +439185,7 @@
    "field": "name",
    "type": "text",
    "jp": "闇の第３区の柱",
-   "zh": "",
+   "zh": "暗之第3区的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439207,7 +439207,7 @@
    "field": "description",
    "type": "text",
    "jp": "迷宮化した第３区域、貴族街の大通りにあるピラー。",
-   "zh": "",
+   "zh": "位于迷宫化的第3区域，贵族街大路上的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439229,7 +439229,7 @@
    "field": "name",
    "type": "text",
    "jp": "闇の門前の柱",
-   "zh": "",
+   "zh": "暗之门前的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439251,7 +439251,7 @@
    "field": "description",
    "type": "text",
    "jp": "迷宮化したアマタイア王国城門橋に通じる門前のピラー。",
-   "zh": "",
+   "zh": "位于通往迷宫化的阿玛泰亚王国城门桥的门前的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439273,7 +439273,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439294,7 +439294,7 @@
    "field": "description",
    "type": "text",
    "jp": "古の封印牢の開始地点",
-   "zh": "",
+   "zh": "古代封印牢的起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439315,7 +439315,7 @@
    "field": "name",
    "type": "text",
    "jp": "第２防壁層の柱",
-   "zh": "",
+   "zh": "第2防壁层的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439337,7 +439337,7 @@
    "field": "description",
    "type": "text",
    "jp": "封印牢の防壁層のなかで、もっとも浅い層にあるピラー。",
-   "zh": "",
+   "zh": "位于封印牢防壁层中最浅一层的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439359,7 +439359,7 @@
    "field": "name",
    "type": "text",
    "jp": "第４防壁層の柱",
-   "zh": "",
+   "zh": "第4防壁层的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439381,7 +439381,7 @@
    "field": "description",
    "type": "text",
    "jp": "封印牢第４防壁層にある、隠されたピラー。",
-   "zh": "",
+   "zh": "位于封印牢第4防壁层、隐蔽处的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439403,7 +439403,7 @@
    "field": "name",
    "type": "text",
    "jp": "第５防壁層焔の柱",
-   "zh": "",
+   "zh": "第5防壁层焰之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439425,7 +439425,7 @@
    "field": "description",
    "type": "text",
    "jp": "封印牢第５防壁層のひらけた空洞にあるピラー。",
-   "zh": "",
+   "zh": "位于封印牢第5防壁层开阔空洞中的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439447,7 +439447,7 @@
    "field": "name",
    "type": "text",
    "jp": "第５防壁層朧の柱",
-   "zh": "",
+   "zh": "第5防壁层胧之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439469,7 +439469,7 @@
    "field": "description",
    "type": "text",
    "jp": "第６防壁層へ続く、冥穴口の近くにあるピラー。",
-   "zh": "",
+   "zh": "位于通往第6防壁层的冥穴口附近的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439491,7 +439491,7 @@
    "field": "name",
    "type": "text",
    "jp": "最終防壁層の柱",
-   "zh": "",
+   "zh": "最终防壁层的柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439513,7 +439513,7 @@
    "field": "description",
    "type": "text",
    "jp": "封印牢の最深部、最終防壁層にあるピラー。",
-   "zh": "",
+   "zh": "位于封印牢最深处、最终防壁层的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439535,7 +439535,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439556,7 +439556,7 @@
    "field": "description",
    "type": "text",
    "jp": "アグニ戦の開始地点",
-   "zh": "",
+   "zh": "阿耆尼战的起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439577,7 +439577,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439598,7 +439598,7 @@
    "field": "description",
    "type": "text",
    "jp": "練武の氷雪の開始地点",
-   "zh": "",
+   "zh": "练武冰雪地的起始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439619,7 +439619,7 @@
    "field": "name",
    "type": "text",
    "jp": "第三の柱",
-   "zh": "",
+   "zh": "第三之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439641,7 +439641,7 @@
    "field": "description",
    "type": "text",
    "jp": "練武の氷雪にある、第三島のピラー。",
-   "zh": "",
+   "zh": "位于练武冰雪地第三岛的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439663,7 +439663,7 @@
    "field": "name",
    "type": "text",
    "jp": "第四の柱",
-   "zh": "",
+   "zh": "第四之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439685,7 +439685,7 @@
    "field": "description",
    "type": "text",
    "jp": "練武の氷雪にある、第四島のピラー。",
-   "zh": "",
+   "zh": "位于练武冰雪地第四岛的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439707,7 +439707,7 @@
    "field": "name",
    "type": "text",
    "jp": "第八の柱",
-   "zh": "",
+   "zh": "第八之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439729,7 +439729,7 @@
    "field": "description",
    "type": "text",
    "jp": "練武の氷雪にある、第八島のピラー。",
-   "zh": "",
+   "zh": "位于练武冰雪地第八岛的魔女之柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439751,7 +439751,7 @@
    "field": "name",
    "type": "text",
    "jp": "第十の柱",
-   "zh": "",
+   "zh": "第十之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439773,7 +439773,7 @@
    "field": "description",
    "type": "text",
    "jp": "練武の氷雪にある、第十島のピラー。",
-   "zh": "",
+   "zh": "位于练武之冰雪，第十岛上的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439795,7 +439795,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439816,7 +439816,7 @@
    "field": "description",
    "type": "text",
    "jp": "封印されし不浄の地の開始地点",
-   "zh": "",
+   "zh": "被封印的不净之地的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439837,7 +439837,7 @@
    "field": "name",
    "type": "text",
    "jp": "絶対の不浄の柱",
-   "zh": "",
+   "zh": "绝对不净之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439859,7 +439859,7 @@
    "field": "description",
    "type": "text",
    "jp": "封印されし不浄の地に存在する、唯一のピラー。（転移不能）",
-   "zh": "",
+   "zh": "位于被封印的不净之地的唯一支柱。（无法传送）",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439881,7 +439881,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439902,7 +439902,7 @@
    "field": "description",
    "type": "text",
    "jp": "城門橋の開始地点",
-   "zh": "",
+   "zh": "城门桥的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439923,7 +439923,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439944,7 +439944,7 @@
    "field": "description",
    "type": "text",
    "jp": "白い空間の開始地点",
-   "zh": "",
+   "zh": "白色空间的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439965,7 +439965,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -439986,7 +439986,7 @@
    "field": "description",
    "type": "text",
    "jp": "ニブルヘンネの魔女邸",
-   "zh": "",
+   "zh": "尼布尔亨涅的魔女官邸",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440007,7 +440007,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440028,7 +440028,7 @@
    "field": "description",
    "type": "text",
    "jp": "テストマップ",
-   "zh": "",
+   "zh": "测试地图",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440049,7 +440049,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440070,7 +440070,7 @@
    "field": "description",
    "type": "text",
    "jp": "テストマップ",
-   "zh": "",
+   "zh": "测试地图",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440092,7 +440092,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440113,7 +440113,7 @@
    "field": "description",
    "type": "text",
    "jp": "ニブルヘンネの魔女邸　研究室",
-   "zh": "",
+   "zh": "尼布尔亨涅的魔女官邸　研究室",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440134,7 +440134,7 @@
    "field": "name",
    "type": "text",
    "jp": "開始地点",
-   "zh": "",
+   "zh": "开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440155,7 +440155,7 @@
    "field": "description",
    "type": "text",
    "jp": "テッタラ大砂漠の開始地点",
-   "zh": "",
+   "zh": "特塔拉大沙漠的开始地点",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440176,7 +440176,7 @@
    "field": "name",
    "type": "text",
    "jp": "水道橋の柱",
-   "zh": "",
+   "zh": "引水桥之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440198,7 +440198,7 @@
    "field": "description",
    "type": "text",
    "jp": "テッタラ大砂漠にある、水道橋の南側にあるピラー。",
-   "zh": "",
+   "zh": "位于特塔拉大沙漠，引水桥南侧的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440220,7 +440220,7 @@
    "field": "name",
    "type": "text",
    "jp": "大断層の柱",
-   "zh": "",
+   "zh": "大断层之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440242,7 +440242,7 @@
    "field": "description",
    "type": "text",
    "jp": "東西に抜ける巨大な断層付近にあるピラー。",
-   "zh": "",
+   "zh": "位于贯通东西的巨大断层附近的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440264,7 +440264,7 @@
    "field": "name",
    "type": "text",
    "jp": "黒砂漠の柱",
-   "zh": "",
+   "zh": "黑沙漠之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440286,7 +440286,7 @@
    "field": "description",
    "type": "text",
    "jp": "黒砂漠の東側丘陵にあるピラー。",
-   "zh": "",
+   "zh": "位于黑沙漠东侧丘陵的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440308,7 +440308,7 @@
    "field": "name",
    "type": "text",
    "jp": "隠れ里の柱",
-   "zh": "",
+   "zh": "隐秘之村之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440330,7 +440330,7 @@
    "field": "description",
    "type": "text",
    "jp": "アスタロの隠れ里の裏口にあるピラー。",
-   "zh": "",
+   "zh": "位于阿斯塔罗隐秘之村后门的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440352,7 +440352,7 @@
    "field": "name",
    "type": "text",
    "jp": "西の大地の柱",
-   "zh": "",
+   "zh": "西方大地之柱",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
@@ -440374,7 +440374,7 @@
    "field": "description",
    "type": "text",
    "jp": "アズ・ブロッケン山へ続く道のピラー。",
-   "zh": "",
+   "zh": "位于通往阿兹·布罗肯山道路上的支柱。",
    "loc": {
     "file": "PillarList.dat",
     "dstart": 7328,
