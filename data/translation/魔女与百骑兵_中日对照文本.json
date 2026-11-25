@@ -429801,7 +429801,7 @@
    "field": "name",
    "type": "text",
    "jp": "ブロンズの宝石箱",
-   "zh": "",
+   "zh": "青铜宝石箱",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -429822,7 +429822,7 @@
    "field": "description",
    "type": "text",
    "jp": "どんな武具が出るかお楽しみな宝石箱。",
-   "zh": "",
+   "zh": "令人期待会开出何种武器装备的宝石箱。",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -429843,7 +429843,7 @@
    "field": "name",
    "type": "text",
    "jp": "シルバーの宝石箱",
-   "zh": "",
+   "zh": "白银宝石箱",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -429864,7 +429864,7 @@
    "field": "description",
    "type": "text",
    "jp": "どんな武具が出るかお楽しみな宝石箱。レアが出やすい。",
-   "zh": "",
+   "zh": "令人期待会开出何种武器装备的宝石箱。较容易出稀有装备。",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -429885,7 +429885,7 @@
    "field": "name",
    "type": "text",
    "jp": "ゴールドの宝石箱",
-   "zh": "",
+   "zh": "黄金宝石箱",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -429906,7 +429906,7 @@
    "field": "description",
    "type": "text",
    "jp": "どんな武具が出るかお楽しみな宝石箱。エピックが出やすい。",
-   "zh": "",
+   "zh": "令人期待会开出何种武器装备的宝石箱。较容易出史诗装备。",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -429927,7 +429927,7 @@
    "field": "name",
    "type": "text",
    "jp": "プラチナの宝石箱",
-   "zh": "",
+   "zh": "白金宝石箱",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -429948,7 +429948,7 @@
    "field": "description",
    "type": "text",
    "jp": "どんな武具が出るかお楽しみな宝石箱。レジェンドが出るかも？",
-   "zh": "",
+   "zh": "令人期待会开出何种武器装备的宝石箱。说不定能出传说装备？",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -429969,7 +429969,7 @@
    "field": "name",
    "type": "text",
    "jp": "マナの壺",
-   "zh": "",
+   "zh": "玛那之壶",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -429990,7 +429990,7 @@
    "field": "description",
    "type": "text",
    "jp": "マナを大量に取得出来ます。",
-   "zh": "",
+   "zh": "可以获得大量玛那。",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -430012,7 +430012,7 @@
    "field": "name",
    "type": "text",
    "jp": "Shellの瓶",
-   "zh": "",
+   "zh": "Shell之瓶",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -430033,7 +430033,7 @@
    "field": "description",
    "type": "text",
    "jp": "Ｓｈｅｌｌを大量に取得出来ます。",
-   "zh": "",
+   "zh": "可以获得大量Ｓｈｅｌｌ。",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -430055,7 +430055,7 @@
    "field": "name",
    "type": "text",
    "jp": "アイテム1",
-   "zh": "",
+   "zh": "道具1",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -430076,7 +430076,7 @@
    "field": "name",
    "type": "text",
    "jp": "アイテム2",
-   "zh": "",
+   "zh": "道具2",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -430097,7 +430097,7 @@
    "field": "name",
    "type": "text",
    "jp": "アイテム3",
-   "zh": "",
+   "zh": "道具3",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -430118,7 +430118,7 @@
    "field": "name",
    "type": "text",
    "jp": "リストシャッフル",
-   "zh": "",
+   "zh": "列表重洗",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -430139,7 +430139,7 @@
    "field": "description",
    "type": "text",
    "jp": "ボーナスの中身がシャッフルされます。",
-   "zh": "",
+   "zh": "将重洗奖励列表的内容。",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -430160,7 +430160,7 @@
    "field": "name",
    "type": "text",
    "jp": "裏ボーナス表変化",
-   "zh": "",
+   "zh": "隐藏奖励表变化",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -430181,7 +430181,7 @@
    "field": "description",
    "type": "text",
    "jp": "全てのボーナスがスペシャルな物にチェンジします。",
-   "zh": "",
+   "zh": "所有奖励都将转变为特殊奖励。",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,
@@ -430202,7 +430202,7 @@
    "field": "name",
    "type": "text",
    "jp": "目隠し",
-   "zh": "",
+   "zh": "蒙眼",
    "loc": {
     "file": "MapBonusList.dat",
     "dstart": 240,

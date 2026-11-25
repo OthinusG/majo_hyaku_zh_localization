@@ -35,3 +35,4 @@
 | M3-14 | `ItemGroupName.dat#00000.c1` → `ItemGroupName.dat#00010.c1` | 11 | ItemGroupName.dat 汉化与对齐校对 | PASS |
 | M3-15 | `ItemTitleA.dat#00000.c1` → `ItemTitleA.dat#00018.c1` | 19 | ItemTitleA.dat 汉化与对齐校对 | PASS |
 | M3-16 | `ItemTitleB.dat#00000.c1` → `ItemTitleB.dat#00019.c1` | 20 | ItemTitleB.dat 汉化与对齐校对 | PASS |
+| M3-17 | `MapBonusList.dat#00000.name` → `MapBonusList.dat#00012.name` | 20 | MapBonusList.dat 汉化与对齐校对 | PASS |
