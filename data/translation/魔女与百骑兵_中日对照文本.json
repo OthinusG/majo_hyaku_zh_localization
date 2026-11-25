@@ -453836,7 +453836,7 @@
    "field": "name",
    "type": "text",
    "jp": "消費アイテム販売",
-   "zh": "",
+   "zh": "消耗道具贩卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -453857,7 +453857,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 消費アイテム販売",
-   "zh": "",
+   "zh": "说明 消耗道具贩卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -453878,7 +453878,7 @@
    "field": "name",
    "type": "text",
    "jp": "雑貨販売",
-   "zh": "",
+   "zh": "杂货贩卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -453899,7 +453899,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 雑貨販売",
-   "zh": "",
+   "zh": "说明 杂货贩卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -453920,7 +453920,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク1）",
-   "zh": "",
+   "zh": "刀剑贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -453941,7 +453941,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク1）",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -453962,7 +453962,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク5）",
-   "zh": "",
+   "zh": "刀剑贩卖（等级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -453983,7 +453983,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク5）",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（等级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454004,7 +454004,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク10）",
-   "zh": "",
+   "zh": "刀剑贩卖（等级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454025,7 +454025,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク10）",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（等级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454046,7 +454046,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク1）",
-   "zh": "",
+   "zh": "烛台贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454067,7 +454067,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク1）",
-   "zh": "",
+   "zh": "说明 烛台贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454088,7 +454088,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク5）",
-   "zh": "",
+   "zh": "烛台贩卖（等级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454109,7 +454109,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク5）",
-   "zh": "",
+   "zh": "说明 烛台贩卖（等级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454130,7 +454130,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク10）",
-   "zh": "",
+   "zh": "烛台贩卖（等级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454151,7 +454151,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク10）",
-   "zh": "",
+   "zh": "说明 烛台贩卖（等级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454172,7 +454172,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク1）",
-   "zh": "",
+   "zh": "钝槌贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454193,7 +454193,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク1）",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454214,7 +454214,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク5）",
-   "zh": "",
+   "zh": "钝槌贩卖（等级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454235,7 +454235,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク5）",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（等级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454256,7 +454256,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク10）",
-   "zh": "",
+   "zh": "钝槌贩卖（等级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454277,7 +454277,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク10）",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（等级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454298,7 +454298,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク1）",
-   "zh": "",
+   "zh": "古塔贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454319,7 +454319,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク1）",
-   "zh": "",
+   "zh": "说明 古塔贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454340,7 +454340,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク5）",
-   "zh": "",
+   "zh": "古塔贩卖（等级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454361,7 +454361,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク5）",
-   "zh": "",
+   "zh": "说明 古塔贩卖（等级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454382,7 +454382,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク10）",
-   "zh": "",
+   "zh": "古塔贩卖（等级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454403,7 +454403,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク10）",
-   "zh": "",
+   "zh": "说明 古塔贩卖（等级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454424,7 +454424,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク1）",
-   "zh": "",
+   "zh": "枪镰贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454445,7 +454445,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク1）",
-   "zh": "",
+   "zh": "说明 枪镰贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454466,7 +454466,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク5）",
-   "zh": "",
+   "zh": "枪镰贩卖（等级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454487,7 +454487,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク5）",
-   "zh": "",
+   "zh": "说明 枪镰贩卖（等级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454508,7 +454508,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク10）",
-   "zh": "",
+   "zh": "枪镰贩卖（等级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454529,7 +454529,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク10）",
-   "zh": "",
+   "zh": "说明 枪镰贩卖（等级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454550,7 +454550,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク1）",
-   "zh": "",
+   "zh": "防具贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454571,7 +454571,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク1）",
-   "zh": "",
+   "zh": "说明 防具贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454592,7 +454592,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク1）",
-   "zh": "",
+   "zh": "饰品贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454613,7 +454613,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク1）",
-   "zh": "",
+   "zh": "说明 饰品贩卖（等级1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454634,7 +454634,7 @@
    "field": "name",
    "type": "text",
    "jp": "１００日パン（汎用）",
-   "zh": "",
+   "zh": "百日面包（通用）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454655,7 +454655,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 １００日パン（汎用）",
-   "zh": "",
+   "zh": "说明 百日面包（通用）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454676,7 +454676,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品 蝶媚粉(4話)販売",
-   "zh": "",
+   "zh": "特产 蝶媚粉(第4幕)贩卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454697,7 +454697,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品 蝶媚粉(4話)販売",
-   "zh": "",
+   "zh": "说明 特产 蝶媚粉(第4幕)贩卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454718,7 +454718,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品 手紙とペン(7話)販売",
-   "zh": "",
+   "zh": "特产 信纸与笔(第7幕)贩卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454739,7 +454739,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品 手紙とペン(7話)販売",
-   "zh": "",
+   "zh": "说明 特产 信纸与笔(第7幕)贩卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454760,7 +454760,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品 ねばねばチーズ(10話)販売",
-   "zh": "",
+   "zh": "特产 黏稠奶酪(第10幕)贩卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454781,7 +454781,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品 ねばねばチーズ(10話)販売",
-   "zh": "",
+   "zh": "说明 特产 黏稠奶酪(第10幕)贩卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454802,7 +454802,7 @@
    "field": "name",
    "type": "text",
    "jp": "サカナ虫のポワレ（汎用）",
-   "zh": "",
+   "zh": "嫩煎鱼虫（通用）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454823,7 +454823,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 サカナ虫のポワレ（汎用）",
-   "zh": "",
+   "zh": "说明 嫩煎鱼虫（通用）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454844,7 +454844,7 @@
    "field": "name",
    "type": "text",
    "jp": "ねばねばチーズ（汎用）",
-   "zh": "",
+   "zh": "黏稠奶酪（通用）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454865,7 +454865,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 ねばねばチーズ（汎用）",
-   "zh": "",
+   "zh": "说明 黏稠奶酪（通用）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454886,7 +454886,7 @@
    "field": "name",
    "type": "text",
    "jp": "碧の妖精（汎用）",
-   "zh": "",
+   "zh": "碧绿妖精（通用）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454907,7 +454907,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 碧の妖精（汎用）",
-   "zh": "",
+   "zh": "说明 碧绿妖精（通用）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454928,7 +454928,7 @@
    "field": "name",
    "type": "text",
    "jp": "おやつクッキー（汎用）",
-   "zh": "",
+   "zh": "零食饼干（通用）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454949,7 +454949,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 おやつクッキー（汎用）",
-   "zh": "",
+   "zh": "说明 零食饼干（通用）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454970,7 +454970,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品8",
-   "zh": "",
+   "zh": "特产8",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -454991,7 +454991,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品8",
-   "zh": "",
+   "zh": "说明 特产8",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455012,7 +455012,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点サカナ虫のポワレ販売",
-   "zh": "",
+   "zh": "据点贩售嫩煎鱼虫",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455033,7 +455033,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点サカナ虫のポワレ販売",
-   "zh": "",
+   "zh": "说明 据点贩售嫩煎鱼虫",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455054,7 +455054,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点碧の妖精販売",
-   "zh": "",
+   "zh": "据点贩售碧绿妖精",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455075,7 +455075,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点碧の妖精販売",
-   "zh": "",
+   "zh": "说明 据点贩售碧绿妖精",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455096,7 +455096,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点ねばねばチーズ販売",
-   "zh": "",
+   "zh": "据点贩售拉丝奶酪",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455117,7 +455117,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点ねばねばチーズ販売",
-   "zh": "",
+   "zh": "说明 据点贩售拉丝奶酪",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455138,7 +455138,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点おやつクッキー販売",
-   "zh": "",
+   "zh": "据点贩售零食饼干",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455159,7 +455159,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点おやつクッキー販売",
-   "zh": "",
+   "zh": "说明 据点贩售零食饼干",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455180,7 +455180,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品13",
-   "zh": "",
+   "zh": "特产13",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455201,7 +455201,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品13",
-   "zh": "",
+   "zh": "说明 特产13",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455222,7 +455222,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品14",
-   "zh": "",
+   "zh": "特产14",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455243,7 +455243,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品14",
-   "zh": "",
+   "zh": "说明 特产14",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455264,7 +455264,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品15",
-   "zh": "",
+   "zh": "特产15",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455285,7 +455285,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品15",
-   "zh": "",
+   "zh": "说明 特产15",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455306,7 +455306,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品16",
-   "zh": "",
+   "zh": "特产16",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455327,7 +455327,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品16",
-   "zh": "",
+   "zh": "说明 特产16",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455348,7 +455348,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品17",
-   "zh": "",
+   "zh": "特产17",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455369,7 +455369,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品17",
-   "zh": "",
+   "zh": "说明 特产17",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455390,7 +455390,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品18",
-   "zh": "",
+   "zh": "特产18",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455411,7 +455411,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品18",
-   "zh": "",
+   "zh": "说明 特产18",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455432,7 +455432,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品19",
-   "zh": "",
+   "zh": "特产19",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455453,7 +455453,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品19",
-   "zh": "",
+   "zh": "说明 特产19",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455474,7 +455474,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品20",
-   "zh": "",
+   "zh": "特产20",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455495,7 +455495,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品20",
-   "zh": "",
+   "zh": "说明 特产20",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455516,7 +455516,7 @@
    "field": "name",
    "type": "text",
    "jp": "ステータス販売",
-   "zh": "",
+   "zh": "贩售能力值",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455537,7 +455537,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 ステータス販売",
-   "zh": "",
+   "zh": "说明 贩售能力值",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455558,7 +455558,7 @@
    "field": "name",
    "type": "text",
    "jp": "マナ販売",
-   "zh": "",
+   "zh": "贩售玛那",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455579,7 +455579,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 マナ販売",
-   "zh": "",
+   "zh": "说明 贩售玛那",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455600,7 +455600,7 @@
    "field": "name",
    "type": "text",
    "jp": "販売価格2％オフ",
-   "zh": "",
+   "zh": "售价优惠2％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455621,7 +455621,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 販売価格2％オフ",
-   "zh": "",
+   "zh": "说明 售价优惠2％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455642,7 +455642,7 @@
    "field": "name",
    "type": "text",
    "jp": "販売価格4％オフ",
-   "zh": "",
+   "zh": "售价优惠4％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455663,7 +455663,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 販売価格4％オフ",
-   "zh": "",
+   "zh": "说明 售价优惠4％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455684,7 +455684,7 @@
    "field": "name",
    "type": "text",
    "jp": "販売価格6％オフ",
-   "zh": "",
+   "zh": "售价优惠6％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455705,7 +455705,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 販売価格6％オフ",
-   "zh": "",
+   "zh": "说明 售价优惠6％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455726,7 +455726,7 @@
    "field": "name",
    "type": "text",
    "jp": "販売価格8％オフ",
-   "zh": "",
+   "zh": "售价优惠8％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455747,7 +455747,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 販売価格8％オフ",
-   "zh": "",
+   "zh": "说明 售价优惠8％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455768,7 +455768,7 @@
    "field": "name",
    "type": "text",
    "jp": "販売価格10％オフ",
-   "zh": "",
+   "zh": "售价优惠10％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455789,7 +455789,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 販売価格10％オフ",
-   "zh": "",
+   "zh": "说明 售价优惠10％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455810,7 +455810,7 @@
    "field": "name",
    "type": "text",
    "jp": "販売価格12％オフ",
-   "zh": "",
+   "zh": "售价优惠12％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455831,7 +455831,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 販売価格12％オフ",
-   "zh": "",
+   "zh": "说明 售价优惠12％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455852,7 +455852,7 @@
    "field": "name",
    "type": "text",
    "jp": "販売価格14％オフ",
-   "zh": "",
+   "zh": "售价优惠14％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455873,7 +455873,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 販売価格14％オフ",
-   "zh": "",
+   "zh": "说明 售价优惠14％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455894,7 +455894,7 @@
    "field": "name",
    "type": "text",
    "jp": "販売価格16％オフ",
-   "zh": "",
+   "zh": "售价优惠16％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455915,7 +455915,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 販売価格16％オフ",
-   "zh": "",
+   "zh": "说明 售价优惠16％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455936,7 +455936,7 @@
    "field": "name",
    "type": "text",
    "jp": "販売価格18％オフ",
-   "zh": "",
+   "zh": "售价18％OFF",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455957,7 +455957,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 販売価格18％オフ",
-   "zh": "",
+   "zh": "说明 售价18％OFF",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455978,7 +455978,7 @@
    "field": "name",
    "type": "text",
    "jp": "販売価格20％オフ",
-   "zh": "",
+   "zh": "售价20％OFF",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -455999,7 +455999,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 販売価格20％オフ",
-   "zh": "",
+   "zh": "说明 售价20％OFF",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456020,7 +456020,7 @@
    "field": "name",
    "type": "text",
    "jp": "買取価格2％アップ",
-   "zh": "",
+   "zh": "收购价提升2％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456041,7 +456041,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 買取価格2％アップ",
-   "zh": "",
+   "zh": "说明 收购价提升2％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456062,7 +456062,7 @@
    "field": "name",
    "type": "text",
    "jp": "買取価格4％アップ",
-   "zh": "",
+   "zh": "收购价提升4％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456083,7 +456083,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 買取価格4％アップ",
-   "zh": "",
+   "zh": "说明 收购价提升4％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456104,7 +456104,7 @@
    "field": "name",
    "type": "text",
    "jp": "買取価格6％アップ",
-   "zh": "",
+   "zh": "收购价提升6％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456125,7 +456125,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 買取価格6％アップ",
-   "zh": "",
+   "zh": "说明 收购价提升6％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456146,7 +456146,7 @@
    "field": "name",
    "type": "text",
    "jp": "買取価格8％アップ",
-   "zh": "",
+   "zh": "收购价提升8％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456167,7 +456167,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 買取価格8％アップ",
-   "zh": "",
+   "zh": "说明 收购价提升8％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456188,7 +456188,7 @@
    "field": "name",
    "type": "text",
    "jp": "買取価格10％アップ",
-   "zh": "",
+   "zh": "收购价提升10％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456209,7 +456209,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 買取価格10％アップ",
-   "zh": "",
+   "zh": "说明 收购价提升10％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456230,7 +456230,7 @@
    "field": "name",
    "type": "text",
    "jp": "買取価格12％アップ",
-   "zh": "",
+   "zh": "收购价提升12％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456251,7 +456251,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 買取価格12％アップ",
-   "zh": "",
+   "zh": "说明 收购价提升12％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456272,7 +456272,7 @@
    "field": "name",
    "type": "text",
    "jp": "買取価格14％アップ",
-   "zh": "",
+   "zh": "收购价提升14％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456293,7 +456293,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 買取価格14％アップ",
-   "zh": "",
+   "zh": "说明 收购价提升14％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456314,7 +456314,7 @@
    "field": "name",
    "type": "text",
    "jp": "買取価格16％アップ",
-   "zh": "",
+   "zh": "收购价提升16％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456335,7 +456335,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 買取価格16％アップ",
-   "zh": "",
+   "zh": "说明 收购价提升16％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456356,7 +456356,7 @@
    "field": "name",
    "type": "text",
    "jp": "買取価格18％アップ",
-   "zh": "",
+   "zh": "收购价提升18％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456377,7 +456377,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 買取価格18％アップ",
-   "zh": "",
+   "zh": "说明 收购价提升18％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456398,7 +456398,7 @@
    "field": "name",
    "type": "text",
    "jp": "買取価格20％アップ",
-   "zh": "",
+   "zh": "收购价提升20％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456419,7 +456419,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 買取価格20％アップ",
-   "zh": "",
+   "zh": "说明 收购价提升20％",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456440,7 +456440,7 @@
    "field": "name",
    "type": "text",
    "jp": "バーゲンセール",
-   "zh": "",
+   "zh": "大降价特卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456461,7 +456461,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 バーゲンセール",
-   "zh": "",
+   "zh": "说明 大降价特卖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456482,7 +456482,7 @@
    "field": "name",
    "type": "text",
    "jp": "ぼったくりプライス",
-   "zh": "",
+   "zh": "宰客天价",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456503,7 +456503,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 ぼったくりプライス",
-   "zh": "",
+   "zh": "说明 宰客天价",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456524,7 +456524,7 @@
    "field": "name",
    "type": "text",
    "jp": "低ランクアイテム販売専門店",
-   "zh": "",
+   "zh": "低品级道具专卖店",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456545,7 +456545,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 低ランクアイテム販売専門店",
-   "zh": "",
+   "zh": "说明 低品级道具专卖店",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456566,7 +456566,7 @@
    "field": "name",
    "type": "text",
    "jp": "レアアイテムD販売はじめました",
-   "zh": "",
+   "zh": "开始贩售稀有道具D",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456587,7 +456587,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 レアアイテムD販売はじめました",
-   "zh": "",
+   "zh": "说明 开始贩售稀有道具D",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456608,7 +456608,7 @@
    "field": "name",
    "type": "text",
    "jp": "お得意様ランクアップ",
-   "zh": "",
+   "zh": "熟客等级提升",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456629,7 +456629,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 お得意様ランクアップ",
-   "zh": "",
+   "zh": "说明 熟客等级提升",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456650,7 +456650,7 @@
    "field": "name",
    "type": "text",
    "jp": "特産品通販",
-   "zh": "",
+   "zh": "特产邮购",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456671,7 +456671,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 特産品通販",
-   "zh": "",
+   "zh": "说明 特产邮购",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456692,7 +456692,7 @@
    "field": "name",
    "type": "text",
    "jp": "中古販売",
-   "zh": "",
+   "zh": "二手贩售",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456713,7 +456713,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 中古販売",
-   "zh": "",
+   "zh": "说明 二手贩售",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456734,7 +456734,7 @@
    "field": "name",
    "type": "text",
    "jp": "落とし物販売",
-   "zh": "",
+   "zh": "失物贩售",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456755,7 +456755,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 落とし物販売",
-   "zh": "",
+   "zh": "说明 失物贩售",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456776,7 +456776,7 @@
    "field": "name",
    "type": "text",
    "jp": "野草のガム販売",
-   "zh": "",
+   "zh": "贩售野草口香糖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456797,7 +456797,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 野草のガム販売",
-   "zh": "",
+   "zh": "说明 贩售野草口香糖",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456818,7 +456818,7 @@
    "field": "name",
    "type": "text",
    "jp": "こりこりニンニク販売",
-   "zh": "",
+   "zh": "贩售嘎吱大蒜",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456839,7 +456839,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 こりこりニンニク販売",
-   "zh": "",
+   "zh": "说明 贩售嘎吱大蒜",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456860,7 +456860,7 @@
    "field": "name",
    "type": "text",
    "jp": "毒抜き小瓶販売",
-   "zh": "",
+   "zh": "贩售去毒小瓶",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456881,7 +456881,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 毒抜き小瓶販売",
-   "zh": "",
+   "zh": "说明 贩售去毒小瓶",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456902,7 +456902,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク6）",
-   "zh": "",
+   "zh": "贩售钝槌（品级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456923,7 +456923,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク6）",
-   "zh": "",
+   "zh": "说明 贩售钝槌（品级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456944,7 +456944,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク6）",
-   "zh": "",
+   "zh": "贩售古塔（品级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456965,7 +456965,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク6）",
-   "zh": "",
+   "zh": "说明 贩售古塔（品级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -456986,7 +456986,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク6）",
-   "zh": "",
+   "zh": "刀剑贩卖（Rank 6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457007,7 +457007,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク6）",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（Rank 6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457028,7 +457028,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク7）",
-   "zh": "",
+   "zh": "刀剑贩卖（Rank 7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457049,7 +457049,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク7）",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（Rank 7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457070,7 +457070,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク8）",
-   "zh": "",
+   "zh": "刀剑贩卖（Rank 8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457091,7 +457091,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク8）",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（Rank 8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457112,7 +457112,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク9）",
-   "zh": "",
+   "zh": "刀剑贩卖（Rank 9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457133,7 +457133,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク9）",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（Rank 9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457154,7 +457154,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク8）",
-   "zh": "",
+   "zh": "钝槌贩卖（Rank 8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457175,7 +457175,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク8）",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（Rank 8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457196,7 +457196,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク9）",
-   "zh": "",
+   "zh": "钝槌贩卖（Rank 9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457217,7 +457217,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク9）",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（Rank 9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457238,7 +457238,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク8）",
-   "zh": "",
+   "zh": "古塔贩卖（Rank 8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457259,7 +457259,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク8）",
-   "zh": "",
+   "zh": "说明 古塔贩卖（Rank 8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457280,7 +457280,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク9）",
-   "zh": "",
+   "zh": "古塔贩卖（Rank 9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457301,7 +457301,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク9）",
-   "zh": "",
+   "zh": "说明 古塔贩卖（Rank 9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457322,7 +457322,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク11）",
-   "zh": "",
+   "zh": "蚀台贩卖（Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457343,7 +457343,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク11）",
-   "zh": "",
+   "zh": "说明 蚀台贩卖（Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457364,7 +457364,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク2）",
-   "zh": "",
+   "zh": "刀剑贩卖（Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457385,7 +457385,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク2）",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457406,7 +457406,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク2）",
-   "zh": "",
+   "zh": "蚀台贩卖（Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457427,7 +457427,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク2）",
-   "zh": "",
+   "zh": "说明 蚀台贩卖（Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457448,7 +457448,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク2）",
-   "zh": "",
+   "zh": "钝槌贩卖（Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457469,7 +457469,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク2）",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457490,7 +457490,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク2）",
-   "zh": "",
+   "zh": "古塔贩卖（Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457511,7 +457511,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク2）",
-   "zh": "",
+   "zh": "说明 古塔贩卖（Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457532,7 +457532,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク2）",
-   "zh": "",
+   "zh": "枪镰贩卖（Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457553,7 +457553,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク2）",
-   "zh": "",
+   "zh": "说明 枪镰贩卖（Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457574,7 +457574,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク3）",
-   "zh": "",
+   "zh": "刀剑贩卖（Rank 3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457595,7 +457595,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク3）",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（Rank 3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457616,7 +457616,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク3）",
-   "zh": "",
+   "zh": "蚀台贩卖（Rank 3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457637,7 +457637,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク3）",
-   "zh": "",
+   "zh": "说明 蚀台贩卖（Rank 3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457658,7 +457658,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク3）",
-   "zh": "",
+   "zh": "钝槌贩卖（Rank 3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457679,7 +457679,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク3）",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（Rank 3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457700,7 +457700,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク3）",
-   "zh": "",
+   "zh": "古塔贩卖（Rank 3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457721,7 +457721,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク3）",
-   "zh": "",
+   "zh": "说明 古塔贩卖（Rank 3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457742,7 +457742,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク3）",
-   "zh": "",
+   "zh": "枪镰贩卖（Rank 3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457763,7 +457763,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク3）",
-   "zh": "",
+   "zh": "说明 枪镰贩卖（Rank 3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457784,7 +457784,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク4）",
-   "zh": "",
+   "zh": "刀剑贩卖（Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457805,7 +457805,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク4）",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457826,7 +457826,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク4）",
-   "zh": "",
+   "zh": "蚀台贩卖（Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457847,7 +457847,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク4）",
-   "zh": "",
+   "zh": "说明 蚀台贩卖（Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457868,7 +457868,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク4）",
-   "zh": "",
+   "zh": "钝槌贩卖（Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457889,7 +457889,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク4）",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457910,7 +457910,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク4）",
-   "zh": "",
+   "zh": "古塔贩卖（Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457931,7 +457931,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク4）",
-   "zh": "",
+   "zh": "说明 古塔贩卖（Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457952,7 +457952,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク4）",
-   "zh": "",
+   "zh": "枪镰贩卖（Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457973,7 +457973,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク4）",
-   "zh": "",
+   "zh": "说明 枪镰贩卖（Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -457994,7 +457994,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク5）闇",
-   "zh": "",
+   "zh": "古塔贩卖（Rank 5）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458015,7 +458015,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク5）闇",
-   "zh": "",
+   "zh": "说明 古塔贩卖（Rank 5）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458036,7 +458036,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク6）闇",
-   "zh": "",
+   "zh": "古塔出售（阶级6）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458057,7 +458057,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク6）闇",
-   "zh": "",
+   "zh": "说明 古塔出售（阶级6）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458078,7 +458078,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク6）闇",
-   "zh": "",
+   "zh": "钝槌出售（阶级6）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458099,7 +458099,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク6）闇",
-   "zh": "",
+   "zh": "说明 钝槌出售（阶级6）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458120,7 +458120,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク8）闇",
-   "zh": "",
+   "zh": "钝槌出售（阶级8）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458141,7 +458141,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク8）闇",
-   "zh": "",
+   "zh": "说明 钝槌出售（阶级8）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458162,7 +458162,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク9）闇",
-   "zh": "",
+   "zh": "钝槌出售（阶级9）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458183,7 +458183,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク9）闇",
-   "zh": "",
+   "zh": "说明 钝槌出售（阶级9）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458204,7 +458204,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク8）闇",
-   "zh": "",
+   "zh": "烛台出售（阶级8）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458225,7 +458225,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク8）闇",
-   "zh": "",
+   "zh": "说明 烛台出售（阶级8）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458246,7 +458246,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク9）闇",
-   "zh": "",
+   "zh": "烛台出售（阶级9）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458267,7 +458267,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク9）闇",
-   "zh": "",
+   "zh": "说明 烛台出售（阶级9）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458288,7 +458288,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク8）闇",
-   "zh": "",
+   "zh": "枪镰出售（阶级8）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458309,7 +458309,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク8）闇",
-   "zh": "",
+   "zh": "说明 枪镰出售（阶级8）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458330,7 +458330,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク9）闇",
-   "zh": "",
+   "zh": "枪镰出售（阶级9）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458351,7 +458351,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク9）闇",
-   "zh": "",
+   "zh": "说明 枪镰出售（阶级9）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458372,7 +458372,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク10）闇",
-   "zh": "",
+   "zh": "刀剑出售（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458393,7 +458393,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク10）闇",
-   "zh": "",
+   "zh": "说明 刀剑出售（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458414,7 +458414,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク10）闇",
-   "zh": "",
+   "zh": "钝槌出售（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458435,7 +458435,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク10）闇",
-   "zh": "",
+   "zh": "说明 钝槌出售（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458456,7 +458456,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク10）闇",
-   "zh": "",
+   "zh": "古塔出售（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458477,7 +458477,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク10）闇",
-   "zh": "",
+   "zh": "说明 古塔出售（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458498,7 +458498,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク10）闇",
-   "zh": "",
+   "zh": "枪镰出售（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458519,7 +458519,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク10）闇",
-   "zh": "",
+   "zh": "说明 枪镰出售（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458540,7 +458540,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク2）",
-   "zh": "",
+   "zh": "防具出售（阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458561,7 +458561,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク2）",
-   "zh": "",
+   "zh": "说明 防具出售（阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458582,7 +458582,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク3）",
-   "zh": "",
+   "zh": "防具出售（阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458603,7 +458603,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク3）",
-   "zh": "",
+   "zh": "说明 防具出售（阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458624,7 +458624,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク4）",
-   "zh": "",
+   "zh": "防具出售（阶级4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458645,7 +458645,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク4）",
-   "zh": "",
+   "zh": "说明 防具出售（阶级4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458666,7 +458666,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク5）",
-   "zh": "",
+   "zh": "防具出售（阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458687,7 +458687,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク5）",
-   "zh": "",
+   "zh": "说明 防具出售（阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458708,7 +458708,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク6）",
-   "zh": "",
+   "zh": "防具出售（阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458729,7 +458729,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク6）",
-   "zh": "",
+   "zh": "说明 防具出售（阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458750,7 +458750,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク7）",
-   "zh": "",
+   "zh": "防具出售（阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458771,7 +458771,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク7）",
-   "zh": "",
+   "zh": "说明 防具出售（阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458792,7 +458792,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク8）",
-   "zh": "",
+   "zh": "防具出售（阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458813,7 +458813,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク8）",
-   "zh": "",
+   "zh": "说明 防具出售（阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458834,7 +458834,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク9）",
-   "zh": "",
+   "zh": "防具出售（阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458855,7 +458855,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク9）",
-   "zh": "",
+   "zh": "说明 防具出售（阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458876,7 +458876,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク2）",
-   "zh": "",
+   "zh": "饰品出售（阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458897,7 +458897,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク2）",
-   "zh": "",
+   "zh": "说明 饰品出售（阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458918,7 +458918,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク3）",
-   "zh": "",
+   "zh": "饰品出售（阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458939,7 +458939,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク3）",
-   "zh": "",
+   "zh": "说明 饰品出售（阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458960,7 +458960,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク4）",
-   "zh": "",
+   "zh": "饰品出售（阶级4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -458981,7 +458981,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク4）",
-   "zh": "",
+   "zh": "说明 饰品出售（阶级4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459002,7 +459002,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク5）",
-   "zh": "",
+   "zh": "饰品出售（阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459023,7 +459023,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク5）",
-   "zh": "",
+   "zh": "说明 饰品出售（阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459044,7 +459044,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク6）",
-   "zh": "",
+   "zh": "饰品出售（阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459065,7 +459065,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク6）",
-   "zh": "",
+   "zh": "说明 饰品出售（阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459086,7 +459086,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク7）",
-   "zh": "",
+   "zh": "饰品贩卖（阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459107,7 +459107,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク7）",
-   "zh": "",
+   "zh": "说明 饰品贩卖（阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459128,7 +459128,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク8）",
-   "zh": "",
+   "zh": "饰品贩卖（阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459149,7 +459149,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク8）",
-   "zh": "",
+   "zh": "说明 饰品贩卖（阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459170,7 +459170,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク9）",
-   "zh": "",
+   "zh": "饰品贩卖（阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459191,7 +459191,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク9）",
-   "zh": "",
+   "zh": "说明 饰品贩卖（阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459212,7 +459212,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク8）闇",
-   "zh": "",
+   "zh": "防具贩卖（阶级8）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459233,7 +459233,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク8）闇",
-   "zh": "",
+   "zh": "说明 防具贩卖（阶级8）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459254,7 +459254,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク5）闇",
-   "zh": "",
+   "zh": "饰品贩卖（阶级5）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459275,7 +459275,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク5）闇",
-   "zh": "",
+   "zh": "说明 饰品贩卖（阶级5）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459296,7 +459296,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク4）闇",
-   "zh": "",
+   "zh": "饰品贩卖（阶级4）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459317,7 +459317,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク4）闇",
-   "zh": "",
+   "zh": "说明 饰品贩卖（阶级4）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459338,7 +459338,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク7）闇",
-   "zh": "",
+   "zh": "饰品贩卖（阶级7）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459359,7 +459359,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク7）闇",
-   "zh": "",
+   "zh": "说明 饰品贩卖（阶级7）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459380,7 +459380,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク8）闇",
-   "zh": "",
+   "zh": "饰品贩卖（阶级8）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459401,7 +459401,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク8）闇",
-   "zh": "",
+   "zh": "说明 饰品贩卖（阶级8）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459422,7 +459422,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク9）闇",
-   "zh": "",
+   "zh": "饰品贩卖（阶级9）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459443,7 +459443,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク9）闇",
-   "zh": "",
+   "zh": "说明 饰品贩卖（阶级9）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459464,7 +459464,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク6）",
-   "zh": "",
+   "zh": "枪镰贩卖（阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459485,7 +459485,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク6）",
-   "zh": "",
+   "zh": "说明 枪镰贩卖（阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459506,7 +459506,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク7）",
-   "zh": "",
+   "zh": "枪镰贩卖（阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459527,7 +459527,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク7）",
-   "zh": "",
+   "zh": "说明 枪镰贩卖（阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459548,7 +459548,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク7）",
-   "zh": "",
+   "zh": "钝槌贩卖（阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459569,7 +459569,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク7）",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459590,7 +459590,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク6）",
-   "zh": "",
+   "zh": "蚀台贩卖（阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459611,7 +459611,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク6）",
-   "zh": "",
+   "zh": "说明 蚀台贩卖（阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459632,7 +459632,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク8）",
-   "zh": "",
+   "zh": "枪镰贩卖（阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459653,7 +459653,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク8）",
-   "zh": "",
+   "zh": "说明 枪镰贩卖（阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459674,7 +459674,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク7）",
-   "zh": "",
+   "zh": "古塔贩卖（阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459695,7 +459695,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク7）",
-   "zh": "",
+   "zh": "说明 古塔贩卖（阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459716,7 +459716,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク12）",
-   "zh": "",
+   "zh": "蚀台贩卖（阶级12）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459737,7 +459737,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク12）",
-   "zh": "",
+   "zh": "说明 蚀台贩卖（阶级12）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459758,7 +459758,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク13）",
-   "zh": "",
+   "zh": "蚀台贩卖（阶级13）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459779,7 +459779,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク13）",
-   "zh": "",
+   "zh": "说明 蚀台贩卖（阶级13）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459800,7 +459800,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク12）",
-   "zh": "",
+   "zh": "防具贩卖（阶级12）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459821,7 +459821,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク12）",
-   "zh": "",
+   "zh": "说明 防具贩卖（阶级12）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459842,7 +459842,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク13）",
-   "zh": "",
+   "zh": "防具贩卖（阶级13）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459863,7 +459863,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク13）",
-   "zh": "",
+   "zh": "说明 防具贩卖（阶级13）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459884,7 +459884,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク7）闇",
-   "zh": "",
+   "zh": "钝槌贩卖（阶级7）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459905,7 +459905,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク7）闇",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（阶级7）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459926,7 +459926,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク7）闇",
-   "zh": "",
+   "zh": "古塔贩卖（阶级7）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459947,7 +459947,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク7）闇",
-   "zh": "",
+   "zh": "说明 古塔贩卖（阶级7）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459968,7 +459968,7 @@
    "field": "name",
    "type": "text",
    "jp": "蝕台販売（ランク10）闇",
-   "zh": "",
+   "zh": "蚀台贩卖（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -459989,7 +459989,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 蝕台販売（ランク10）闇",
-   "zh": "",
+   "zh": "说明 蚀台贩卖（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460010,7 +460010,7 @@
    "field": "name",
    "type": "text",
    "jp": "防具販売（ランク10）闇",
-   "zh": "",
+   "zh": "防具贩卖（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460031,7 +460031,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 防具販売（ランク10）闇",
-   "zh": "",
+   "zh": "说明 防具贩卖（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460052,7 +460052,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク10）闇",
-   "zh": "",
+   "zh": "饰品贩卖（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460073,7 +460073,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク10）闇",
-   "zh": "",
+   "zh": "说明 饰品贩卖（阶级10）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460094,7 +460094,7 @@
    "field": "name",
    "type": "text",
    "jp": "刀剣販売（ランク12）闇",
-   "zh": "",
+   "zh": "刀剑贩卖（阶级12）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460115,7 +460115,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 刀剣販売（ランク12）闇",
-   "zh": "",
+   "zh": "说明 刀剑贩卖（阶级12）黑市",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460136,7 +460136,7 @@
    "field": "name",
    "type": "text",
    "jp": "鈍槌販売（ランク12）闇",
-   "zh": "",
+   "zh": "钝槌贩卖（Rank 12）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460157,7 +460157,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 鈍槌販売（ランク12）闇",
-   "zh": "",
+   "zh": "说明 钝槌贩卖（Rank 12）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460178,7 +460178,7 @@
    "field": "name",
    "type": "text",
    "jp": "古塔販売（ランク12）闇",
-   "zh": "",
+   "zh": "古塔贩卖（Rank 12）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460199,7 +460199,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 古塔販売（ランク12）闇",
-   "zh": "",
+   "zh": "说明 古塔贩卖（Rank 12）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460220,7 +460220,7 @@
    "field": "name",
    "type": "text",
    "jp": "槍鎌販売（ランク12）闇",
-   "zh": "",
+   "zh": "枪镰贩卖（Rank 12）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460241,7 +460241,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 槍鎌販売（ランク12）闇",
-   "zh": "",
+   "zh": "说明 枪镰贩卖（Rank 12）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460262,7 +460262,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク12）闇",
-   "zh": "",
+   "zh": "饰品贩卖（Rank 12）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460283,7 +460283,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク12）闇",
-   "zh": "",
+   "zh": "说明 饰品贩卖（Rank 12）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460304,7 +460304,7 @@
    "field": "name",
    "type": "text",
    "jp": "アクセサリ販売（ランク13）闇",
-   "zh": "",
+   "zh": "饰品贩卖（Rank 13）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460325,7 +460325,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 アクセサリ販売（ランク13）闇",
-   "zh": "",
+   "zh": "说明 饰品贩卖（Rank 13）暗",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460346,7 +460346,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（３話、ランク1）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460367,7 +460367,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（３話、ランク1）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460388,7 +460388,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（３話、ランク1）",
-   "zh": "",
+   "zh": "据点蚀台贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460409,7 +460409,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（３話、ランク1）",
-   "zh": "",
+   "zh": "说明 据点蚀台贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460430,7 +460430,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（３話、ランク1）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460451,7 +460451,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（３話、ランク1）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460472,7 +460472,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（３話、ランク1）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460493,7 +460493,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（３話、ランク1）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460514,7 +460514,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（３話、ランク1）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460535,7 +460535,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（３話、ランク1）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460556,7 +460556,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（３話、ランク1）",
-   "zh": "",
+   "zh": "据点防具贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460577,7 +460577,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（３話、ランク1）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第3幕、Rank 1）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460598,7 +460598,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（６話、ランク4）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460619,7 +460619,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（６話、ランク4）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460640,7 +460640,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（６話、ランク4）",
-   "zh": "",
+   "zh": "据点蚀台贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460661,7 +460661,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（６話、ランク4）",
-   "zh": "",
+   "zh": "说明 据点蚀台贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460682,7 +460682,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（６話、ランク4）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460703,7 +460703,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（６話、ランク4）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460724,7 +460724,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（６話、ランク4）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460745,7 +460745,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（６話、ランク4）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460766,7 +460766,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（６話、ランク4）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460787,7 +460787,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（６話、ランク4）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460808,7 +460808,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（６話、ランク4）",
-   "zh": "",
+   "zh": "据点防具贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460829,7 +460829,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（６話、ランク4）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第6幕、Rank 4）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460850,7 +460850,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460871,7 +460871,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460892,7 +460892,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "据点蚀台贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460913,7 +460913,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "说明 据点蚀台贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460934,7 +460934,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460955,7 +460955,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460976,7 +460976,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -460997,7 +460997,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461018,7 +461018,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461039,7 +461039,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461060,7 +461060,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "据点防具贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461081,7 +461081,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（１３話、ランク11）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第13幕、Rank 11）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461102,7 +461102,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（４話、ランク2）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第4幕、Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461123,7 +461123,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（４話、ランク2）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第4幕、Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461144,7 +461144,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（４話、ランク2）",
-   "zh": "",
+   "zh": "据点蚀台贩卖（第4幕、Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461165,7 +461165,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（４話、ランク2）",
-   "zh": "",
+   "zh": "说明 据点蚀台贩卖（第4幕、Rank 2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461186,7 +461186,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（４話、ランク2）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第4幕、阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461207,7 +461207,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（４話、ランク2）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第4幕、阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461228,7 +461228,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（４話、ランク2）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第4幕、阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461249,7 +461249,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（４話、ランク2）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第4幕、阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461270,7 +461270,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（４話、ランク2）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第4幕、阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461291,7 +461291,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（４話、ランク2）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第4幕、阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461312,7 +461312,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（４話、ランク2）",
-   "zh": "",
+   "zh": "据点防具贩卖（第4幕、阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461333,7 +461333,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（４話、ランク2）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第4幕、阶级2）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461354,7 +461354,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（５話、ランク3）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461375,7 +461375,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（５話、ランク3）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461396,7 +461396,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（５話、ランク3）",
-   "zh": "",
+   "zh": "据点烛台贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461417,7 +461417,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（５話、ランク3）",
-   "zh": "",
+   "zh": "说明 据点烛台贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461438,7 +461438,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（５話、ランク3）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461459,7 +461459,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（５話、ランク3）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461480,7 +461480,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（５話、ランク3）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461501,7 +461501,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（５話、ランク3）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461522,7 +461522,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（５話、ランク3）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461543,7 +461543,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（５話、ランク3）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461564,7 +461564,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（５話、ランク3）",
-   "zh": "",
+   "zh": "据点防具贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461585,7 +461585,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（５話、ランク3）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第5幕、阶级3）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461606,7 +461606,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（７話、ランク5）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461627,7 +461627,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（７話、ランク5）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461648,7 +461648,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（７話、ランク5）",
-   "zh": "",
+   "zh": "据点烛台贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461669,7 +461669,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（７話、ランク5）",
-   "zh": "",
+   "zh": "说明 据点烛台贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461690,7 +461690,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（７話、ランク5）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461711,7 +461711,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（７話、ランク5）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461732,7 +461732,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（７話、ランク5）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461753,7 +461753,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（７話、ランク5）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461774,7 +461774,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（７話、ランク5）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461795,7 +461795,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（７話、ランク5）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461816,7 +461816,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（７話、ランク5）",
-   "zh": "",
+   "zh": "据点防具贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461837,7 +461837,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（７話、ランク5）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第7幕、阶级5）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461858,7 +461858,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（８話、ランク6）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461879,7 +461879,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（８話、ランク6）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461900,7 +461900,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（８話、ランク6）",
-   "zh": "",
+   "zh": "据点烛台贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461921,7 +461921,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（８話、ランク6）",
-   "zh": "",
+   "zh": "说明 据点烛台贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461942,7 +461942,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（８話、ランク6）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461963,7 +461963,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（８話、ランク6）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -461984,7 +461984,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（８話、ランク6）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462005,7 +462005,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（８話、ランク6）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462026,7 +462026,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（８話、ランク6）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462047,7 +462047,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（８話、ランク6）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462068,7 +462068,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（８話、ランク6）",
-   "zh": "",
+   "zh": "据点防具贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462089,7 +462089,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（８話、ランク6）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第8幕、阶级6）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462110,7 +462110,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（９話、ランク7）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462131,7 +462131,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（９話、ランク7）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462152,7 +462152,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（９話、ランク7）",
-   "zh": "",
+   "zh": "据点烛台贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462173,7 +462173,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（９話、ランク7）",
-   "zh": "",
+   "zh": "说明 据点烛台贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462194,7 +462194,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（９話、ランク7）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462215,7 +462215,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（９話、ランク7）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462236,7 +462236,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（９話、ランク7）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462257,7 +462257,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（９話、ランク7）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462278,7 +462278,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（９話、ランク7）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462299,7 +462299,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（９話、ランク7）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462320,7 +462320,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（９話、ランク7）",
-   "zh": "",
+   "zh": "据点防具贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462341,7 +462341,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（９話、ランク7）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第9幕、阶级7）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462362,7 +462362,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462383,7 +462383,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462404,7 +462404,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "据点烛台贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462425,7 +462425,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "说明 据点烛台贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462446,7 +462446,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462467,7 +462467,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462488,7 +462488,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462509,7 +462509,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462530,7 +462530,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462551,7 +462551,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462572,7 +462572,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "据点防具贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462593,7 +462593,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（１０話、ランク8）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第10幕、阶级8）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462614,7 +462614,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462635,7 +462635,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462656,7 +462656,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "据点烛台贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462677,7 +462677,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "说明 据点烛台贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462698,7 +462698,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462719,7 +462719,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462740,7 +462740,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462761,7 +462761,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462782,7 +462782,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462803,7 +462803,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462824,7 +462824,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "据点防具贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462845,7 +462845,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（１１話、ランク9）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第11幕、阶级9）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462866,7 +462866,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点刀剣販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "据点刀剑贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462887,7 +462887,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点刀剣販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "说明 据点刀剑贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462908,7 +462908,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点蝕台販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "据点烛台贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462929,7 +462929,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点蝕台販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "说明 据点烛台贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462950,7 +462950,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点鈍槌販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "据点钝槌贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462971,7 +462971,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点鈍槌販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "说明 据点钝槌贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -462992,7 +462992,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点古塔販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "据点古塔贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463013,7 +463013,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点古塔販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "说明 据点古塔贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463034,7 +463034,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点槍鎌販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "据点枪镰贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463055,7 +463055,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点槍鎌販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "说明 据点枪镰贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463076,7 +463076,7 @@
    "field": "name",
    "type": "text",
    "jp": "拠点防具販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "据点防具贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463097,7 +463097,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 拠点防具販売（１２話、ランク10）",
-   "zh": "",
+   "zh": "说明 据点防具贩卖（第12幕、阶级10）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463118,7 +463118,7 @@
    "field": "name",
    "type": "text",
    "jp": "愚者の石販売（拠点専売）",
-   "zh": "",
+   "zh": "愚者之石贩卖（据点专卖）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463139,7 +463139,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 愚者の石販売（拠点専売）",
-   "zh": "",
+   "zh": "说明 愚者之石贩卖（据点专卖）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463160,7 +463160,7 @@
    "field": "name",
    "type": "text",
    "jp": "愚者の石販売10話（拠点専売）",
-   "zh": "",
+   "zh": "愚者之石贩卖第10幕（据点专卖）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463181,7 +463181,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 愚者の石販売10話（拠点専売）",
-   "zh": "",
+   "zh": "说明 愚者之石贩卖第10幕（据点专卖）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463202,7 +463202,7 @@
    "field": "name",
    "type": "text",
    "jp": "愚者の石販売12話（拠点専売）",
-   "zh": "",
+   "zh": "愚者之石贩卖第12幕（据点专卖）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
@@ -463223,7 +463223,7 @@
    "field": "description",
    "type": "text",
    "jp": "説明 愚者の石販売12話（拠点専売）",
-   "zh": "",
+   "zh": "说明 愚者之石贩卖第12幕（据点专卖）",
    "loc": {
     "file": "ShopSkill.dat",
     "dstart": 10816,
